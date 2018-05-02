@@ -1,0 +1,1718 @@
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\Scripts\python.exe D:/ANU_project/question_retrieval_tool/main.py
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\lib\site-packages\gensim\utils.py:1197: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+2018-03-28 11:11:16,994 : INFO : loading Word2Vec object from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+2018-03-28 11:11:17,321 : INFO : loading wv recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.* with mmap=None
+2018-03-28 11:11:17,321 : INFO : loading vectors from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.vectors.npy with mmap=None
+2018-03-28 11:11:17,618 : INFO : setting ignored attribute vectors_norm to None
+2018-03-28 11:11:17,618 : INFO : loading vocabulary recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.vocabulary.* with mmap=None
+2018-03-28 11:11:17,618 : INFO : loading trainables recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.* with mmap=None
+2018-03-28 11:11:17,618 : INFO : loading syn1neg from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.syn1neg.npy with mmap=None
+2018-03-28 11:11:17,914 : INFO : setting ignored attribute cum_table to None
+2018-03-28 11:11:17,914 : INFO : loaded /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+:::INFO:::initial process executed successfully
+:::INFO:::original_query --- §¬§Ñ§Ü §Ú§Ù §ã§Ü§â§Ú§á§ä§Ñ §ß§Ñ §±§Ú§ä§à§ß§Ö §á§à§ã§Ý§Ñ§ä§î §á§Ú§ã§î§Þ§à §ã §Ó§Ý§à§Ø§Ö§ß§Ú§Ö§Þ?
+:::INFO:::translated_query --- as of §á§Ú§ä§à§ß§Ö script send a letter with an attachment?
+:::INFO:::input query terms list is as following
+['§á§Ú§ä§à§ß§Ö', 'script', 'send', 'letter', 'attach', '?']
+:::INFO:::start matching on query 1
+:::INFO:::1 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Simple Hotkey Script in Python - How to set a global hotkey to send a string of text?
+Rel_VALUE:   3.957191
+------------------------------------------------------
+RANK:   2
+TITLE:   Python: Script to send SMS on International numbers?
+Rel_VALUE:   3.917759
+------------------------------------------------------
+RANK:   3
+TITLE:   Sending email does not work when I run the script, but line by line, it works, why?
+Rel_VALUE:   3.916194
+------------------------------------------------------
+RANK:   4
+TITLE:   Is there a way to send a KeyboardInterrupt to a running Python script in Sublime Text?
+Rel_VALUE:   3.841936
+------------------------------------------------------
+RANK:   5
+TITLE:   How to send part of the output of a Python script to a text file?
+Rel_VALUE:   3.841936
+------------------------------------------------------
+RANK:   6
+TITLE:   How to measure cumulative data usage by a Python script to send some text data using REST api?
+Rel_VALUE:   3.841936
+------------------------------------------------------
+RANK:   7
+TITLE:   Can I use import requests/mechanize to send form data to a Perl script from a text file at a set time interval?
+Rel_VALUE:   3.841936
+------------------------------------------------------
+RANK:   8
+TITLE:   How to launch multiple other python scripts all together from one and send them arguments?
+Rel_VALUE:   3.839257
+------------------------------------------------------
+RANK:   9
+TITLE:   How to create a MAPI32.dll stub to be able to &quot;send as attachment&quot; from MS Word?
+Rel_VALUE:   3.814596
+------------------------------------------------------
+RANK:   10
+TITLE:   How do we send keystrokes and values in an interactive python script?
+Rel_VALUE:   3.749193
+------------------------------------------------------
+:::INFO:::original_query --- IDE §Õ§Ý§ñ Python
+:::INFO:::translated_query --- ide for python
+:::INFO:::input query terms list is as following
+['ide', 'python']
+:::INFO:::start matching on query 2
+:::INFO:::2 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Searching for a Python lightweight IDE (or text-editor)
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   What's a good IDE for Python on Mac OS X?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   IDE for Python: test a script
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How do I integrate Pylint with Geany so that I can use Geany as a python IDE?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Is there a python IDE that will tell you the type of a variable when you hover over it?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Python udp sockets in windows (can't send msg to server if ran it in command promt(in IDE send's fine) )
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   My python code won't run outside of my IDE
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Python and Django IDE with remote editing?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Python IDE for teaching?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Are there any IDE's that support Python 3 syntax?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::INFO:::original_query --- §°§ä§Ý§Ñ§Õ§Ü§Ñ §Ü§à§Õ§Ñ §ß§Ñ §±§Ú§ä§à§ß§Ö
+:::INFO:::translated_query --- debugging code on the §á§Ú§ä§à§ß§Ö
+:::INFO:::input query terms list is as following
+['debug', 'code', '§á§Ú§ä§à§ß§Ö']
+:::INFO:::start matching on query 3
+:::INFO:::3 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Debug some Python code
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Python Debugging: code editing on the fly
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How do you Debug/Take Apart/Learn from someone else's Python code (web-based)?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to debug Python code that is partially covered by passing unit tests but produces wrong results when being reused?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How do I debug code that segfaults unless run through gdb?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Debug C++ code in visual studio from python code running in eclipse
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Is there a way to debug Python code which runs on a `multiprocessing.Process`?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Debugging pyjamas python code
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Django code only works in debug
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Debugging test code
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::INFO:::original_query --- §¯§Ö§Û§â§à§ß§ß§í§Ö §ã§Ö§ä§Ú §ß§Ñ Python
+:::INFO:::translated_query --- neural networks in python
+:::INFO:::input query terms list is as following
+['neural', 'network', 'python']
+:::INFO:::start matching on query 4
+:::INFO:::4 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Neural Networks in Python without using any readymade libraries...i.e., from first principles..help!
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Index Out of Bounds Python in Neural Network script
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Python Neural Network and Stock Prices: What to use for input?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Trying to write my own Neural Network in Python
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   python neurolab feed forward neural network
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Backpropagation for Neural Network - Python
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Neural Network Example Source-code (preferably Python)
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   how to build game playing neural network in Python?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   autoassociative neural network Python
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Library in python for neural networks to plot ROC, AUC, DET
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::INFO:::original_query --- §¯§Ö§Û§â§à§ß§ß§í§Ö §ã§Ö§ä§Ú §ß§Ñ Python §Õ§Ý§ñ &quot;§é§Ñ§Û§ß§Ú§Ü§Ñ&quot;
+:::INFO:::translated_query --- neural networks in python for & quot; was & quot;
+:::INFO:::input query terms list is as following
+['neural', 'network', 'python', '&', 'quot', '&', 'quot']
+:::INFO:::start matching on query 5
+:::INFO:::5 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to use '\' in Python lookbehind assertion regex (?&lt;=\\) to match C++-like quoted strings
+Rel_VALUE:   5.184349
+------------------------------------------------------
+RANK:   2
+TITLE:   How to retain &amp;quot; and &amp;apos; while parsing xml using bs4 python
+Rel_VALUE:   5.157633
+------------------------------------------------------
+RANK:   3
+TITLE:   Does &amp;quot prints &quot; in python 3?
+Rel_VALUE:   5.139328
+------------------------------------------------------
+RANK:   4
+TITLE:   How to force python lxml not to quote attributes with &lt;?php ... ?&gt; inclusions?
+Rel_VALUE:   5.138648
+------------------------------------------------------
+RANK:   5
+TITLE:   Returning json without &amp;quot; after migrating to python 2.7
+Rel_VALUE:   5.126272
+------------------------------------------------------
+RANK:   6
+TITLE:   Regular Expression to remove &amp;quot; &amp;#39; from a string in Python
+Rel_VALUE:   5.126272
+------------------------------------------------------
+RANK:   7
+TITLE:   Python: replace &amp;quote; to \&quot;
+Rel_VALUE:   5.126272
+------------------------------------------------------
+RANK:   8
+TITLE:   Python XML: write &quot; instead of &amp;quot
+Rel_VALUE:   5.126272
+------------------------------------------------------
+RANK:   9
+TITLE:   Python regex matching pair of quotes or &quot;&lt;&gt;&quot;
+Rel_VALUE:   5.124565
+------------------------------------------------------
+RANK:   10
+TITLE:   How do I fix a Python3 KeyError: '&amp;quot;id_str&amp;quot;'?
+Rel_VALUE:   4.966610
+------------------------------------------------------
+:::INFO:::original_query --- Python imports
+:::INFO:::translated_query --- python imports
+:::INFO:::input query terms list is as following
+['python', 'import']
+:::INFO:::start matching on query 6
+:::INFO:::6 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Cannot import SQLite with Python 2.6
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Should Python import statements always be at the top of a module?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Why does this python code hang on import/compile but work in the shell?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How does one do the equivalent of &quot;import * from module&quot; with Python's __import__ function?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   import mechanize module to python script
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Why can't I import this Zope component in a Python 2.4 virtualenv?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Does python optimize modules when they are imported multiple times?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   How to do relative imports in Python?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Python packages - import by class, not file
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Dynamic module import in Python
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::INFO:::original_query --- §¢§å§Õ§å§ë§Ú§Ö §á§Ö§â§ã§á§Ö§Ü§ä§Ú§Ó§í §á§â§à§Ô§â§Ñ§Þ§Þ§Ú§â§à§Ó§Ñ§ß§Ú§ñ?
+:::INFO:::translated_query --- future prospects of programming?
+:::INFO:::input query terms list is as following
+['futur', 'prospect', 'program', '?']
+:::INFO:::start matching on query 7
+:::INFO:::7 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Reverse Engineer a program working as a webservice, the future?
+Rel_VALUE:   3.230293
+------------------------------------------------------
+RANK:   2
+TITLE:   Which tagger could we use for future data? The code is in python
+Rel_VALUE:   2.813191
+------------------------------------------------------
+RANK:   3
+TITLE:   Coroutines or continuations for Web programming in Python and Ruby. Why not?
+Rel_VALUE:   2.800284
+------------------------------------------------------
+RANK:   4
+TITLE:   Are there any guidelines available for beginning Python with Python 2.6 to write applications easily migratable to Python 3 in future?
+Rel_VALUE:   2.777428
+------------------------------------------------------
+RANK:   5
+TITLE:   Python: How to get hung process to release control back in concurrent.futures pool?
+Rel_VALUE:   2.738664
+------------------------------------------------------
+RANK:   6
+TITLE:   Is there a way to stop a running process in concurrent.futures?
+Rel_VALUE:   2.738664
+------------------------------------------------------
+RANK:   7
+TITLE:   Is it possible to pass Python Future objects between processes?
+Rel_VALUE:   2.738664
+------------------------------------------------------
+RANK:   8
+TITLE:   Pathos, Dask, futures, which one to use for parallel cluster application?
+Rel_VALUE:   2.737947
+------------------------------------------------------
+RANK:   9
+TITLE:   How to inspect program state in the presence of generators/coroutines?
+Rel_VALUE:   2.732873
+------------------------------------------------------
+RANK:   10
+TITLE:   how do you program a calendar that can tell you the days ago/ from now (past/future dates) of a specific date you enter in
+Rel_VALUE:   2.698367
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §å§Õ§Ñ§Ý§Ú§ä§î §Ù§ß§Ñ§é§Ö§ß§Ú§Ö §Ú§Ù §ã§Ý§à§Ó§Ñ§â§ñ §Ó§à §Ó§â§Ö§Þ§ñ §è§Ú§Ü§Ý§Ñ for
+:::INFO:::translated_query --- how to remove the value from a dictionary in a cycle time for
+:::INFO:::input query terms list is as following
+['remov', 'valu', 'dictionari', 'cycl', 'time']
+:::INFO:::start matching on query 8
+:::INFO:::8 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Need to remove items from both a list and a dictionary of tuple value pairs at same time
+Rel_VALUE:   4.252285
+------------------------------------------------------
+RANK:   2
+TITLE:   How to remove the duplicates values from only one element of the dictionary at a time?
+Rel_VALUE:   4.252285
+------------------------------------------------------
+RANK:   3
+TITLE:   Python cycling through pairs of items while at the same time removing already checked items
+Rel_VALUE:   4.004209
+------------------------------------------------------
+RANK:   4
+TITLE:   Remove BOTH items from list, if one value appears multiple times (Python)
+Rel_VALUE:   3.940278
+------------------------------------------------------
+RANK:   5
+TITLE:   Add dictionary to list many times without altering the values in the list
+Rel_VALUE:   3.798789
+------------------------------------------------------
+RANK:   6
+TITLE:   Removing values that repeat more than 5 times in Pandas DataFrame
+Rel_VALUE:   3.758486
+------------------------------------------------------
+RANK:   7
+TITLE:   Difference between getting value by dictionary key multiple times instead of linking the value in PyPy
+Rel_VALUE:   3.744390
+------------------------------------------------------
+RANK:   8
+TITLE:   Get dictionary values without referencing the dictionary every time Python
+Rel_VALUE:   3.744390
+------------------------------------------------------
+RANK:   9
+TITLE:   Python dictionary, adding a new value to key if present multiple times in list
+Rel_VALUE:   3.672261
+------------------------------------------------------
+RANK:   10
+TITLE:   Reading multiple lines in a file, and separating their values at the same time, to store it in dictionary
+Rel_VALUE:   3.645087
+------------------------------------------------------
+:::INFO:::original_query --- §¯§Ñ§Õ§Ö§Ø§ß§Ñ§ñ §Ú§Ù§à§Ý§ñ§è§Ú§ñ §Ò§Ö§Ù §Ü§à§á§Ú§â§à§Ó§Ñ§ß§Ú§ñ §Ò§Ú§ß§Ñ§â§ß§Ú§Ü§Ñ Python §Ú§Ý§Ú §à§ä§Þ§Ö§ß§Ñ §ï§æ§æ§Ö§Ü§ä§à§Ó site.py
+:::INFO:::translated_query --- reliable isolation without copying §Ò§Ú§ß§Ñ§â§ß§Ú§Ü§Ñ python or removal of the effects of site.py
+:::INFO:::input query terms list is as following
+['reliabl', 'isol', 'without', 'copi', '§Ò§Ú§ß§Ñ§â§ß§Ú§Ü§Ñ', 'python', 'remov', 'effect', 'site', '.', 'py']
+:::INFO:::start matching on query 9
+:::INFO:::9 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python fails after deleting site.py
+Rel_VALUE:   5.931348
+------------------------------------------------------
+RANK:   2
+TITLE:   Getting Errs 'running setup.py install for numpy&quot; Anyone have a simple numpy-site.cfg or site.cfg on Windows and Python 2.7
+Rel_VALUE:   5.740640
+------------------------------------------------------
+RANK:   3
+TITLE:   python manage.py runserver works fine, but cannot run urls.py without getting import error
+Rel_VALUE:   5.737985
+------------------------------------------------------
+RANK:   4
+TITLE:   how to run python project after remove .py file?
+Rel_VALUE:   5.686025
+------------------------------------------------------
+RANK:   5
+TITLE:   Scraping historic data with Python from a specific website - table created out of a form with many rows with isolated header. Automation needed
+Rel_VALUE:   5.513622
+------------------------------------------------------
+RANK:   6
+TITLE:   Is it possible to read in and parse a .docx file that is linked to on a website without downloading the file (in Java, Python, or another language)?
+Rel_VALUE:   5.485047
+------------------------------------------------------
+RANK:   7
+TITLE:   Serving a page with Python web.py, how can I get it to reload and dynamically change the page after a timeout?
+Rel_VALUE:   5.432024
+------------------------------------------------------
+RANK:   8
+TITLE:   How to send the data to Loading Html page directly without any request while the data is getting processed in views.py in Django
+Rel_VALUE:   5.429269
+------------------------------------------------------
+RANK:   9
+TITLE:   Python's 'site.py' gone after Yosemite upgrade. Is that okay?
+Rel_VALUE:   5.397779
+------------------------------------------------------
+RANK:   10
+TITLE:   How many copies of site.py should I have?
+Rel_VALUE:   5.377252
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §Ú§Ù Python §Ó§í§Ó§Ö§ã§ä§Ú §ß§Ñ Windows-§Ü§à§ß§ã§à§Ý§î §ã§ä§â§à§Ü§å §Ó §À§ß§Ú§Ü§à§Õ§Ö?
+:::INFO:::translated_query --- as of python to windows - the string to unicode?
+:::INFO:::input query terms list is as following
+['python', 'window', 'string', 'unicod', '?']
+:::INFO:::start matching on query 10
+:::INFO:::10 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I read a JSON string in Python/Windows when the string contains non-UTF8 characters?
+Rel_VALUE:   4.717705
+------------------------------------------------------
+RANK:   2
+TITLE:   Why python 2.7 on Windows need a space before unicode character when print?
+Rel_VALUE:   4.559659
+------------------------------------------------------
+RANK:   3
+TITLE:   How does Lua / Ruby / Python output unicode characters to the terminal on Windows?
+Rel_VALUE:   4.559659
+------------------------------------------------------
+RANK:   4
+TITLE:   How do I input an unicode character in any X windows' text field properly using python?
+Rel_VALUE:   4.559659
+------------------------------------------------------
+RANK:   5
+TITLE:   How to get rid of double backslash in python windows file path string?
+Rel_VALUE:   4.472123
+------------------------------------------------------
+RANK:   6
+TITLE:   How do I copy a string to the clipboard on Windows using Python?
+Rel_VALUE:   4.450159
+------------------------------------------------------
+RANK:   7
+TITLE:   What is the Python code to split up a string so that it prints out normally in an 80-character window without wrapping?
+Rel_VALUE:   4.450159
+------------------------------------------------------
+RANK:   8
+TITLE:   Why is multiline string altered on print or write? (Python 3.6 on Windows)
+Rel_VALUE:   4.450159
+------------------------------------------------------
+RANK:   9
+TITLE:   How can I paste some string to the active window in Python?
+Rel_VALUE:   4.450159
+------------------------------------------------------
+RANK:   10
+TITLE:   How can I paste some string to the active window in Python?
+Rel_VALUE:   4.450159
+------------------------------------------------------
+:::INFO:::original_query --- Python §à§Ò§â§Ñ§Ò§à§ä§é§Ú§Ü §ã§Ú§ã§ä§Ö§Þ§ß§à§Ô§à §Þ§Ö§ß§ð Windows
+:::INFO:::translated_query --- python handler system menu windows
+:::INFO:::input query terms list is as following
+['python', 'handler', 'system', 'menu', 'window']
+:::INFO:::start matching on query 11
+:::INFO:::11 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Windows System Menu in Python
+Rel_VALUE:   4.098207
+------------------------------------------------------
+RANK:   2
+TITLE:   Press tab based on window handler id Selenium Chrome Python
+Rel_VALUE:   3.626800
+------------------------------------------------------
+RANK:   3
+TITLE:   python.exe crashes (used all system allowance of handles for Window Manager objects)
+Rel_VALUE:   3.626020
+------------------------------------------------------
+RANK:   4
+TITLE:   How do I handle the system windows with Python on Windows OS?
+Rel_VALUE:   3.626020
+------------------------------------------------------
+RANK:   5
+TITLE:   How to get right click context menu in Windows application using Python?
+Rel_VALUE:   3.574189
+------------------------------------------------------
+RANK:   6
+TITLE:   How to create a system tray popup message with python? (Windows)
+Rel_VALUE:   3.572906
+------------------------------------------------------
+RANK:   7
+TITLE:   Python - start HTTP server AND set windows system tray
+Rel_VALUE:   3.545428
+------------------------------------------------------
+RANK:   8
+TITLE:   How to make an menu bar (system tray) app for OSX in Python?
+Rel_VALUE:   3.540885
+------------------------------------------------------
+RANK:   9
+TITLE:   how to give the value selected from menu button as input to os.system in python gui
+Rel_VALUE:   3.537201
+------------------------------------------------------
+RANK:   10
+TITLE:   Add my python script to the system tray? Or the start menu, to run mu simple GUI?
+Rel_VALUE:   3.513994
+------------------------------------------------------
+:::INFO:::original_query --- §±§â§à§Ò§Ý§Ö§Þ§í §ã §Ü§à§Õ§Ú§â§à§Ó§Ü§à§Û Python 2.7
+:::INFO:::translated_query --- problems with coding python 2.7
+:::INFO:::input query terms list is as following
+['problem', 'code', 'python', '2', '.', '7']
+:::INFO:::start matching on query 12
+:::INFO:::12 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python 3.2 vs Python 2.7 code problems
+Rel_VALUE:   6.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Simple python 2.7 code has some kind of issue: &quot;'list' object has no attribute 'find'&quot;
+Rel_VALUE:   5.918277
+------------------------------------------------------
+RANK:   3
+TITLE:   Python 2.7 : Entire code getting written in a file issue
+Rel_VALUE:   5.918277
+------------------------------------------------------
+RANK:   4
+TITLE:   Having problems with user input function with Python 2.7 and couldn't get those input to work with program
+Rel_VALUE:   5.540073
+------------------------------------------------------
+RANK:   5
+TITLE:   Python 2.7.5 Palindrome code confusion
+Rel_VALUE:   5.451293
+------------------------------------------------------
+RANK:   6
+TITLE:   python,nltk 2.7 is showing error in the code, what could be the solution?
+Rel_VALUE:   5.449699
+------------------------------------------------------
+RANK:   7
+TITLE:   (python)(2.7.7) odd Syntax errors in code
+Rel_VALUE:   5.449699
+------------------------------------------------------
+RANK:   8
+TITLE:   Python code error 2.7
+Rel_VALUE:   5.449699
+------------------------------------------------------
+RANK:   9
+TITLE:   python 2.7 and opencv code gives cvtcolor error
+Rel_VALUE:   5.449699
+------------------------------------------------------
+RANK:   10
+TITLE:   Receiving an error Python 2.7.8 when using code %matplotlib inline
+Rel_VALUE:   5.449699
+------------------------------------------------------
+:::INFO:::original_query --- §¬§ß§Ú§Ô§Ú §Ú §å§é§Ö§Ò§ß§í§Ö §â§Ö§ã§å§â§ã§í §á§à Python
+:::INFO:::translated_query --- books and educational resources for python
+:::INFO:::input query terms list is as following
+['book', 'educ', 'resourc', 'python']
+:::INFO:::start matching on query 13
+:::INFO:::13 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Resource/book suggestion to effectively writing software for python/c++ beginner
+Rel_VALUE:   3.469989
+------------------------------------------------------
+RANK:   2
+TITLE:   Tutorials/Learning Resources for Implementing a Script Interpreter (e.g. Python, Lua) in C#
+Rel_VALUE:   2.941980
+------------------------------------------------------
+RANK:   3
+TITLE:   Image registration page border of photo (quasi scan) of book. What algorithms, libraries in python to use for cropping?
+Rel_VALUE:   2.847553
+------------------------------------------------------
+RANK:   4
+TITLE:   Python Sorting Script for Library Book Call No. (CSV file)
+Rel_VALUE:   2.847553
+------------------------------------------------------
+RANK:   5
+TITLE:   Class Object Error with Tkinter Game From Python for Kids book http://python-for-kids.com
+Rel_VALUE:   2.845637
+------------------------------------------------------
+RANK:   6
+TITLE:   a project using a simple neural network on python and have it read a book then answers my questions regarding what it has learned
+Rel_VALUE:   2.825803
+------------------------------------------------------
+RANK:   7
+TITLE:   (Python) Trying to make a simple Counter (Book project)
+Rel_VALUE:   2.825803
+------------------------------------------------------
+RANK:   8
+TITLE:   Python - Ricoh printers - Adding password to smb folder share in address book
+Rel_VALUE:   2.812986
+------------------------------------------------------
+RANK:   9
+TITLE:   What are good online resources to learn using Python to get and post data in a webpage? More generally for webscraping?
+Rel_VALUE:   2.788559
+------------------------------------------------------
+RANK:   10
+TITLE:   Python resources for cloud computing learning?
+Rel_VALUE:   2.786695
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §Ó§ã§ä§Ñ§Ó§Ú§ä§î OLE §à§Ò§ì§Ö§Ü§ä §Ó Draw §Ó LibreOffice?
+:::INFO:::translated_query --- how to insert the ole object to draw in LibreOffice?
+:::INFO:::input query terms list is as following
+['insert', 'ole', 'object', 'draw', 'libreoffic', '?']
+:::INFO:::start matching on query 14
+:::INFO:::14 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to rename bulk of AutoCAD (.dwg) files with a text inserted in the same drawing?
+Rel_VALUE:   3.932895
+------------------------------------------------------
+RANK:   2
+TITLE:   How can I modify my SQL Alchemy Session to perform UPSERT instead of INSERT when I add objects to the session?
+Rel_VALUE:   3.788054
+------------------------------------------------------
+RANK:   3
+TITLE:   Automate inserting OLE into Autocad drawings using web based programming language
+Rel_VALUE:   3.730443
+------------------------------------------------------
+RANK:   4
+TITLE:   How to auto insert the current user when creating an object in django admin?
+Rel_VALUE:   3.662074
+------------------------------------------------------
+RANK:   5
+TITLE:   Does Python create string objects whenever you insert them in the code?
+Rel_VALUE:   3.652456
+------------------------------------------------------
+RANK:   6
+TITLE:   How insert an object inside a document using Pymongo?
+Rel_VALUE:   3.647112
+------------------------------------------------------
+RANK:   7
+TITLE:   How to insert and add elements in a combo box in Excel through Python?
+Rel_VALUE:   3.599800
+------------------------------------------------------
+RANK:   8
+TITLE:   How i can doing for introducing a list objects from database's values in a function of javascript for draw points in map openlayer?
+Rel_VALUE:   3.568581
+------------------------------------------------------
+RANK:   9
+TITLE:   Software or python package to draw and plot simple objects in 3D?
+Rel_VALUE:   3.561601
+------------------------------------------------------
+RANK:   10
+TITLE:   Why descriptors (in Python) cannot be inserted (placed) in ALREADY initialized object?
+Rel_VALUE:   3.532268
+------------------------------------------------------
+:::INFO:::original_query --- §®§Ö§Õ§Ý§Ö§ß§ß§à§Ö §Ó§í§á§à§Ý§ß§Ö§ß§Ú§Ö §Ü§à§Õ§Ñ ¡ª §á§à§Õ§Ò§â§Ñ§ã§í§Ó§Ñ§ß§Ú§Ö §Þ§à§ß§Ö§ä§Ü§Ú §Þ§Ú§Ý§Ý§Ú§Ñ§â§Õ §â§Ñ§Ù
+:::INFO:::translated_query --- the slow implementation of the code, a coin toss
+:::INFO:::input query terms list is as following
+['slow', 'implement', 'code', 'coin', 'toss']
+:::INFO:::start matching on query 15
+:::INFO:::15 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python code for the coin toss issues
+Rel_VALUE:   3.369885
+------------------------------------------------------
+RANK:   2
+TITLE:   Program running too slow! : Suggest Algorithmic/Implementation Optimization
+Rel_VALUE:   3.304233
+------------------------------------------------------
+RANK:   3
+TITLE:   Can't figure out how to make a python coin toss program loop back to a certain point once the whole process of the toss has been completed
+Rel_VALUE:   3.096937
+------------------------------------------------------
+RANK:   4
+TITLE:   Need a test case where given code for minimum number of coins fails in python?
+Rel_VALUE:   3.089204
+------------------------------------------------------
+RANK:   5
+TITLE:   Homework: Implementing the Z algorithm in python, it's really slow, slower than naive string search
+Rel_VALUE:   3.077424
+------------------------------------------------------
+RANK:   6
+TITLE:   Can I more efficiently search for the first triangle number with &gt;500 divisors? Why is my current implementation slow?
+Rel_VALUE:   3.036610
+------------------------------------------------------
+RANK:   7
+TITLE:   Why is my python code so slow (leetcode)?
+Rel_VALUE:   3.025814
+------------------------------------------------------
+RANK:   8
+TITLE:   What am doing wrong in this piece of fibonacci code in python docs vs my re implementation?
+Rel_VALUE:   2.996638
+------------------------------------------------------
+RANK:   9
+TITLE:   Can one only implement gradient descent like optimizers with the code example from processing gradients in TensorFlow?
+Rel_VALUE:   2.978330
+------------------------------------------------------
+RANK:   10
+TITLE:   Why my code can't pass the test case from LeetCode 322 Coin Change?
+Rel_VALUE:   2.945511
+------------------------------------------------------
+:::INFO:::original_query --- §á§â§Ú§Ö§Þ §ã§ä§â§à§Ü§Ú §ã§Ú§Þ§Ó§à§Ý§à§Ó §Ú§Ù §á§à§ã§Ý§Ö§Õ§à§Ó§Ñ§ä§Ö§Ý§î§ß§à§Ô§à §á§à§â§ä§Ñ
+:::INFO:::translated_query --- admission line of characters from serial port
+:::INFO:::input query terms list is as following
+['admiss', 'line', 'charact', 'serial', 'port']
+:::INFO:::start matching on query 16
+:::INFO:::16 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Send one line of G-Code to an Arduino-based 3D printer using a Python script over serial port
+Rel_VALUE:   3.656617
+------------------------------------------------------
+RANK:   2
+TITLE:   Python - read from the serial port data line by line into a list when available
+Rel_VALUE:   3.603600
+------------------------------------------------------
+RANK:   3
+TITLE:   Sending a character to the Arduino serial port using Python's Pyserial
+Rel_VALUE:   3.561168
+------------------------------------------------------
+RANK:   4
+TITLE:   How do I send single character ASCII data to a serial port with python
+Rel_VALUE:   3.549449
+------------------------------------------------------
+RANK:   5
+TITLE:   Linux Serial Port in C rubbish characters after restarting pc
+Rel_VALUE:   3.540456
+------------------------------------------------------
+RANK:   6
+TITLE:   Raspberry Pi is stuck when no char is received on the serial port
+Rel_VALUE:   3.133041
+------------------------------------------------------
+RANK:   7
+TITLE:   Python serial (pySerial) Reading lines with EOL \r instead of \n
+Rel_VALUE:   3.090039
+------------------------------------------------------
+RANK:   8
+TITLE:   pySerial wait for &quot;#&quot; character to print output from USB serial device
+Rel_VALUE:   3.070339
+------------------------------------------------------
+RANK:   9
+TITLE:   how to read 100 or more strings per second through py serial port
+Rel_VALUE:   3.047839
+------------------------------------------------------
+RANK:   10
+TITLE:   Parsing strings using regular expressions received by a GSM modem connected to a laptop via a serial port in python
+Rel_VALUE:   3.041693
+------------------------------------------------------
+:::INFO:::original_query --- §°§á§Ö§â§Ñ§ä§à§â §á§â§Ú§ã§Ó§Ñ§Ú§Ó§Ñ§ß§Ú§ñ += §Õ§Ý§ñ §ã§á§Ú§ã§Ü§à§Ó (§Õ§à§Ò§Ñ§Ó§Ý§Ö§ß§Ú§Ö §á§à §Þ§Ö§ã§ä§å)
+:::INFO:::translated_query --- assigning operator + = for lists (the place)
+:::INFO:::input query terms list is as following
+['assign', 'oper', '+', '=', 'list', '(', 'place', ')']
+:::INFO:::start matching on query 17
+:::INFO:::17 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Is a Python list's += operator equivalent to append() or extend()?
+Rel_VALUE:   6.688757
+------------------------------------------------------
+RANK:   2
+TITLE:   += operator in python for __setitem__ (addition in place for square brackets)
+Rel_VALUE:   6.376411
+------------------------------------------------------
+RANK:   3
+TITLE:   How to use Python class property setter to update lists using iadd (+=) operator?
+Rel_VALUE:   6.374578
+------------------------------------------------------
+RANK:   4
+TITLE:   Why does not the + operator change a list while .append() does?
+Rel_VALUE:   6.133578
+------------------------------------------------------
+RANK:   5
+TITLE:   tensorflow sess.run returns List instead of float32 causing TypeError: unsupported operand type(s) for +=: 'float' and 'list'
+Rel_VALUE:   6.082217
+------------------------------------------------------
+RANK:   6
+TITLE:   Python: find the exponent of two numbers using only incrementation/addition by 1(+=1), can not use multiplication or division operators.
+Rel_VALUE:   6.074940
+------------------------------------------------------
+RANK:   7
+TITLE:   Python append() vs. + operator on lists, why do these give different results?
+Rel_VALUE:   6.068235
+------------------------------------------------------
+RANK:   8
+TITLE:   What is the order of evaluation in python when using pop(), list[-1] and +=?
+Rel_VALUE:   5.984245
+------------------------------------------------------
+RANK:   9
+TITLE:   What is the difference between LIST.append(1) and LIST = LIST + [1] (Python)
+Rel_VALUE:   5.981255
+------------------------------------------------------
+RANK:   10
+TITLE:   Python - is there a way to store an operation(+ - * /) in a list or as a variable?
+Rel_VALUE:   5.942110
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §Ò§Ö§ã§ã§Þ§í§ã§Ý§Ö§ß§ß§à§Ö §Ú§Ù§Þ§Ö§ß§Ö§ß§Ú§Ö §à§á§Ö§â§Ñ§ä§à§â§Ñ §á§â§à§Ó§Ö§â§Ü§Ú §Ó§Ý§Ú§ñ§Ö§ä §ß§Ñ §ã§Ü§à§â§à§ã§ä§î §Ü§à§Õ§Ñ Cython?
+:::INFO:::translated_query --- how this change affects the speed of Cython operator verification code?
+:::INFO:::input query terms list is as following
+['chang', 'affect', 'speed', 'cython', 'oper', 'verif', 'code', '?']
+:::INFO:::start matching on query 18
+:::INFO:::18 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to optimize this cython code? I found only 3 percent increase in speed
+Rel_VALUE:   5.253021
+------------------------------------------------------
+RANK:   2
+TITLE:   Is there anything I can apply to my current Cython code for speed boost?
+Rel_VALUE:   5.106343
+------------------------------------------------------
+RANK:   3
+TITLE:   Compiler - Can what is used to define a code block affect compiler speed?
+Rel_VALUE:   5.029198
+------------------------------------------------------
+RANK:   4
+TITLE:   Does the way of database connection, opening and closing in python affect the performance of the code?
+Rel_VALUE:   4.693027
+------------------------------------------------------
+RANK:   5
+TITLE:   How can I speed up Cython code to compute conditional log likelihood of dirichlet?
+Rel_VALUE:   4.636742
+------------------------------------------------------
+RANK:   6
+TITLE:   How does architecture affect numpy array operation performance?
+Rel_VALUE:   4.632912
+------------------------------------------------------
+RANK:   7
+TITLE:   Way to speed up python code with numba? Includes multiple functions and two nested loops
+Rel_VALUE:   4.632173
+------------------------------------------------------
+RANK:   8
+TITLE:   How do I improve the speed of this code? (Solving ODEs with scipy.integrate.odeint)
+Rel_VALUE:   4.602816
+------------------------------------------------------
+RANK:   9
+TITLE:   Python &amp; Pandas: Will using many df.copy affect code's performance?
+Rel_VALUE:   4.595694
+------------------------------------------------------
+RANK:   10
+TITLE:   How to change the code for Scipy SLSQP Fortran code and test it?
+Rel_VALUE:   4.588323
+------------------------------------------------------
+:::INFO:::original_query --- §¥§à§Ò§Ñ§Ó§Ý§Ö§ß§Ú§Ö §á§â§Ö§æ§Ú§Ü§ã§Ñ §Ü url §Ü§à§ä§à§â§í§Ö §æ§à§â§Þ§Ú§â§å§Ö§ä django
+:::INFO:::translated_query --- adding a prefix to the url which shapes django
+:::INFO:::input query terms list is as following
+['ad', 'prefix', 'url', 'shape', 'django']
+:::INFO:::start matching on query 19
+:::INFO:::19 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Add a prefix to URL patterns in Django?
+Rel_VALUE:   3.896085
+------------------------------------------------------
+RANK:   2
+TITLE:   {% url %} tag add twice the localized prefix in django
+Rel_VALUE:   3.858722
+------------------------------------------------------
+RANK:   3
+TITLE:   Django adding namespace to urls gives error Reverse for 'login' not found. 'login' is not a valid view function or pattern name
+Rel_VALUE:   3.705931
+------------------------------------------------------
+RANK:   4
+TITLE:   Can One register namespace in django without adding a URL pattern?
+Rel_VALUE:   3.705931
+------------------------------------------------------
+RANK:   5
+TITLE:   Django : Adding image to imageField in DB through URL while loading fixture
+Rel_VALUE:   3.593782
+------------------------------------------------------
+RANK:   6
+TITLE:   Django URLs - trailing slash gets added to variable value
+Rel_VALUE:   3.580758
+------------------------------------------------------
+RANK:   7
+TITLE:   django adding part of url to static css path
+Rel_VALUE:   3.570297
+------------------------------------------------------
+RANK:   8
+TITLE:   django adding static path to current url
+Rel_VALUE:   3.528208
+------------------------------------------------------
+RANK:   9
+TITLE:   Django - How to render a view without including a prefix to the URL?
+Rel_VALUE:   3.522798
+------------------------------------------------------
+RANK:   10
+TITLE:   Adding a Second URL Pattern in Django Causes Attribute Error
+Rel_VALUE:   3.495695
+------------------------------------------------------
+:::INFO:::original_query --- §¦§ã§ä§î §Ý§Ú §Ó Python §à§á§Ö§â§Ñ§ä§à§â switch case?
+:::INFO:::translated_query --- the switch statement in python is the case?
+:::INFO:::input query terms list is as following
+['switch', 'statement', 'python', 'case', '?']
+:::INFO:::start matching on query 20
+:::INFO:::20 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   What's the most concise way to include multiple statements in a Python switch case?
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   What is the Python equivalent for a case/switch statement?
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to refactor switch case statements in python?
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How mitigate the lack of Switch/Case statements in Python?
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Using Dictionaries in Python in place of Case/Switch statement
+Rel_VALUE:   4.468074
+------------------------------------------------------
+RANK:   6
+TITLE:   Since Python doesn't have a switch statement, what should I use?
+Rel_VALUE:   4.391991
+------------------------------------------------------
+RANK:   7
+TITLE:   Replacements for switch statement in Python?
+Rel_VALUE:   4.391991
+------------------------------------------------------
+RANK:   8
+TITLE:   What is the single best way to implement switch statement in python?
+Rel_VALUE:   4.391991
+------------------------------------------------------
+RANK:   9
+TITLE:   Is there any value to a Switch / Case implementation in Python?
+Rel_VALUE:   4.391991
+------------------------------------------------------
+RANK:   10
+TITLE:   Python Use Switch Case?
+Rel_VALUE:   4.391991
+------------------------------------------------------
+:::INFO:::original_query --- §°§á§â§Ö§Õ§Ö§Ý§Ú§ä§î §à§Ò§ë§Ú§Ö §ä§Ö§Þ§í §ã§â§Ö§Õ§Ú §Þ§ß§à§Ø§Ö§ã§ä§Ó §ã§Ý§à§Ó
+:::INFO:::translated_query --- to identify common themes among the sets of words
+:::INFO:::input query terms list is as following
+['identifi', 'common', 'theme', 'among', 'set', 'word']
+:::INFO:::start matching on query 21
+:::INFO:::21 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Manipulate two data sets with a sum(if...) or conditional statement that do not have a common identifier with Hive Hadoop Python
+Rel_VALUE:   3.619124
+------------------------------------------------------
+RANK:   2
+TITLE:   Merging two files by one common set of identifiers with python
+Rel_VALUE:   3.591009
+------------------------------------------------------
+RANK:   3
+TITLE:   Using sets in python to find common letters from two strings
+Rel_VALUE:   3.554033
+------------------------------------------------------
+RANK:   4
+TITLE:   Find the longest common starting substring in a set of strings
+Rel_VALUE:   3.518286
+------------------------------------------------------
+RANK:   5
+TITLE:   Finding a common letter between two words, Can't find what's the bug in my code
+Rel_VALUE:   3.492811
+------------------------------------------------------
+RANK:   6
+TITLE:   Finding the common words between two text corpus in NLTK
+Rel_VALUE:   3.463679
+------------------------------------------------------
+RANK:   7
+TITLE:   Finding common set of values between dictionaries in the correct combination
+Rel_VALUE:   3.418259
+------------------------------------------------------
+RANK:   8
+TITLE:   Finding a repeating set of strings among a larger set
+Rel_VALUE:   3.385496
+------------------------------------------------------
+RANK:   9
+TITLE:   How to Crawl Multiple Websites to find common Words (BeautifulSoup,Requests,Python3)
+Rel_VALUE:   3.344611
+------------------------------------------------------
+RANK:   10
+TITLE:   Find Most Common Words from a Website in Python 3
+Rel_VALUE:   3.344611
+------------------------------------------------------
+:::INFO:::original_query --- §¯§Ö§Û§â§à§ã§Ö§ä§î §Õ§Ý§ñ §à§Ò§â§Ñ§Ò§à§ä§Ü§Ú §à§Õ§ß§à§Þ§Ö§â§ß§à§Ô§à §Þ§Ñ§ã§ã§Ú§Ó§Ñ
+:::INFO:::translated_query --- §ß§Ö§Û§â§à§ã§Ö§ä§î for processing one-dimensional array
+:::INFO:::input query terms list is as following
+['§ß§Ö§Û§â§à§ã§Ö§ä§î', 'process', 'one', 'dimension', 'array']
+:::INFO:::start matching on query 22
+:::INFO:::22 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Why is the first element of numpy array set to one after processing?
+Rel_VALUE:   3.390620
+------------------------------------------------------
+RANK:   2
+TITLE:   How to arrange the Numpy array output in separate rows to one .csv file and to put the name of the processed image in the first cell of a row?
+Rel_VALUE:   3.390620
+------------------------------------------------------
+RANK:   3
+TITLE:   Efficiently processing values in one array based on a ID value in another
+Rel_VALUE:   3.311290
+------------------------------------------------------
+RANK:   4
+TITLE:   Gathering an array of different sizes on various processes into one array with MPI and mpi4py in Python
+Rel_VALUE:   3.311290
+------------------------------------------------------
+RANK:   5
+TITLE:   How to make np.loadtxt return multidimensional arrays even the file has only one dimensional?
+Rel_VALUE:   3.206157
+------------------------------------------------------
+RANK:   6
+TITLE:   Convolution of two three dimensional arrays with padding on one side too slow
+Rel_VALUE:   3.098165
+------------------------------------------------------
+RANK:   7
+TITLE:   Anyone Know a Great Sparse One Dimensional Array Library in Python?
+Rel_VALUE:   3.081634
+------------------------------------------------------
+RANK:   8
+TITLE:   Python transforming one dimensional array into two dimensional array
+Rel_VALUE:   3.078978
+------------------------------------------------------
+RANK:   9
+TITLE:   2d arrays and how to populate them with one dimensional arrays
+Rel_VALUE:   3.077348
+------------------------------------------------------
+RANK:   10
+TITLE:   pandas: make a DataFrame from a combination of two dimensional and one dimensional arrays
+Rel_VALUE:   3.077117
+------------------------------------------------------
+:::INFO:::original_query --- §¹§ä§à §ä§Ñ§Ü§à§Ö Anaconda §Õ§Ý§ñ Python?
+:::INFO:::translated_query --- what is the anaconda python?
+:::INFO:::input query terms list is as following
+['anaconda', 'python', '?']
+:::INFO:::start matching on query 23
+:::INFO:::23 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Importing scipy.misc.pilutil in python using Komodo and Anaconda?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   I removed anaconda and now my python path is messed up. Do you know how to fix it?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Conda and Anaconda running different Python Installs?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to install Matplotlib for anaconda 1.9.1 and Python 3.3.4?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Removed Python Anaconda - Python No Longer Working?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   How do I install PRAW for python 2.7 (Anaconda)?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   freeze_support bug in using scikit-learn in the Anaconda python distro?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Trying to install pymc on Anaconda(python) in Windows 7 and getting weird error?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Vagrant Installing Anaconda Python?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   anaconda python distribution completely free even for commercial use?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::INFO:::original_query --- §±§à§Ú§ã§Ü §á§â§ñ§Þ§à§å§Ô§à§Ý§î§ß§Ú§Ü§Ñ §ß§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ú
+:::INFO:::translated_query --- the rectangle in the image search
+:::INFO:::input query terms list is as following
+['rectangl', 'imag', 'search']
+:::INFO:::start matching on query 24
+:::INFO:::24 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Search rectangle (hard disk) in the image
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to speed up 'for loop' for searching Pixel value in Image in python?
+Rel_VALUE:   2.570990
+------------------------------------------------------
+RANK:   3
+TITLE:   Image Spiral Pixel Search
+Rel_VALUE:   2.570990
+------------------------------------------------------
+RANK:   4
+TITLE:   Searching images files with regular expressions
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   5
+TITLE:   Use a python flickr lib to search images from tags - but without an api key
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   6
+TITLE:   Template Matching (Image Search) function in Python Imaging Library
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   7
+TITLE:   Python: the right URL to download pictures from Google Image Search
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   8
+TITLE:   Download Google Images From Google Custom Search
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   9
+TITLE:   Which database for scientific data (images of variable size + metadata searching)
+Rel_VALUE:   2.441539
+------------------------------------------------------
+RANK:   10
+TITLE:   Image caching loop goes wrong for my recipe searching program (daemon)
+Rel_VALUE:   2.441539
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §ß§Ñ§Û§ä§Ú §Ó§ã§Ö §Õ§å§Ò§Ý§Ú§â§å§ð§ë§Ú§Ö§ã§ñ §ï§Ý§Ö§Þ§Ö§ß§ä§í §Ó §ã§á§Ú§ã§Ü§Ö §Ú §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §Ú§ç §á§à§Ó§ä§à§â§à§Ó?
+:::INFO:::translated_query --- how to find all duplicate items in the list and the number of repetition?
+:::INFO:::input query terms list is as following
+['find', 'duplic', 'item', 'list', 'number', 'repetit', '?']
+:::INFO:::start matching on query 25
+:::INFO:::25 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I find the duplicate number in a list provided and print that number?
+Rel_VALUE:   5.895551
+------------------------------------------------------
+RANK:   2
+TITLE:   how to find the max number of items in a list such that certain pairs are not together in the output?
+Rel_VALUE:   5.753888
+------------------------------------------------------
+RANK:   3
+TITLE:   How can I find the same/duplicate elements(with more than 1 word) in the list?
+Rel_VALUE:   5.665597
+------------------------------------------------------
+RANK:   4
+TITLE:   How to find the maximum number of times that the most common item in a list appears?
+Rel_VALUE:   5.657351
+------------------------------------------------------
+RANK:   5
+TITLE:   What is the most readable way to find the last index of an element in a list with duplicates?
+Rel_VALUE:   5.622443
+------------------------------------------------------
+RANK:   6
+TITLE:   Fastest way to return duplicate element in list and also find missing element in list?
+Rel_VALUE:   5.598232
+------------------------------------------------------
+RANK:   7
+TITLE:   How to find duplicate element and remove them in the list?
+Rel_VALUE:   5.598232
+------------------------------------------------------
+RANK:   8
+TITLE:   How to find the number of unique elements in a list of ndarrays?
+Rel_VALUE:   5.597596
+------------------------------------------------------
+RANK:   9
+TITLE:   How to compare each item in two lists of unknown lengths, order, and with duplicate values while minimizing writes and preserving position in Python?
+Rel_VALUE:   5.537588
+------------------------------------------------------
+RANK:   10
+TITLE:   How to get the smallest list of duplicate items from list of lists?
+Rel_VALUE:   5.524836
+------------------------------------------------------
+:::INFO:::original_query --- §²§Ñ§ã§á§à§Ù§ß§Ñ§Ó§Ñ§ß§Ú§Ö §Ù§ß§Ñ§Ü§Ñ §Ò§Ö§ã§Ü§à§ß§Ö§é§ß§à§ã§ä§Ú
+:::INFO:::translated_query --- recognition of infinity
+:::INFO:::input query terms list is as following
+['recognit', 'infin']
+:::INFO:::start matching on query 26
+:::INFO:::26 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Face recognition by Eigenfaces on Open CV from python gives zero matrix
+Rel_VALUE:   1.472883
+------------------------------------------------------
+RANK:   2
+TITLE:   Inaccurate facial recognition using OpenCV when the image is resized
+Rel_VALUE:   1.383494
+------------------------------------------------------
+RANK:   3
+TITLE:   opencv ReprojectImageto3D gives values tending to infinity
+Rel_VALUE:   1.368905
+------------------------------------------------------
+RANK:   4
+TITLE:   Python - Face Recognition TypeError: 'int' object is not iterable
+Rel_VALUE:   1.360507
+------------------------------------------------------
+RANK:   5
+TITLE:   Python: Math Formula and its variables recognition
+Rel_VALUE:   1.355125
+------------------------------------------------------
+RANK:   6
+TITLE:   Should I do Material Clasification/ Recognition using histograms or some other higher Math tool, like Bayesian Networks?
+Rel_VALUE:   1.355125
+------------------------------------------------------
+RANK:   7
+TITLE:   Scikit grid search for KNN regression ValueError: Array contains NaN or infinity
+Rel_VALUE:   1.323697
+------------------------------------------------------
+RANK:   8
+TITLE:   face recognition on tensorflow convolution neural network only gets the accuracy 0.05
+Rel_VALUE:   1.322065
+------------------------------------------------------
+RANK:   9
+TITLE:   Low accuracy on captcha recognition
+Rel_VALUE:   1.322065
+------------------------------------------------------
+RANK:   10
+TITLE:   IOB Accuracy on NLTK named entity recognition
+Rel_VALUE:   1.322065
+------------------------------------------------------
+:::INFO:::original_query --- §±§à§é§Ö§Þ§å §Ò§å§Ü§Ó§í §Ñ§Ý§æ§Ñ§Ó§Ú§ä§Ñ §ã &quot;§â&quot; §á§à &quot;§ð&quot; §ß§Ö §Ó§ç§à§Õ§ñ§ä §Ó §Õ§Ú§Ñ§á§Ñ§Ù§à§ß &quot;§Ñ-§ñ&quot;?
+:::INFO:::translated_query --- why the letters of the alphabet with the & quot; r & quot; & quot; yu & quot; not included in the range of & quot; but i & quot;?
+:::INFO:::input query terms list is as following
+['letter', 'alphabet', '&', 'quot', 'r', '&', 'quot', '&', 'quot', 'yu', '&', 'quot', 'includ', 'rang', '&', 'quot', '&', 'quot', '?']
+:::INFO:::start matching on query 27
+:::INFO:::27 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to use '\' in Python lookbehind assertion regex (?&lt;=\\) to match C++-like quoted strings
+Rel_VALUE:   15.355046
+------------------------------------------------------
+RANK:   2
+TITLE:   Are characters, such as &amp;mdash; &amp;ndash; &amp;sect; &amp;#160; &amp;quot; non-ascii or ascii?
+Rel_VALUE:   14.972096
+------------------------------------------------------
+RANK:   3
+TITLE:   How to force python lxml not to quote attributes with &lt;?php ... ?&gt; inclusions?
+Rel_VALUE:   14.871985
+------------------------------------------------------
+RANK:   4
+TITLE:   Regular Expression to remove &amp;quot; &amp;#39; from a string in Python
+Rel_VALUE:   14.677557
+------------------------------------------------------
+RANK:   5
+TITLE:   Does &amp;quot prints &quot; in python 3?
+Rel_VALUE:   14.644990
+------------------------------------------------------
+RANK:   6
+TITLE:   How do I fix a Python3 KeyError: '&amp;quot;id_str&amp;quot;'?
+Rel_VALUE:   14.399359
+------------------------------------------------------
+RANK:   7
+TITLE:   Extract data from &amp;quote under title tag using BeautifulSoup?
+Rel_VALUE:   14.229344
+------------------------------------------------------
+RANK:   8
+TITLE:   Python regex matching pair of quotes or &quot;&lt;&gt;&quot;
+Rel_VALUE:   14.222660
+------------------------------------------------------
+RANK:   9
+TITLE:   &lt;a&gt;&lt;/a&gt; tags not being rendered when put in quotes
+Rel_VALUE:   14.206218
+------------------------------------------------------
+RANK:   10
+TITLE:   Python: replace &amp;quote; to \&quot;
+Rel_VALUE:   14.133907
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü§à§Ó§Ñ §ã§ä§â§å§Ü§ä§å§â§Ñ §æ§Ñ§Û§Ý§Ñ §Ò§Ñ§Û§ä§Ü§à§Õ§Ñ CPython?
+:::INFO:::translated_query --- what is the structure of the bytecode file CPython?
+:::INFO:::input query terms list is as following
+['structur', 'bytecod', 'file', 'cpython', '?']
+:::INFO:::start matching on query 28
+:::INFO:::28 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How should I structure a larger program using python instead of just one big file with code?
+Rel_VALUE:   3.851988
+------------------------------------------------------
+RANK:   2
+TITLE:   How to read and identify color coded data(font and background) from excel file and data with complex table structure in python?
+Rel_VALUE:   3.851988
+------------------------------------------------------
+RANK:   3
+TITLE:   parsing PDB header information with python (protein structure files)?
+Rel_VALUE:   3.723925
+------------------------------------------------------
+RANK:   4
+TITLE:   How to open a huge(10GB) binary file in python in the original data structure?
+Rel_VALUE:   3.709488
+------------------------------------------------------
+RANK:   5
+TITLE:   Is there a high-level way to read in lines from an output file and have the types recognized by the structure of the contents?
+Rel_VALUE:   3.707487
+------------------------------------------------------
+RANK:   6
+TITLE:   How should I structure my classes and files in python?
+Rel_VALUE:   3.705005
+------------------------------------------------------
+RANK:   7
+TITLE:   How to transform XML file into a class/object structure in Python?
+Rel_VALUE:   3.705005
+------------------------------------------------------
+RANK:   8
+TITLE:   Eclipse + Django: How to get bytecode output when python source files change?
+Rel_VALUE:   3.690474
+------------------------------------------------------
+RANK:   9
+TITLE:   Given a python .pyc file, is there a tool that let me view the bytecode?
+Rel_VALUE:   3.683672
+------------------------------------------------------
+RANK:   10
+TITLE:   When do Python cached bytecode (pyc) files get updated?
+Rel_VALUE:   3.683672
+------------------------------------------------------
+:::INFO:::original_query --- §³§â§Ñ§Ó§ß§Ö§ß§Ú§Ö §Õ§Ó§å§ç §ã§á§Ú§ã§Ü§à§Ó §ß§Ñ §ß§Ñ§ç§à§Ø§Õ§Ö§ß§Ú§Ö §ï§Ý§Ö§Þ§Ö§ß§ä§à§Ó §Ü§à§ä§à§â§í§Ö §ã§à§à§ä§Ó§Ö§ä§ã§ä§Ó§å§ð§ä §á§â§Ñ§Ó§Ú§Ý§Ñ§Þ
+:::INFO:::translated_query --- comparison of the two lists to find elements that correspond to the rules
+:::INFO:::input query terms list is as following
+['comparison', 'two', 'list', 'find', 'element', 'correspond', 'rule']
+:::INFO:::start matching on query 29
+:::INFO:::29 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Compare two lists A, B in Python find all elements in A which correspond to the same number in B
+Rel_VALUE:   5.849703
+------------------------------------------------------
+RANK:   2
+TITLE:   Python: find most common element in corresponding two lists
+Rel_VALUE:   5.457378
+------------------------------------------------------
+RANK:   3
+TITLE:   Comparing corresponding elements in two lists
+Rel_VALUE:   5.213280
+------------------------------------------------------
+RANK:   4
+TITLE:   Comparing two lists of tuples and finding the frequency of the common elements
+Rel_VALUE:   5.208682
+------------------------------------------------------
+RANK:   5
+TITLE:   Finding the correspondence of the elements of two columns in a two dimensional array in another 2D array
+Rel_VALUE:   5.032632
+------------------------------------------------------
+RANK:   6
+TITLE:   How to find out if two elements belong to the same list
+Rel_VALUE:   5.005471
+------------------------------------------------------
+RANK:   7
+TITLE:   XOR to find the missing element between two lists
+Rel_VALUE:   4.971008
+------------------------------------------------------
+RANK:   8
+TITLE:   Fastest way to find which two elements of a list another item is closest to in python
+Rel_VALUE:   4.960340
+------------------------------------------------------
+RANK:   9
+TITLE:   Find difference between every two adjacent elements in a list using lambda expressions?
+Rel_VALUE:   4.940576
+------------------------------------------------------
+RANK:   10
+TITLE:   Finding matching dictionary elements within two different lists
+Rel_VALUE:   4.901674
+------------------------------------------------------
+:::INFO:::original_query --- §¹§ä§à §Ù§ß§Ñ§é§Ú§ä * (§Ù§Ó§×§Ù§Õ§à§é§Ü§Ñ) §Ú ** §Õ§Ó§à§Û§ß§Ñ§ñ §Ù§Ó§×§Ù§Õ§à§é§Ü§Ñ §Ó §±§Ú§ä§à§ß§Ö?
+:::INFO:::translated_query --- what do you mean, * (asterisk) and * * double star in the §á§Ú§ä§à§ß§Ö?
+:::INFO:::input query terms list is as following
+['mean', '*', '(', 'asterisk', ')', '*', '*', 'doubl', 'star', '§á§Ú§ä§à§ß§Ö', '?']
+:::INFO:::start matching on query 30
+:::INFO:::30 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   What does ** (double star/asterisk) and * (star/asterisk) do for parameters?
+Rel_VALUE:   9.247814
+------------------------------------------------------
+RANK:   2
+TITLE:   How to pass extra argument when creating object that uses ** (double star) syntax in python?
+Rel_VALUE:   8.587099
+------------------------------------------------------
+RANK:   3
+TITLE:   Python documentation for os.removexattr -- what does the '*' (star) argument mean?
+Rel_VALUE:   8.552257
+------------------------------------------------------
+RANK:   4
+TITLE:   In a pathname, what does *.* (asterisk, period, asterisk) mean?
+Rel_VALUE:   8.534073
+------------------------------------------------------
+RANK:   5
+TITLE:   What does **D mean in string.format(**D)?
+Rel_VALUE:   8.084166
+------------------------------------------------------
+RANK:   6
+TITLE:   How can I get to the result that asterisk (*) instead of number 0 ?
+Rel_VALUE:   7.897556
+------------------------------------------------------
+RANK:   7
+TITLE:   Implementing a property using the double asterisk (**)
+Rel_VALUE:   7.892785
+------------------------------------------------------
+RANK:   8
+TITLE:   What does the whitespace in Python RegEx '^(.+?(\d*)) *$' mean?
+Rel_VALUE:   7.862862
+------------------------------------------------------
+RANK:   9
+TITLE:   Meaning of '^site_media/(?P&lt;path&gt;.*)$'
+Rel_VALUE:   7.862862
+------------------------------------------------------
+RANK:   10
+TITLE:   what does these operators mean (** , ^ , %, //) ? - Python?
+Rel_VALUE:   7.862862
+------------------------------------------------------
+:::INFO:::original_query --- §©§Ñ§á§â§Ö§ë§Ñ§ä§î §ñ§Ó§ß§à §ß§Ñ§ã§Ý§Ö§Õ§à§Ó§Ñ§ä§î§ã§ñ §à§ä object
+:::INFO:::translated_query --- prohibit clearly inherit from object
+:::INFO:::input query terms list is as following
+['prohibit', 'clear', 'inherit', 'object']
+:::INFO:::start matching on query 31
+:::INFO:::31 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Django - save() prohibited to prevent data loss due to unsaved related object - Formsets and CreateView
+Rel_VALUE:   2.790126
+------------------------------------------------------
+RANK:   2
+TITLE:   save() prohibited to prevent data loss due to unsaved related object
+Rel_VALUE:   2.790126
+------------------------------------------------------
+RANK:   3
+TITLE:   ValueError: save() prohibited to prevent data loss due to unsaved related object
+Rel_VALUE:   2.790126
+------------------------------------------------------
+RANK:   4
+TITLE:   django save() prohibited to prevent data loss due to unsaved related object
+Rel_VALUE:   2.790126
+------------------------------------------------------
+RANK:   5
+TITLE:   How to force Django to delete objects using multiple inheritance
+Rel_VALUE:   2.664891
+------------------------------------------------------
+RANK:   6
+TITLE:   Prevent Form from Clearing with Flask Inheritance
+Rel_VALUE:   2.662414
+------------------------------------------------------
+RANK:   7
+TITLE:   Setting attributes on a method after class creation raises &quot;'instancemethod' object has no attribute&quot; but the attribiute is clearly there
+Rel_VALUE:   2.656757
+------------------------------------------------------
+RANK:   8
+TITLE:   Close plot window without clear figure object
+Rel_VALUE:   2.600903
+------------------------------------------------------
+RANK:   9
+TITLE:   Sphinx Autodoc Inheritance - Don't show members from 'Object'
+Rel_VALUE:   2.593666
+------------------------------------------------------
+RANK:   10
+TITLE:   Django model inheritance for closely related objects
+Rel_VALUE:   2.541736
+------------------------------------------------------
+:::INFO:::original_query --- §¹§ä§à §ä§Ñ§Ü§à§Ö §à§Ò§ì§Ö§Ü§ä §Ó Python. §±§à§é§Ö§Þ§å id(a) == id(b) == id(1)?
+:::INFO:::translated_query --- what is an object in python. why id (a) = = id (b) = = id (1)?
+:::INFO:::input query terms list is as following
+['object', 'python', '.', 'id', '(', ')', '=', '=', 'id', '(', 'b', ')', '=', '=', 'id', '(', '1', ')', '?']
+:::INFO:::start matching on query 32
+:::INFO:::32 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Contrary to Python 3.1 Docs, hash(obj) != id(obj). So which is correct?
+Rel_VALUE:   17.835123
+------------------------------------------------------
+RANK:   2
+TITLE:   How To Grab &lt;a href=&quot;url&quot;&gt; Links With No Classes Or ID's with BeautifulSoup4 (Python 2.7)
+Rel_VALUE:   17.038057
+------------------------------------------------------
+RANK:   3
+TITLE:   if &quot;0&quot; in self.br.find_element_by_xpath(&quot;//*[@id='counter']&quot;).text: (Python Selenium)
+Rel_VALUE:   16.987221
+------------------------------------------------------
+RANK:   4
+TITLE:   What is the difference between &quot;a is b&quot; and &quot;id(a) == id(b)&quot; in Python?
+Rel_VALUE:   16.922318
+------------------------------------------------------
+RANK:   5
+TITLE:   soup.find(&quot;div&quot;, id = &quot;tournamentTable&quot;), None returned - python 2.7 - BS 4.5.1
+Rel_VALUE:   16.907712
+------------------------------------------------------
+RANK:   6
+TITLE:   how to generate sql like &quot;select a,b from a left join b on (a.id = b.aid and b.aid = 12)&quot; in sqlalchemy
+Rel_VALUE:   16.550421
+------------------------------------------------------
+RANK:   7
+TITLE:   Can I combine python's `for` statement with SQL like this: `for id, name, ctime in db.select('table_name', where='...')`
+Rel_VALUE:   16.493682
+------------------------------------------------------
+RANK:   8
+TITLE:   How do I scrape text within the div(id=&quot;BodyContent&quot;) of any wikipedia article.I'm using Python's BeautifulSoup and nltk for it
+Rel_VALUE:   16.473483
+------------------------------------------------------
+RANK:   9
+TITLE:   Should I use a surrogate key (id= 1) or natural primary key (tag='sqlalchemy') for my sqlalchemy model?
+Rel_VALUE:   16.470753
+------------------------------------------------------
+RANK:   10
+TITLE:   How to scrape onclick value (&lt;li&gt;&lt;a id=&quot;FR123456&quot; onclick=) and its name and image using python?
+Rel_VALUE:   16.447652
+------------------------------------------------------
+:::INFO:::original_query --- §²§Ö§Ü§å§â§ã§Ú§Ó§ß§í§Û §Ñ§Ý§Ô§à§â§Ú§ä§Þ. §±§Ö§â§Ö§á§à§Ý§ß§Ö§ß§Ú§Ö §ã§ä§Ö§Ü§Ñ
+:::INFO:::translated_query --- recursive algorithm. stack overflow
+:::INFO:::input query terms list is as following
+['recurs', 'algorithm', '.', 'stack', 'overflow']
+:::INFO:::start matching on query 33
+:::INFO:::33 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   For this recursive code why does Python 2.7 not give a stack overflow error but 3.5 does?
+Rel_VALUE:   4.361055
+------------------------------------------------------
+RANK:   2
+TITLE:   Fatal Python error: Cannot recover from stack overflow. During Flood Fill
+Rel_VALUE:   3.572145
+------------------------------------------------------
+RANK:   3
+TITLE:   Theano/Keras code and CUDA: stack overflow (pythonw.exe has stopped working)
+Rel_VALUE:   3.485357
+------------------------------------------------------
+RANK:   4
+TITLE:   Python's random.sample and stack overflow
+Rel_VALUE:   3.484806
+------------------------------------------------------
+RANK:   5
+TITLE:   Python, Recursion, sorting &amp; stack overflow
+Rel_VALUE:   3.478505
+------------------------------------------------------
+RANK:   6
+TITLE:   urllib.request.urlopen cannot fetch the primaries page of Stack Overflow elections
+Rel_VALUE:   3.465972
+------------------------------------------------------
+RANK:   7
+TITLE:   Does web.py support search box? Like the search bar on the top right of stack overflow?
+Rel_VALUE:   3.448471
+------------------------------------------------------
+RANK:   8
+TITLE:   Optimizing a Recursive Padovan (i.e. Fibonacci with dying rabbits) Algorithm in Python
+Rel_VALUE:   3.428992
+------------------------------------------------------
+RANK:   9
+TITLE:   Stack overflow in python's curses. Is it bug in the module?
+Rel_VALUE:   3.421347
+------------------------------------------------------
+RANK:   10
+TITLE:   Avoiding Stack Overflow in Python 3. Advice needed
+Rel_VALUE:   3.402101
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §á§Ú§ã§Ñ§ä§î §Ó stdout §Ú §Ó §æ§Ñ§Û§Ý §à§Õ§ß§à§Ó§â§Ö§Þ§Ö§ß§ß§à?
+:::INFO:::translated_query --- how to write the file to stdout, and at the same time?
+:::INFO:::input query terms list is as following
+['write', 'file', 'stdout', 'time', '?']
+:::INFO:::start matching on query 34
+:::INFO:::34 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to write an output file of multiple time called functions?
+Rel_VALUE:   4.591115
+------------------------------------------------------
+RANK:   2
+TITLE:   How to run a Scrapy scraper multiple times, simultaneously, on different input websites and write to different output files?
+Rel_VALUE:   4.591115
+------------------------------------------------------
+RANK:   3
+TITLE:   How do I write log messages to a log file and the console at the same time?
+Rel_VALUE:   4.471189
+------------------------------------------------------
+RANK:   4
+TITLE:   Can I use a single file as a buffer? I.e. write to and read from at same time
+Rel_VALUE:   4.369330
+------------------------------------------------------
+RANK:   5
+TITLE:   How to write time (local system time), in text file or in log file using a Python script?
+Rel_VALUE:   4.348120
+------------------------------------------------------
+RANK:   6
+TITLE:   how to create a file .txt and write an array of 2 columns , date/time and the data?
+Rel_VALUE:   4.325814
+------------------------------------------------------
+RANK:   7
+TITLE:   How could I write/maintain a .txt file with name and time (scores list) sorted by increasing time?
+Rel_VALUE:   4.325814
+------------------------------------------------------
+RANK:   8
+TITLE:   how to minimize the execution time of csv file reading, writing in python?
+Rel_VALUE:   4.277135
+------------------------------------------------------
+RANK:   9
+TITLE:   How can I use the content of a imported module in Python without having to write the module's file name every time?
+Rel_VALUE:   4.277135
+------------------------------------------------------
+RANK:   10
+TITLE:   Faster to add all items to an array then write the array to file, or faster to write the item to a file and then add to array one at a time?
+Rel_VALUE:   4.277135
+------------------------------------------------------
+:::INFO:::original_query --- §¬§Ñ§Ü §à§ã§å§ë§Ö§ã§ä§Ó§Ú§ä§î §á§à§Ú§ã§Ü §à§Ò§ì§Ö§Ü§ä§Ñ §ß§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Ú §ã §á§à§Þ§à§ë§î§ð §á§à§Ý§ß§à§ã§Ó§Ö§â§ä§à§é§ß§à§Û §ß§Ö§Û§â§à§ß§ß§à§Û §ã§Ö§ä§Ú
+:::INFO:::translated_query --- how to search the object in the image by §á§à§Ý§ß§à§ã§Ó§Ö§â§ä§à§é§ß§à§Û neural network
+:::INFO:::input query terms list is as following
+['search', 'object', 'imag', '§á§à§Ý§ß§à§ã§Ó§Ö§â§ä§à§é§ß§à§Û', 'neural', 'network']
+:::INFO:::start matching on query 35
+:::INFO:::35 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Images, Neural networks: Converting the shape of an object in an image to allow it to fit a box or rectangle
+Rel_VALUE:   4.160686
+------------------------------------------------------
+RANK:   2
+TITLE:   How does one input images and labels for Semantic Instance Segmentation with neural networks?
+Rel_VALUE:   3.644181
+------------------------------------------------------
+RANK:   3
+TITLE:   How to rapidly prototype an image recognition application using Machine learning &amp; neural network?
+Rel_VALUE:   3.584724
+------------------------------------------------------
+RANK:   4
+TITLE:   How to extract feature for an image after neural network training?
+Rel_VALUE:   3.516513
+------------------------------------------------------
+RANK:   5
+TITLE:   Lasagne: neural Network Image(character) classification. Selection of size output_num_units
+Rel_VALUE:   3.494872
+------------------------------------------------------
+RANK:   6
+TITLE:   what is a better way to process image data for a neural network?
+Rel_VALUE:   3.438537
+------------------------------------------------------
+RANK:   7
+TITLE:   Processing Image To Feed data in to Convolutional Neural Network
+Rel_VALUE:   3.436778
+------------------------------------------------------
+RANK:   8
+TITLE:   Python real time image classification problems with Neural Networks
+Rel_VALUE:   3.403966
+------------------------------------------------------
+RANK:   9
+TITLE:   Training letter images to a neural network with full-batch training
+Rel_VALUE:   3.386938
+------------------------------------------------------
+RANK:   10
+TITLE:   How do I process a set of images for a neural network?
+Rel_VALUE:   3.386938
+------------------------------------------------------
+:::INFO:::original_query --- §¯§Ñ§Û§ä§Ú §é§Ú§ã§Ý§à B §ä§Ñ§Ü§à§Ö §é§ä§à A*B+A+B §Õ§Ö§Ý§Ú§ä§ã§ñ §ß§Ñ N §Õ§Ý§ñ §Ù§Ñ§Õ§Ñ§ß§ß§í§ç A §Ú N
+:::INFO:::translated_query --- find the number of b such that a * b + a + b is divided by n for the a and n
+:::INFO:::input query terms list is as following
+['find', 'number', 'b', '*', 'b', '+', '+', 'b', 'divid', 'n', 'n']
+:::INFO:::start matching on query 36
+:::INFO:::36 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python - Finding integer solutions to a^3+b^3=c^3
+Rel_VALUE:   8.408133
+------------------------------------------------------
+RANK:   2
+TITLE:   How to extract the values of a,b of a string in the form of ?(a*p+b)/p**2
+Rel_VALUE:   8.179972
+------------------------------------------------------
+RANK:   3
+TITLE:   find the index of values that satisfy A + B =C + D
+Rel_VALUE:   8.073634
+------------------------------------------------------
+RANK:   4
+TITLE:   Generating random numbers a, b, c such that a^2 + b^2 + c^2 = 1
+Rel_VALUE:   8.036638
+------------------------------------------------------
+RANK:   5
+TITLE:   pyparsing: how to find string of form a + b = c OR c = a + b
+Rel_VALUE:   7.985646
+------------------------------------------------------
+RANK:   6
+TITLE:   Find the maximum of a &amp; b in a set s = {1, 2, ... n } lesser than a certain value k
+Rel_VALUE:   7.849051
+------------------------------------------------------
+RANK:   7
+TITLE:   How to fix: b = re.search('\(.*).\d+\.tld', a)
+Rel_VALUE:   7.743025
+------------------------------------------------------
+RANK:   8
+TITLE:   Find roots of a function a x^n + bx - c = 0 where n isn't an integer with Numpy?
+Rel_VALUE:   7.738640
+------------------------------------------------------
+RANK:   9
+TITLE:   find `A` raised to `B`, then you need to multiply A to itself B number of times
+Rel_VALUE:   7.690871
+------------------------------------------------------
+RANK:   10
+TITLE:   Solving matrix equation A B = C. with B(n* 1) and C(n *1)
+Rel_VALUE:   7.679176
+------------------------------------------------------
+:::INFO:::original_query --- §­§ñ§á §Ó §±§Ú§ä§à§ß§Ö: x + 1.0 &lt; x
+:::INFO:::translated_query --- up in the §á§Ú§ä§à§ß§Ö: x + 1.0 & lt; x
+:::INFO:::input query terms list is as following
+['§á§Ú§ä§à§ß§Ö:', 'x', '+', '1', '.', '0', '&', 'lt', 'x']
+:::INFO:::start matching on query 37
+:::INFO:::37 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Reverse for 'x' with arguments '(1,)' not found. 1 pattern(s) tried: ['grupe/(?P&lt;grupa_id&gt;[0-9]+)/(?P&lt;elev_id&gt;[0-9]+)/$']
+Rel_VALUE:   7.828331
+------------------------------------------------------
+RANK:   2
+TITLE:   How can I solve x + 1 &lt; 2 in Sympy?
+Rel_VALUE:   7.278697
+------------------------------------------------------
+RANK:   3
+TITLE:   plot 3d surface with x+y&lt;=1 in python
+Rel_VALUE:   7.278697
+------------------------------------------------------
+RANK:   4
+TITLE:   Python: 2.6:Trying to build a statement like exec('if' + varname + '&lt; 1.0:')
+Rel_VALUE:   7.035408
+------------------------------------------------------
+RANK:   5
+TITLE:   How to generate all points in Python for 0&lt; x_1+x_2+x_3&lt;1, x_1&gt;0,x_2&gt;0,x_3&gt;0, say dx=0.01
+Rel_VALUE:   7.035408
+------------------------------------------------------
+RANK:   6
+TITLE:   Generate combinations with 9 floats from 0.999 to 0.000 where i+1 &lt; i
+Rel_VALUE:   7.035408
+------------------------------------------------------
+RANK:   7
+TITLE:   swig C++-&gt;Python 2.X conversion and method's arguments
+Rel_VALUE:   6.995214
+------------------------------------------------------
+RANK:   8
+TITLE:   How to plot (1+x)(1+y)&gt;=20?
+Rel_VALUE:   6.921103
+------------------------------------------------------
+RANK:   9
+TITLE:   Reverse for 'course_detail' with arguments '()' and keyword arguments '{u'cd': ''}' not found. 1 pattern(s) tried: ['courses/(?P&lt;cd&gt;\\d+)/$']
+Rel_VALUE:   6.863739
+------------------------------------------------------
+RANK:   10
+TITLE:   Reverse for 'results' with arguments '('',)' and keyword arguments '{}' not found. 1 pattern(s) tried: ['polls/(?P&lt;Album_id&gt;[0-9]+)/results/$']
+Rel_VALUE:   6.863739
+------------------------------------------------------
+:::INFO:::all query list checked
+
+Process finished with exit code 0

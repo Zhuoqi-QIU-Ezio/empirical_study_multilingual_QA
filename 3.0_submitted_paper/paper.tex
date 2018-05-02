@@ -1,0 +1,152 @@
+\documentclass[format=acmsmall, review=false, screen=true, anonymous=true, table]{acmart}
+
+\usepackage{booktabs} % For formal tables
+\usepackage{tabularx}
+\usepackage{color, colortbl}
+\usepackage{tabu}
+
+
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{textcomp}
+\usepackage{siunitx}
+%\pgfplotsset{compat=1.12}
+%\usepackage{pgf-pie}
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[russian,french,english]{babel}
+\usepackage{wasysym}
+\usepackage{comment}
+\usepackage{subfigure}
+\usepackage{indentfirst}
+
+
+\usepackage[ruled]{algorithm2e} % For algorithms
+\renewcommand{\algorithmcfname}{ALGORITHM}
+\SetAlFnt{\small}
+\SetAlCapFnt{\small}
+\SetAlCapNameFnt{\small}
+\SetAlCapHSkip{0pt}
+\IncMargin{-\parindent}
+
+
+% Metadata Information
+\acmJournal{PACMHCI}
+\acmVolume{9}
+\acmNumber{4}
+\acmArticle{39}
+\acmYear{2010}
+\acmMonth{3}
+\copyrightyear{2009}
+%\acmArticleSeq{9}
+
+% Copyright
+%\setcopyright{acmcopyright}
+\setcopyright{acmlicensed}
+%\setcopyright{rightsretained}
+%\setcopyright{usgov}
+%\setcopyright{usgovmixed}
+%\setcopyright{cagov}
+%\setcopyright{cagovmixed}
+
+% DOI
+\acmDOI{0000001.0000001}
+
+% Paper history
+\received{February 2007}
+\received[revised]{March 2009}
+\received[accepted]{June 2009}
+
+
+
+
+
+
+\begin{document}
+	%
+	% paper title
+	% can use linebreaks \\ within to get better formatting as desired
+%	\title{Towards Bridging the Gap between Multilingual Q\&A Communities with Deep Learning \\
+%		\large ---An Empirical Study of Russian Stack Overflow}
+
+
+%\title[Multi-lingual Stack Overflow]{In Favor of or Against Multi-Lingual Q\&A Sites?: Exploring the Benefits and Concerns of Launching Multi-lingual Q\&A Sites}
+
+\title[Multi-lingual Stack Overflow]{In Favor of or Against Multi-Lingual Q\&A Sites? Exploring the Evidences from User and Knowledge Perspectives}
+	
+\begin{abstract}
+Many Q\&A sites initially run only in English, and then gradually release their multi-lingual variants to serve users who speak other languages.
+The launch of such multi-lingual sites always leads to intense dispute about the pros and cons of multi-lingual sites.
+Although all arguments and concerns sound reasonable, people can rarely provide solid evidence to convince each other.
+In this paper, from users' comments about the launch of several non-English Stack Overflow sites, we first identify three major concerns including community split, knowledge needs and interests in other languages, and knowledge fragmentation and duplication.
+To validate these three concerns, we conduct an evidence-based data analysis and comparison of user characteristics, tag usage and cross-site links between the Russian Stack Overflow and the English Stack Overflow on these three concerns.
+Our study sheds the light on the existence value and risks of multi-lingual Q\&A sites.
+
+       
+\end{abstract}
+
+\begin{comment}
+Q\&A sites are emerging as a knowledge sharing and acquisition platform for different users, but most of them run in only one language (mostly English).
+As not everyone can ask or answer questions in English, many Q\&A sites now begin to release their multi-lingual variants to serve users who speak other languages.
+For example, in addition to the main English Stack Overflow, we now have Russian, Portuguese, Spanish and Japanese Stack Overflow.
+The launch of such multi-lingual sites always leads to intense dispute about the pros and cons of multi-lingual sites.
+Although all arguments and concerns sound reasonable, people can rarely provide solid evidence of their arguments and concerns to convince each other.
+In this paper, from the users' comments about the launch of several non-English Stack Overflow sites, we first identify three major concerns including community split, knowledge needs and interests in other languages, and knowledge fragmentation and duplication.
+We then conduct an evidence-based data analysis and comparison of user characteristics, tag usage and cross-site links between the Russian Stack Overflow and the English Stack Overflow on these three concerns.
+Our results show that some special knowledge needs and interests in non-English languages warrant the value of multi-lingual Q\&A sites, and multi-lingual Q\&A sites do not result in community split.
+However, knowledge fragmentation and duplication across multi-lingual sites is a valid concern.
+Although manual cross-site linking can partially deal with this issue, the extent of knowledge fragmentation and duplication calls for automated cross-site linking and cross-site translation support.
+%the concerns are not significant and validate the value of multi-lingual variants
+\end{comment}
+
+\begin{CCSXML}
+	<ccs2012>
+	<concept>
+	<concept_id>10003120.10003130</concept_id>
+	<concept_desc>Human-centered computing~Collaborative and social computing</concept_desc>
+	<concept_significance>300</concept_significance>
+	</concept>
+	</ccs2012>
+\end{CCSXML}
+
+
+%\ccsdesc[500]{Applied computing~Text editing}
+\ccsdesc[300]{Human-centered computing~Collaborative and social computing}
+
+%
+% End generated code
+%
+
+
+\keywords{Multi-lingual Q\&A Site; Stack Overflow; Community Split; Knowledge Needs and Interests; Knowledge Fragmentation and Duplication; Cross-Lingual Retrieval}
+
+% make the title area
+\maketitle
+	
+	
+	% For peer review papers, you can put extra information on the cover
+	% page as needed:
+	% \ifCLASSOPTIONpeerreview
+	% \begin{center} \bfseries EDICS Category: 3-BBND \end{center}
+	% \fi
+	%
+	% For peerreview papers, this IEEEtran command inserts a page break and
+	% creates the second title. It will be ignored for other modes.
+	
+	\input{introduction}
+	\input{relatedWork}
+	\input{motivation}
+	\input{empiricalStudy_tag}
+	\input{empiricalStudy_user}
+	\input{empiricalStudy_link}
+	\input{discussion}
+	\input{conclusion}
+	
+	\bibliographystyle{ACM-Reference-Format}
+    \bibliography{reference}	
+
+	
+	% that's all folks
+\end{document}
+
+

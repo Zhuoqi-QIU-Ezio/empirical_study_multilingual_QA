@@ -1,0 +1,507 @@
+%%% -*-BibTeX-*-
+%%% Do NOT edit. File created by BibTeX with style
+%%% ACM-Reference-Format-Journals [18-Jan-2012].
+
+\begin{thebibliography}{38}
+
+%%% ====================================================================
+%%% NOTE TO THE USER: you can override these defaults by providing
+%%% customized versions of any of these macros before the \bibliography
+%%% command.  Each of them MUST provide its own final punctuation,
+%%% except for \shownote{}, \showDOI{}, and \showURL{}.  The latter two
+%%% do not use final punctuation, in order to avoid confusing it with
+%%% the Web address.
+%%%
+%%% To suppress output of a particular field, define its macro to expand
+%%% to an empty string, or better, \unskip, like this:
+%%%
+%%% \newcommand{\showDOI}[1]{\unskip}   % LaTeX syntax
+%%%
+%%% \def \showDOI #1{\unskip}           % plain TeX syntax
+%%%
+%%% ====================================================================
+
+\ifx \showCODEN    \undefined \def \showCODEN     #1{\unskip}     \fi
+\ifx \showDOI      \undefined \def \showDOI       #1{#1}\fi
+\ifx \showISBNx    \undefined \def \showISBNx     #1{\unskip}     \fi
+\ifx \showISBNxiii \undefined \def \showISBNxiii  #1{\unskip}     \fi
+\ifx \showISSN     \undefined \def \showISSN      #1{\unskip}     \fi
+\ifx \showLCCN     \undefined \def \showLCCN      #1{\unskip}     \fi
+\ifx \shownote     \undefined \def \shownote      #1{#1}          \fi
+\ifx \showarticletitle \undefined \def \showarticletitle #1{#1}   \fi
+\ifx \showURL      \undefined \def \showURL       {\relax}        \fi
+% The following commands are used for tagged output and should be
+% invisible to TeX
+\providecommand\bibfield[2]{#2}
+\providecommand\bibinfo[2]{#2}
+\providecommand\natexlab[1]{#1}
+\providecommand\showeprint[2][]{arXiv:#2}
+
+\bibitem[\protect\citeauthoryear{??}{web}{2009a}]%
+        {web:associationBonus}
+ \bibinfo{year}{2009}\natexlab{a}.
+\newblock \bibinfo{title}{Cross-Site Account Associations}.
+\newblock
+  \bibinfo{howpublished}{\url{https://stackoverflow.blog/2009/07/08/cross-site-account-associations/}}.
+    (\bibinfo{year}{2009}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2009b}]%
+        {web:SOdiscussion4}
+ \bibinfo{year}{2009}\natexlab{b}.
+\newblock \bibinfo{title}{Do posts have to be in English on Stack Exchange?}
+\newblock
+  \bibinfo{howpublished}{\url{https://meta.stackexchange.com/questions/13676/do-posts-have-to-be-in-english-on-stack-exchange/13684}}.
+    (\bibinfo{year}{2009}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2009c}]%
+        {web:SOenligsh}
+ \bibinfo{year}{2009}\natexlab{c}.
+\newblock \bibinfo{title}{Non-English Question Policy}.
+\newblock
+  \bibinfo{howpublished}{\url{http://blog.stackoverflow.com/2009/07/non-english-question-policy/}}.
+    (\bibinfo{year}{2009}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2013a}]%
+        {web:SOdiscussion1}
+ \bibinfo{year}{2013}\natexlab{a}.
+\newblock \bibinfo{title}{Do the benefits of having SO in multiple languages
+  outweigh the risks involved?}
+\newblock
+  \bibinfo{howpublished}{\url{https://meta.stackexchange.com/questions/194959/do-the-benefits-of-having-so-in-multiple-languages-outweigh-the-risks-involved}}.
+    (\bibinfo{year}{2013}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2013b}]%
+        {web:SOdiscussion2}
+ \bibinfo{year}{2013}\natexlab{b}.
+\newblock \bibinfo{title}{Should Spanish SO ( and all the similar variants) be
+  closed?}
+\newblock
+  \bibinfo{howpublished}{\url{https://meta.stackexchange.com/questions/187805/should-spanish-so-and-all-the-similar-variants-be-closed}}.
+    (\bibinfo{year}{2013}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2014a}]%
+        {web:SOportugese2}
+ \bibinfo{year}{2014}\natexlab{a}.
+\newblock \bibinfo{title}{Announcing Stack Overflow in Portuguese.}
+\newblock
+  \bibinfo{howpublished}{\url{http://blog.stackoverflow.com/2014/01/ola-mundo-announcing-stack-overflow-in-portuguese/}}.
+    (\bibinfo{year}{2014}).
+\newblock
+\newblock
+\shownote{Accessed: 2017-05-01.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2014b}]%
+        {web:SOdiscussion6}
+ \bibinfo{year}{2014}\natexlab{b}.
+\newblock \bibinfo{title}{Can't We All be Reasonable and Speak English?}
+\newblock
+  \bibinfo{howpublished}{\url{https://stackoverflow.blog/2014/02/13/cant-we-all-be-reasonable-and-speak-english/}}.
+    (\bibinfo{year}{2014}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2014c}]%
+        {web:SOdiscussion5}
+ \bibinfo{year}{2014}\natexlab{c}.
+\newblock \bibinfo{title}{Fluent in Spanish? We're hiring a Community Manager
+  for a Spanish Stack Overflow}.
+\newblock
+  \bibinfo{howpublished}{\url{https://meta.stackoverflow.com/questions/271998/fluent-in-spanish-were-hiring-a-community-manager-for-a-spanish-stack-overflow}}.
+    (\bibinfo{year}{2014}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2014d}]%
+        {web:SOjapanese}
+ \bibinfo{year}{2014}\natexlab{d}.
+\newblock \bibinfo{title}{Stack Overflow in Japanese}.
+\newblock
+  \bibinfo{howpublished}{\url{http://blog.stackoverflow.com/2014/12/stack-overflow-in-japanese/}}.
+    (\bibinfo{year}{2014}).
+\newblock
+\newblock
+\shownote{Accessed: 2017-05-01.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2014e}]%
+        {web:SOdiscussion3}
+ \bibinfo{year}{2014}\natexlab{e}.
+\newblock \bibinfo{title}{When will other sites follow Stack Overflow
+  Portuguese}.
+\newblock
+  \bibinfo{howpublished}{\url{https://meta.stackexchange.com/questions/236890/when-will-other-sites-follow-stack-overflow-portuguese/236892}}.
+    (\bibinfo{year}{2014}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2015a}]%
+        {web:SOportugese1}
+ \bibinfo{year}{2015}\natexlab{a}.
+\newblock \bibinfo{title}{Stack Overflow in Portugese: now with less beta!}
+\newblock
+  \bibinfo{howpublished}{\url{http://blog.stackoverflow.com/2015/06/stack-overflow-in-portuguese-now-with-less-beta/}}.
+    (\bibinfo{year}{2015}).
+\newblock
+\newblock
+\shownote{Accessed: 2017-05-01.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2015b}]%
+        {web:SOrussian}
+ \bibinfo{year}{2015}\natexlab{b}.
+\newblock \bibinfo{title}{Welcome, Nicolas Chabanovsky and Stack Overflow in
+  Russian!}
+\newblock
+  \bibinfo{howpublished}{\url{http://blog.stackoverflow.com/2015/06/welcome-nicolas-chabanovsky-and-stack-overflow-in-russian/}}.
+    (\bibinfo{year}{2015}).
+\newblock
+\newblock
+\shownote{Accessed: 2017-05-01.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2016}]%
+        {web:QuoraDiscussion}
+ \bibinfo{year}{2016}\natexlab{}.
+\newblock \bibinfo{title}{Quora in Spanish is Now Open to the World}.
+\newblock
+  \bibinfo{howpublished}{\url{https://blog.quora.com/Quora-in-Spanish-is-Now-Open-to-the-World}}.
+    (\bibinfo{year}{2016}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2017}]%
+        {web:SOspanish}
+ \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{Stack Overflow en Español has Graduated!}
+\newblock
+  \bibinfo{howpublished}{\url{https://stackoverflow.blog/2017/05/20/stack-overflow-en-espanol-graduated/}}.
+    (\bibinfo{year}{2017}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2018a}]%
+        {web:googleTranslate}
+ \bibinfo{year}{2018}\natexlab{a}.
+\newblock \bibinfo{title}{Google Translate}.
+\newblock \bibinfo{howpublished}{\url{https://cloud.google.com/translate}}.
+  (\bibinfo{year}{2018}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-01.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2018b}]%
+        {web:StackExchange}
+ \bibinfo{year}{2018}\natexlab{b}.
+\newblock \bibinfo{title}{Stack Exchange Sites}.
+\newblock \bibinfo{howpublished}{\url{https://stackexchange.com/sites}}.
+  (\bibinfo{year}{2018}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-03-25.}
+
+
+\bibitem[\protect\citeauthoryear{??}{web}{2018c}]%
+        {web:WikipediaMultiLingual}
+ \bibinfo{year}{2018}\natexlab{c}.
+\newblock \bibinfo{title}{Wikipedia:Translate us}.
+\newblock
+  \bibinfo{howpublished}{\url{https://en.wikipedia.org/wiki/Wikipedia:Translate_us}}.
+    (\bibinfo{year}{2018}).
+\newblock
+\newblock
+\shownote{Accessed: 2018-04-15.}
+
+
+\bibitem[\protect\citeauthoryear{Adar, Skinner, and Weld}{Adar
+  et~al\mbox{.}}{2009}]%
+        {adar2009information}
+\bibfield{author}{\bibinfo{person}{Eytan Adar}, \bibinfo{person}{Michael
+  Skinner}, {and} \bibinfo{person}{Daniel~S Weld}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Information arbitrage across multi-lingual
+  Wikipedia}. In \bibinfo{booktitle}{{\em Proceedings of the Second ACM
+  International Conference on Web Search and Data Mining}}. ACM,
+  \bibinfo{pages}{94--103}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Bao, Hecht, Carton, Quaderi, Horn, and
+  Gergle}{Bao et~al\mbox{.}}{2012}]%
+        {bao2012omnipedia}
+\bibfield{author}{\bibinfo{person}{Patti Bao}, \bibinfo{person}{Brent Hecht},
+  \bibinfo{person}{Samuel Carton}, \bibinfo{person}{Mahmood Quaderi},
+  \bibinfo{person}{Michael Horn}, {and} \bibinfo{person}{Darren Gergle}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Omnipedia: bridging the wikipedia language gap}. In
+  \bibinfo{booktitle}{{\em Proceedings of the SIGCHI Conference on Human
+  Factors in Computing Systems}}. ACM, \bibinfo{pages}{1075--1084}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chen, Xing, and Han}{Chen
+  et~al\mbox{.}}{2016b}]%
+        {chen2016techland}
+\bibfield{author}{\bibinfo{person}{Chunyang Chen}, \bibinfo{person}{Zhenchang
+  Xing}, {and} \bibinfo{person}{Lei Han}.} \bibinfo{year}{2016}\natexlab{b}.
+\newblock \showarticletitle{Techland: Assisting technology landscape inquiries
+  with insights from stack overflow}. In \bibinfo{booktitle}{{\em Software
+  Maintenance and Evolution (ICSME), 2016 IEEE International Conference on}}.
+  IEEE, \bibinfo{pages}{356--366}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Chen, Chen, Xing, and Xu}{Chen
+  et~al\mbox{.}}{2016a}]%
+        {chen2016learning}
+\bibfield{author}{\bibinfo{person}{Guibin Chen}, \bibinfo{person}{Chunyang
+  Chen}, \bibinfo{person}{Zhenchang Xing}, {and} \bibinfo{person}{Bowen Xu}.}
+  \bibinfo{year}{2016}\natexlab{a}.
+\newblock \showarticletitle{Learning a dual-language vector space for
+  domain-specific cross-lingual question retrieval}. In
+  \bibinfo{booktitle}{{\em Automated Software Engineering (ASE), 2016 31st
+  IEEE/ACM International Conference on}}. IEEE, \bibinfo{pages}{744--755}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Conneau, Kiela, Schwenk, Barrault, and
+  Bordes}{Conneau et~al\mbox{.}}{2017}]%
+        {conneau2017supervised}
+\bibfield{author}{\bibinfo{person}{Alexis Conneau}, \bibinfo{person}{Douwe
+  Kiela}, \bibinfo{person}{Holger Schwenk}, \bibinfo{person}{Loic Barrault},
+  {and} \bibinfo{person}{Antoine Bordes}.} \bibinfo{year}{2017}\natexlab{}.
+\newblock \showarticletitle{Supervised learning of universal sentence
+  representations from natural language inference data}.
+\newblock  (\bibinfo{year}{2017}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Filatova}{Filatova}{2009}]%
+        {filatova2009multilingual}
+\bibfield{author}{\bibinfo{person}{Elena Filatova}.}
+  \bibinfo{year}{2009}\natexlab{}.
+\newblock \showarticletitle{Multilingual wikipedia, summarization, and
+  information trustworthiness}. In \bibinfo{booktitle}{{\em SIGIR workshop on
+  information access in a multilingual world}}, Vol.~\bibinfo{volume}{3}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Hecht and Gergle}{Hecht and Gergle}{2010}]%
+        {hecht2010tower}
+\bibfield{author}{\bibinfo{person}{Brent Hecht} {and} \bibinfo{person}{Darren
+  Gergle}.} \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{The tower of Babel meets web 2.0: user-generated
+  content and its applications in a multilingual context}. In
+  \bibinfo{booktitle}{{\em Proceedings of the SIGCHI conference on human
+  factors in computing systems}}. ACM, \bibinfo{pages}{291--300}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Jolliffe}{Jolliffe}{1986}]%
+        {jolliffe1986principal}
+\bibfield{author}{\bibinfo{person}{Ian~T Jolliffe}.}
+  \bibinfo{year}{1986}\natexlab{}.
+\newblock \showarticletitle{Principal component analysis and factor analysis}.
+\newblock In \bibinfo{booktitle}{{\em Principal component analysis}}.
+  \bibinfo{publisher}{Springer}, \bibinfo{pages}{115--128}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kiros, Zhu, Salakhutdinov, Zemel, Urtasun,
+  Torralba, and Fidler}{Kiros et~al\mbox{.}}{2015}]%
+        {kiros2015skip}
+\bibfield{author}{\bibinfo{person}{Ryan Kiros}, \bibinfo{person}{Yukun Zhu},
+  \bibinfo{person}{Ruslan~R Salakhutdinov}, \bibinfo{person}{Richard Zemel},
+  \bibinfo{person}{Raquel Urtasun}, \bibinfo{person}{Antonio Torralba}, {and}
+  \bibinfo{person}{Sanja Fidler}.} \bibinfo{year}{2015}\natexlab{}.
+\newblock \showarticletitle{Skip-thought vectors}. In \bibinfo{booktitle}{{\em
+  Advances in neural information processing systems}}.
+  \bibinfo{pages}{3294--3302}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Kumaran, Datha, Ashok, Saravanan, Ande,
+  Sharma, Vedantham, Natampally, Dendi, and Maurice}{Kumaran
+  et~al\mbox{.}}{2010}]%
+        {kumaran2010wikibabel}
+\bibfield{author}{\bibinfo{person}{A Kumaran}, \bibinfo{person}{Naren Datha},
+  \bibinfo{person}{B Ashok}, \bibinfo{person}{K Saravanan},
+  \bibinfo{person}{Anil Ande}, \bibinfo{person}{Ashwani Sharma},
+  \bibinfo{person}{Sridhar Vedantham}, \bibinfo{person}{Vidya Natampally},
+  \bibinfo{person}{Vikram Dendi}, {and} \bibinfo{person}{Sandor Maurice}.}
+  \bibinfo{year}{2010}\natexlab{}.
+\newblock \showarticletitle{WikiBABEL: A system for multilingual Wikipedia
+  Content}. In \bibinfo{booktitle}{{\em American Machine Translation
+  Association (AMTA) Workshop}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mamykina, Manoim, Mittal, Hripcsak, and
+  Hartmann}{Mamykina et~al\mbox{.}}{2011}]%
+        {mamykina2011design}
+\bibfield{author}{\bibinfo{person}{Lena Mamykina}, \bibinfo{person}{Bella
+  Manoim}, \bibinfo{person}{Manas Mittal}, \bibinfo{person}{George Hripcsak},
+  {and} \bibinfo{person}{Bj{\"o}rn Hartmann}.} \bibinfo{year}{2011}\natexlab{}.
+\newblock \showarticletitle{Design lessons from the fastest q\&a site in the
+  west}. In \bibinfo{booktitle}{{\em Proceedings of the SIGCHI conference on
+  Human factors in computing systems}}. ACM, \bibinfo{pages}{2857--2866}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mihalcea and Tarau}{Mihalcea and
+  Tarau}{2004}]%
+        {mihalcea2004textrank}
+\bibfield{author}{\bibinfo{person}{Rada Mihalcea} {and} \bibinfo{person}{Paul
+  Tarau}.} \bibinfo{year}{2004}\natexlab{}.
+\newblock \showarticletitle{Textrank: Bringing order into text}. In
+  \bibinfo{booktitle}{{\em Proceedings of the 2004 conference on empirical
+  methods in natural language processing}}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Mikolov, Sutskever, Chen, Corrado, and
+  Dean}{Mikolov et~al\mbox{.}}{2013}]%
+        {mikolov2013distributed}
+\bibfield{author}{\bibinfo{person}{Tomas Mikolov}, \bibinfo{person}{Ilya
+  Sutskever}, \bibinfo{person}{Kai Chen}, \bibinfo{person}{Greg~S Corrado},
+  {and} \bibinfo{person}{Jeff Dean}.} \bibinfo{year}{2013}\natexlab{}.
+\newblock \showarticletitle{Distributed representations of words and phrases
+  and their compositionality}. In \bibinfo{booktitle}{{\em Advances in neural
+  information processing systems}}. \bibinfo{pages}{3111--3119}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sparck~Jones}{Sparck~Jones}{1972}]%
+        {sparck1972statistical}
+\bibfield{author}{\bibinfo{person}{Karen Sparck~Jones}.}
+  \bibinfo{year}{1972}\natexlab{}.
+\newblock \showarticletitle{A statistical interpretation of term specificity
+  and its application in retrieval}.
+\newblock \bibinfo{journal}{{\em Journal of documentation\/}}
+  \bibinfo{volume}{28}, \bibinfo{number}{1} (\bibinfo{year}{1972}),
+  \bibinfo{pages}{11--21}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Sutskever, Vinyals, and Le}{Sutskever
+  et~al\mbox{.}}{2014}]%
+        {sutskever2014sequence}
+\bibfield{author}{\bibinfo{person}{Ilya Sutskever}, \bibinfo{person}{Oriol
+  Vinyals}, {and} \bibinfo{person}{Quoc~V Le}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Sequence to sequence learning with neural
+  networks}. In \bibinfo{booktitle}{{\em Advances in neural information
+  processing systems}}. \bibinfo{pages}{3104--3112}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Wu, and Tsai}{Wang
+  et~al\mbox{.}}{2014}]%
+        {wang2014cross}
+\bibfield{author}{\bibinfo{person}{Yu-Chun Wang}, \bibinfo{person}{Chun-Kai
+  Wu}, {and} \bibinfo{person}{Richard Tzong-Han Tsai}.}
+  \bibinfo{year}{2014}\natexlab{}.
+\newblock \showarticletitle{Cross-language and Cross-encyclopedia Article
+  Linking Using Mixed-language Topic Model and Hypernym Translation}. In
+  \bibinfo{booktitle}{{\em Proceedings of the 52nd Annual Meeting of the
+  Association for Computational Linguistics (Volume 2: Short Papers)}},
+  Vol.~\bibinfo{volume}{2}. \bibinfo{pages}{586--591}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wang, Li, Wang, and Tang}{Wang
+  et~al\mbox{.}}{2012}]%
+        {wang2012cross}
+\bibfield{author}{\bibinfo{person}{Zhichun Wang}, \bibinfo{person}{Juanzi Li},
+  \bibinfo{person}{Zhigang Wang}, {and} \bibinfo{person}{Jie Tang}.}
+  \bibinfo{year}{2012}\natexlab{}.
+\newblock \showarticletitle{Cross-lingual knowledge linking across wiki
+  knowledge bases}. In \bibinfo{booktitle}{{\em Proceedings of the 21st
+  international conference on World Wide Web}}. ACM, \bibinfo{pages}{459--468}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wu, Schuster, Chen, Le, Norouzi, Macherey,
+  Krikun, Cao, Gao, Macherey, et~al\mbox{.}}{Wu et~al\mbox{.}}{2016}]%
+        {wu2016google}
+\bibfield{author}{\bibinfo{person}{Yonghui Wu}, \bibinfo{person}{Mike
+  Schuster}, \bibinfo{person}{Zhifeng Chen}, \bibinfo{person}{Quoc~V Le},
+  \bibinfo{person}{Mohammad Norouzi}, \bibinfo{person}{Wolfgang Macherey},
+  \bibinfo{person}{Maxim Krikun}, \bibinfo{person}{Yuan Cao},
+  \bibinfo{person}{Qin Gao}, \bibinfo{person}{Klaus Macherey}, {et~al\mbox{.}}}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Google's neural machine translation system:
+  Bridging the gap between human and machine translation}.
+\newblock \bibinfo{journal}{{\em arXiv preprint arXiv:1609.08144\/}}
+  (\bibinfo{year}{2016}).
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Wulczyn, West, Zia, and Leskovec}{Wulczyn
+  et~al\mbox{.}}{2016}]%
+        {wulczyn2016growing}
+\bibfield{author}{\bibinfo{person}{Ellery Wulczyn}, \bibinfo{person}{Robert
+  West}, \bibinfo{person}{Leila Zia}, {and} \bibinfo{person}{Jure Leskovec}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Growing wikipedia across languages via
+  recommendation}. In \bibinfo{booktitle}{{\em Proceedings of the 25th
+  International Conference on World Wide Web}}. International World Wide Web
+  Conferences Steering Committee, \bibinfo{pages}{975--985}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Xu, Xing, Xia, Lo, Wang, and Li}{Xu
+  et~al\mbox{.}}{2016}]%
+        {xu2016domain}
+\bibfield{author}{\bibinfo{person}{Bowen Xu}, \bibinfo{person}{Zhenchang Xing},
+  \bibinfo{person}{Xin Xia}, \bibinfo{person}{David Lo},
+  \bibinfo{person}{Qingye Wang}, {and} \bibinfo{person}{Shanping Li}.}
+  \bibinfo{year}{2016}\natexlab{}.
+\newblock \showarticletitle{Domain-specific cross-language relevant question
+  retrieval}. In \bibinfo{booktitle}{{\em Proceedings of the 13th International
+  Conference on Mining Software Repositories}}. ACM, \bibinfo{pages}{413--424}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Zar}{Zar}{1998}]%
+        {zar1998spearman}
+\bibfield{author}{\bibinfo{person}{Jerrold~H Zar}.}
+  \bibinfo{year}{1998}\natexlab{}.
+\newblock \showarticletitle{Spearman rank correlation}.
+\newblock \bibinfo{journal}{{\em Encyclopedia of Biostatistics\/}}
+  (\bibinfo{year}{1998}).
+\newblock
+
+
+\end{thebibliography}

@@ -1,0 +1,137 @@
+\section{Experiments}
+In this section, we carry out several experiments to evaluate the effectiveness of our approach and also compare it with several baselines to show its ability. 
+%Selecting some approaches as baselines, our approach needs to be compared with these traditional ones and advanced ones to show its efficiency.
+
+\subsection{Evaluation Procedures}
+%The goal of our model is to help bridge the gap between Russian Stack Overflow and Stack Overflow, so we should measure the recommendation quality, given the Russian query.
+Given all datasets, we randomly divide the duplicate question pairs into three groups that 80\% for training, 10\% for validation and 10\% for testing. 
+Within the testing set, we randomly pick one question in the pair as the query, and all other questions in Stack Overflow as candidates.
+Then the rank of the other question in the pair represents the quality of our recommendation, i.e., the higher it is, the better recommendation.
+As the input of this experiment is in English, then we carry out another experiment with Russian input.
+We randomly sample 100 Russian questions in Russian Stack Overflow as the query, then we manually check the recommendation results.
+The results of two experiments will be discussed in detail later.
+ 
+\begin{comment}
+The 80\% subset is mix up with 0.15 million non-duplicate pairs for training the DSSM model, the first 10\% subset is used for validation, and the last 10\% subset is used for the comparison process between our approach and the baselines. 
+The main data source of our research is from the Stack Exchange data dump of  1st Sep. 2017 [1]. As all the duplicate pairs have been manually marked by experts on Stack Overflow, we can collect 0.31 million duplicate question pairs. In addition, we can generate as many non-duplicate question pairs as we want.  \par
+\end{comment}
+
+\subsection{Baseline Building}
+In this paper, we developed two baselines, Term Frequency-Inverse Document Frequency (TF-IDF) and The Word-n-Grams Letter-Trigram(CLSM) to compare with our model.
+
+\subsubsection{TF-IDF}
+TF-IDF~\cite{??} is a widely-used approach for information retrieval by measuring textual similarity with cosine distance. 
+This method is a statistical measure used to evaluate how important a word is to a document in a collection or corpus. 
+Term Frequency measures how frequently a term occurs in a document. 
+And Inverse Document Frequency measures how important a term is. 
+For this baseline development, we use the same tokenizer as we have used in our approach, and we build the IDF score based on the 80\% training data mentioned above.
+The equation of the weight for term in a document is showed in equation 2.\par
+\begin{normalsize}
+	\begin{equation}
+	Tf-Idf_{t,d} = Tf_{t,d} \cdot \log \frac{N}{df_t}
+	\end{equation}
+\end{normalsize}
+
+%By calculating the term frequency and inverse document frequency for each word in the total word set, we can easily get the cosine similarity for a question pair.
+
+\subsubsection{Word-n-Grams and Letter-Trigram CLSM}
+%The technical details of word-n-gram and letter-trigram have been illustrated in the Related Work part, so here only states the details of baseline development. \par	
+The main architecture of the Word-n-Grams and Letter-Trigram convolutional latent similarity model is in Figure 8. Firstly, we use the word-n-gram layer that uses a contextual sliding window to get the word trigram sequence of the input sentence. Secondly, there is a letter-trigram layer embedding each word trigram into the embedding space. Thirdly, the convolutional layer will combines the features for each word and both its neighbours. Then, the max-pooling layer transforms the word trigram features into a sentence level vector. Finally, the final semantic layer will represent the semantic level vector of an input sentence.  \par
+The input unit of this model includes a query, a positive sentence, and N negative sentences. And the output unit is a list of similarity whose sum is 1, which represents the similarity between each sentence with the query. So that this model is a good baseline for comparing the ranking functionality of our model in the ranking area.
+
+
+\subsection{Evaluation Metrics}
+To measure the quality of the recommendations, we adopt the widely-used evaluation metrics, {\bf Precision@k} (pre@k) and {\bf Mean Average Precision} (MAP). 
+%Given a question pair as input, we have a query and its {\bf Ground Truth} (GT). Simply evaluate the performance of our approach by calculating the metrics above. 
+\par
+{\bf Mean Average Precision} is the average value of all the testing queries.\par	
+\begin{normalsize}
+	\begin{equation}
+MAP = \frac{1}{|Q|}\sum_{j=1}^{|Q|}\frac{1}{m_j}{\sum_{k=1}^{mj}Precision(R_{jk})}
+	\end{equation}
+\end{normalsize}
+for query $q_j \epsilon Q$  containing relevance documents  $d_1$,$d_2$ ... $d_{mj}$,and $R_{jk}$ is the set of ranked results until document $d_k$. $\sum Precision$ divides by $m_j$ which is the total number of relevant documents.
+
+
+\subsection{Evaluation Results}
+%Some research problems related to the efficiency and functionality of our approach will be discussed and answered in this section.
+\begin{table}[!h]
+	\centering
+	\scriptsize
+	\begin{tabular}{l|llll}
+		\hline    
+		Method & Pre@1 & Pre@5 & Pre@10 & MAP \\
+		\hline
+        TF-IDF  &  0.096 & 0.159 & 0.191 & 0.129  \\
+		Word-n-Grams and Letter-Trigram CLSM  &  \textbf{0.245} & 0.361& 0.423 & 0.314 \\
+		Our Approach &  0.112 & \textbf{0.432} & \textbf{0.532} & \textbf{0.328} \\
+		\hline    
+		
+	\end{tabular} 
+	\label{tab:evaluation}
+	\caption{Overall comparison}
+\end{table}		
+
+\subsubsection{Retrieval Evaluation}
+
+%{\bf Question1: How much advantages the new approach have compared with the traditional approaches}
+The evaluation results of the first experiment can be seen in Table~\ref{tab:evaluation}.
+We can see among all three methods, the TF-IDF is the worst for all four metrics.
+The second baseline have the best performance in term of the Pre@1, but our approach behave better in the other three metrics.
+For example, compared with the second baseline, our approach has 19.7\%, 25.8\%, 4.5\% boost over Pre@5, Pre@10, and MAP respectively.
+So, overall, our method outperform the other two methods significantly.
+
+\begin{comment}
+Our semantic similarity model is based on the deep learning technique and uses word embedding to calculate the semantic similarity between two question titles, which is totally different with the traditional TF-IDF approach. And the comparison between these two approaches is in Table 5. Respectively, our DSSM model outperforms the baseline in several important criterions.
+%{\bf Question2: How much advantages the new approach have compared with the current deep learning approaches}
+The Table 6 also shows the comparison between the Word-n-Gram and Letter-Trigram CLSM baseline and our approach. 
+All the Pre@K metrics of our approach are higher than those of the baseline2 except Pr@1. Because the data we used to train our deep semantic similarity model is the duplicate pairs manually marked by experts of Stack Overflow community, there are many other highly similar questions are still not marked. 
+\par
+In addition, our mode is a binary classification model, so it basically divides all the questions into two types, which are duplicate and non-duplicate. However, some non-duplicate question pairs generated for training are not totally without relation, which means some questions that recommended by our approach should be very similar to the query, but they are not marked duplicate. 
+\par
+The results confirm us that our deep semantic similarity model is effective in the Information retrieval area. Generally, a user always needs to get a large number of relative posts by the recommendation system, and our approach is better than the Baseline2 when they both recommending a large number of posts.
+\par
+\end{comment}
+
+\subsubsection{Cross-lingual Question Retrieval Comparison}	
+	{\bf Question3: How does our approach performance in the cross-lingual question retrieval field?}
+To answer this question, we randomly take a hundred Russian Posts from Russian Stack Overflow, which own a lower number of answers than others. These Russian posts are considered as query input, and we adopt Google translate here to bridge the lingual gap. A black-box testing has been made by a lot of people to find out the efficiency and accuracy of our approach in the cross-lingual area. We collect all the recommendation posts generated by our approach and all the recommendation posts generated by the Baseline2. These two groups of recommendation questions are evaluated manually by volunteers. 
+
+\textcolor{red}{Where are the quantitative results?}
+
+The judgement criterion is the marks that each approach get from the volunteers. The best recommendation post can get 5 points while the worst can get 1 point. There are basically 5 level of recommendation from 1 to 5. The result is our approach is far more better than the Word-n-Grams and Letter-Trigram CLSM (Baseline 2). 
+\par Our approach is better in some cases. There are some examples in Table~\ref{tab:r_e_compare}.
+
+\begin{table*}
+	\tiny
+	\centering
+	
+	\caption{Retrieval  (Italic font for relevant results)}
+	\vspace{-2mm}
+	\begin{tabular}{p{13mm}|p{51mm}|p{49mm}|p{55mm}} \hline
+		  Query & {\scriptsize \foreignlanguage{russian}{Как в Eclipse собрать пример HelloJNI из Android NDK?}} \newline(How in Eclipse to build an example of HelloJNI from Android NDK?) 
+    		   & {\scriptsize \foreignlanguage{russian}{Мгновенная заливка файлов на FTP}} \newline (Instant file upload to FTP) 
+			   & {\scriptsize \foreignlanguage{russian}{Переход Swing MVC в Swing+Spring?}} \newline(Moving Swing MVC to Swing + Spring?) 
+		\\ \hline	 
+		Our approach
+			  & 1.\textit{Build Android NDK project in Windows}\newline \textit{2.How to make c-highlight in eclipse} \newline 3.\textit{intellisence in Eclipse with NDK}  
+			  
+			  
+              & 1.\textit{ubuntu server, php, ftp permissions}\newline 2.\textit{Checking FTP status codes with a PHP script}\newline 3.\textit{PHP and Creating Directories }
+              
+              
+              & 1.\textit{Spring Swing Integration}\newline 2.\textit{Java Swing: SpringLayout within BorderLayout}\newline 3.\textit{Java Swing Complex Form - SpringLayout} 
+              
+		\\ \hline
+		Word-n-Gram Letter-Trigram CLSM   & 1.\textit{Are there best practices for testing security in an agile development shop?} \newline 2.\textit{why doesn't vfp oledb provider work in 64 bit windows}\newline 3.\textit{What language do you use for postgresql triggers and stored procedured?} 
+		
+		
+				    	& 1.\textit{wrapping lists into columns}\newline 2.\textit{how do i get rid of the multiple describetype entries warning}\newline 3.\textit{http auth in a firefox 3 bookmarklet} 
+				    	
+				    	
+		                & 1.\textit{using 'in' to match an attribute of Python objects in an array}\newline 2.\textit{how can I create a directly executable cross platform GUI app using python}\newline 3.\textit{mechanisms for tracking db schema changes}
+		\\ \hline
+	\end{tabular}
+	\label{tab:r_e_compare}
+\vspace{-3mm}
+\end{table*}

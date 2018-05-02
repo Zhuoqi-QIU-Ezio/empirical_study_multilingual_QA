@@ -1,0 +1,94 @@
+
+\section{Related Work}
+There are many crowd-source knowledge-sharing websites in the world such as Q\&A websites (like Quora and Stack Overflow) and Wikipedia.
+Although most of them begin with only English, the support of other languages has beed added later to make the site more accessible to non-English speakers.
+There is a growing field of research on multilingual Wikipedia.
+The general consensus on multilingual Wikipedia is that while English (the largest language edition) has a content advantage, each language edition has a great deal of unique information that is not available in other language editions~\cite{filatova2009multilingual, hecht2010tower}.
+%, and most other information exists in only a few language editions
+In contrast, the launch of Q\&A sites in different languages has caused intense dispute, no matter for Stack Overflow~\cite{web:SOdiscussion1, web:SOdiscussion2} or Quora~\cite{web:QuoraDiscussion}. 
+Albeit bitter debate, it does not attract much attention from researchers to investigate multi-lingual Q\&A sites.
+Our work attempts to fill in such a gap by carrying out a quantitative empirical study of multi-lingual Stack Overflow sites to explore the evidences in favor of or against multi-lingual Q\&A sites.
+
+As Wikipedia now owns more than 200 different editions for different languages, it encourages users to translate articles from the English Wikipedia into other languages with official guideline~\cite{web:WikipediaMultiLingual}.
+However, as sorely manual translation is time-consuming and labor-extensive, many researchers propose methods to help cross-lingual linking~\cite{wang2012cross, wang2014cross, wulczyn2016growing}, or aid humans in propagating information from one Wikipedia (typically English) to another (typically a language edition with a small number of articles) by using machine translation~\cite{adar2009information, kumaran2010wikibabel, bao2012omnipedia}.
+
+There are also some works supporting multi-lingual retrieval specifically in Stack Overflow~\cite{xu2016domain, chen2016learning}.
+To find related questions in Stack Overflow, Xu et al.~\cite{xu2016domain} translated the Chinese query into English with online translation service, while Chen et al.~\cite{chen2016learning} mapped both Chinese queries and English questions into the same vector space for cross-lingual retrieval.
+Different from their works, we mainly focus on the validation of users' concerns of multi-lingual Q\&A sites including community split, knowledge interests and needs in other languages, and also knowledge fragmentation and duplication.
+We discuss the potential of extending our method in Section \ref{sec:crossLinking} for linking posts across multi-lingual sites, and also the feasibility of customising the state-of-the-art machine translation to help translate domain-specific posts in Section~\ref{sec:crossTranslation}. 
+
+\begin{comment}
+%\textcolor{red}{Some related work about multi-lingual Quora, Wikipedia...}
+\textcolor{orange}{Asking questions in natural language within a certain community and obtaining the exact domain-specific answers make the Q\&A websites becoming more and more powerful on information retrieval as well as generaing the searchable and valuable informaion for the community. Several reseaches shows that comparing with the general search enginesa a well-organized and highly active Q\&A community could be more useful for retrievaling relevant domain-specific information to the users who have such a need~\cite{dominique2006qabetter,Daniel2006adapting,Anne2006evaluation}. Thus, in the last decade, many crowd-source knowledge-sharing websites in the world have developed very fast, such as Q\&A websites (like Quora and Stack Overflow) and Wikipedia.}
+Although most of them begin with only English, the support of other languages has been added later to make the site more accessible to non-English speakers.
+There is a growing field of research on multilingual Wikipedia.
+The general consensus on multilingual Wikipedia is that while English (the largest language edition) has a content advantage, each language edition has a great deal of unique information not available in other language editions, and most other information exists in only a few language editions~\cite{filatova2009multilingual, hecht2010tower}.
+\textcolor{orange}{However, the multilingual and transliongual Q\&A systems is much more complex and difficult to run than multilingual Wikipedia.}
+\textcolor{orange}{The research conducted by Teruko et al~\cite{Teruko2006keyword}. addresses that the translation quality on the domain-specific keywords has significant influence to the performance of a cross-lingual Q\&A system developed from a monolingual one.}
+\textcolor{orange}{The research conducted by Soojung Kim et al~\cite{Soojung2008}. indicates that in a social Q\&A environment people share not only the specific information but also the subjective opinions and suggestions with a set of common criteria frequently used in people's relevance judgment regardless of the contexts. This could lead to the difficulty of yielding the most helpful answers for the asked questions on a Q\&A website.}
+\textcolor{orange}{There is also a research conducted by E.W.D.Whittaker et al.~\cite{EWD2006mono} addressing that the difficulty of building a cross-lingual system based on the English language database is the lack of the corresponding NLP tools in the target language. They addressed that the huge diversity on the grammar, syntax and semantics of different languages makes it very difficult to develop a multilingual NLP system. The global development plan of WordNet is an example which still only cover a relatively small number of languages after being ported to other languages rather than English. This lead to the gap between language-specific database and system.}
+However, few similar research works has been extended to Q\&A sites.
+Our work is trying to fill in such gap by carrying out a quantitative empirical study in Stack Overflow to investigate the effects of multi-lingual variants to their main site.
+As Wikipedia now owns more than 200 different editions for different languages, many research are helping cross-lingual linking~\cite{wang2012cross, wang2014cross, wulczyn2016growing}, or aid humans in propagating information from one Wikipedia (typically English) to another (typically a language edition with a small number of articles) by using machine translation~\cite{adar2009information, kumaran2010wikibabel, bao2012omnipedia}.
+There are also some works supporting multi-lingual retrieval in Stack Overflow~\cite{xu2016domain, chen2016learning}.
+In this work, we mainly focus on the validation of users' concerns of multi-lingual variants, but we also discuss the potential of extending our method in Section \textcolor{red}{??} for linking posts in multi-lingual site.
+We also discuss the feasibility of customising the state-of-the-art machine translation to help translate the accepted answers to the new sites. 
+
+	
+\end{comment}
+
+
+
+\begin{comment}
+This section introduces the related work of our paper. 
+We mainly present works about and the multi-lingual retrieval, especially in software engineering, then deep learning techniques in software engineering.
+\subsection{Q\&A Websites with Multiple Languages}
+With the development of internet, Q\&A websites have become vital knowledge base for users, especially the technical sites like Stack Overflow for the programmers. Information retrieval is a good approach to assist people utilizing the resource on these platforms. Researchers classify this topic into two main parts, which are document retrieval and code retrieval. For our study, we mainly focus on the document retrieval part. So far, a lot of heuristic research has been done in this particular area. They divide the relationship with two different questions into four types, which are Duplicate, Direct Link, Indirect Link and isolated, and formulate a multi-class classification approach, which is considered as a good future work for our approach.
+\par
+
+
+
+\subsection{Multi-lingual Retrieval}
+There are a lot of deep learning applications in the software engineering field and have made excellent results. Some effective tools like {\bf word2vec} and {\bf GloVe} [26]have been developed for learning words representation, which assists the researchers efficiently process the word embedding tasks. In our approach, we adopt GloVe to process the learning word representation tasks because it can achieve a high level of accuracy in a shorter time with using the negative samples.
+\par
+The semantic similarity is always a most attractive topic in the neuro-linguistic programming area. A lot of good approaches have been developed on this topic. For example, the model for detecting the question similarity [27] and the model for detecting relevant tweets [28]. These existing well-designed models formulate the problem into a binary classification problem, which is duplicate and non-duplicate.
+It is necessary to note that there are a number of experts manually mark the highly similar questions as duplicate ones on the Stack Exchange Site. Considering the data structure that we can mine, these binary classification approaches are highly responsive to our scenario and worthy for us to learn.
+\par
+A highly heuristic work has been carried out recently. As mentioned above, we generate 0.3 million of duplicate pairs for training the deep learning model. Somehow, the amount of training data might be small. Using post body as the corpus to pre-train an RCNN model for generating plenty of titles [29] can solve the problem with insufficient training data. We consider this approach as a good supplement for our model.
+
+There are also some multi-lingual retrieval works specifically in software engineering.
+A CNN cross-lingual domain specific model explored some doable methods to overcome the lingual gap [20]. 
+Another excellent work has been carried out on cross-lingual issues in software engineering. The cross-lingual bug localization[25] and the domain-specific multi-classification approach [18] are both focusing on the cross-lingual problem between English and Chinese.
+Compared with their works, we 
+
+
+\subsection{Deep Learning for Software Engineering}
+There are a lot of deep learning applications in the software engineering field and have made excellent results. Some effective tools like {\bf word2vec} and {\bf GloVe} have been developed for learning words representation, which assists the researchers efficiently process the word embedding tasks. In our approach, we adopt GloVe to process the learning word representation tasks because it can achieve a high level of accuracy in a shorter time with using the negative samples.
+\par
+The semantic similarity is always a most attractive topic in the neuro-linguistic programming area. A lot of good approaches have been developed on this topic. For example, the model for detecting the question similarity [9] and the model for detecting relevant tweets [10]. These existing well-designed models formulate the problem into a binary classification problem, which is duplicate and non-duplicate.
+It is necessary to note that there are a number of experts manually mark the highly similar questions as duplicate ones on the Stack Exchange Site. Considering the data structure that we can mine, these binary classification approaches are highly responsive to our scenario and worthy for us to learn.
+\par
+A highly heuristic work has been carried out recently. As mentioned above, we generate 0.3 million of duplicate pairs for training the deep learning model. Somehow, the amount of training data might be small. Using post body as the corpus to pre-train an RCNN model for generating plenty of titles [29] can solve the problem with insufficient training data. We consider this approach as a good supplement for our model.
+
+\end{comment}
+\begin{comment}
+		\subsection{Recommender System}
+	Generally, recommender system generates the recommendation in two ways, one is collaborative and content-based filtering and the other is personality-based approach [6]. The measure of a recommender system is the efficiency and accuracy. On the Q\&A websites, there are already exist many recommendation engines, users can easily input the search keyword and the searching engine will automatically return a list of answers. However, this form of recommender system can only utilize a large number of resource, it is not the best approach in the other aspects. \par
+	
+	There are some studies carried out in this area with different aims like recommending relative papers or programming analogical libraries [7, 8]. The later one is highly heuristic because the analogical libraries cannot be recommended by the current search engine, the traditional way is manually searching for the answer on the Internet. While using Deep Learning method can train the model with the keywords and the specific library, this approach can overcome the gap between the textual and programming language. \par
+	
+	According to the “Enrichment Effect” on the Q\&A website that means a few number of hotly debated posts can easily get a large number of answers and comments, while the areas that are not too hot will hardly receive some valuable feedbacks. We are also facing the same challenge. For the small multilingual subsites, a small number of users and a narrow knowledge base sometimes cannot support an efficient information exchange process. Therefore, our approach needs to keep in a high level of performance in this situation to beat the traditional recommender system.
+	
+	
+	\subsection{Letter Level}
+	From the literacy review, we found some excellent work that has been done in the more bottom level than the semantic level, such as the word level and letter level research [11]. Y. Shen, X. He, J. Gao, L. Deng, and G. Mesnil used the word-n-gram and letter-trigram model to build up a latent semantic model with pretty good results. The difference between the letter-trigram embedding with traditional word embedding is that every single word in the corpus needs to generate some letter trigrams. The letter trigrams represent all the sentences in the low dimensional vector space and then calculate the similarity between them. This method works very well in the letter and word levels, but the difficulty is that there is no well-developed letter trigram base. Nevertheless, this approach is also implemented. We trained this approach and compare the results with those of our DSSM approach in the experiment section. We generate a letter-trigram base from the corpus that we mined from Stack Overflow. Although the amount of letter trigram is not as great as we thought at first, we still apply the trigram base for letter embedding. 
+	\par
+	This research [11] is also a good enlightenment for the future improvement of our approach because the semantic similarity calculation can also benefit from both letter and word levels. A better result would be made in the future if we can combine these techniques. 
+	
+	\subsection{ Information Retrieval and Semantic Similarity}
+	There is also some heuristic works in this field. Especially, some research on the Dual-language information retrieval is very remarkable. The CNN cross-lingual Domain-specific model explored some doable methods to overcome the lingual gap[12].  On the other hand, the semantic similarity is always a most attractive topic in the neuro-linguistic programming area. Also, some powerful libraries like word2vec and GloVe are developed in recent years, which help the researchers efficiently handling the word embedding process. In our approach, we need to use GloVe because it can achieve a high level of accuracy in a shorter time with using the negative samples.
+	\par
+	
+	Some research has been already made in detecting similar questions~\cite{chen2016learning} and relevant tweets[10]. These existing well-designed works have formulated the problem in a binary prediction problem, which is duplicate and non-duplicate. In Stack Overflow community, there are always some people marking the posts with different content as duplicate posts because they are actually the same question on the semantic level. The duplicate attribute can distinguish all the existing posts into two groups, which are also duplicate post and non-duplicate posts. These existing works highly correspond to our scenarios.
+	content...
+\end{comment}	

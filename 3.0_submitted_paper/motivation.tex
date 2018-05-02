@@ -1,0 +1,125 @@
+\section{Formative Study of the Concerns about Multi-Lingual Stack Overflow Sites}
+In Stack Overflow, questions, answers and comments are required to be written in English~\cite{web:SOenligsh}.
+As not all developers can ask or answer questions in English, the founders of English Stack Overflow would like to explore the feasibility to launch multi-lingual Stack Overflow, i.e., Stack Overflow in other languages.
+After the beta development process\footnote{\url{https://stackoverflow.com/help/whats-beta}}, several non-English Stack Overflow sites have been launched including Russian, Portuguese, Spanish, and Japanese one.
+Each time a new non-English Stack Overflow site has been launched, there was a public announcement in the official blog.
+For example, the announcement of the launch of the Spanish Stack Overflow site can be found at \url{https://stackoverflow.blog/2017/05/20/stack-overflow-en-espanol-graduated/}. 
+Following the announcement, Stack Overflow users expressed their opinions about the decision in the blog comments (Fig.~\ref{fig:userComments}).
+People often disagreed with each other, which led to further dispute within some comment threads.
+\begin{comment}
+\textcolor{red}{Furthermore, Stack Overflow users also have extensive discussions about the pros and cons of these multi-lingual Stack Overflow sites on Meta Stack Overflow and Meta Stack Exchange, such as~\cite{web:SOdiscussion1, web:SOdiscussion2, web:SOdiscussion3, web:SOdiscussion4, web:SOdiscussion5, SOdiscussion6}.
+These meta sites are the places where users discuss the policies and practices of Stack Exchange sites.
+Again, we can see arguments from both the supporting and against sides.
+??Feel that if we mention them, then we also need to examine and code some to identify concerns. Otherwise, reviewers may say why just analyzes launch comments, but not these discussions. So better not mention them here?}
+\end{comment}
+
+Although such arguments rarely come to an agreement in the end, they leave a rich dataset for us to identify the Stack Overflow users' concerns about multi-lingual sites.
+We crawl all comments of the blog articles that announced the launch of a new non-English Stack Overflow site.
+From the four announcement blogs, we crawl in total 348 comments including single comments, and comment threads i.e., comments\ following another comment.
+\begin{comment}
+\textcolor{red}{We count the comments on an article by different users.
+If one user has multiple comments on an article, we merge them as one comment ??Please confirm if this is what you mean by ``count it as one''. Does this mean we have 348 users who gave comments? What if a user A's comment is a follow-up on another user's comment? Does it still make sense to merge this comment by A with other comments by A which may talk about very different things? What if one comment is in favor of one thing, the other comment is against the other thing or neural or unrelated. If you merge the two comments as one big comment, how can you classify this big comment? This will also affect the explanation of \% of users or comments are supportive or against below}.
+	
+\end{comment}
+
+61 comments are in non-English languages.
+We use Google Translate service~\cite{web:googleTranslate} to translate such non-English comments into English.
+Then, one author reads one comment at a time and classifies it into one of the four categories: \textit{against}, \textit{support}, \textit{neutral}, and \textit{unrelated}.
+\textit{unrelated} means that a comment is not related to multi-lingual dispute such as ``\textit{So, what other languages are available?}'', ``\textit{A nice post, very informative}'', or comments as response to points in other comments like ``\textit{@Rickster In Soviet Russia, websites access people.}'' .
+%The two authors have to discuss and come to an agreement for the category of the comment.
+According to our observation, some comments are very long with detailed reasons in favor of or against building multi-lingual Stack Overflow, while some of them are rather short like \textit{``Great!!!!'', ``Pretty bad idea''}.
+So for each against/support/neutral comment, we further separate it as either \textit{simple} or \textit{verbose} by counting its word number.
+If a comment has less than 4 words, we count it as \textit{simple}, otherwise as \textit{verbose}.
+%Simple comments are a short positive or negative expressions like ``Great!!!!'', ``Pretty bad idea.''.
+%In contrast, verbose comments give more details supporting or against arguments.
+
+Table~\ref{tab:sentiment} shows the analysis results.
+Overall, about 41.4\% of comments support the launch of the non-English site, while 24.7\% comments are against such multi-lingual sites.
+Note that 16\% supporting comments are simple.
+In contrast, most of the against comments (96.5\%) are verbose. 
+That is, many users just simply say that they like the multi-lingual sites but do not give detailed reasons, while most users who are against the multi-lingual sites provide the detailed reasons.
+As such, although the number of the verbose supporting comments (83) is actually less than that of the verbose against comments (121), the difference is not so much.
+We also note that a large portion of comments (26.1\%) are unrelated to the discussion of multi-lingual sites.
+This is because many comments are responses to some points in the prior comments which is unrelated to our analysis like ``\textit{OMG! They killed Hashcode!}'', or just opinions about the blog article like ``\textit{A nice post, very informative}''.
+ 
+\begin{comment}
+To check how much people agree or disagree with the launch of non-English Stack Overflow, we crawl all comments of the blog articles which are about the new-site announcement.
+From the 4 announcements articles, we totally crawled 348 comments.
+We first translate the non-English comments into English for user review by Google Translate, and then manually classify all these comments into 4 categories, \textit{against}, \textit{support}, \textit{neutral}, and \textit{unrelated} by reading each comment throughly.
+%Note that we do not adopt the automatic sentiment analysis for two reasons 1)It is not accurate, especially some comments are interactive discussion with corresponding context which cannot be decided by itself. 2)The comment size is quite small which is not too much for human check.
+The overall results are displayed in Table~\ref{tab:sentiment}.
+We can see that for the launch of all non-English Stack Overflow, there are more users (41.4\%) supporting the decision than that against the decision (24.7\%).
+But note some positive comments are very short like {\small Fair!}, {\small Great!!!}, {\small Welcome!}, {\small Congratulations!}, which may be just polite comments with no intrinsic meaning.
+So, the number of users with positive opinions may be exaggerated, and the real number is not be too much higher than the developers with negative opinions. 
+\end{comment}
+
+\begin{table}
+	\centering
+	\caption{Sentiment analysis of comments on the launch of multi-lingual Stack Overflow sites, and the number of simple comments is in the square bracket.}
+	\label{tab:sentiment}
+	\small
+	\begin{tabular}{lllll}
+		\hline
+		\textbf{Sites}     & \textbf{\#Against} & \textbf{\#Support}  & \textbf{\#Neutral} & \textbf{\#Unrelated} \\ \hline
+		Japanese   & 23 [1] & 30      & 11 & 33  \\
+        Portuguese & 44 [2] & 66 [10] & 5  & 45  \\
+        Russian    & 14     & 37 [13] & 4  & 12  \\
+        Spanish    & 5      & 11      & 7  & 1   \\ \hline
+        \textbf{Total}    & 86 (24.7\%) & 144 (41.4\%) & 27 (7.8\%) & 91 (26.1\%) \\
+		\hline
+	\end{tabular}
+\end{table}
+
+\begin{table}
+	\caption{Example supporting and against comments on multi-lingual Stack Overflow sites}
+	\scriptsize
+	\label{tab:comments}
+	\rowcolors{2}{gray!25}{white}
+	\begin{tabular}{l}
+		\hline
+		 \underline{\textbf{Supporting:}} \\ 
+		 Someone who is truly struggling with english will have a better experience on a site in their native language. \\
+		Congrats, Make stackoverflow to all\\
+		Well done! Other languages cannot be ignored, so this is a step ahead. \\
+		Why can't those haters of Russian SO just continue to use English SO? You don't like Russian SO, you don't use it, as simple as that. \\
+		I wanted to write a huge comment, but English is not my first language (nor strongest), I'll refrain! Localization is awesome! \\
+		I think the philosophy of SE is that if a site can support itself and there is demand for it, then it has every right to exist. \\
+		\hline
+		
+		\underline{\textbf{Against:}} \\
+		 It risks fragmenting our knowledgebase over multiple languages and segregating our users.  (Concern \#1 \& Concern \#3)\\
+		 I actually think the multiple versions could bring the demise of StackOverflow (Concern \#1)\\
+		 This will lead to many bad habits ... English is critical to any developer / architect software. (Concern \#2)\\
+		 People should stop being lazy and learn English instead, as it's the de facto language for programming anyway. (Concern \#2)\\
+		 %I'll still using Stack Overflow in English for two reasons: the community is faster, more mature and as you said, I practice my English. \\
+		 More importantly, the separation will duplicate work and will certainly hide good answer from each other. (Concern \#3) \\
+		 Just learn English. I am against any localized version of stackoverflow because it leads to fragmentation of knowledge. (Concern \#3)\\
+		\hline
+	\end{tabular}
+\end{table}
+
+Next, the author further examines the verbose supporting and against comments and use open coding method to code the major concerns in these comments.
+Three major concerns emerge from our open coding process:
+\textit{community split (concern \#1)}, \textit{knowledge needs and interests in English and other languages (concern \#2)}, and \textit{knowledge fragmentation and duplication (concern \#3)}.
+Fig.~\ref{fig:userComments} and Table~\ref{tab:comments} show some examples of the supporting and against comments on these three concerns.
+As these examples shown, users who are against the multi-lingual sites are worried about: if the multi-lingual sites would cause the community split across different sites, whether there are enough needs and interests in computer programming knowledge in other languages, and knowledge fragmentation and duplication across different sites would become a serious issue to deal with.
+Users who support the multi-lingual sites argue that: the multi-lingual sites could involve more non-English-speaking users in the community, there are different knowledge needs and even unique knowledge interests for non-English-speaking users, and if knowledge fragmentation and duplication do exist, they could be addressed by cross-site linking and/or machine translation.
+
+\begin{comment}
+Different developers have different opinions about the decision to launch the multi-lingual Stack Overflow.
+Some positive and negative comments can be seen in Table~\ref{tab:comments}.
+The developers support multi-lingual Stack Overflow because it can provide a help for non-English speakers, and language should not be the barrier for software development.
+However, people against the decision are mainly afraid of the fragmentation and duplication of the knowledge into different sites and regard English as a prerequisite for programming because most documents and code are written in English.
+They are especially concerned with the potential negative influence of new site to Stack Overflow like community split.
+\end{comment}
+
+It seems that all arguments are reasonable and understandable, but everyone lacks solid evidences to support their arguments.
+In the remainder of the paper, we use English Stack Overflow (ESO) and Russian Stack Overflow (RSO) as the subject Q\&A sites, and explore the evidences from the three perspectives (i.e., users, tags, and cross-site links) to answer the three major concerns that users expressed in their comments on multi-lingual Stack Overflow sites.
+
+
+\begin{comment}
+But one sentence in one post~\cite{web:SOdiscussion1} may give us some inspiration, {\scriptsize ``We need to see charts of activity by country to gauge how many people this would bleed away from the main site. My guess is, it's a lot more than you'd expect.''}
+Although qualitative analysis may sound reasonable, but only qualitative analysis can provide real proof to verify if the arguments mentioned above can hold or not.
+Therefore, we are going to carry out a detailed quantitative empirical analysis of the data between Stack Overflow and Russian Stack Overflow. 
+%%To check the relationship and difference between Stack Overflow and Russian Stack Overflow, we carry out the empirical study in two perspectives, the users and the content within each site.
+\end{comment}
