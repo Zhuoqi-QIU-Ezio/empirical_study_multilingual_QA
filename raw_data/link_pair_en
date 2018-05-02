@@ -1,0 +1,715 @@
+173	Versioning SQL Server database	sql-server|database|svn|version-control
+549	The definitive guide to form-based website authentication	security|http|authentication|language-agnostic|article
+7074	What is the difference between String and string in C#?	c#|.net|string|types
+27928	Calculate distance between two latitude-longitude points? (Haversine formula)	algorithm|math|maps|latitude-longitude|haversine
+38549	What is the difference between &quot;INNER JOIN&quot; and &quot;OUTER JOIN&quot;?	sql|database|join|inner-join|outer-join
+47683	Reconnecting JMS listener to JBossMQ	java|jboss|jms|jbossmq
+60174	How can I prevent SQL injection in PHP?	php|mysql|sql|security|sql-injection
+63447	How do I perform an IF...THEN in an SQL SELECT?	sql|sql-server|tsql|if-statement|case
+69112	What is a symbol table?	c++|c|symbol-table
+78536	Deep cloning objects	c#|.net|clone
+111345	Getting image dimensions without reading the entire file	c#|.net|image|image-manipulation
+123052	How do I fix a Cross language installation problem in SQL Server 2008?	sql-server|sql-server-2008
+138948	How to get UTF-8 working in Java webapps?	java|mysql|tomcat|encoding|utf-8
+151005	Create Excel (.XLS and .XLSX) file from C#	c#|.net|excel|file-io
+162304	How do I shutdown - restart - logoff Windows via a bat file?	windows|command-line|shutdown|restart
+178325	How do I check if an element is hidden in jQuery?	javascript|jquery|dom|visibility
+184683	Play audio from a stream using C#	.net|audio|stream|mp3|naudio
+218384	What is a NullPointerException, and how do I fix it?	java|nullpointerexception
+237807	.NET SslStream doesn't close TLS connection properly	.net|ssl|sslstream
+242665	Understanding engine initialization in OpenSSL	c|openssl
+246801	How can you encode a string to Base64 in JavaScript?	javascript|base64
+263965	How can I convert a string to boolean in JavaScript?	javascript
+271398	What are your favorite extension methods for C#? (codeplex.com/extensionoverflow)	c#|.net|open-source|extension-methods
+275761	How to get selected text from textbox control with javascript	javascript|html|textarea|textselection|selectedtext
+279749	Detecting the system DPI/PPI from JS/CSS?	javascript|css|mobile|dpi|ppi
+286039	Get record counts for all tables in MySQL database	mysql|sql
+333664	How do I implement basic &quot;Long Polling&quot;?	php|http|comet
+338450	TimedRotatingFileHandler Changing File Name?	python|logging
+356371	Excel Interop - Efficiency and performance	c#|excel|performance|interop|vsto
+371503	Why is ++i considered an l-value, but i++ is not?	c++|operators|increment|rvalue
+377768	String concatenation in Ruby	ruby|string-concatenation
+388483	How do you create a dropdownlist from an enum in ASP.NET MVC?	asp.net|asp.net-mvc
+419163	What does if __name__ == &quot;__main__&quot;: do?	python|module|namespaces|main|idioms
+426258	Setting &quot;checked&quot; for a checkbox with jQuery?	javascript|jquery|checkbox|selected|checked
+472906	How do I get a consistent byte representation of strings in C# without manually specifying an encoding?	c#|.net|string
+537593	Multiple images per Model	django|django-models
+551734	PHP not loading php_pgsql.dll on Windows	php|windows|postgresql
+563544	java bit manipulation	java|bit-manipulation|byte
+610406	JavaScript equivalent to printf/string.format	javascript|printf|string.format
+659602	Objective C HTML escape/unescape	iphone|html|objective-c|cocoa-touch|escaping
+710089	How do I make an html link look like a button?	css|button
+725348	POCO vs DTO	c#|.net|poco|dto
+778203	Are there any naming convention guidelines for REST APIs?	api|rest|naming-conventions
+778534	MySQL ON DUPLICATE KEY - last insert id?	mysql|insert-id
+791986	Background Thread for a Tomcat servlet app	java|multithreading|tomcat
+855759	Python try-else	python|exception-handling
+861722	MySQL INSERT INTO table VALUES.. vs INSERT INTO table SET	sql|mysql|performance
+894263	How do I identify if a string is a number?	c#|string|parsing|isnumeric
+904522	Output Firefox JSON data	php|json|firefox|bookmarks
+934012	Get image data in JavaScript?	javascript|image|firefox|greasemonkey|base64
+978061	HTTP GET with request body	rest|http-get
+993834	Adding POST parameters before submit	javascript|jquery|forms
+995183	How to allow only numeric (0-9) in HTML  inputbox using jQuery?	jquery|html|validation|numeric
+1052269	Free C# metrics calculation library (DLL)	c#|code-metrics
+1085801	Get selected value in dropdown list using JavaScript?	javascript|html-select
+1087777	Is Response.End() considered harmful?	.net|asp.net
+1125968	How do I force &quot;git pull&quot; to overwrite local files?	git|version-control|overwrite|git-pull|git-fetch
+1187352	Find closest value in an ordererd list	java
+1212713	Marshaling from C# to C++	c#|c++|marshalling
+1296235	JSP tricks to make templating easier?	java|jsp|inheritance|templates|tags
+1316058	How to create custom config section in app.config?	c#|app-config
+1503262	WPF toolkit datagrid cell text wrapping	wpf|datagrid|cell|textwrapping
+1542161	jquery ui accordions within tabs	jquery-ui|jquery-ui-tabs
+1580757	what is the official name of C++'s arrow (-&gt;) operator?	c++|c|operators|nomenclature
+1587562	Problem with MySql INSERT MAX()+1	sql|mysql|insert|max|increment
+1683949	Connection timeout for DriverManager getConnection	java|oracle|jdbc|database-connection
+1706493	java.net.MalformedURLException: no protocol	java|xml|exception
+1732348	RegEx match open tags except XHTML self-contained tags	html|regex|xhtml
+1783405	How do I check out a remote Git branch?	git|git-checkout|remote-branch
+1805101	SVG Elliptical Arcs with Java	java|path|svg
+1812244	Simplest way to serve static data from outside the application server in a Java web application	tomcat|java-ee|servlets|static-content
+1820991	How to get the webpage source in ASP.NET C#?	c#|asp.net|httpwebrequest|methods
+1893072	Getting frames from Video Image in Android	java|android|camera
+1949066	java.lang.OutOfMemoryError: bitmap size exceeds VM budget - Android	android|memory|memory-leaks|bitmap|out-of-memory
+1952464	In Python, how do I determine if an object is iterable?	python|iterable
+2181774	Calling clojure from java	java|clojure|clojure-java-interop
+2222718	C# delete a folder and all files and folders within that folder	c#|directory
+2263514	How to get keyboard input in an Homemade OS?	c++|operating-system
+2329171	Find kth smallest element in a binary search tree in Optimum way	algorithm|data-structures|binary-tree|binary-search
+2386025	Taking picture from camera without preview	android|android-camera|android-service
+2390954	How would you calculate all possible permutations of 0 through N iteratively?	language-agnostic|math|permutation
+2471935	How to load an ImageView by URL in Android?	android|bitmap|imageview
+2474584	Pause and Resume AsyncTasks? (Android)	java|android
+2477452	&quot;â€™&quot; showing on page instead of &quot; ' &quot;	encoding|utf-8|mojibake
+2518421	jQuery find events handlers registered with an object	jquery|events|dom
+2579946	QuickReport throws &quot;There Is No Default Printer Currently Selected&quot; Exception	delphi|windows-services|printing
+2603169	Update Tkinter Label from variable	python|label|tkinter
+2605555	Android: Accessing assets folder sqlite database file with .sqlite extension	android
+2641646	How to accomplish &quot;AuthType None&quot; in Apache 2.2	authentication|apache2.2
+2648151	Python frequency detection	python|audio|fft|frequency
+2674314	Get Local IP-Address using Boost.Asio	c++|ip-address|boost-asio
+2713710	Comment associative array in PHP Documentor	php|arrays|associative-array|phpdoc
+2778638	libvirt and VirtualBox / Getting Started	api|virtualization|virtualbox|libvirt
+2827393	Angles between two n-dimensional vectors in Python	python|vector|angle
+2893954	How to pass in password to pg_dump?	bash|postgresql|shell|crontab
+2969348	Django: ordering numerical value with order_by	django|sorting
+3028306	Download a file with Android, and showing the progress in a ProgressDialog	java|android|download|android-asynctask
+3153206	How to make TLS connection from PHP in web server, and safely	php|security|encryption|https|cryptography
+3179216	What is the convention for word separator in Java package names?	java|naming-conventions|package
+3197509	Redirecting stdio from a command in os.system() in Python	python|stdout|stdio|os.system
+3279543	What is the copy-and-swap idiom?	c++|copy-constructor|assignment-operator|c++-faq|copy-and-swap
+3313847	Optimizing quadrant selection	c#|optimization|bit-manipulation
+3319974	Do bitwise operators (other than shifts) make any mathematical sense in base-10?	math|bit-manipulation
+3359510	Android Number Picker Dialog	android|dialog|numbers
+3495903	Calling a web service that requires basic http authentication from wcf client	.net|wcf|web-services
+3520557	How to Spectrum-inverse a sampled audio signal	algorithm|audio|signal-processing
+3533539	WPF, 'Object reference not set to an instance of an object' in Designer	.net|wpf|visual-studio-2010|xaml
+3537706	How to unescape a Java string literal in Java?	java|string|escaping
+3569453	Create synonym to all tables in a different database with a script	sql-server|synonym
+3585034	How to map a composite key with Hibernate?	java|hibernate|orm|hql|composite-key
+3593420	Is there a way to get the source code from an APK file?	android|android-resources|decompiling|apk
+3685859	Javascript processing Cyrillic input	javascript|json
+3766282	Fill database tables with a large amount of test data	mysql|database
+3795953	How to read and write dbf in a native way?	delphi|native|dbf
+3853845	In *nix, what causes &quot;sleeping&quot; in top command?	php|linux|unix|process|top-command
+3876435	recursive array_diff()?	php|arrays|recursion|diff
+3889882	SVG support on Android	android|svg
+3947444	How to synchronize files over FTP with Eclipse RSE?	eclipse|ftp
+3987773	Template Dropdown not showing up within Wordpress administrator page	wordpress|wordpress-theming
+3988788	What is a stack trace, and how can I use it to debug my application errors?	java|debugging|stack-trace
+3992786	How to clear a process command line?	c++|windows|winapi|command-line|command-line-arguments
+4015324	How to make HTTP POST web request	c#|.net|post|httpwebrequest|httprequest
+4117588	Non-recursive os.walk()	python|os.walk|non-recursive
+4139288	Android: How to handle right to left swipe gestures	android|swipe|gesture-recognition
+4175555	Modify elements in a list by index	c#|list|lambda
+4214153	Lifetime of temporaries	c++|temporary|c++-faq|lifetime|full-expression
+4313952	SOAP: looks like we got no XML document	php|soap|nusoap
+4318572	How to use a custom typeface in a widget?	android|widget|typeface
+4335432	@ModelAttribute in a method	java|spring|data-binding|spring-mvc
+4394607	vbscript to check if .net 2.0 is installed	.net|vbscript|installation
+4459379	Preview an image before it is uploaded	javascript|jquery|file-upload
+4481226	Creating a system overlay window (always on top)	android|overlay
+4545311	Download a file by jQuery.Ajax	javascript|jquery|ajax|jsp|download
+4554749	Replace a question mark (?) with (\\?)	java|regex|replace|escaping
+4599747	Programmatically creating an NSTableView (trouble getting the NSHeaderView to show up)(cocoa osx)	objective-c|osx|cocoa|nstableview
+4615509	How do I get a Uri to an image in my Assets that will work for the SearchManager.SUGGEST_COLUMN_ICON_1 column?	android|search
+4659283	Interface freezes in multi-threaded c# application	c#|multithreading
+4660123	overloading friend operator&lt;&lt; for template class	c++|operator-overloading|friend|ostream
+4669166	How to get the class Type in a base class static method in .NET?	c#|.net|reflection|inheritance
+4817933	What is the equivalent to a JavaScript setInterval/setTimeout in Android/Java?	java|javascript|android|settimeout
+4829518	Accessing parent's protected variables	c++
+4842590	run function when page is loaded	javascript|onload
+4882025	Android: Opening a ContextMenu from onLongPress in custom WebView	android|webview|contextmenu|gesturedetector
+5002834	saving a file (from stream) to disk using c#	c#|.net
+5033012	Auto Scale TextView Text to Fit within Bounds	android|textview|scale|android-textview|textwrapping
+5077783	Redirect in controllers spring3	spring|spring-mvc
+5081181	htmlcxx c++ crawling html	c++
+5104765	Why is HibernateDaoSupport not recommended?	hibernate|spring
+5135974	Lock element to bottom of containing div	html|css
+5138719	Change default text in input type=&quot;file&quot;?	file|input|default-value
+5210033	Using only CSS, show div on hover over &lt;a&gt;	css
+5224381	MingW Netbeans 6.9.1 problem	c++|c|mingw|netbeans-6.9
+5351008	XSLT:Can I update value in xml node using xslt?	xml|xslt
+5731394	could not authenticate OAuth while using twitter from sharekit in iphone app	iphone|twitter|sharekit
+5771908	Computing a polygon that surrounds a multi-point line	java|math|polygon
+5774473	Using BackgroundWorker with ProgressBar in WPF	c#|wpf|multithreading|wpf-controls|backgroundworker
+5780757	Spring AOP: logging and nested-methods	spring|logging|aop
+5812953	How do you clear a static variable in PHP after recursion is finished?	php|recursion|static-variables
+5829309	How to create a custom status bar in android common for all activity in android?	android
+5847769	Boost-Extension-Reflection How to fix segmentation fault error when compiling official sample not with bjam?	c++|boost|segmentation-fault|boost-extension
+5960242	how to make New lines in a cell using phpexcel	php|phpexcel
+5961217	How do I surround all text pieces with paragraph tags?	php|regex|preg-replace|paragraph
+6038236	Using the PHP HTTP_ACCEPT_LANGUAGE server variable	php|http|internationalization
+6065730	Why, Fatal error: Class 'PHPUnit_Framework_TestCase' not found in ...?	php|fatal-error|classnotfoundexception
+6163173	PHP + ZipArchive + Russian language	php|zip|unzip
+6279076	How to use Win32 GetMonitorInfo() in .NET c#?	c#|.net|winapi|multiple-monitors|user32
+6359848	WPF loading spinner	c#|wpf|mvvm|spinner|loading
+6412065	What is the return type of boost::bind?	c++|types|boost-bind
+6431620	Zend_Queue database scheme	php|zend-framework|zend-queue
+6469361	lxml removes spaces and line breaks in &lt;head&gt;	python|python-3.x|html-parsing|lxml
+6508415	Application_Error not firing when customerrors = &quot;On&quot;	asp.net-mvc-3|application-error
+6647177	Set equal width of columns in table layout in Android	android|tablelayout
+6666423	Overcoming &quot;Display forbidden by X-Frame-Options&quot;	iframe|frames|x-frame-options
+6721736	C# library for algebra simplification and solving	c#|algebra|symbolic-math|computer-algebra-systems
+6808831	Delete a mutex from another process	c#|mutex|instances|ntdll
+6822440	Change locale at runtime in Rails 3	ruby-on-rails|ruby-on-rails-3|internationalization|ruby-on-rails-3.1
+6854487	How do you store a username/password in the Mac Keychain using Java?	java|osx|keychain
+6895098	PDO/MySQL memory consumption with large result set	php|mysql|pdo
+6934196	Rails 3 - link_to :delete is redirecting to show action with jquery installed	jquery|ruby-on-rails
+6936972	Draw Circle using css alone	html|css|css-shapes
+7040022	Rails: Why &quot;has_many ..., :through =&gt; ...&quot; association results in &quot;NameError: uninitialized constant ...&quot;	ruby-on-rails|ruby-on-rails-3|associations|has-many-through
+7080052	QImage/QPixmap size limitations?	qt|qt4|qimage|qpixmap
+7169567	How could I disable all the over scroll effect in my app?	android|user-interface
+7197506	How to repair COMException error 80040154?	.net|exception|com|dllregistration
+7198725	Running COM component controls on multiple threads	c#|.net|multithreading|com
+7245710	PHP/GD : Better Gaussian blur	php|gd|blur|imagefilter
+7313828	Using IFilter in C# and retrieving file from database rather than file system	c#|ifilter
+7335976	How can I apply Delphi XE2 skins to forms in a DLL?	delphi|skinning|vcl-styles
+7342067	How to insert an array into a SQLite database?	iphone|ios|sqlite
+7356820	Specify to call someting when main thread is idle	objective-c|multithreading|xcode
+7369445	Is there a Windows equivalent to fdopen for HANDLEs?	c|winapi|stdio
+7379729	Problems installing gsl gem	ruby|gem|gsl
+7383387	Setting an array of songs using MediaPlayer	android|android-mediaplayer
+7387958	Find stacked div class with Simple HTML DOM Parser	parsing|class|html|domparser
+7511102	Changing the underlying type of an enumeration to long	c#
+7532307	skip copying to tmp table on disk mysql	mysql|sql
+7568497	ASP.NET Visitors counter	c#|asp.net|counter
+7580508	Getting Chrome to accept self-signed localhost certificate	google-chrome|ssl|self-signed
+7584139	How do I setup libxml in Eclipse Indigo CDT C++	c++|eclipse|eclipse-cdt
+7650144	How to convert bytearray to image in Objective-C	objective-c|uiimage|bytearray
+7677092	Creating an android.graphics.Bitmap from C++	java|android|c++|jni|android-ndk
+7724569	Debug vs Release in CMAKE	c++|c|gcc|cmake
+7771134	JavaMail - Subject and To fields are empty in email	java|javamail
+7772190	Passing ssh options to git clone	git|ssh
+7772222	Is there a way to trigger mousemove and get event.pageX, event.pageY?	javascript|jquery|javascript-events|mouseevent
+7834378	Managing threads in an .NET WinForm application	c#|.net|winforms|multithreading|user-interface
+7868188	JavaFX 2: Save edit in TableCell	javafx|javafx-2
+7875939	TabHost in ScrollView, scroll to tab when selected	android|tabs|scroll|android-tabhost|horizontalscrollview
+7929646	How to programmatically select a TabItem in WPF TabControl	wpf|tabcontrol|tabitem
+8038649	Compiling InterBase support in Qt	qt|plugins|interbase
+8040999	Pattern for Creating a Simple and Efficient Value type	c#|design-patterns|encapsulation|value-type|solid-principles
+8139618	PostgreSQL parameterized Order By / Limit in table function	sql|database|postgresql|dynamic-sql|plpgsql
+8179399	javax.xml.parsers.SAXParserFactory ClassCastException	java|xml|saxparser
+8187082	How can you set class attributes from variable arguments (kwargs) in python	python
+8191459	How do I update Node.js?	node.js|software-update
+8205102	Calling 'del' on a list	python|list|del
+8233604	Use jQuery to get descendants of an element that are not children of a container with a certain CSS class	jquery|css|jquery-selectors
+8281951	Bit hack to generate all integers with a given number of 1s	bit|combinatorics
+8343946	Sqlite Query for multiple values in one column	android|sqlite
+8387006	Getting tags for content from second table in one sql	mysql|tags|group-concat
+8526887	C++ GLR parsers with Bison	bison|glr
+8569113	Why 1103515245 is used in rand?	c|random|standards
+8750724	What do you use instead of ENUM in doctrine2?	symfony|doctrine2
+8772862	SurfaceView flashes black on load	android|surfaceview|android-canvas
+8778513	How can I setup &amp; run PhantomJS on Ubuntu?	linux|ubuntu|installation|phantomjs
+8785636	Apache commons exec run interactive terminal application	java|apache-commons-exec
+8813815	Android Facebook API single sign-on?	android|facebook
+8818290	How do I connect to a specific Wi-Fi network in Android programmatically?	android|android-wifi|wifimanager
+8970548	how to get metadata of a streaming online radio	android|metadata|http-live-streaming
+8998655	Unable to send sms using SMSManager in Android	android|sms|sendmessage
+9109544	How can I send int array from ajax to c# mvc?	ajax|asp.net-mvc|arrays|jquery|asp.net-ajax
+9188045	How to AES-128 encrypt a string using a password in Delphi and decrypt in C#?	c#|delphi|encryption|turbopower|lockbox-3
+9450394	How to install GCC piece by piece with GMP, MPFR, MPC, ELF, without shared libraries?	gcc|elf|gmp|mpfr|mpc
+9458017	Convert CGKeyCode to character	objective-c|cgkeycode
+9463871	Change selection color on view-based NSTableView	objective-c|cocoa|osx-lion|nstableview
+9474465	Is iteration faster than recursion, or just less prone to stack overflows?	javascript|recursion|iteration|stack-overflow
+9743038	How do I add a thousand seperator to a number in JavaScript?	javascript|formatting
+9767952	How to add parameters to HttpURLConnection using POST	android|post|http-post|httpurlconnection
+9893317	How to use PyPy on Windows?	python|pypy
+9973816	Why is jQuery unload not working in chrome and safari?	javascript|jquery
+9997891	How to improve Canvas rendering performance?	wpf|performance|canvas|rendering|shape
+10093176	java.lang.SecurityException: sealing violation:	java|gwt
+10095751	Understanding goroutines	concurrency|go|race-condition
+10136060	How an Edit Text can be created dynamically in Android	android
+10189356	How to add screenshot to READMEs in github repository ?	git|github|markdown
+10211668	TDBLookupCombobox FireMonkey	delphi|delphi-xe2|firemonkey|livebindings
+10226342	How to handle UnicodeDecodeError without losing any data?	python|web-scraping|lxml
+10268422	Show Dialog in Game with canvas	android|multithreading|dialog|surfaceview
+10276251	How to animate a View with Translate Animation in Android	android|android-animation
+10280595	How to get a page count in an mPDF document?	php|mpdf
+10343913	How to create a Web Worker from a string	javascript|web-worker|data-uri
+10454779	PHP - Indirect modification of overloaded property	php|magic-methods
+10572693	Why use var instead of the class name?	c#|variables|var
+10617954	Chrome doesn't delete session cookies	javascript|session|google-chrome|cookies
+10721085	webcam, Video Source dialog comes up	windows|winforms|video|camera|webcam
+10751271	Accessing FXML controller class	javafx-2|fxml
+10926353	How to read json file into java with simple JSON library	java|json|parsing|json-simple
+11089104	Operation is not valid while ItemsSource is in use. Access and modify elements with ItemsControl.ItemsSource instead	c#|wpf|xml|listview|multiple-columns
+11206604	Create HTML reports using C++	c++|html|visual-studio-2010
+11211420	Detect changes of &quot;Lock SIM card&quot; in Settings/Security/Set up SIM card lock	android|settings|sim-card
+11216839	PhantomJS doesn't work in PHP through browser (but does via command line, and even by running PHP through command line)	php|linux|phantomjs
+11227809	Why is it faster to process a sorted array than an unsorted array?	java|c++|performance|optimization|branch-prediction
+11471513	How to send a file AND other POST data with Synapse	delphi|file|http|post|synapse
+11480570	htmlcxx API usage	c++|html
+11495842	How SurfaceHolder callbacks are related to Activity lifecycle?	android|camera|surfaceview
+11590945	How to display the data read in DataReceived event handler of serialport	c#|multithreading|serial-port
+11600355	How to open/close console window dynamically from a wpf application?	c#|wpf
+11646230	sending email to gmail account locally with xampp, no error but the email does not arrive	php|windows-7|smtp|gmail|xampp
+11781494	WPF application settings - resetting a single property	c#|wpf|settings.settings
+11821158	C++ covariance in parameters	c++|virtual|covariance
+11851908	Highlight all searched word in richtextbox	c#|find|richtextbox|highlight
+12106011	System.Security.Cryptography.CryptographicException: keyset does not exist	c#|x509certificate
+12113679	Configure Qt Creator to use Boost on Windows	qt|boost|qt-creator
+12186579	C# Selenium WebDriver FireFox Profile - using proxy with Authentication	c#|selenium|webdriver|selenium-firefoxdriver
+12297861	spamassassin rdns reversedns	email|phpmailer|php|spamassassin|reverse-dns
+12328354	Calling a particular PHP function on form submit	php|isset
+12379713	can't get current keyboard layout	c++|winapi|keyboard-layout
+12452109	ASP.Net 2012 Unobtrusive Validation with jQuery	c#|asp.net
+12586957	How do I open a process so that it doesn't have focus?	c#|process|automation
+12726756	How to pass multiple file extensions to TDirectory.GetFiles?	delphi|delphi-xe
+12883732	How to display custom view in ActionBar?	android|android-actionbar|actionbarsherlock
+12889729	change checkbox background color in android	android|android-layout|checkbox
+12997131	std::fstream buffering vs manual buffering (why 10x gain with manual buffering)?	c++|file|c++11|buffer|fstream
+13144468	re-attach sources in intellij?	intellij-idea
+13178550	elasticsearch - Return the tokens of a field	java|search|lucene|token|elasticsearch
+13239816	GF(256) finite field multiplication function in C#	c#|math|cryptography|aes|finite-field
+13240109	Implement &quot;Add to favorites&quot; in Rails 3 &amp; 4	ruby-on-rails-3
+13289595	Starting a Windows process in PHP and get it's PID?	php|windows
+13451069	New items in Gridview added at runtime	java|android|gridview|runtime|adapter
+13527499	Linq like or other construction	c#|sql|linq|oracle|sql-like
+13579266	How to Read User Input in Rust?	input|io|rust
+13610051	How to force NLog to overwrite the log file	.net|nlog|overwrite
+13640109	How to prevent Browser cache for php site	php|http-headers|browser-cache|cache-control
+13712587	jQuery Notification Bar	javascript|jquery|html|notifications
+13722869	How to handle onTouch event for map in Google Map API v2?	android|google-maps|android-mapview|google-maps-android-api-2
+13750134	IE 10 Missing border segments while printing table elements	printing|border|internet-explorer-10
+13788738	Using JAVA RMI in Android application	java|android|rmi
+13920503	Runtime exceptions are caught with ACRA and not displayed on Logcat	android|logcat|acra
+13962109	Trying to make a POST request with RestKit and map the response to Core Data	ios|http|request|restkit|restkit-0.20
+13972636	Jenkins always considers a build successful using batch/bat	batch-file|jenkins
+14025326	Need case-sensitive formatting (Excel)	vba|excel-vba
+14025718	JavaFX: &quot;Toolkit&quot; not initialized when trying to play an mp3 file through MediaPlayer class	java|media-player|javafx-2
+14064337	Android Programming: GCMIntentService Stuck at WakeLock	android|notifications|push-notification|push|wakelock
+14088057	updating a string table with UpdateResource	c++|c|windows|winapi|resources
+14170590	Building Qt 5 on Linux, for Windows	qt|qt5|mxe
+14214753	How to read until ESC button is pressed from cin in C++	c++|escaping|getline
+14255224	Changing the row background color of a QTreeView does not work	c++|qt|user-interface|qtreeview
+14313283	jquery ajax jqXHR.status is always 0	jquery
+14430655	Recursion in Angular directives	javascript|recursion|angularjs
+14590947	CMake configuring fails. &quot;cl.exe is not able to compile a simple test program&quot;	visual-studio-2010|cmake
+14883613	Using Google Analytics To Track Fragments	java|android|google-analytics
+14932315	How to compile Qt 5 under Windows or Linux, 32 or 64 bit, static or dynamic on VS2010, VS2012, VS2013 or VS2015 Express or g++	c++|visual-studio-2010|qt|compilation|visual-studio-2012
+15022727	ArrayAdapter.NotifyDataSetChanged() is not working?	android|listview|android-arrayadapter
+15041760	JavaFX open new window	javafx-2
+15067770	Postgresql: foreign key to role oid	postgresql|postgresql-9.2
+15166941	Create HTML button to run Python Script	jquery|html|ajax|django|lighttpd
+15180049	parse JSONP response (from express.js server) clientside using greasemonkey	javascript|jquery|express|cross-domain|greasemonkey
+15206288	PhoneGap Opening a PDF error &quot;document could not be opened&quot;	javascript|android|html|cordova|pdf
+15213211	Update an Android app (without Google Play)	android
+15392261	Android: Pass data(extras) to a fragment	java|android|android-intent|nullpointerexception
+15479213	How to serve .html files with Spring	spring|spring-mvc
+15553791	jQuery Zoom inside a colorbox	jquery|plugins|zoom|colorbox
+15584541	How to extract fitted splines from a GAM (`mgcv::gam`)	r|gam|mgcv
+15868817	Button inside a winforms textbox	c#|winforms
+15921203	How to create a system tray popup message with python? (Windows)	python|popup|system-tray
+16054584	Fixed column header width does not match body column widths	jquery|css|jquery-ui|jquery-plugins|datatables
+16100798	Serial (COM) ports name or identification	delphi
+16121145	pinch zoom effect with Android SurfaceView	android|surfaceview|pinchzoom
+16150089	How to handle cookies in httpUrlConnection using cookieManager	android|cookies|httpurlconnection|android-cookiemanager
+16168553	Create custom notification, android	android|notifications
+16171833	Why does the shelve module in python sometimes create files with different extensions?	python|unix|pickle|shelve
+16188420	Python Tkinter scrollbar for frame	python|tkinter|scrollbar|frame
+16245767	Creating a Blob from a base64 string in JavaScript	javascript|base64
+16264051	socket.io-java-client and node.js - Error while handshaking	java|android|node.js|socket.io
+16280304	Pyodbc - &quot;Data source name not found, and no default driver specified&quot;	postgresql|python-2.7|pyodbc|unixodbc
+16287706	How to upload large files using MVC 4?	asp.net-mvc|file-upload|plupload
+16311289	PostgreSQL case insensitive SELECT on array	sql|postgresql|pattern-matching|case-insensitive
+16427421	How to remove CocoaPods from a project?	xcode|cocoapods
+16743804	Implementing a log viewer with WPF	c#|wpf|performance|user-interface|scroll
+16804093	Android Studio Rename Package	android|android-studio
+16894215	How pinch zoom image in image zoom android?	android|image|zoom|pinch
+16931590	Download App from Google Play programatically	java|android|download
+16966540	How to hide Notification Panel after sending a PendingIntent to Service in a notification	android|service|notifications
+17108973	Python logging: display only information from debug level	logging|python-2.7
+17186675	Why I get &quot;ERR_RESPONSE_HEADERS_TOO_BIG&quot; on chrome?	php|google-chrome
+17286308	How to write an XML file in C# in Unity?	c#|xml|multithreading|unity3d
+17395201	Call a hub method from a controller's action	asp.net-mvc|asp.net-mvc-4|signalr|signalr-hub
+17406485	How to create log4j2 appender from java code?	java|logging|log4j2
+17435937	Checkbox for many-to-many relationship	ruby-on-rails|ruby-on-rails-4
+17520263	How to disable href link and enable the link?	html
+17614477	Gradle: FAILURE: Could not determine which tasks to execute	android|gradle|android-studio
+17734967	Installing JSDT jQuery plugin in Eclipse Kepler 4.3	eclipse|eclipse-plugin|eclipse-kepler
+17830227	Json parsing very slow in android	android|json|facebook-graph-api|android-asynctask
+17908688	How to add 'add people to group' functionality via graph API or FQL?	facebook|facebook-graph-api|facebook-fql
+17926236	NotificationListenerService Implementation	android|android-service|android-notifications
+17926413	EF code first - custom foreign key constraint name	ef-code-first|entity-framework-5
+17939798	ClassCastException android.widget.FrameLayout$LayoutParams to android.support.v4.widget.DrawerLayout$LayoutParams	android|android-layout|framelayout|navigation-drawer|drawerlayout
+17942505	Node.js + setInterval = Connection lost: The server closed the connection	javascript|node.js
+17947084	How to host an angularjs app in domain	angularjs
+17957040	Reset select2 value and show placeholder	jquery|twitter-bootstrap|jquery-select2
+18048513	Implement multiple event listeners in the same fragment - Android	android|interface|event-handling|listener|android-spinner
+18074799	Is std::greater&lt;double&gt; and std::less&lt;double&gt; safe to use?	c++|double|floating-point-precision
+18206361	svg multiple color on circle stroke	svg|colors|gradient|curve
+18225126	How to use Git for Unity3D source control?	git|unity3d
+18309625	How can i take/merge screen shot of Google map v2 and layout of xml both programmatically?	android|screenshot|google-maps-android-api-2
+18324963	How can I implement Google Play Licensing for an Android app?	java|android|licensing|android-lvl
+18356502	GitHub - failed to connect to github 443 windows/ Failed to connect to gitHub - No Error	git|github
+18370396	Why can't std::function bind to C-style variadic functions?	c++|c++11
+18374183	How To show icons in Overflow menu in ActionBar	android|actionbarsherlock|android-actionbar|android-menu
+18499536	&quot;Rebasing&quot; EF migrations	c#|entity-framework
+18748819	WordPress wp_ajax_nopriv not working	ajax|wordpress|gravity-forms-plugin
+18781902	Rounded corner for textview in android	android|textview|shapes
+18811303	Android + OpenCV: process camera frames in a service	java|android|opencv|service
+18831442	How to get signal strength of connected WiFi android?	android|wifi|signals|wireless|wifimanager
+18861201	UIBarButtonItem with custom view not properly aligned on iOS 7 when used as left or right navigation bar items	uibutton|uinavigationbar|uibarbuttonitem|ios7|uinavigationitem
+18897070	Getting the current tab's URL from Google Chrome using C#	c#|google-chrome
+18905900	Xcode 5 crashes -- Xcode quit unexpectedly	ios|xcode|osx|xcode5
+18992641	Java CDI: Dynamically selecting an implementation based on qualifier?	java|cdi
+18993735	How to read single Excel cell value	c#|excel
+19050621	Single array element becomes object with Zend_Soap_Client	php|zend-framework|soap
+19059580	Client on node: Uncaught ReferenceError: require is not defined	javascript|node.js|sockets|express|pug
+19180494	What unique features does Firebug have that are not built-in to Firefox?	firefox|firebug|language-features|firefox-developer-tools
+19194576	How do I view the SQLite database on an Android device?	android|database|sqlite|adb
+19258518	Android HttpUrlConnection EOFException	android|httpurlconnection
+19348734	Apply blur filter to certain area of svg image	jquery|html|css|svg|svg-filters
+19449738	Long startup delay for Java WebStart application since Java 1.7.0u40	java|java-web-start|jnlp
+19463978	Rails 4 and Turbolinks - Meta Tags not changing	ruby-on-rails|ruby-on-rails-4|turbolinks
+19480778	How to find all audio files on SDCard (eclipse, android)	java|android|eclipse|search|audio
+19510224	Convert px to em in Less	css|less
+19611863	.NET MVC-4 routing with custom slugs	asp.net|.net|asp.net-mvc|asp.net-mvc-4
+19695214	Python Screenshot of inactive window PrintWindow + win32gui	python|screenshot|win32gui
+19718919	500 internal error with RewriteEngine on .htaccess on localhost with wamp	.htaccess
+19778843	Order issue with append in a file reader	javascript|jquery|filereader
+19915152	C++11 multiple read and one write thread mutex	c++|multithreading|c++11
+19922077	GenyMotion Unable to start the Genymotion virtual device	android|virtualbox|genymotion
+20068788	How to reload (reset) the whole page in WPF?	c#|wpf|xaml
+20163910	Tomcat in Idea. war exploded: Server is not connected. Deploy is not available	java|tomcat|intellij-idea
+20171165	Getting LibCurl to work with Visual Studio 2013	c++|visual-c++|dll|libcurl
+20213408	jquery datePicker beforeShowDay not working for 2014	javascript|asp.net|jquery|datepicker
+20260170	Handle browser reload socket.io	node.js|socket.io|sails.js
+20341113	Search listview items using textbox	c#|listview|search
+20359834	row and column from &quot;Itemchanged&quot; signal	python-2.7|qtablewidget
+20368263	Swipebox - Loading HTML instead of images	javascript|jquery|html|lightbox
+20373431	Gridview with button to add photo	android|image|button|gridview|photo-gallery
+20444586	Java - ListIterator Implementation Specifics	java|iterator|linked-list
+20471311	Android Studio: Unable to start the daemon process	android|android-studio|daemon
+20666989	Bower: ENOGIT Git is not installed or not in the PATH	javascript|git|bower
+20763322	android supporting multiple resolution with multiple layout folder	android|android-layout|screen-resolution
+20954719	&lt;png.h&gt; not found in mac os X mavericks	c|xcode|osx|png|libpng
+21096819	JNI and Gradle in Android Studio	android|jni|gradle|android-studio|android-ndk-r7
+21241700	What code is written behind -[CLLocation distanceFromLocation:] or MKMetersBetweenMapPoints?	objective-c|mapkit|core-location
+21284466	How to convert .cer to BKS	android|https
+21333866	How to Create a circular progressbar in Android which rotates on it?	android|progress-bar
+21456402	plink won't return to command prompt	bash|plink
+21500570	Start WhatsApp from URL HREF with custom text/content	android|html|android-intent|whatsapp
+21537558	Multiple DB Contexts in the Same DB and Application in EF 6 and Code First Migrations	asp.net-mvc|entity-framework|ef-code-first|code-first-migrations
+21573405	How to prepare a Unity project for git?	git|unity3d
+21574478	What is the difference between CloseableHttpClient and HttpClient in Apache HttpClient API?	java|apache|http|apache-httpclient-4.x
+21576739	How to configure OpenSL to work with ear speaker other than main speaker or headphones	android|android-ndk|opensl
+21660965	How to contain value of android chronometer with change in orientation	android|chronometer
+21662588	Java virtual machine launcher error- A java exception has occurred	java|eclipse|tomcat
+22031269	Enable Entity Framework 6 for MySql (C#) in WinForms of Microsoft Visual Studio 2013	c#|mysql|winforms|visual-studio-2013|entity-framework-6
+22141477	Simple linked list in C++	c++|linked-list
+22144690	How to display a button in random screen position	android|button|random|relativelayout
+22234799	How to show android notification after every 48hours?	android|android-layout|notifications|push-notification
+22324359	Add n rectangles to canvas with MVVM in WPF	c#|wpf|user-interface|canvas|mvvm
+22450036	Refreshing OAuth token using Retrofit without modifying all calls	android|oauth-2.0|retrofit
+22489703	Trying to remove fragment from view gives me NullPointerException on mNextAnim	android|android-fragments|android-studio
+22510779	Can powershell wait until IE is DOM ready?	internet-explorer|powershell
+22520413	C strlen() implementation in one line of code	c|algorithm|strlen
+22532870	Encrypted cookies in Chrome	sqlite|google-chrome|cookies
+22613903	Youtube api v3 Get list of user's videos	youtube|youtube-api|youtube-data-api|youtube-api-v3
+22673275	Symfony2: Overriding a built-in field type with a custom field type having the same name	php|symfony|symfony-forms
+22698770	Login to a website with HTTP Basic Authentication from Android app	java|android|http|authentication|login
+22977051	Error launching Rails server: undefined method 'configure'	ruby-on-rails|gem|railstutorial.org
+22994423	Difference between np.random.seed() and np.random.RandomState()	python|numpy|random
+23042745	Scroll bar for Datalist in HTML5	php|css|html5|css3
+23139696	why html entity doesn't work on win chrome?	html|html-entities
+23262341	Attach file into Access database using Python	python|ms-access|pyodbc|pypyodbc
+23534615	why does not work in the form of validation?	python|django
+23689989	how to get simOperator for a dual sim in android	android
+23695090	Spin or rotate an image on hover	css|css3|hover|css-transitions|css-transforms
+23971418	C# - Embed dll in exe - FileNotFoundException	c#|dll|embed|exe|filenotfoundexception
+24050844	Swift : missing argument label 'xxx' in call	ios|swift
+24071774	How to close HTTP connection with okhttp?	okhttp
+24082524	transparent strikethrought on text	css|css3|svg|fonts|css-shapes
+24117369	Vanilla JS event delegation - dealing with child elements of the target element	javascript|dom|publish-subscribe|event-delegation
+24158561	How to appose WrapPanel items of different heights (vertically)?	c#|wpf|xaml|custom-controls|tiles
+24207644	Open a file directly from a GitLab private repository	linux|git|drupal|gitlab|drush
+24244684	npm install not work	node.js|npm|gulp
+24281652	Localize URL's with ui-router and angular-translate	angularjs|angular-ui-router|angular-translate
+24285999	Can't attach Android Studio's debugger to Android process	android|osx|debugging|android-studio|adb
+24308146	Why is a combiner needed for reduce method that converts type in java 8	java|java-8|java-stream
+24429838	installing nuget package &quot;same key has already been added.&quot;	c#|visual-studio|nuget|bcl
+24459352	How can I add the new &quot;Floating Action Button&quot; between two widgets/layouts	android|android-coordinatorlayout|floating-action-button
+24471109	RecyclerView onClick	android|onclick|android-recyclerview|onclicklistener
+24598465	Eclipse in OS X uses different version of Java than CLI	java|eclipse|osx
+24642040	Using Python Requests to send file and JSON in single request	python|rest|python-requests
+24710258	No Swipe Back when hiding Navigation Bar in UINavigationController	ios|objective-c|xcode|uinavigationcontroller|uigesturerecognizer
+24779990	Manipulate SVG path length with jQuery	jquery|svg|path
+24798933	Hide method/class using @hide in annotation	java|android|annotations|documentation|hide
+24830995	npm install: node-waf not found. What to do?	node.js
+24947405	PhpStorm Built-In Web Server doesn't work with PHP and cause &quot;No input file specified&quot; error	php|phpstorm
+25142594	Allowing javascript to run on a windows form web browser	c#|javascript|webbrowser-control|windows-forms-designer
+25358698	Bash parse HTML	bash|parsing|awk
+25545370	Extract image src from &lt;img&gt;tag in android	android|html
+25651342	How to add ASP.NET MVC5 Identity Authentication to existing database	asp.net|asp.net-mvc-5|asp.net-identity
+25856216	QWebsockets won't work in threads?	c++|qt|websocket|qt5.3
+25868608	Volley framewok request keeps objects in memory	android|android-volley|android-networking
+25957879	Filter order in spring-boot	java|spring|spring-mvc|spring-boot
+25967700	MagicalRecord crashed on ios8	ios|ios7|ios8|magicalrecord
+26061311	How do I sucessfully login to Instagram by HttpRequest in C# [.NET]?	c#|winforms|login|httprequest|instagram
+26152652	iOS HTML5 Canvas toDataURL	javascript|ios|html5|canvas
+26168544	PBKDF2 Python keys vs .NET Rfc2898	c#|python|encryption|aes|pbkdf2
+26445450	How to delete an object using Django Rest Framework	python|django|rest|django-rest-framework
+26485487	Error starting Tomcat from NetBeans - '127.0.0.1*' is not recognized as an internal or external command	tomcat|netbeans|startup
+26517872	'pip3 --version' failing with a SyntaxError	python|osx-mavericks|setuptools
+26527208	Netty write to all connected channels	java|netty
+26539727	Giving a docker container a routable ip address	ip|docker|iptables|boot2docker
+26569302	PostgreSQL + Openshift: Possibly the wrong driver for the given database URL?	java|postgresql|jdbc|openshift|liquibase
+26588697	Phalcon\Assets\Exception: Non-free csssminifier not available	php|minify|phalcon
+26600263	How do I prevent the status bar and navigation bar from animating during an activity scene animation transition?	android|android-5.0-lollipop|shared-element-transition|activity-transition
+26642378	appcompat 21 logo as back button	android|android-actionbar|appcompat
+26649406	Nested Recycler view height doesn't wrap its content	android|android-layout|android-studio|android-recyclerview|android-support-library
+26714426	What is the meaning of Google Translate query params?	google-translate|query-parameters
+26719806	Jsoup can't login to establish cookies	java|jsoup|session-cookies
+26734047	Cannot save a remote image with node.js and request	javascript|node.js|request
+26739167	JWT (JSON Web Token) automatic prolongation of expiration	node.js|api|security|authentication|jwt
+26739778	Get UserID of logged-in user in Asp.Net MVC 5	c#|asp.net|asp.net-mvc|asp.net-mvc-5|asp.net-identity
+26984183	Android Material Design: Failed to find style 'toolbarStyle' in current theme	android|android-theme|material-design
+27081787	OnClickListener for CardView?	android|onclicklistener|android-5.0-lollipop|android-cardview
+27083091	RecyclerView inside ScrollView is not working	android|android-layout|android-scrollview|android-recyclerview|android-cardview
+27280402	Every connection request is being treated as direct connect request + android ble	android|bluetooth-lowenergy|android-bluetooth
+27297168	WebView in Lollipop doesn't load fonts from assets	android|html|webview|assets|android-5.0-lollipop
+27330446	Getting a fatal error in git for multiple stage entries	git
+27444616	VB.Net Serialize and Deserialize private members - simple example	.net|vb.net|object|serialization|private-members
+27600231	Wordpress: Load custom field in ajax	wordpress|wordpress-plugin
+27682973	Draw half circle with CSS or SVG	css|css3|svg|css-shapes
+27682977	Using shared preferences between unity and native android sdk	android|unity3d
+27730055	Required pentagon shape with right direction CSS and HTML	html|css|css3|css-shapes
+27742070	AngularJS Error: Cross origin requests are only supported for protocol schemes: http, data, chrome-extension, https	javascript|html|angularjs|xmlhttprequest
+27768320	HTML5 Video - double click to go full screen	html5|video|fullscreen
+27862346	Visual studio 2013 suddenly compiling really slow after BK4503 minor error appeared	c++|visual-studio-2013
+27878272	MPVolumeView animation issue	ios|objective-c|uikit|mpvolumeview
+28010094	Intellij IDEA Blank Lines after Opening Brace Formatting	java|intellij-idea|intellij-14
+28051137	Update module created from local aar	android-studio|aar
+28097758	Angular UI Grid: How to create a pre-populated dropdown menu for column filtering	angularjs|drop-down-menu|angular-ui-grid
+28161499	How can i get the text entered in search in action bar to a string?	android|android-intent|android-activity|android-actionbar
+28331813	Reverse proxy from nginx to squid	nginx|proxy|reverse-proxy|squid|http-proxy
+28504026	Left offset of &lt;select&gt; text	html|css
+28567736	Yii2 multiple forms in a single action	forms|yii2
+28613751	How to Register New File Type Association with MP3	android|android-studio|gradle|mp3
+28623446	Hover effect : expand bottom border	css|css3|border|css-transitions|css-transforms
+28712814	How todetect usb vendor id and product id using java	java|usb
+28733024	Gson deserialization of List&lt;String&gt; into realmList&lt;RealmString&gt;	java|android|gson|realm
+28784655	c# - inserting smileys in RichTextBox inserts some and ignores others	c#|image|winforms|clipboard
+28785715	How to display an activity indicator with text on iOS 8 with Swift?	swift|ios8
+28921077	Symfony Sonata Media Bundle add images/videos to a user	php|symfony|sonata|sonata-media-bundle
+28970105	login event handling in laravel 5	php|laravel|laravel-5
+28977080	How to add the rows dynamically on gridpane in Java FX?	java|dynamic|javafx|row|gridpane
+28999124	Resolved versions for app (22.0.0) and test app (21.0.3) differ	android|android-support-library
+29104809	CSS radial menu	html|css|css3|navigation|css-shapes
+29113209	How to transfer ASP.NET MVC Database from LocalDb to SQL Server?	sql-server|asp.net-mvc|database|localdb
+29330578	Error at migrating in Flask with sqlalchemy_utils ChoiceType	python|postgresql|flask|sqlalchemy|flask-migrate
+29398237	Texture.setEnforcePotImages(false); cannot resolve mothed error under android studio	java|android|libgdx
+29411457	IIS 8.5 MVC 5 Routes 'api/controllerName' gives 404 Not Found Error	asp.net-mvc-5|iis-8.5
+29452054	PyCharm unresolved reference when importing class from other file	python|pycharm
+29574481	Image being saved from canvas is not rendered properly	c#|image|canvas|windows-phone-8.1|windows-rt
+29747565	Domain authentication with Kerberos fails	grails|kerberos|spring-security-kerberos
+29889468	How to stop the scrolling of parent scroll view when child scroll view is scrolled in android?	android|scroll
+29902715	How close all process on new Desktop?	c#|winapi
+29998640	Unit Test Form WIth Repository Method	forms|unit-testing|symfony
+30132706	Docker service does not start	docker|ubuntu-14.04
+30164342	Insert text in border CSS HTML	css|text|background-image|border
+30209776	Docker container will automatically stop after &quot;docker run -d&quot;	docker
+30227391	Postgree double group by repeating attribute	ruby-on-rails|postgresql|group-by|postgresql-9.3
+30262731	Strange error in MonthCalendar just started happening out of nowhere	c#|winforms
+30287741	How to make Jenkins filter files changed in last commit and send them by FTP/SFTP	git|jenkins|continuous-integration
+30398247	How to filter a RecyclerView with a SearchView	android|android-recyclerview|searchview|android-filterable
+30411901	How to add specific files in git by their number in git status?	git|git-add
+30506134	Line with indented circle	css|css3|svg|css-shapes
+30523176	Circle div balloon	html|css|css-shapes
+30711517	How to change the contents of listview on item click?	android|listview
+30728967	AngularJS: How to call function on onsubmit inside the controller as ng-submit	angularjs|cordova|ionic-framework
+30762007	Scrollbar resetting to the top of the treeView after sorting?	c#|.net|winforms
+30805098	How to display last N tags in GIT	git|git-tag
+30851344	How can I do an Entity Framework Core project and add a Migration in Visual Studio 2015 from nuget prompt?	entity-framework|powershell|visual-studio-2015|asp.net-core|dnx
+30862462	How to generate a big Excel file with php?	php|phpexcel
+30941833	Rotate a SVG hamburger icon into an X?	javascript|jquery|css3|svg|css-transforms
+30987883	How do I install PHP 7 (PHP next generation) on Ubuntu	php|ubuntu
+31031644	yii2: how to add fixed filter in SerachModel-&gt;search(...)	php|search|model|yii2
+31043869	IntelliJ and JSP/JSTL cannot resolve taglib for JSTL in tomcat7	java|jsp|tomcat|intellij-idea|jstl
+31125334	Yii2 - ActiveRecord to Array	yii2
+31205720	Two floating action buttons next to each other	android|material-design|floating-action-button
+31249178	Java object diffs: How to apply diffs to an object	java|object|graph|compare
+31296374	Resolved -&gt; Android - Interactive shell (Runtime.getRuntime().exec())	android|shell|process|bufferedreader|interactive
+31342684	Getting error: Could not find class 'android.app.AppOpsManager', referenced from method com.google.android.gms.common.GooglePlayServicesUtil.zza	android|google-play-services
+31604019	Recursive regular expression: how to set a mismatch with the string, rather than individual characters	php|regex|preg-match-all
+31674238	Backbone Model : Ajax request in parse override	javascript|jquery|ajax|backbone.js|backbone-model
+31679863	&quot;Powershell: The local farm is not accessible. Cmdlets with FeatureDependencyId are not registered&quot; after installing SP (not configured)	powershell|sharepoint|sharepoint-2013
+31681394	RecyclerView with GridLayoutManager trying to solve wrap_content	android|android-recyclerview|gridlayoutmanager
+31740919	How do you replace the class of a Maven dependency?	java|eclipse|maven|dependencies
+31847855	T4 Text Transformations in VS2013 and VS2015	visual-studio-2013|visual-studio-2015|t4
+31954292	Spring Security with basic auth redirecting to /error for invalid credentials	spring|security|authentication|basic-authentication|credentials
+32068907	How to Call AsyncTask from Adapter class?	android|listview|android-adapter
+32070670	PreferenceFragmentCompat requires preferenceTheme to be set	android|android-fragments|android-support-library|preferencefragment|preference-v7
+32197299	java.lang.IllegalStateException when clicking on Android Device Monitor	java|android|android-studio
+32362150	Turning on Start Mode to Always Running in MVC Application without access to Application Pools	asp.net-mvc|iis|application-pool
+32469570	How can I insert a line break into a text component in React Native?	javascript|text|react-native|newline
+32475287	Display profile FOS UserBundle + Sonata UserBundle	php|symfony|fosuserbundle|sonata-user-bundle
+32508204	Finding nearest free position for an object for any point [x,y] in a 2D space with primitives (circles, quads)	algorithm|geometry|intersection
+32516079	Symfony2 security login issue	php|symfony|authentication|login
+32592788	C# : Sort list on custom property	c#|sorting
+32600610	The specified domain does not exist or could not be contacted	c#|active-directory|directoryservices
+32634352	React Native android build failed. SDK location not found	android|react-native
+32673568	Does Android Volley support SSL?	android|android-studio|ssl|https|android-volley
+32830764	Many-To-Many Generic Update Method with Entity Framework 6	c#|entity-framework|orm|dependency-injection|entity-framework-6
+32848962	How to build Qt 4.8.6 with Visual Studio 2015 without official support?	visual-studio|qt|visual-c++
+32897708	Android - Problemn when setting visibility in CoordinatorLayout	android|android-linearlayout|android-coordinatorlayout
+32948837	Decision trees in OpenCV	java|opencv|decision-tree
+33136342	Yii: model-&gt;save - unpredictable saving	php|yii
+33140560	Get current cell value in DBGrid	oracle|delphi|ado|lookup-tables
+33304159	Making a wave animation	html|css|css3|css-animations
+33316765	Why is ES6 &quot;yield&quot; a reserved word when called in this context?	javascript|node.js|ecmascript-6
+33418668	How to properly escape the content of a &lt;code&gt; example in Xml documentation?	c#|.net|vb.net|documentation|documentation-generation
+33528309	pentaho CDE conditional formatting of bubble chart	pentaho-cde
+33566485	failed to load ad : 3	android|double-click-advertising
+33600154	Docker not starting &quot; could not delete the default bridge network: network bridge has active endpoints&quot;&quot;	linux|docker|debian
+33694588	An error occurred rendering the PivotTable results	r|shiny|pivot-table|rcharts
+33813922	Overload with first optional parameter	typescript|overloading|method-overloading|function-overloading
+33821136	Release signed Android App,Google Plus Login and Google Map not Working	android|google-maps|google-api|google-plus|google-play-services
+33832734	Is there a way to use multisampling with `GLKView` in iOS?	ios|opengl-es-2.0
+33854040	cannot resolve symbol okhttp	android|okhttp
+33878779	Adding a fragment, a &quot;wrong second argument type&quot; error occurs	android|android-fragments
+34001691	How to create a clickable grid of triangles using html, svg?	html|css|svg
+34163777	How can I use a videojs plugin when I also use RequireJS	javascript|requirejs|video.js
+34232656	Imitate multiple inheritance	inheritance|typescript|multiple-inheritance|mixins|prototypal-inheritance
+34244345	How do I configure a date picker with third party js dependencies using Require JS?	javascript|jquery|datepicker|requirejs
+34295757	How to get the response of form with POST method by cURL?	php|html|parsing|post|curl
+34300783	Simple jquery-ui dialog with knockout	jquery|jquery-ui|knockout.js|modal-dialog
+34305964	Yii2 ActiveForm unique validation not show error message	yii2
+34398023	Get Powershell command's output when invoked through code	c#|powershell|azure
+34695055	New Line in WhatsApp vs Mail	ios|email|share|whatsapp
+34755559	forfiles command ignore a directory	batch-file|command-line|cmd|ignore
+35034794	jqGrid modal edit save only changed data and marked edited row?	javascript|jqgrid|free-jqgrid
+35088983	How to start a service using GitLab runner and prevent it from stopping?	spring-boot|gitlab|gitlab-ci-runner
+35243560	onActivityResult inside a RecyclerView.Adapter not being used	android|android-studio
+35310117	Debug Assertion Failed! Expression: __acrt_first_block == header	c++|visual-studio-2015
+35357127	Choose dir shiny	javascript|r|shiny
+35623270	Development on Angular2 with TS but without NPM	javascript|angularjs|typescript|npm|angular
+35688097	Git: How to remove commit's parent commit	git|git-branch|git-rewrite-history
+35789048	How get EntityManager in OSGI in Abstract Class?(like spring @PersistenceContext)	java|jpa|osgi|entitymanager
+35796948	nvd3 controls into 2 line	javascript|d3.js|nvd3.js
+35818436	Hide/Silence ChromeDriver window	c#|selenium-webdriver|selenium-chromedriver
+35826635	CLion - GDB: current version is GNU gdb (GDB) (Cygwin 7.10.1-1) 7.10.1; supported version is 7.8.x	windows|gdb|cygwin|clion|jetbrains
+35844138	How can I Insert JSON object into Postgres using Java preparedStatement?	java|json|postgresql|prepared-statement
+35889338	Call WooCommerce 2.1 REST APT in Ionic Framework using Ouath1.a	cordova|ionic-framework|woocommerce|phonegap-plugins
+35897015	Share Action Button - Action Bar | Not Working	java|android|android-actionbar|shareactionprovider|share-button
+35975404	Measuring the amount of data downloaded during a session	r|session|traffic
+35991403	Python pip install gives &quot;Command &quot;python setup.py egg_info&quot; failed with error code 1&quot;	python|pip|install|packages|error-code
+36016369	SYSTEM_ALERT_WINDOW - How to get this permission automatically on Android 6.0 and targetSdkVersion 23	android|android-permissions|android-6.0-marshmallow|target-sdk|system-alert-window
+36022308	redirect to a page programmatically in react-router 2	javascript|reactjs|react-router
+36077302	Failing to make a SOAP request via SSL with client certificate	java|ssl|soap|client-certificates
+36109946	how to get file path on android?	android
+36153029	Why does my BackgroundWorker stop?	c#|.net|wpf
+36156694	View doesnt resize on rotation	c#|windows-phone|xamarin.forms
+36308899	ReactJS Flux: detect store data change between components (not parent and child relationship)	reactjs|reactjs-flux
+36386114	I cant save uniq value in Foreign Key	python|django|postgresql
+36422152	Is .Net core 1.0 ready to be used on a full scale production site yet?	.net|production-environment|asp.net-core-1.0
+36433461	How do I add a custom script to my package.json file that runs a javascript file?	javascript|node.js|package.json|run-script
+36667374	How to enable C++11 for Android Studio?	android|c++|c++11|android-studio
+36675738	DTW Algorithm OCT-file	c++|linux|algorithm|octave
+36717293	Making WebView audio play in background	android|audio|webview
+36869325	How to create a repeated border for a responsive element?	html|css|css3|svg|border
+36976163	Push icons away when expandig searchview in android toolbar	android|layout|android-toolbar|android-menu
+37058219	How to programatically set the margin between icon and title of menu item of Navigation Drawer in Android?	android|android-menu|android-navigation-drawer|android-navigationview
+37058259	Why is InvalideOperationException thrown when I try to serialize to XML an ObservableCollection containing hierarchical elements?	c#|inheritance|xml-serialization|observablecollection|xmlserializer
+37103927	ubuntu apache2 module http2 does not exist	apache2|ubuntu-14.04|http2
+37206635	Circle with three different border colors	css|css3|svg|border|css-shapes
+37217210	creating element on click in Meteor	meteor|reactjs
+37221062	Observable&lt;{}&gt; not assignable to type Observable&lt;SomeType[]&gt;	typescript|angular|rxjs
+37253606	react bootstrap readonly input within formcontrol	reactjs|react-bootstrap|form-control|readonlyattribute
+37461349	Kannel queue type	kannel
+37512815	Bug with Roboto font and break-word (on desktop Chrome)	css|google-chrome|fonts|roboto
+37566163	Show/Hide LinearLayout when scrolling a RecyclerView?	android|android-layout|android-fragments|android-coordinatorlayout
+37597080	Reset app state between InstrumentationTestCase runs	android-testing|android-espresso|android-instrumentation
+37622422	SVG &gt; Animate width from middle	html5|css3|animation|svg|web
+37649164	How to add bootstrap to an angular-cli project	twitter-bootstrap|angular|angular-cli
+37723488	QSqlQuery works wrong	database|postgresql|qt
+37726651	Xamarin Studio 6.0	xamarin
+37739465	Regex match double quote which does not follow slash character	java|regex
+37846127	Fragment not attached to Activity	android
+38104560	Create new application telegram API	android|forms|api|registration|telegram
+38127198	SVG triangle separator with image background	html|css|svg|css-shapes
+38173653	How to recreate or reset cached Observable, used with Retrofit to get new data?	java|android|retrofit|rx-java|rx-android
+38189428	WooCommerce - unset &quot;&lt;product&gt; removed notice…&quot; on cart page	php|wordpress|woocommerce|cart|storefront
+38390686	How to get response from other thread using Retrofit 2.0	java|android|json|multithreading|retrofit
+38407760	Extending String.prototype performance shows that function calls are 10x faster	javascript|performance
+38411552	Why &quot;use strict&quot; improves performance 10x in this example?	javascript|performance
+38429630	custom chrome tabs asks for multiple browser to choose	android|chrome-custom-tabs
+38602808	Uninstall Node js Windows 10	node.js
+38673673	Access HTTP response as string in Go	networking|go
+38680567	Popup menu goes out of the screen	android|android-layout|user-interface|android-activity|appcompat
+38857192	How to align text on a sloping line?	html|css|shapes
+38929345	iOS app submission error - localization related issue	ios|itunesconnect
+39556307	Prevent __start entry point from being optimized out	c|gcc|optimization
+39566930	EventEmitter: simultaneous events blend, how to prevent this?	javascript|angular
+39612339	How can I deploy my Angular 2 + Typescript + Webpack app	nginx|angular|deployment|amazon-ec2|webpack
+39625198	Doesn't display the font you added via @font-face	html|css|fonts|font-face
+39873279	Split background image with 3D thickness effect	jquery|css|css3|css-shapes|css-transforms
+39878213	Rotate text on th Y axis	html|css|css3|css-shapes|css-transforms
+39963899	OperationalError: no such table	django|sqlite|migration|django-migrations
+40322476	Get the user who clicked on the button in the spreadsheet	google-apps-script|google-spreadsheet
+40337606	Leaflet edit toolbar icons misaligned	leaflet|leaflet.draw
+40507390	How to change Qt 5.7 virtual keyboard layout/locale	qt|qml|qt5.7|qtvirtualkeyboard
+40549060	Fragments and OnBackPressed	android|android-fragments|onbackpressed
+40913196	How to properly use a hardware accelerated Media Foundation Source Reader to decode a video?	c++|com|directx|hardware-acceleration|ms-media-foundation
+41132753	How can I build an Android apk without Gradle on the command line?	android|gradle|build|apk
+41179581	Akka-Http load css&amp;js resources	akka|akka-http|sca
+41415497	Very slow stack frames in static library	c++|windows|memory-management
+41461101	Flip a 3D card with CSS	css|css3|3d|css-transitions|css-transforms
+41525089	needed dtw like in R package	c++|r
+41586078	Circle border progress bar	css|html5|css3|svg|css-shapes
+41640913	Implementing One to Zero-Or-One relationship in EF Code first by data annotation	c#|entity-framework
+41758342	swift 3 facebook sdk get friends list	ios|facebook|facebook-graph-api|facebook-ios-sdk|facebook-ios-sdk-4.0
+41767991	Error creating bean with name &quot;*repository&quot;	java|maven|jpa|repository|spring-data-jpa
+42107182	How to access WPF user control's elements inside viewmodel which is a content of tab items?	c#|wpf|mvvm
+42117726	Integrate React-Semantic-UI and redux-form	javascript|reactjs|redux|semantic-ui|redux-form
+42127554	How could I implement a divided bar visualization in SVG with rounded corners?	svg
+42139990	My first svg image	svg
+42248017	Facebook 360 Photo sphere sharing	php|facebook|cakephp-3.0|sharing|photosphere
+42668761	Launch recorded macros by custom hotkeys in Wordpress?	wordpress
+42672537	How to animate fill instead of path in an SVG progress bar	javascript|css|svg|svg-filters|svg-animate
+42765341	Android Studio doesn't generate signed apk after update to 2.3	android|android-studio|google-fabric|crashlytics-android
+42881688	Writing countries to a list from VK API	c#|api|xamarin.forms|async-await|vk
+43056039	TabLayout scrolls to unkown position after calling notifyDataSetChanged on PagerAdapter	android|android-tablayout
+43156892	Lambda expressions, concurrency and static variables	multithreading|c++11|lambda|concurrency
+43332348	How can I show data in admin panel from DB?	php|opencart2.x
+43569304	android how can i write byte to wav file	android|audio|wave
+43936206	How to launch calabash-android on OS X? (Ruby gems dependency error)	ruby|rubygems|calabash|calabash-android
+44103024	How to enable Google Play App Signing	android|google-play|android-signing|android-app-signing
+44465601	Get Path from another app (WhatsApp)	android|path|uri|whatsapp
+44621447	Ubuntu - Debugging in CLion exits with code 127	c++|c|debugging|ubuntu|clion
+44713104	AngularJS $http get request is not correctly encoding dates inside object	javascript|angularjs
+45122691	Xcode 9 - &quot;Fixed Width Constraints May Cause Clipping&quot; and Other Localization Warnings	ios|localization|interface-builder|xcode9-beta
+45278807	Invoke method with parameters	java|tomcat|intellij-idea|reflection
+45918290	Python: Activate last slide in active PowerPoint presentation	python-3.x
+46051236	How to add custom extension for template in PHPixie?	php|phpixie
+46190444	How to upload data by portions via HttpWebRequest	c#|.net|system.net.httpwebrequest
+46585932	MySQL delete rows that have parameter which refers to the not exist ID	mysql|sql|database|exists
+46644693	How to make sure that the monster is not in the circle?	javascript|typescript|math|game-physics
+46677638	Why I need to overload the method when use it as ThreadStart() parameter?	c#
+46788772	android error: The RealmClass annotation does not support nested classes	java|android|realm
+47037631	Caused by: java.lang.UnsatisfiedLinkError: Cannot load library: load_library[1098]: Library '/system/lib/libhoudini.so' not found	android
+47069770	Gulp: multiple source and destination paths without any unity	gulp

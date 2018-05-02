@@ -1,0 +1,1379 @@
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\Scripts\python.exe D:/ANU_project/question_retrieval_tool/main.py
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\lib\site-packages\gensim\utils.py:1197: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+2018-03-27 23:15:08,688 : INFO : loading Word2Vec object from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+2018-03-27 23:15:09,032 : INFO : loading wv recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.* with mmap=None
+2018-03-27 23:15:09,032 : INFO : loading vectors from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.vectors.npy with mmap=None
+2018-03-27 23:15:09,125 : INFO : setting ignored attribute vectors_norm to None
+2018-03-27 23:15:09,125 : INFO : loading vocabulary recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.vocabulary.* with mmap=None
+2018-03-27 23:15:09,125 : INFO : loading trainables recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.* with mmap=None
+2018-03-27 23:15:09,125 : INFO : loading syn1neg from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.syn1neg.npy with mmap=None
+2018-03-27 23:15:09,188 : INFO : setting ignored attribute cum_table to None
+2018-03-27 23:15:09,188 : INFO : loaded /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+:::INFO:::initial process executed successfully
+:::INFO:::original_query --- §¬§Ñ§Ü §Ù§Ñ§Õ§Ñ§ä§î suffix §Õ§Ý§ñ TimedRotatingFileHandler §Ó §Ü§à§ß§æ§Ú§Ô§Ö?
+:::INFO:::translated_query --- how to ask suffix for TimedRotatingFileHandler in §Ü§à§ß§æ§Ú§Ô§Ö?
+:::INFO:::input query terms list is as following
+['ask', 'suffix', 'timedrotatingfilehandl', '§Ü§à§ß§æ§Ú§Ô§Ö', '?']
+:::INFO:::start matching on query 1
+:::INFO:::1 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I tell programatically if a filename I am asking for exists on a webserver?
+Rel_VALUE:   2.726202
+------------------------------------------------------
+RANK:   2
+TITLE:   Can I ask pep8 in python to parse a string instead of a file?
+Rel_VALUE:   2.671667
+------------------------------------------------------
+RANK:   3
+TITLE:   Can I set suffix in logging config for TimedRotatingFileHandler
+Rel_VALUE:   2.667122
+------------------------------------------------------
+RANK:   4
+TITLE:   python program that asks for user input, how can I save a list of string inputs in a file so that I can run the script only with that file as input?
+Rel_VALUE:   2.658572
+------------------------------------------------------
+RANK:   5
+TITLE:   Asking user to plot two columns in a csv file without him typing the entire column name?
+Rel_VALUE:   2.651238
+------------------------------------------------------
+RANK:   6
+TITLE:   How to use ask open file name with open function then take that file into another function?
+Rel_VALUE:   2.651238
+------------------------------------------------------
+RANK:   7
+TITLE:   Trying to write python code asking user for the name of the input file, it works but when I enter the input file it says 'input file' is not defined?
+Rel_VALUE:   2.651238
+------------------------------------------------------
+RANK:   8
+TITLE:   How to write a program that ask the user a lower-case letter and then print tower of letters beginning from letter &quot;a&quot; up to the letter entered?
+Rel_VALUE:   2.616935
+------------------------------------------------------
+RANK:   9
+TITLE:   How can python write a dot file for GraphViz asking for some edges to be colored red?
+Rel_VALUE:   2.609641
+------------------------------------------------------
+RANK:   10
+TITLE:   Using TimedRotatingFileHandler, how to name the first log file by the same convention as the rotations?
+Rel_VALUE:   2.600173
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 1 query is ---F--- with link pairs
+:::INFO:::original_query --- §¹§ä§à §Õ§Ö§Ý§Ñ§ð§ä if __name__ == ¡°__main__¡±?
+:::INFO:::translated_query --- what to do if _ _ name _ _ = = "_ _ main _ _"?
+:::INFO:::input query terms list is as following
+['_', '_', 'name', '_', '_', '=', '=', '"_', '_', 'main', '_', '_"', '?']
+:::INFO:::start matching on query 2
+:::INFO:::2 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   What is _ in: &quot;member, _ = Member.objects.get_or_create(name = self.name)&quot;
+Rel_VALUE:   9.657524
+------------------------------------------------------
+RANK:   2
+TITLE:   What does var,_ = something mean in Python? String concatenation?
+Rel_VALUE:   9.339728
+------------------------------------------------------
+RANK:   3
+TITLE:   Why are modules imported as _&lt;name&gt; in another module?
+Rel_VALUE:   9.028168
+------------------------------------------------------
+RANK:   4
+TITLE:   Openstack Python code **kwargs -&gt; help=_('Password for connection to nova in admin context')
+Rel_VALUE:   8.961066
+------------------------------------------------------
+RANK:   5
+TITLE:   Remove # and #_=_ from returning social auth url - Django
+Rel_VALUE:   8.756580
+------------------------------------------------------
+RANK:   6
+TITLE:   python filename, _ = urlretrieve(url + filename, dest_filename, reporthook=download_progress_hook)
+Rel_VALUE:   8.670378
+------------------------------------------------------
+RANK:   7
+TITLE:   How to write a regular expression in Python that accepts alphabets, numbers and a few selected special characters(,.-|;!_?)?
+Rel_VALUE:   8.577514
+------------------------------------------------------
+RANK:   8
+TITLE:   Django: how to stop Django from altering filenames (e.g. transforming a space into a _ )?
+Rel_VALUE:   8.469890
+------------------------------------------------------
+RANK:   9
+TITLE:   Django password = models.CharField(_('password'), max_length=128)
+Rel_VALUE:   8.464790
+------------------------------------------------------
+RANK:   10
+TITLE:   Why is `def f(_,): pass` a valid Python function definition?
+Rel_VALUE:   8.448015
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 2 query is ---F--- with link pairs
+:::INFO:::original_query --- §¬§Ñ§Ü §Ý§å§é§ê§Ö §Ó§ã§Ö§Ô§à §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î else-§Ò§Ý§à§Ü §á§â§Ú §á§à §à§Ò§â§Ñ§Ò§à§ä§Ü§Ö §Ú§ã§Ü§Ý§ð§é§Ö§ß§Ú§Û?
+:::INFO:::translated_query --- how best to use the else block for processing exceptions?
+:::INFO:::input query terms list is as following
+['best', 'use', 'els', 'block', 'process', 'except', '?']
+:::INFO:::start matching on query 3
+:::INFO:::3 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Why use Python's &quot;else&quot; clause in try/except block?
+Rel_VALUE:   5.374322
+------------------------------------------------------
+RANK:   2
+TITLE:   Python: raising exception in try/except/else block, processing order problem
+Rel_VALUE:   4.900450
+------------------------------------------------------
+RANK:   3
+TITLE:   Is looping and blocking on recv the best way to handle a long-lived process in python?
+Rel_VALUE:   4.729987
+------------------------------------------------------
+RANK:   4
+TITLE:   How to use try Exception block to save my code from abnormal termination?
+Rel_VALUE:   4.712407
+------------------------------------------------------
+RANK:   5
+TITLE:   An exception of netstat when using netstat -lntp to detect a process listening on a port is down or not?
+Rel_VALUE:   4.600539
+------------------------------------------------------
+RANK:   6
+TITLE:   Python: multiprocessing.map: If one process raises an exception, why aren't other processes' finally blocks called?
+Rel_VALUE:   4.598759
+------------------------------------------------------
+RANK:   7
+TITLE:   Using Python, how can I try - except a few different inputs in a single function, where if one fails, the remainder still get processed?
+Rel_VALUE:   4.585734
+------------------------------------------------------
+RANK:   8
+TITLE:   Best practice: should I use exception handlers a lot in Python code, or should I avoid if it's possible?
+Rel_VALUE:   4.581982
+------------------------------------------------------
+RANK:   9
+TITLE:   What is the best way to capture output from a process using python?
+Rel_VALUE:   4.554630
+------------------------------------------------------
+RANK:   10
+TITLE:   Is this the best way to communicate between processes by using shared memory in local system or between different machines?
+Rel_VALUE:   4.554630
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 3 query is ---F--- with link pairs
+:::INFO:::original_query --- §±§à§é§Ö§Þ§å §ß§Ö§ä §Ú§ã§Ü§Ý§ð§é§Ö§ß§Ú§ñ TypeError?
+:::INFO:::translated_query --- why there is no exception TypeError?
+:::INFO:::input query terms list is as following
+['except', 'typeerror', '?']
+:::INFO:::start matching on query 4
+:::INFO:::4 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to get rid of exceptions.TypeError error?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Why is my code raising a TypeError exception?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   exceptions.TypeError: cannot convert dictionary update sequence element #1 to a sequence?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to get __init__() to raise a more useful exception instead of TypeError when incorrect # of arguments?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   TensorFlow: Error reported to Coordinator: &lt;type 'exceptions.TypeError'&gt; despite specifying a checkpoint to restore the model?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   What is proper Tokenization algorithm? &amp; Error: TypeError: coercing to Unicode: need string or buffer, list found
+Rel_VALUE:   2.650021
+------------------------------------------------------
+RANK:   7
+TITLE:   Python pickling error: TypeError: object pickle not returning list. Issue with numpy?
+Rel_VALUE:   2.650021
+------------------------------------------------------
+RANK:   8
+TITLE:   Why do I get the error &quot;TypeError: coercing to Unicode: need string or buffer, int found&quot;?
+Rel_VALUE:   2.650021
+------------------------------------------------------
+RANK:   9
+TITLE:   How do I fix this error? TypeError: 'str' does not support the buffer interface
+Rel_VALUE:   2.650021
+------------------------------------------------------
+RANK:   10
+TITLE:   How do I fix this &quot;TypeError: 'str' object is not callable&quot; error?
+Rel_VALUE:   2.650021
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 4 query is ---F--- with link pairs
+:::INFO:::original_query --- §°§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö Label §Ú§Ù §è§Ú§Ü§Ý§Ñ §Ó tkinter
+:::INFO:::translated_query --- updating the label of the cycle in tkinter
+:::INFO:::input query terms list is as following
+['updat', 'label', 'cycl', 'tkinter']
+:::INFO:::start matching on query 5
+:::INFO:::5 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   tkinter labels, or &quot;updating variables in a loop&quot;
+Rel_VALUE:   3.487461
+------------------------------------------------------
+RANK:   2
+TITLE:   Updating dynamic Tkinter label with iterated list
+Rel_VALUE:   3.432429
+------------------------------------------------------
+RANK:   3
+TITLE:   Updating Tkinter label from a StringVar happens on a delay
+Rel_VALUE:   3.319760
+------------------------------------------------------
+RANK:   4
+TITLE:   Periodically update label in Tkinter
+Rel_VALUE:   3.290480
+------------------------------------------------------
+RANK:   5
+TITLE:   Python/tkinter: elapsed time in label/updating a label constantly?
+Rel_VALUE:   3.252285
+------------------------------------------------------
+RANK:   6
+TITLE:   How to update Label widget each time Button is clicked using TkInter - Python
+Rel_VALUE:   3.252285
+------------------------------------------------------
+RANK:   7
+TITLE:   Python tkinter: Continuously updating labels in frame
+Rel_VALUE:   3.211028
+------------------------------------------------------
+RANK:   8
+TITLE:   Tkinter Python Continuously update Label from serial data?
+Rel_VALUE:   3.211028
+------------------------------------------------------
+RANK:   9
+TITLE:   label in kivy doesn't update in while loop
+Rel_VALUE:   3.204436
+------------------------------------------------------
+RANK:   10
+TITLE:   Update label elements in Tkinter
+Rel_VALUE:   3.182087
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 5 query is ---F--- with link pairs
+:::INFO:::original_query --- §°§á§â§Ö§Õ§Ö§Ý§Ö§ß§Ú§Ö §é§Ñ§ã§ä§à§ä§í §Ù§Ó§å§Ü§Ñ wave-§æ§Ñ§Û§Ý§Ñ Python: §á§à§é§Ö§Þ§å §à§Õ§Ú§ß §Ü§Ñ§ß§Ñ§Ý §à§Ò§â§Ñ§Ò§Ñ§ä§í§Ó§Ñ§Ö§ä§ã§ñ §Ü§à§â§â§Ö§Ü§ä§ß§à, §Ñ §Ó§ä§à§â§à§Û - §á§â§Ñ§Ü§ä§Ú§é§Ö§ã§Ü§Ú §Õ§å§Ò§Ý§Ú§â§å§Ö§ä §ß§Ñ §Ó§í§ç§à§Õ§Ö §Õ§Ñ§ß§ß§í§Ö §á§Ö§â§Ó§à§Ô§à?
+:::INFO:::translated_query --- the frequency of sound wave file python: why one channel is processed correctly, and the other is a near duplicate of the first output data.
+:::INFO:::input query terms list is as following
+['frequenc', 'sound', 'wave', 'file', 'python:', 'one', 'channel', 'process', 'correct', 'near', 'duplic', 'first', 'output', 'data', '.']
+:::INFO:::start matching on query 6
+:::INFO:::6 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to arrange the Numpy array output in separate rows to one .csv file and to put the name of the processed image in the first cell of a row?
+Rel_VALUE:   7.988632
+------------------------------------------------------
+RANK:   2
+TITLE:   Process all .wav files in folder and append results to a single CSV file in Python 2.7
+Rel_VALUE:   7.334063
+------------------------------------------------------
+RANK:   3
+TITLE:   I am getting peak frequency from wav file. But for recorded 2 channels wav it is not working
+Rel_VALUE:   7.284889
+------------------------------------------------------
+RANK:   4
+TITLE:   Read the data of a single channel from a stereo wave file wave with 24-bit data in Python
+Rel_VALUE:   6.926169
+------------------------------------------------------
+RANK:   5
+TITLE:   Read the data of a single channel from a stereo wave file in Python
+Rel_VALUE:   6.915219
+------------------------------------------------------
+RANK:   6
+TITLE:   How to output a lot of lists with data into one giant list after reading in multiple files using glob.glob?
+Rel_VALUE:   6.792014
+------------------------------------------------------
+RANK:   7
+TITLE:   Why the output is the last line of data file test.txt?
+Rel_VALUE:   6.709421
+------------------------------------------------------
+RANK:   8
+TITLE:   How can Python analyze a stereo (2 channel) .wav file to determine the length of time between two points of interest in the file?
+Rel_VALUE:   6.692849
+------------------------------------------------------
+RANK:   9
+TITLE:   Best way to speed up the process of creating dictionaries when dealing with a large amount of netflow data in a .json file in Python?
+Rel_VALUE:   6.654172
+------------------------------------------------------
+RANK:   10
+TITLE:   What is the correct setting for pandas.read_csv to read a very raw CSV file with first three numbers compiled into datetime.datetime object?
+Rel_VALUE:   6.617008
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 6 query is ---F--- with link pairs
+:::INFO:::original_query --- §¶§å§ß§Ü§è§Ú§ñ §á§à§Ú§ã§Ü§Ñ §ß§Ñ§Ú§Ò§à§Ý§î§ê§Ö§Ô§à §å§Ô§Ý§Ñ §Þ§Ö§Ø§Õ§å §ã§à§ã§Ö§Õ§ß§Ú§Þ§Ú §ä§â§Ö§å§Ô§à§Ý§î§ß§Ú§Ü§Ñ§Þ§Ú §Ó§í§Õ§Ñ§×§ä §ã§ä§â§Ñ§ß§ß§å§ð §à§ê§Ú§Ò§Ü§å §ß§Ñ §ä§Ö§ã§ä§Ö
+:::INFO:::translated_query --- a search function of the angle between the adjacent triangles is a mistake in the test
+:::INFO:::input query terms list is as following
+['search', 'function', 'angl', 'adjac', 'triangl', 'mistak', 'test']
+:::INFO:::start matching on query 7
+:::INFO:::7 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Find a function that finds the difference between adjacent values in a list then test against a threshold
+Rel_VALUE:   3.978222
+------------------------------------------------------
+RANK:   2
+TITLE:   Using if function to set new values for midpoint etc Binary search
+Rel_VALUE:   3.843272
+------------------------------------------------------
+RANK:   3
+TITLE:   Where should I put the 'return m' statement in order to return the position of element in the following binary search function?
+Rel_VALUE:   3.680453
+------------------------------------------------------
+RANK:   4
+TITLE:   'Sum of Triangles': Codechef How can the code be optimised for speed and large test cases?
+Rel_VALUE:   3.661655
+------------------------------------------------------
+RANK:   5
+TITLE:   Python: Implementing a function to do stochastic gradient descent given a feature extractor (and train/test sets)?
+Rel_VALUE:   3.656336
+------------------------------------------------------
+RANK:   6
+TITLE:   Iterative Function Search for KDTree unique Nearest Neighbors
+Rel_VALUE:   3.579241
+------------------------------------------------------
+RANK:   7
+TITLE:   Is there a method to test whether two shapes can be broadcast in numpy?
+Rel_VALUE:   3.570324
+------------------------------------------------------
+RANK:   8
+TITLE:   How do i generate a histogram for a given probability distribution (for functional testing a server)?
+Rel_VALUE:   3.517088
+------------------------------------------------------
+RANK:   9
+TITLE:   Program that tests whether three numbers make up the sides of a right triangle
+Rel_VALUE:   3.471387
+------------------------------------------------------
+RANK:   10
+TITLE:   &quot;Linear search failed&quot; error initial guess set to minimum of quadratic function
+Rel_VALUE:   3.465391
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 7 query is ---F--- with link pairs
+:::INFO:::original_query --- §¬§Ñ§Ü §Ù§Ñ§á§å§ã§ä§Ú§ä§î §³§Ú§ê§ß§í§Û §Ü§à§Õ §Ú§Ù Python §ã §á§â§Ñ§Ó§Ñ§Þ§Ú §ã§å§á§Ö§â§á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§ñ?
+:::INFO:::translated_query --- how to §ã§Ú§ê§ß§í§Û from python code with root privileges.
+:::INFO:::input query terms list is as following
+['§ã§Ú§ê§ß§í§Û', 'python', 'code', 'root', 'privileg', '.']
+:::INFO:::start matching on query 8
+:::INFO:::8 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Launch python script in .desktop without root privileges
+Rel_VALUE:   4.394981
+------------------------------------------------------
+RANK:   2
+TITLE:   Compile openCV with SIFT and python 2.7 bindings without root privileges
+Rel_VALUE:   4.238445
+------------------------------------------------------
+RANK:   3
+TITLE:   How to install python 3.x alongside with 2.y without root privileges
+Rel_VALUE:   4.058522
+------------------------------------------------------
+RANK:   4
+TITLE:   What on earth...? File permissions from files created by Python C code
+Rel_VALUE:   3.999509
+------------------------------------------------------
+RANK:   5
+TITLE:   OSError: [Errno 13] Permission denied when running python code called extract.py
+Rel_VALUE:   3.999509
+------------------------------------------------------
+RANK:   6
+TITLE:   python:IOError: [Errno 13] Permission denied. When I tried google-analytics-api sample code
+Rel_VALUE:   3.999509
+------------------------------------------------------
+RANK:   7
+TITLE:   Why is Python 2.7 installed at root, unlike most programs today?
+Rel_VALUE:   3.834123
+------------------------------------------------------
+RANK:   8
+TITLE:   (Python) my script gets stuck at root.mainloop(), how do I make it run alongside my script?
+Rel_VALUE:   3.689030
+------------------------------------------------------
+RANK:   9
+TITLE:   Activating the root user with a python script. (OSX)
+Rel_VALUE:   3.689030
+------------------------------------------------------
+RANK:   10
+TITLE:   In Python scripting for MySQL Workbench 5.2.34, grt.root.wb does not have physicalModels
+Rel_VALUE:   3.689030
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 8 query is ---F--- with link pairs
+:::INFO:::original_query --- §¯§Ö§â§Ö§Ü§å§â§ã§Ú§Ó§ß§í§Û §à§Ò§ç§à§Õ §Õ§Ú§â§Ö§Ü§ä§à§â§Ú§Û
+:::INFO:::translated_query --- §ß§Ö§â§Ö§Ü§å§â§ã§Ú§Ó§ß§í§Û bypassing directories
+:::INFO:::input query terms list is as following
+['§ß§Ö§â§Ö§Ü§å§â§ã§Ú§Ó§ß§í§Û', 'bypass', 'directori']
+:::INFO:::start matching on query 9
+:::INFO:::9 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to bypass url mapping in django &amp; make url directly point to file
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   2
+TITLE:   Apache WSGI Python 0 bypass python file token access
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   3
+TITLE:   Scapy and tcpreplay: bypass temporary file for performance
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   4
+TITLE:   Write to a file to bypass memory cap when generating a big variable. Python 3.3
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   5
+TITLE:   Python File I/O issue: Bypassing For Loop?
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   6
+TITLE:   Cython reading in files in parallel and bypassing GIL
+Rel_VALUE:   1.497202
+------------------------------------------------------
+RANK:   7
+TITLE:   How could I enable template caching in appengine after incorporating calls to parent directories?
+Rel_VALUE:   1.489746
+------------------------------------------------------
+RANK:   8
+TITLE:   How do you specify bin directory for pip install with --target option enabled
+Rel_VALUE:   1.489746
+------------------------------------------------------
+RANK:   9
+TITLE:   Unable to authenticate ,enable the user in active Directory ,the user account created by using python ldap
+Rel_VALUE:   1.489746
+------------------------------------------------------
+RANK:   10
+TITLE:   Enable autologin into flask app using active directory
+Rel_VALUE:   1.489746
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 9 query is ---F--- with link pairs
+:::INFO:::original_query --- lxml, &lt;br/&gt; §Ú §á§â§à§á§Ñ§Õ§Ñ§ð§ë§Ú§Û tail
+:::INFO:::translated_query --- lxml, & lt; -- / & gt; and §á§â§à§á§Ñ§Õ§Ñ§ð§ë§Ú§Û tail
+:::INFO:::input query terms list is as following
+['lxml', '&', 'lt', '/', '&', 'gt', '§á§â§à§á§Ñ§Õ§Ñ§ð§ë§Ú§Û', 'tail']
+:::INFO:::start matching on query 10
+:::INFO:::10 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   HTML parsing with lxml, python, .tail being broken up by &lt;br&gt; tags
+Rel_VALUE:   6.337702
+------------------------------------------------------
+RANK:   2
+TITLE:   How do you write an &lt;xs:unique&gt; constraint correctly and/or get lxml to throw an exception when such a constraint is violated?
+Rel_VALUE:   6.155665
+------------------------------------------------------
+RANK:   3
+TITLE:   using lxml / xpath what are the various ways to select elements based on their siblings? (ex: only select &lt;div&gt;'s that follow &lt;h1&gt;'s)
+Rel_VALUE:   6.154442
+------------------------------------------------------
+RANK:   4
+TITLE:   Merge multiple &lt;br /&gt; tags to a single one with python lxml
+Rel_VALUE:   6.153859
+------------------------------------------------------
+RANK:   5
+TITLE:   scrapy / lxml.html : Consolidate multiple consecutive &lt;br&gt; tags
+Rel_VALUE:   6.143953
+------------------------------------------------------
+RANK:   6
+TITLE:   python lxml find &lt;fb:comments /&gt; tag
+Rel_VALUE:   6.124663
+------------------------------------------------------
+RANK:   7
+TITLE:   how to get text of &lt;p&gt; without &lt;br/&gt; using lxml in python?
+Rel_VALUE:   6.124663
+------------------------------------------------------
+RANK:   8
+TITLE:   Python Lxml find text after &lt;strong&gt;&lt;/strong&gt; tags
+Rel_VALUE:   6.124663
+------------------------------------------------------
+RANK:   9
+TITLE:   lxml etree replaces &lt;em&gt;&lt;/em&gt; with &lt;em/&gt;
+Rel_VALUE:   6.123664
+------------------------------------------------------
+RANK:   10
+TITLE:   Why lxml.etree.SubElement(body, &quot;br&quot;) will create &lt;br /&gt;?
+Rel_VALUE:   6.123664
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 10 query is ---F--- with link pairs
+:::INFO:::original_query --- Python: §±§â§à§Ú§Ù§Ó§à§Ý§î§ß§à§Ö §Ü§à§Ý§Ú§é§Ö§ã§ä§Ó§à §Ñ§â§Ô§å§Þ§Ö§ß§ä§à§Ó §Ó §Ü§à§ß§ã§ä§â§å§Ü§ä§à§â§Ö §Ü§Ý§Ñ§ã§ã§Ñ
+:::INFO:::translated_query --- python: the arbitrary number of arguments in the constructor of the class
+:::INFO:::input query terms list is as following
+['python:', 'arbitrari', 'number', 'argument', 'constructor', 'class']
+:::INFO:::start matching on query 11
+:::INFO:::11 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   factory class, wrong number of arguments being passed to subclass constructor
+Rel_VALUE:   4.357815
+------------------------------------------------------
+RANK:   2
+TITLE:   Adding arbitrary number of arguments to subclass?
+Rel_VALUE:   4.155807
+------------------------------------------------------
+RANK:   3
+TITLE:   Pass arbitrary number of variables through multiple functions/classes/methods
+Rel_VALUE:   4.141308
+------------------------------------------------------
+RANK:   4
+TITLE:   Class inheritance with arbitrary number of **kwargs?
+Rel_VALUE:   4.091969
+------------------------------------------------------
+RANK:   5
+TITLE:   does a python object need to be given the same number of arguments as its class?
+Rel_VALUE:   4.070742
+------------------------------------------------------
+RANK:   6
+TITLE:   Is it a bad practice to change the number of arguments of an overridden class method in Python?
+Rel_VALUE:   4.061273
+------------------------------------------------------
+RANK:   7
+TITLE:   Can you use a list or other iterable as input for a function that takes an arbitrary number of arguments?
+Rel_VALUE:   3.991674
+------------------------------------------------------
+RANK:   8
+TITLE:   How to create a function that can split a string an arbitrary number of times depending on input arguments?
+Rel_VALUE:   3.991674
+------------------------------------------------------
+RANK:   9
+TITLE:   Function for an arbitrary number of arguments gives type error
+Rel_VALUE:   3.991674
+------------------------------------------------------
+RANK:   10
+TITLE:   How do I pass an arbitrary number of arguments to a function in Python (Facepy library)?
+Rel_VALUE:   3.991674
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 11 query is ---F--- with link pairs
+:::INFO:::original_query --- §±§à§â§ñ§Õ§à§Ü §å§Õ§Ñ§Ý§Ö§ß§Ú§ñ §ï§Ý§Ö§Þ§Ö§ß§ä§à§Ó §ã§á§Ú§ã§Ü§Ñ §Ó python.
+:::INFO:::translated_query --- the removal of elements of the list in python.
+:::INFO:::input query terms list is as following
+['remov', 'element', 'list', 'python', '.']
+:::INFO:::start matching on query 12
+:::INFO:::12 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python 2.7 Removing Duplicate Elements in a List of Lists compared to another List of Lists
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Looping through a list and checking a condition which determines whether element is removed or not. Getting weird results. Python3
+Rel_VALUE:   4.771547
+------------------------------------------------------
+RANK:   3
+TITLE:   list.remove(item) in Python, how does it work?
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   4
+TITLE:   Python: Need to remove first item from list then populate a wx.CheckListBox
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   5
+TITLE:   Can you remove items from a list by non-numeric character in Python 2.7?
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   6
+TITLE:   heapq.heappop not removing item from list in python
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   7
+TITLE:   using .join method in python removes first and last items in list
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   8
+TITLE:   Removal of an item from a python list, how are items compared (e.g. numpy arrays)?
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   9
+TITLE:   Python &quot;sys.getsizeof&quot; reports same size after items removed from list/dict?
+Rel_VALUE:   4.649968
+------------------------------------------------------
+RANK:   10
+TITLE:   Python 2.7 - add and remove items from a list in a text file
+Rel_VALUE:   4.649968
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 12 query is ---F--- with link pairs
+:::INFO:::original_query --- §Ü§Ñ§Ü §Ù§Ñ§á§å§ã§ä§Ú§ä§î §ã§Ü§â§Ú§á§ä §ß§Ñ pypy
+:::INFO:::translated_query --- how to run the script on the pypy
+:::INFO:::input query terms list is as following
+['run', 'script', 'pypi']
+:::INFO:::start matching on query 13
+:::INFO:::13 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Pypy JIT gives a speed boost even if a script is run only once?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Running Python Scripts from Command Line with Pypy Interpreter
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Forcing modules to run in PyPy from a CPython script (run PyPy on part of the code)?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Run python script in PyPy
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Use distribute/setuptools to create symlink (or run script)?
+Rel_VALUE:   2.718194
+------------------------------------------------------
+RANK:   6
+TITLE:   Run post-install script in a Python Egg (setuptools)
+Rel_VALUE:   2.718194
+------------------------------------------------------
+RANK:   7
+TITLE:   When I run the setuptools .egg &quot;as if it were a shell script&quot;, what's actually happening?
+Rel_VALUE:   2.718194
+------------------------------------------------------
+RANK:   8
+TITLE:   How to run scripts from setuptools entry_points during the installation package?
+Rel_VALUE:   2.718194
+------------------------------------------------------
+RANK:   9
+TITLE:   Run a additional uninstall script with setuptools
+Rel_VALUE:   2.718194
+------------------------------------------------------
+RANK:   10
+TITLE:   How to run a script when a user uninstalls my package with pip?
+Rel_VALUE:   2.711419
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 13 query is ---F--- with link pairs
+:::INFO:::original_query --- UnicodeDecodeError: 'utf-8' codec can't decode byte, Python
+:::INFO:::translated_query --- UnicodeDecodeError: 'utf-8' codec can't decode byte, python
+:::INFO:::input query terms list is as following
+['unicodedecodeerror:', "'", 'utf', '8', "'", 'codec', "'", 'decod', 'byte', 'python']
+:::INFO:::start matching on query 14
+:::INFO:::14 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python 2.7 decode error using UTF-8 header: UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3
+Rel_VALUE:   8.514548
+------------------------------------------------------
+RANK:   2
+TITLE:   UnicodeDecodeError: 'ascii' codec can't decode byte ... Python 2.7 and
+Rel_VALUE:   8.408132
+------------------------------------------------------
+RANK:   3
+TITLE:   Python 2.7 UnicodeDecodeError: 'ascii' codec can't decode byte
+Rel_VALUE:   8.408132
+------------------------------------------------------
+RANK:   4
+TITLE:   Python DBF: 'ascii' codec can't decode byte 0xf6 in position 6: ordinal not in range(128)
+Rel_VALUE:   8.294980
+------------------------------------------------------
+RANK:   5
+TITLE:   'utf-8' codec can't decode byte reading a file in Python3.4 but not in Python2.7
+Rel_VALUE:   8.286095
+------------------------------------------------------
+RANK:   6
+TITLE:   Python zipfile sending via suds error: &quot;'ascii' codec can't decode byte 0x8c in position 10: ordinal not in range(128)&quot;
+Rel_VALUE:   8.244922
+------------------------------------------------------
+RANK:   7
+TITLE:   Python error 'ascii' codec can't decode byte 0x90 in position 11: ordinal not in range(128)&quot;
+Rel_VALUE:   8.177002
+------------------------------------------------------
+RANK:   8
+TITLE:   Python ez_install : UnicodeDecodeError: 'ascii' codec can't decode byte 0xae in position 11
+Rel_VALUE:   8.177002
+------------------------------------------------------
+RANK:   9
+TITLE:   python: UnicodeDecodeError: 'utf8' codec can't decode byte 0xc0 in position 0: invalid start byte
+Rel_VALUE:   8.170177
+------------------------------------------------------
+RANK:   10
+TITLE:   Python 'utf8' codec can't decode byte 0xcd in position 0: invalid continuation byte
+Rel_VALUE:   8.170177
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 14 query is ---F--- with link pairs
+:::INFO:::original_query --- Notification §Ó Windows 8.1
+:::INFO:::translated_query --- notification in windows 8.1
+:::INFO:::input query terms list is as following
+['notif', 'window', '8', '.', '1']
+:::INFO:::start matching on query 15
+:::INFO:::15 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I use Python (2.7) to read Windows notifications?
+Rel_VALUE:   4.576699
+------------------------------------------------------
+RANK:   2
+TITLE:   spark-submit giving Invalid syntax error message on Windows 10 with Python 2.7, Java 1.8
+Rel_VALUE:   4.478909
+------------------------------------------------------
+RANK:   3
+TITLE:   Windows 8.1 store app unable to connect to a Python pybluez Bluetooth Service
+Rel_VALUE:   4.390986
+------------------------------------------------------
+RANK:   4
+TITLE:   Google App Engine Launcher on Windows 8.1
+Rel_VALUE:   4.390986
+------------------------------------------------------
+RANK:   5
+TITLE:   deploying sample django app on dotcloud using dcapp on windows 8.1 gave file not found error
+Rel_VALUE:   4.390986
+------------------------------------------------------
+RANK:   6
+TITLE:   PyBluez No Bluetooth Adapter Detected Windows 8.1
+Rel_VALUE:   4.322479
+------------------------------------------------------
+RANK:   7
+TITLE:   Uploading a file via POST multipart/form-data from windows phone 8.1 Silverlight Httpclient to python server corrupts files
+Rel_VALUE:   4.314983
+------------------------------------------------------
+RANK:   8
+TITLE:   Change Desktop Background in Windows 8.1 using Python 3.4 in Real TIme
+Rel_VALUE:   4.269934
+------------------------------------------------------
+RANK:   9
+TITLE:   Build complications with PyQt4 and SIP; how would I downgrade to Python 2.7.9 from 2.7.10 in a windows 8.1 machine?
+Rel_VALUE:   4.251907
+------------------------------------------------------
+RANK:   10
+TITLE:   Installing SIP 4.16.4 and PyQt5.3.1 for Python 3.4 x64 on Windows 8.1
+Rel_VALUE:   4.251907
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 15 query is ---F--- with link pairs
+:::INFO:::original_query --- §®§à§Õ§å§Ý§î shelve §Ô§Ö§ß§Ö§â§Ú§â§å§Ö§ä §ß§Ñ §â§Ñ§Ù§ß§í§ç §á§Ý§Ñ§ä§æ§à§â§Þ§Ñ§ç §â§Ñ§Ù§ß§í§Ö §æ§Ñ§Û§Ý§í
+:::INFO:::translated_query --- the module shelve generates different platforms different files
+:::INFO:::input query terms list is as following
+['modul', 'shelv', 'generat', 'differ', 'platform', 'differ', 'file']
+:::INFO:::start matching on query 16
+:::INFO:::16 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   The shelve module in Python2.7.5 create different database file
+Rel_VALUE:   5.880900
+------------------------------------------------------
+RANK:   2
+TITLE:   Why does the shelve module in python sometimes create files with different extensions?
+Rel_VALUE:   5.880900
+------------------------------------------------------
+RANK:   3
+TITLE:   Python: how to create tar file and compress it on the fly with external module, using different compression methods not available in tarfile module?
+Rel_VALUE:   5.362142
+------------------------------------------------------
+RANK:   4
+TITLE:   Can compiled bytecode files (.pyc) get generated in different directory?
+Rel_VALUE:   5.084103
+------------------------------------------------------
+RANK:   5
+TITLE:   How to control the order of file types in tkfiledialog for different windows platforms
+Rel_VALUE:   4.905498
+------------------------------------------------------
+RANK:   6
+TITLE:   How to import a module in Python in a file that is both used as a __main__ and is imported by a file in a different directory?
+Rel_VALUE:   4.903704
+------------------------------------------------------
+RANK:   7
+TITLE:   dill: TypeError: 'module' object is not callable when dill.load() is run from different files
+Rel_VALUE:   4.884397
+------------------------------------------------------
+RANK:   8
+TITLE:   .pyc files generated in different folder
+Rel_VALUE:   4.880790
+------------------------------------------------------
+RANK:   9
+TITLE:   CORBA python files on different level in dir tree than modules which imports them
+Rel_VALUE:   4.845826
+------------------------------------------------------
+RANK:   10
+TITLE:   Importing the same modules in different files
+Rel_VALUE:   4.829147
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 16 query is ---F--- with link pairs
+:::INFO:::original_query --- §¯§Ö§ã§Ü§à§Ý§î§Ü§à §æ§â§Ö§Û§Þ§à§Ó §Ó §ã§ä§à§Ý§Ò§Ö§è §Ú scrollbar §Ü §ß§Ú§Þ §Ó Python tkinter
+:::INFO:::translated_query --- a few frames in a column and scrollbar to them in python tkinter
+:::INFO:::input query terms list is as following
+['frame', 'column', 'scrollbar', 'python', 'tkinter']
+:::INFO:::start matching on query 17
+:::INFO:::17 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Python tkinter frame parent widget line up columns
+Rel_VALUE:   4.384899
+------------------------------------------------------
+RANK:   2
+TITLE:   Python Tkinter Scrollable frame has a scrollbar but doesn't scroll
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   3
+TITLE:   Adding a scrollbar to a frame using Tkinter (Python)
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   4
+TITLE:   Python Tkinter scrollbar for frame
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   5
+TITLE:   Horizontal Scrollbar not working in Python TKinter Frame
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   6
+TITLE:   Vertical scrollbar for frame in Tkinter, Python
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   7
+TITLE:   Embedd Buttons with images and scrollbar on a frame using Tkinter (Python)
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   8
+TITLE:   Python Tkinter: adding a scrollbar to frame within a canvas
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   9
+TITLE:   How to put a scrollbar in tkinter, without using frames? (Python)
+Rel_VALUE:   4.374976
+------------------------------------------------------
+RANK:   10
+TITLE:   How To Create Frame With Two Columns of Labels using Python and Tkinter?
+Rel_VALUE:   4.370534
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 17 query is ---F--- with link pairs
+:::INFO:::original_query --- Python §ã§Ü§â§Ú§ß§ê§à§ä §ß§Ö§Ñ§Ü§ä§Ú§Ó§ß§à§Ô§à §à§Ü§ß§Ñ OSX
+:::INFO:::translated_query --- python screenshot inactive windows, osx
+:::INFO:::input query terms list is as following
+['python', 'screenshot', 'inact', 'window', 'osx']
+:::INFO:::start matching on query 18
+:::INFO:::18 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Selenium Python: Need to get screenshot of an inactive window and display
+Rel_VALUE:   4.442678
+------------------------------------------------------
+RANK:   2
+TITLE:   Python Screenshot of inactive window PrintWindow + win32gui
+Rel_VALUE:   4.442678
+------------------------------------------------------
+RANK:   3
+TITLE:   Active window screenshot with Python PIL and windows API: how to deal with rounded corners?
+Rel_VALUE:   3.834812
+------------------------------------------------------
+RANK:   4
+TITLE:   Get menu screenshot of the active window on Unity using python
+Rel_VALUE:   3.834812
+------------------------------------------------------
+RANK:   5
+TITLE:   Closing all the opened chrome windows using selenium - python - osx
+Rel_VALUE:   3.792816
+------------------------------------------------------
+RANK:   6
+TITLE:   Python screenshot 2+ monitors (windows)
+Rel_VALUE:   3.732058
+------------------------------------------------------
+RANK:   7
+TITLE:   Take screenshot of second monitor with python on OSX
+Rel_VALUE:   3.732058
+------------------------------------------------------
+RANK:   8
+TITLE:   Python on windows, shutting down and taking a screenshot
+Rel_VALUE:   3.678618
+------------------------------------------------------
+RANK:   9
+TITLE:   Calling statically linked C library from python hangs forever on windows but not OSX or linux
+Rel_VALUE:   3.649610
+------------------------------------------------------
+RANK:   10
+TITLE:   pygame.display.set_mode Window opens but freeze python 3.5 mac osx 10.11.1
+Rel_VALUE:   3.643426
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 18 query is ---F--- with link pairs
+:::INFO:::original_query --- numpy. §¬§Ñ§Ü §Ú§ß§Ú§è§Ú§Ñ§Ý§Ú§Ù§Ú§â§à§Ó§Ñ§ä§î §ã§à§ã§ä§à§ñ§ß§Ú§Ö §Ó random
+:::INFO:::translated_query --- numpy. how to initialize the random condition
+:::INFO:::input query terms list is as following
+['numpi', '.', 'initi', 'random', 'condit']
+:::INFO:::start matching on query 19
+:::INFO:::19 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   'TypeError: an integer is required' when initializing random weight matrix in numpy with numpy.random.randn()
+Rel_VALUE:   4.202707
+------------------------------------------------------
+RANK:   2
+TITLE:   'ValueError: Initial condition y0 must be one-dimensional.' How do I rectify this error?
+Rel_VALUE:   3.885918
+------------------------------------------------------
+RANK:   3
+TITLE:   passing in initial/boundary conditions for a function in scipy.optimize.root as the args argument
+Rel_VALUE:   3.789603
+------------------------------------------------------
+RANK:   4
+TITLE:   Anomalous constrained scipy.optimize.minimze behavior based on initial conditions
+Rel_VALUE:   3.776109
+------------------------------------------------------
+RANK:   5
+TITLE:   Can I set condition for the random.randint() function in python
+Rel_VALUE:   3.706377
+------------------------------------------------------
+RANK:   6
+TITLE:   numpy.random.permutation lose a column
+Rel_VALUE:   3.646692
+------------------------------------------------------
+RANK:   7
+TITLE:   How can I set a minimum distance constraint for generating points with numpy.random.rand?
+Rel_VALUE:   3.628204
+------------------------------------------------------
+RANK:   8
+TITLE:   Initialize a 200 by 785 numpy matrix with values from a Gaussian distribution with mean 0, std. deviation 0.01
+Rel_VALUE:   3.596941
+------------------------------------------------------
+RANK:   9
+TITLE:   How does one initialize a variable with tf.get_variable and a numpy value in TensorFlow?
+Rel_VALUE:   3.574524
+------------------------------------------------------
+RANK:   10
+TITLE:   Calculating Std. Dev. of a numpy array if, skipping rows where a condition is met
+Rel_VALUE:   3.564206
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 19 query is ---F--- with link pairs
+:::INFO:::original_query --- §±§â§Ú§Ü§â§Ö§á§Ú§ä§î §æ§Ñ§Û§Ý §Ü §¢§¥ Access §ß§Ñ Python
+:::INFO:::translated_query --- attach a file to the database access in python
+:::INFO:::input query terms list is as following
+['attach', 'file', 'databas', 'access', 'python']
+:::INFO:::start matching on query 20
+:::INFO:::20 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Attach file into Access database using Python
+Rel_VALUE:   5.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to convert, sort and save to CSV MS Access database .mdb file in Python
+Rel_VALUE:   4.410193
+------------------------------------------------------
+RANK:   3
+TITLE:   How to create a database to access files using both R and Python?
+Rel_VALUE:   4.320027
+------------------------------------------------------
+RANK:   4
+TITLE:   Python Sqlite3- Python shell can create and edit databases but why can't a .py file create or access any database
+Rel_VALUE:   4.320027
+------------------------------------------------------
+RANK:   5
+TITLE:   How can I use the pyodbc library in python to successfully upload an Attachment(s) to my Access Database?
+Rel_VALUE:   4.297037
+------------------------------------------------------
+RANK:   6
+TITLE:   Automatically adding file locations (pictures) to an Access database via PowerShell or Python
+Rel_VALUE:   4.260461
+------------------------------------------------------
+RANK:   7
+TITLE:   Python: Adding excel file to an access database
+Rel_VALUE:   4.248827
+------------------------------------------------------
+RANK:   8
+TITLE:   import text file to Access 2003 database using Python
+Rel_VALUE:   4.206742
+------------------------------------------------------
+RANK:   9
+TITLE:   python program for accessing values from csv files and storing it into a database using wamp
+Rel_VALUE:   4.206742
+------------------------------------------------------
+RANK:   10
+TITLE:   Python database access using single file/already build file
+Rel_VALUE:   4.206742
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 20 query is ---F--- with link pairs
+:::INFO:::original_query --- §±§à§é§Ö§Þ§å §ß§Ö §â§Ñ§Ò§à§ä§Ñ§Ö§ä §å§ß§Ñ§ã§Ý§Ö§Õ§à§Ó§Ñ§ß§ß§Ñ§ñ §æ§à§â§Þ§Ñ?
+:::INFO:::translated_query --- why isn't he inherited form?
+:::INFO:::input query terms list is as following
+['isn', "'", 'inherit', 'form', '?']
+:::INFO:::start matching on query 21
+:::INFO:::21 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Any ideas as to why my Django form won't render widget classes?
+Rel_VALUE:   4.412586
+------------------------------------------------------
+RANK:   2
+TITLE:   Why isn't my initial value getting set for my Django form?
+Rel_VALUE:   4.367256
+------------------------------------------------------
+RANK:   3
+TITLE:   In Django, how could one use Django's update_object generic view to edit forms of inherited models?
+Rel_VALUE:   4.326091
+------------------------------------------------------
+RANK:   4
+TITLE:   why isn't my image being uploaded with the django form I created?
+Rel_VALUE:   4.253606
+------------------------------------------------------
+RANK:   5
+TITLE:   Is there a library in python which can validate fields so that I won't need to write my own regex or to create Form instance?
+Rel_VALUE:   4.245513
+------------------------------------------------------
+RANK:   6
+TITLE:   Why User model inheritance doesn't work properly?
+Rel_VALUE:   4.230714
+------------------------------------------------------
+RANK:   7
+TITLE:   Django Extensions: ForeignKeyAutocompleteTabularInline doesn't work with model inheritance?
+Rel_VALUE:   4.230714
+------------------------------------------------------
+RANK:   8
+TITLE:   Why aren't my forms being called on this form?
+Rel_VALUE:   4.151796
+------------------------------------------------------
+RANK:   9
+TITLE:   Why doesn't django's UpdateView just process POST data and instead displays a form?
+Rel_VALUE:   4.147074
+------------------------------------------------------
+RANK:   10
+TITLE:   Why isn't the head section of jinja inheritance loading for me?
+Rel_VALUE:   4.118979
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 21 query is ---F--- with link pairs
+:::INFO:::original_query --- §¬§Ñ§Ü §á§à§ã§Ý§Ñ§ä§î §æ§Ñ§Û§Ý §Ú JSON §Ó §à§Õ§ß§à§Þ POST-§Ù§Ñ§á§â§à§ã§Ö §Ú§ã§á§à§Ý§î§Ù§å§ñ §ä§Ö§ã§ä§à§Ó§í§Û §Ü§Ý§Ú§Ö§ß§ä Flask-a?
+:::INFO:::translated_query --- how to send a file and json in a post request using the test client Flask - a?
+:::INFO:::input query terms list is as following
+['send', 'file', 'json', 'post', 'request', 'use', 'test', 'client', 'flask', '?']
+:::INFO:::start matching on query 22
+:::INFO:::22 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to POST multiple FILES using Flask test client?
+Rel_VALUE:   8.306777
+------------------------------------------------------
+RANK:   2
+TITLE:   How to request file with accompanying json in flask, which is posted using formData from Angular?
+Rel_VALUE:   8.003943
+------------------------------------------------------
+RANK:   3
+TITLE:   Create a unit test using Django's test client post method passing parameters and requesting JSON from rest_framework
+Rel_VALUE:   7.972148
+------------------------------------------------------
+RANK:   4
+TITLE:   Django upload file : test request == POST or use decorator?
+Rel_VALUE:   7.881383
+------------------------------------------------------
+RANK:   5
+TITLE:   How to send a JSON file using a http POST with Tornado?
+Rel_VALUE:   7.686814
+------------------------------------------------------
+RANK:   6
+TITLE:   Sending file with Flask test client raises &quot;FileStorage is not JSON serializable&quot;
+Rel_VALUE:   7.454856
+------------------------------------------------------
+RANK:   7
+TITLE:   How can I send a json data along with a file in a curl request to handle by Flask?
+Rel_VALUE:   7.397123
+------------------------------------------------------
+RANK:   8
+TITLE:   How do you upload a file from a form in a Django test through Client.post()?
+Rel_VALUE:   7.352416
+------------------------------------------------------
+RANK:   9
+TITLE:   is it possible to pass request.body via post request in django test client?
+Rel_VALUE:   7.309228
+------------------------------------------------------
+RANK:   10
+TITLE:   django - how to unit test a post request using request.FILES
+Rel_VALUE:   7.304914
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 22 query is ---F--- with link pairs
+:::INFO:::original_query --- §¤§Ö§ß§Ö§â§Ñ§ä§à§â §Ü§Ý§ð§é§Ö§Û §ß§Ñ C# §Ú Python
+:::INFO:::translated_query --- the generator # keys c and python
+:::INFO:::input query terms list is as following
+['generat', '#', 'key', 'c', 'python']
+:::INFO:::start matching on query 23
+:::INFO:::23 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   python regex &quot;SNPEFF_AMINO_ACID_CHANGE=p.Pro3Pro/c.9T&gt;C&quot; extract values for the keys
+Rel_VALUE:   3.748548
+------------------------------------------------------
+RANK:   2
+TITLE:   Python: Get rid of u's from the keys list generated from json
+Rel_VALUE:   3.736515
+------------------------------------------------------
+RANK:   3
+TITLE:   What's a good strategy for generating unique hash keys for a very large collection of images in Python?
+Rel_VALUE:   3.638318
+------------------------------------------------------
+RANK:   4
+TITLE:   Python and Java MAC SHA256 encoding generating VERY SIMILAR KEY
+Rel_VALUE:   3.614080
+------------------------------------------------------
+RANK:   5
+TITLE:   using Python to generate a C string literal of JSON
+Rel_VALUE:   3.563933
+------------------------------------------------------
+RANK:   6
+TITLE:   Python Generated String in C
+Rel_VALUE:   3.563933
+------------------------------------------------------
+RANK:   7
+TITLE:   How Can I: Generate 40/64 Bit WEP Key In Python?
+Rel_VALUE:   3.543288
+------------------------------------------------------
+RANK:   8
+TITLE:   Automatic generation of bibtex keys from Python
+Rel_VALUE:   3.539018
+------------------------------------------------------
+RANK:   9
+TITLE:   Generating a SHA signature using a private key using Python 3
+Rel_VALUE:   3.516231
+------------------------------------------------------
+RANK:   10
+TITLE:   Automatically generate INSERT query from key/value pairs in Python
+Rel_VALUE:   3.481770
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 23 query is ---F--- with link pairs
+:::INFO:::original_query --- AngularJS + Django REST, §Ü§Ñ§Ü §å§Õ§Ñ§Ý§Ú§ä§î §à§Ò§ì§Ö§Ü§ä §Ú§Ù §ã§á§Ú§ã§Ü§Ñ?
+:::INFO:::translated_query --- AngularJS + you rest, how to remove the object from the list?
+:::INFO:::input query terms list is as following
+['angularj', '+', 'rest', 'remov', 'object', 'list', '?']
+:::INFO:::start matching on query 24
+:::INFO:::24 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   JS+REST+NodeJS: How to parse a JSON list from a JSON object
+Rel_VALUE:   4.924064
+------------------------------------------------------
+RANK:   2
+TITLE:   Django Rest Framework Serializer Relations: How to get list of all child objects in parent's serializer?
+Rel_VALUE:   4.919875
+------------------------------------------------------
+RANK:   3
+TITLE:   How to return a custom list of Model objects using Django REST Framework?
+Rel_VALUE:   4.694707
+------------------------------------------------------
+RANK:   4
+TITLE:   How does one create iterateable lists of objects in C++?
+Rel_VALUE:   4.627091
+------------------------------------------------------
+RANK:   5
+TITLE:   How to use Django list of objects variable in AngularJS?
+Rel_VALUE:   4.555521
+------------------------------------------------------
+RANK:   6
+TITLE:   How to append/remove multiple objects instances to/from a list Python?
+Rel_VALUE:   4.527282
+------------------------------------------------------
+RANK:   7
+TITLE:   Removing JSON property in array of objects with Python + Inverse
+Rel_VALUE:   4.509257
+------------------------------------------------------
+RANK:   8
+TITLE:   Django Rest Framework: return ForeignKey as array, getting &quot;TypeError: object is not iterable&quot;?
+Rel_VALUE:   4.495129
+------------------------------------------------------
+RANK:   9
+TITLE:   Django Rest Framework - Get full related objects in list
+Rel_VALUE:   4.493189
+------------------------------------------------------
+RANK:   10
+TITLE:   AttributeError: 'property' object has no attribute 'copy' - while trying to get object list in Django Rest
+Rel_VALUE:   4.493189
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 24 query is ---F--- with link pairs
+:::INFO:::original_query --- §µ§ã§ä§Ñ§ß§à§Ó§Ü§Ñ pip3 §ß§Ñ Ubuntu 12.04 LTS
+:::INFO:::translated_query --- pip3 installation on ubuntu 12.04 LTS
+:::INFO:::input query terms list is as following
+['pip3', 'instal', 'ubuntu', '12', '.', '04', 'lts']
+:::INFO:::start matching on query 25
+:::INFO:::25 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Ubuntu 12.04 LTS VirtualBox VM &amp; Python 2.7.3 - 'sudo pip install matplotlib' fatal error
+Rel_VALUE:   6.827712
+------------------------------------------------------
+RANK:   2
+TITLE:   How do I install pip on ubuntu 14.04 LTS? I got this error while installing
+Rel_VALUE:   6.670946
+------------------------------------------------------
+RANK:   3
+TITLE:   installing pip3 on ubuntu 12.04 docker image
+Rel_VALUE:   6.571522
+------------------------------------------------------
+RANK:   4
+TITLE:   Ubuntu 14.04 LTS: `apt-get install rake` -&gt; ImportError: No module named rake
+Rel_VALUE:   6.531439
+------------------------------------------------------
+RANK:   5
+TITLE:   How to use pip3 install packages for Python 3.5 in ubuntu 14.04 server
+Rel_VALUE:   6.463950
+------------------------------------------------------
+RANK:   6
+TITLE:   Botched Python install on Ubuntu 12.04 LTS (can't import MySQL)
+Rel_VALUE:   6.453523
+------------------------------------------------------
+RANK:   7
+TITLE:   Unable to properly install or load Tensorflow on Ubuntu 12.04 LTS with resultant ImportError
+Rel_VALUE:   6.453523
+------------------------------------------------------
+RANK:   8
+TITLE:   Installing matplotlib via pip on Ubuntu 12.04
+Rel_VALUE:   6.399234
+------------------------------------------------------
+RANK:   9
+TITLE:   pip install MySql-python==1.2.4 fails on Ubuntu 12.04
+Rel_VALUE:   6.399234
+------------------------------------------------------
+RANK:   10
+TITLE:   trying to install pymssql on ubuntu 12.04 using pip
+Rel_VALUE:   6.399234
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 25 query is ---F--- with link pairs
+:::INFO:::original_query --- sqlalchemy_utils.types.choice.ChoiceType §á§â§à§Ò§Ý§Ö§Þ§í §á§â§Ú db upgrade
+:::INFO:::translated_query --- sqlalchemy _ utils.types.choice.ChoiceType problems with the db upgrade
+:::INFO:::input query terms list is as following
+['sqlalchemi', '_', 'util', '.', 'type', '.', 'choic', '.', 'choicetyp', 'problem', 'db', 'upgrad']
+:::INFO:::start matching on query 26
+:::INFO:::26 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Getting error 'django.db.utils.OperationalError' when doing 'python manage.py migrate' in Django 1.9 with PostgreSQL 9.5
+Rel_VALUE:   7.615242
+------------------------------------------------------
+RANK:   2
+TITLE:   Django.db.utils.DataError: value too long for type character varying (3)
+Rel_VALUE:   7.614194
+------------------------------------------------------
+RANK:   3
+TITLE:   Error when migrating: django.db.utils.IntegrityError: column &quot;primary_language_id&quot; contains null values
+Rel_VALUE:   7.589095
+------------------------------------------------------
+RANK:   4
+TITLE:   django 1.8 connect to redshift : django.db.utils.NotSupportedError: Column &quot;django_migrations.id&quot; has unsupported type &quot;serial&quot;
+Rel_VALUE:   7.579208
+------------------------------------------------------
+RANK:   5
+TITLE:   django.db.utils.ProgrammingError: cannot cast type jsonb[] to jsonb
+Rel_VALUE:   7.561552
+------------------------------------------------------
+RANK:   6
+TITLE:   django.db.utils.ProgrammingError: cannot cast type text[] to jsonb
+Rel_VALUE:   7.561552
+------------------------------------------------------
+RANK:   7
+TITLE:   Error during Django &quot;Running migrations&quot;: django.db.utils.OperationalError: (2013, 'Lost connection to MySQL server during query')
+Rel_VALUE:   7.521713
+------------------------------------------------------
+RANK:   8
+TITLE:   Trying to migrate in Django 1.9 -- strange SQL error &quot;django.db.utils.OperationalError: near &quot;)&quot;: syntax error&quot;
+Rel_VALUE:   7.471128
+------------------------------------------------------
+RANK:   9
+TITLE:   Django Migration Error: ERRORS: 'choices' must be an iterable (e.g., a list or tuple)
+Rel_VALUE:   7.457481
+------------------------------------------------------
+RANK:   10
+TITLE:   django migrate error: django.db.utils.ProgrammingError: must be owner of relation gallery_image
+Rel_VALUE:   7.445253
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 26 query is ---F--- with link pairs
+:::INFO:::original_query --- §¯§Ö §á§à§Ý§å§é§Ñ§Ö§ä§ã§ñ §Ú§Þ§á§à§â§ä§Ú§â§à§Ó§Ñ§ä§î §Ü§Ý§Ñ§ã§ã
+:::INFO:::translated_query --- can't import the class
+:::INFO:::input query terms list is as following
+["'", 'import', 'class']
+:::INFO:::start matching on query 27
+:::INFO:::27 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   PHP Import Foreign Class' Method into MyClass
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Django, unable to import validators in form class, getting &quot;name 'validatorname' is not defined&quot;
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Auto register a class when it's defined (but without importing it anywhere)
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Dynamically imported module doesn't think it has class
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Python, trying to instantiate class imported using __import__, getting ''module' object is not callable'
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Dynamically generating Django Form Classes, What's the best way to remedy circular import?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Python, Django, using Import from inside of a class, can't seem to figure this out
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Robot Framework:: Imported library 'class' contains no keywords
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Child class doesn't recognize module imports of parent class?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Python; How to import methods to a class 'pluginstyle'?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 27 query is ---F--- with link pairs
+:::INFO:::original_query --- Command &quot;python setup.py egg_info&quot; failed with error code 1
+:::INFO:::translated_query --- command & quot; python setup.py egg _ info & quot; failed with error code 1
+:::INFO:::input query terms list is as following
+['command', '&', 'quot', 'python', 'setup', '.', 'py', 'egg', '_', 'info', '&', 'quot', 'fail', 'error', 'code', '1']
+:::INFO:::start matching on query 28
+:::INFO:::28 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   command &quot;python setup.py egg info&quot; failed with error code 1 in ~~
+Rel_VALUE:   12.081733
+------------------------------------------------------
+RANK:   2
+TITLE:   rpy2 installation with Anaconda 2 gives error message ' command &quot;python setup.py.egg.info&quot; failed with error 1
+Rel_VALUE:   11.274602
+------------------------------------------------------
+RANK:   3
+TITLE:   Rpy2: Anaconda 2 error message ' command &quot;python setup.py.egg.info&quot; failed with error 1
+Rel_VALUE:   11.274602
+------------------------------------------------------
+RANK:   4
+TITLE:   Command &quot;python setup.py egg_info&quot; failed with error code 1 in /private/var/folders/w9/1zsm5zp53jn8c0n0l4zrhzj40000gn/T/pip-build-mphahblv/http
+Rel_VALUE:   10.750202
+------------------------------------------------------
+RANK:   5
+TITLE:   Command &quot;python setup.py egg_info&quot; failed with error code 1 in /private/var/folders/x7/3dvbv92j7k7f68w24zm44flw0000gn/T/pip-build-89x3SN/cupy/
+Rel_VALUE:   10.750202
+------------------------------------------------------
+RANK:   6
+TITLE:   pip3 install -r requirements.txt - Command &quot;python setup.py egg_info&quot; failed with error code 1 in /private/tmp/pip-build-a0nd7us1/post/
+Rel_VALUE:   10.656521
+------------------------------------------------------
+RANK:   7
+TITLE:   Command &quot;python setup.py egg_info&quot; failed with error code 1 in C:\Users\Aaron\AppData\Local\Temp\pip-build-kvbazw37\Beautifulsoup\
+Rel_VALUE:   10.652602
+------------------------------------------------------
+RANK:   8
+TITLE:   Python pip gives error: Command &quot;python setup.py egg_info&quot; failed with error code 1 in /tmp/pip-9erwl3ee-build/
+Rel_VALUE:   10.626863
+------------------------------------------------------
+RANK:   9
+TITLE:   'Command &quot;python setup.py egg_info&quot; failed with error code 1' when try to install ssdeep
+Rel_VALUE:   10.617979
+------------------------------------------------------
+RANK:   10
+TITLE:   pip install hashlib error &quot;command python setup.py egg_info failed with error code 1 in \temp\pip-build-t41kt6o0\hashlib&quot;
+Rel_VALUE:   10.613550
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 28 query is ---F--- with link pairs
+:::INFO:::original_query --- §¯§Ö §á§à§Ý§å§é§Ñ§Ö§ä§ã§ñ §ã§à§ç§â§Ñ§ß§ñ§ä§î §á§à §å§ß§Ú§Ü§Ñ§Ý§î§ß§à§Þ§å §Ó§ß§Ö§ê§ß§Ö§Þ§å §Ü§Ý§ð§é§å
+:::INFO:::translated_query --- can't maintain a unique appearance.
+:::INFO:::input query terms list is as following
+["'", 'maintain', 'uniqu', 'appear', '.']
+:::INFO:::start matching on query 29
+:::INFO:::29 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   why I can't use x.unique() in numpy, however, x.sum() or x.mean() works?
+Rel_VALUE:   3.722887
+------------------------------------------------------
+RANK:   2
+TITLE:   string.replace function keep showing 'list index out of range error'
+Rel_VALUE:   3.717151
+------------------------------------------------------
+RANK:   3
+TITLE:   configured and built the app and app appears in AVD but doesn't work on clicking, opens a blank screen. using pygame subset for android
+Rel_VALUE:   3.713860
+------------------------------------------------------
+RANK:   4
+TITLE:   Error Keeps Appearing When Using 'raw_input' Python3.5
+Rel_VALUE:   3.709740
+------------------------------------------------------
+RANK:   5
+TITLE:   This error or keeps showing: integrityError,UNIQUE constraint failed: blog_post.author_id
+Rel_VALUE:   3.610390
+------------------------------------------------------
+RANK:   6
+TITLE:   how to get all the indicesr when '&quot;fo&quot;','&quot;ba&quot;' appear together. in Python?
+Rel_VALUE:   3.595972
+------------------------------------------------------
+RANK:   7
+TITLE:   Given a return from os.listdir('.') how can i count the amount of times the extension .pdf appears?
+Rel_VALUE:   3.583091
+------------------------------------------------------
+RANK:   8
+TITLE:   TypeError: 'numpy.int64' object is not iterable and appear two columns instead of 1
+Rel_VALUE:   3.553070
+------------------------------------------------------
+RANK:   9
+TITLE:   PyPlot: Trying to generate shared legend in a subplot, but legends don't appear properly when embedded in a loop. (PDF backend)
+Rel_VALUE:   3.528894
+------------------------------------------------------
+RANK:   10
+TITLE:   Keeps returning &quot;TypeError: width() takes exactly 2 arguments (1 given)&quot; The code works on Python 3 but not on my Python 2.7. What's wrong?
+Rel_VALUE:   3.498635
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 29 query is ---F--- with link pairs
+:::INFO:::all query list checked
+
+Process finished with exit code 0

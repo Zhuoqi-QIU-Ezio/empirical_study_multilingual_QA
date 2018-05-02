@@ -1,0 +1,1022 @@
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\Scripts\python.exe D:/ANU_project/question_retrieval_tool/main.py
+C:\Users\qiuzhuoqi\PycharmProjects\HelloWorld\venv\lib\site-packages\gensim\utils.py:1197: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+2018-03-24 19:32:00,528 : INFO : loading Word2Vec object from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+2018-03-24 19:32:00,934 : INFO : loading wv recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.* with mmap=None
+2018-03-24 19:32:00,934 : INFO : loading vectors from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.wv.vectors.npy with mmap=None
+2018-03-24 19:32:01,230 : INFO : setting ignored attribute vectors_norm to None
+2018-03-24 19:32:01,246 : INFO : loading vocabulary recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.vocabulary.* with mmap=None
+2018-03-24 19:32:01,246 : INFO : loading trainables recursively from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.* with mmap=None
+2018-03-24 19:32:01,246 : INFO : loading syn1neg from /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model.trainables.syn1neg.npy with mmap=None
+2018-03-24 19:32:01,542 : INFO : setting ignored attribute cum_table to None
+2018-03-24 19:32:01,542 : INFO : loaded /ANU_project/question_retrieval_tool/en_title_ste_model/en_title.model
+:::INFO:::loaded word2vec model successfully
+:::INFO:::load target titles data successfully
+:::INFO:::original_query---§²§Ñ§Ò§à§ä§Ñ §ã §Ü§Ñ§Þ§Ö§â§à§Û §Ó Android
+:::INFO:::translated---work with the camera in the android
+:::INFO:::translated---work with the camera in the android
+:::INFO:::input query terms list is as following
+['work', 'camera', 'android']
+:::INFO:::start matching
+:::INFO:::1 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Camera doesn't work on android 2.2
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Camera.getNumberOfCameras() not working on Android 2.2
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Android Camera Preview Not Working (HTC MyTouch 3G Slide Android 2.2)
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Independent android camera app works but does not work when said camera app code is called by another activity
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   onActivityResult not working with RESULT_OK, RESULT_CANCEL, etc when using camera on Android
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   working with camera in android
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Android flash camera parameter not working
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   how to use android camera with OpenGL ES to work?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Android Camera will not work. startPreview fails
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   How to Set the Open GLES2.0 to work with the Android Camera?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 1 query is ---F---
+:::INFO:::original_query---§¬§à§â§â§Ö§Ü§ä§ß§Ñ§ñ §â§Ñ§Ò§à§ä§Ñ §ã §á§Ñ§Þ§ñ§ä§î§ð §Ó Android
+:::INFO:::translated---correct work with memory in android
+:::INFO:::translated---correct work with memory in android
+:::INFO:::input query terms list is as following
+['correct', 'work', 'memori', 'android']
+:::INFO:::start matching
+:::INFO:::2 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android save file in internal memory not working properly
+Rel_VALUE:   3.895879
+------------------------------------------------------
+RANK:   2
+TITLE:   Android memory leak? Navigation SDK not working properly
+Rel_VALUE:   3.895879
+------------------------------------------------------
+RANK:   3
+TITLE:   What Android tools and methods work best to find memory/resource leaks?
+Rel_VALUE:   3.532207
+------------------------------------------------------
+RANK:   4
+TITLE:   In Android SQLite, working directly with Cursor is more memory efficient than creating Model Objects?
+Rel_VALUE:   3.328495
+------------------------------------------------------
+RANK:   5
+TITLE:   Http POST works on std Java does not work correctly on Android
+Rel_VALUE:   3.269355
+------------------------------------------------------
+RANK:   6
+TITLE:   xamarin.android - Bitmapshader not working correctly after ontouch is performed
+Rel_VALUE:   3.268850
+------------------------------------------------------
+RANK:   7
+TITLE:   Android Network Operator Settings Intent not working correctly
+Rel_VALUE:   3.262230
+------------------------------------------------------
+RANK:   8
+TITLE:   Recording with Correct FPS in Android (120FPS CamcorderProfile Not Working)
+Rel_VALUE:   3.261476
+------------------------------------------------------
+RANK:   9
+TITLE:   Android: Back stack doesnt work properly
+Rel_VALUE:   3.259887
+------------------------------------------------------
+RANK:   10
+TITLE:   AVD not working correctly in android studio
+Rel_VALUE:   3.258423
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 2 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö §Ü§Ñ§Þ§Ö§â§í §Ü§Ñ§Ü §ã§Ý§å§Ø§Ò§í
+:::INFO:::translated---the use of the camera as a service
+:::INFO:::translated---the use of the camera as a service
+:::INFO:::input query terms list is as following
+['use', 'camera', 'servic']
+:::INFO:::start matching
+:::INFO:::3 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android - use camera from within background service
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Using both cameras on android: &quot;Fail to connect to camera service&quot;
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to use Camera to take picture in a background Service on Android?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   lock camera using services and broadcast receiver
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Fail to connect to the camera service, using the emulator?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   How to retrieve the image from camera without using camera app (via a service)
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Android camera locks/crashes if used in Service with screen off
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Can I use Android Camera in service without preview?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   streaming video from cordova camera using wowza streaming services
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   How can I detect when my android takes a new picture(create a new file from the camera) using a service component?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 3 query is ---F---
+:::INFO:::original_query---§©§Ñ§Ô§â§å§Ù§Ü§Ñ png §é§Ö§â§Ö§Ù url §Ó §Ú§Þ§Ö§ð§ë§Ú§Û§ã§ñ imageview
+:::INFO:::translated---download png through the url in the imageview
+:::INFO:::translated---download png through the url in the imageview
+:::INFO:::input query terms list is as following
+['download', 'png', 'url', 'imageview']
+:::INFO:::start matching
+:::INFO:::4 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   ImageView with bitmaps downloaded from URL (repeat tile mode)
+Rel_VALUE:   3.626158
+------------------------------------------------------
+RANK:   2
+TITLE:   Trouble loading png image URL into ImageView using Glide or Picasso
+Rel_VALUE:   3.502332
+------------------------------------------------------
+RANK:   3
+TITLE:   Android Download Image From URL and show in Imageview
+Rel_VALUE:   3.495961
+------------------------------------------------------
+RANK:   4
+TITLE:   Downloading and displaying images from an array of URLs to multiple different ImageViews on Android
+Rel_VALUE:   3.495961
+------------------------------------------------------
+RANK:   5
+TITLE:   How to maintain quality of the image downloaded from url to imageview and crop them to a circle?
+Rel_VALUE:   3.495961
+------------------------------------------------------
+RANK:   6
+TITLE:   How to handle imageview to download image from url when on screen view
+Rel_VALUE:   3.495961
+------------------------------------------------------
+RANK:   7
+TITLE:   android download the image from url store in internal memory then display that image in imageview
+Rel_VALUE:   3.495961
+------------------------------------------------------
+RANK:   8
+TITLE:   invalid url when downloading jpg image to android
+Rel_VALUE:   3.471206
+------------------------------------------------------
+RANK:   9
+TITLE:   How to upload image to Specific URL and fetch it to imageView in android?
+Rel_VALUE:   3.266316
+------------------------------------------------------
+RANK:   10
+TITLE:   upload image to server and url to database and back to imageview
+Rel_VALUE:   3.266316
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 4 query is ---F---
+:::INFO:::original_query---§±§à§ã§ä§Ñ§Ó§Ý§Ö§ß§ß§í§Û §ß§Ñ §á§Ñ§å§Ù§å AsyncTask
+:::INFO:::translated---the pause AsyncTask
+:::INFO:::translated---the pause AsyncTask
+:::INFO:::input query terms list is as following
+['paus', 'asynctask']
+:::INFO:::start matching
+:::INFO:::5 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to pause AsyncTask for asking details from user?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Pause method whild asynctask runs HTTPGET
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to handle AsyncTask onPostExecute when paused to avoid IllegalStateException
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   AsyncTask pause and resume
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Pause AsyncTask before going to other activity
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Pause or sleep AsyncTask without affect to UI
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Android - Execute asynctask intervally even if app is paused
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Android - Pause the for-loop till the AsyncTask Completed Successfully
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Pause UI, while update data on postExecute in AsyncTask
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Java android: Error when Pause and Resume MediaPlayer on AsyncTask in activity
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 5 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§à§Õ§Ü§Ý§ð§é§Ú§ä§î §Ó§ß§Ö§ê§ß§ð§ð §Ò§Ñ§Ù§å §Õ§Ñ§ß§ß§í§ç SQLite §Ó Android?
+:::INFO:::translated---how to connect an external database sqlite in android?
+:::INFO:::translated---how to connect an external database sqlite in android?
+:::INFO:::input query terms list is as following
+['connect', 'extern', 'databas', 'sqlite', 'android', '?']
+:::INFO:::start matching
+:::INFO:::6 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to connect external app SQLite database in my android app?
+Rel_VALUE:   6.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to connect internal SQLite database in my Android Application?
+Rel_VALUE:   5.429396
+------------------------------------------------------
+RANK:   3
+TITLE:   Connect to an external SQLite database from Android
+Rel_VALUE:   5.423531
+------------------------------------------------------
+RANK:   4
+TITLE:   How to update android local sqlite database from web using internet connection?
+Rel_VALUE:   5.415030
+------------------------------------------------------
+RANK:   5
+TITLE:   How to import external sqlite database in android application for login?
+Rel_VALUE:   5.362567
+------------------------------------------------------
+RANK:   6
+TITLE:   Accessing the external SQLite database with Android?
+Rel_VALUE:   5.357065
+------------------------------------------------------
+RANK:   7
+TITLE:   How can i make connection with android applications and external database?
+Rel_VALUE:   5.332956
+------------------------------------------------------
+RANK:   8
+TITLE:   Connect Android studio on shared windows sqlite database?
+Rel_VALUE:   5.296845
+------------------------------------------------------
+RANK:   9
+TITLE:   Why my android app can't open SQLite database from external storage?
+Rel_VALUE:   5.259441
+------------------------------------------------------
+RANK:   10
+TITLE:   How to connect to SQLite Database that's on my PC from Android phone using Wi-fi?
+Rel_VALUE:   5.219262
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 6 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§â§Ñ§Ó§Ú§Ý§î§ß§à §ã§Ü§Ñ§é§Ú§Ó§Ñ§ä§î §æ§Ñ§Û§Ý§í
+:::INFO:::translated---how to download files
+:::INFO:::translated---how to download files
+:::INFO:::input query terms list is as following
+['download', 'file']
+:::INFO:::start matching
+:::INFO:::7 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Can i download file without using the phone memory instead of virtual SD card in emulator?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to download file on android emulator?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Downloading files on Android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Asp.net Download file on mobile platform
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   epub files does not downloadable [ANDROID]
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   ANDROID: How do I download a video file to SD card?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Download large file in Android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   How do I permit the android browser to download files of a particular extension?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Can anyone explain the File() parameters used to download file in android?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Android download binary file problems
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 7 query is ---T---
+:::INFO:::original_query---§¬§Ñ§Ü §Ó §Ñ§ß§Õ§â§à§Ú§Õ§Ö §Ù§Ñ§Õ§Ñ§ä§î §á§å§ä§î §Õ§Ý§ñ §ã§à§ç§â§Ñ§ß§Ö§ß§Ú§ñ §æ§Ñ§Û§Ý§Ñ?
+:::INFO:::translated---as in the android define the path to save the file?
+:::INFO:::translated---as in the android define the path to save the file?
+:::INFO:::input query terms list is as following
+['android', 'defin', 'path', 'save', 'file', '?']
+:::INFO:::start matching
+:::INFO:::8 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I define file path in MediaPlayer.create() using variable? (Android)
+Rel_VALUE:   5.411581
+------------------------------------------------------
+RANK:   2
+TITLE:   APK file not showing in android studio. It is possible to generate apk file on some pre define path?
+Rel_VALUE:   5.375771
+------------------------------------------------------
+RANK:   3
+TITLE:   Android: When I save a file in the phone's internal memory will store Where's that file? How can I access it path?
+Rel_VALUE:   5.288807
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Storage Access Framework: Which path should I use to save a file?
+Rel_VALUE:   5.288807
+------------------------------------------------------
+RANK:   5
+TITLE:   Is it better to save bitmaps to Sqlite Databse or Files handling its paths in Database ? - Android
+Rel_VALUE:   5.218365
+------------------------------------------------------
+RANK:   6
+TITLE:   android - why decodeFile(path) isnt working when file is saved in Camera folder on Samsung?
+Rel_VALUE:   5.204524
+------------------------------------------------------
+RANK:   7
+TITLE:   How to save android Path object as a SVG file?
+Rel_VALUE:   5.200538
+------------------------------------------------------
+RANK:   8
+TITLE:   How to get File Path or URI after Saving it through Android native(PRINT) Dialog?
+Rel_VALUE:   5.199726
+------------------------------------------------------
+RANK:   9
+TITLE:   How to save the path of a file in firebase database in android?
+Rel_VALUE:   5.173343
+------------------------------------------------------
+RANK:   10
+TITLE:   How to save android.graphics.Path in file?
+Rel_VALUE:   5.173343
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 8 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö Android Numberpicker §Ó§ß§å§ä§â§Ú ScrollView
+:::INFO:::translated---the use of android Numberpicker inside ScrollView
+:::INFO:::translated---the use of android Numberpicker inside ScrollView
+:::INFO:::input query terms list is as following
+['use', 'android', 'numberpick', 'insid', 'scrollview']
+:::INFO:::start matching
+:::INFO:::9 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I use listview inside a scrollview in android?
+Rel_VALUE:   4.547756
+------------------------------------------------------
+RANK:   2
+TITLE:   Can I use Horizontal Scrollview Inside a Viewpager in Android?
+Rel_VALUE:   4.496188
+------------------------------------------------------
+RANK:   3
+TITLE:   Can I use a ScrollView inside of an Android Toolbar?
+Rel_VALUE:   4.431502
+------------------------------------------------------
+RANK:   4
+TITLE:   Cannot use ScrollView layout inside the SlidingUpPanelLayout Xamarin Android
+Rel_VALUE:   4.415180
+------------------------------------------------------
+RANK:   5
+TITLE:   White spaces using android webview inside scrollview with a jquery mobile web
+Rel_VALUE:   4.391043
+------------------------------------------------------
+RANK:   6
+TITLE:   Is it advisable to use LinearLayout inside ConstraintLayout in Android?
+Rel_VALUE:   4.319794
+------------------------------------------------------
+RANK:   7
+TITLE:   Drag and drop to rearrange elements position inside a LinearLayout? Using android
+Rel_VALUE:   4.319794
+------------------------------------------------------
+RANK:   8
+TITLE:   Android - cannot find TextView inside SearchWidget when using Android Support library
+Rel_VALUE:   4.304776
+------------------------------------------------------
+RANK:   9
+TITLE:   Android - Set TextView outside ListView to get the RatingBar value inside ListView using Button
+Rel_VALUE:   4.304776
+------------------------------------------------------
+RANK:   10
+TITLE:   Justify android text inside a textview without using a WebView
+Rel_VALUE:   4.304776
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 9 query is ---F---
+:::INFO:::original_query---Android: source code Google Keep app
+:::INFO:::translated---android: google keep app source code
+:::INFO:::translated---android: google keep app source code
+:::INFO:::input query terms list is as following
+['android:', 'googl', 'keep', 'app', 'sourc', 'code']
+:::INFO:::start matching
+:::INFO:::10 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Where to get Google Apps(playstore,gmail,youtube etc) Source Code
+Rel_VALUE:   4.280045
+------------------------------------------------------
+RANK:   2
+TITLE:   Can I get the source code for Android's Google Maps app?
+Rel_VALUE:   4.280045
+------------------------------------------------------
+RANK:   3
+TITLE:   Why do my Android app get an Unknown Source Exception requesting short-lived authorization code in Google OAuth 2.0 flow?
+Rel_VALUE:   4.280045
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Google Navigations app: can I edit the source code?
+Rel_VALUE:   4.263622
+------------------------------------------------------
+RANK:   5
+TITLE:   I want to download google camera app source code on my PC using Git
+Rel_VALUE:   4.184200
+------------------------------------------------------
+RANK:   6
+TITLE:   Source code for filling a google spreadshseet using android app
+Rel_VALUE:   4.164766
+------------------------------------------------------
+RANK:   7
+TITLE:   How Can I get the source code for Android's Google Maps application?
+Rel_VALUE:   4.133655
+------------------------------------------------------
+RANK:   8
+TITLE:   Source code of Google Chrome android app?
+Rel_VALUE:   4.111103
+------------------------------------------------------
+RANK:   9
+TITLE:   source code error in mobile backend starter of google app engine---android client
+Rel_VALUE:   4.107604
+------------------------------------------------------
+RANK:   10
+TITLE:   app from com.google.zxing.client.android source code does not work
+Rel_VALUE:   4.033898
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 10 query is ---F---
+:::INFO:::original_query---§³§Ý§à§Ø§ß§í§Û §æ§à§ß §Ó§Ü§Ý§Ñ§Õ§à§Ü
+:::INFO:::translated---complex background tabs
+:::INFO:::translated---complex background tabs
+:::INFO:::input query terms list is as following
+['complex', 'background', 'tab']
+:::INFO:::start matching
+:::INFO:::11 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Bottom tab host background size not reducing
+Rel_VALUE:   2.376924
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: Setting View background using itemSelector with complex Views
+Rel_VALUE:   2.337786
+------------------------------------------------------
+RANK:   3
+TITLE:   Complex animations in Android (transitions, backgrounds...)
+Rel_VALUE:   2.281846
+------------------------------------------------------
+RANK:   4
+TITLE:   Cant set the tab background dynamically by using tabBackground in code
+Rel_VALUE:   2.255465
+------------------------------------------------------
+RANK:   5
+TITLE:   There is no tab background attribute in the java code to change tab background dynamically
+Rel_VALUE:   2.255465
+------------------------------------------------------
+RANK:   6
+TITLE:   Material Complex UI with Co-ordinate layout + Tab Layout + View pager +recycle view
+Rel_VALUE:   2.243851
+------------------------------------------------------
+RANK:   7
+TITLE:   How to set background color only one tab on tablayout?
+Rel_VALUE:   2.235905
+------------------------------------------------------
+RANK:   8
+TITLE:   DarkActionBar - Light Tab Background?
+Rel_VALUE:   2.235905
+------------------------------------------------------
+RANK:   9
+TITLE:   How to create a customize android tab widget, that the selected tab will change its default color background?
+Rel_VALUE:   2.235905
+------------------------------------------------------
+RANK:   10
+TITLE:   How to change the background of a Tab with XML?
+Rel_VALUE:   2.235905
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 11 query is ---F---
+:::INFO:::original_query---§±§à§ñ§Ó§Ý§Ö§ß§Ú§Ö §ß§à§Ó§à§Ô§à §ï§Ý§Ö§Þ§Ö§ß§ä§Ñ §á§â§Ú §ã§Ü§â§à§Ý§Ö §Ó§ß§Ú§Ù
+:::INFO:::translated---a new element in the §ã§Ü§â§à§Ý§Ö down
+:::INFO:::translated---a new element in the §ã§Ü§â§à§Ý§Ö down
+:::INFO:::input query terms list is as following
+['new', 'element', '§ã§Ü§â§à§Ý§Ö']
+:::INFO:::start matching
+:::INFO:::12 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   All elements of An ArrayList change when a new one is added?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Issues in referencing new elements in an existing Android application
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Why do you have to create a new set of RelativeLayout.LayoutParams for each element you put in your view?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to add new element into an array
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How do you get Eclipse to recognize new Android elements
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Append new json elements on a json file
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Adding new elements to the top of the ListView
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   Is it possible to make elements in an Android View move smoothly to make room for a new one?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   is it possible to predict new location of UI elements in different screens in Android?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Error in inflating adding new elements in arraylist
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 12 query is ---F---
+:::INFO:::original_query---Custom fonts in widget
+:::INFO:::translated---custom fonts in widget
+:::INFO:::translated---custom fonts in widget
+:::INFO:::input query terms list is as following
+['custom', 'font', 'widget']
+:::INFO:::start matching
+:::INFO:::13 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Cant apply Custom font on app widget service
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Custom Font on a Android Widget
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Custom font in widget
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Loading probem - custom font in widget
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Custom fonts for home screen widget TextView in android
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   how to apply custom font in all of widgets in android (actionbar,drawer and any text) without using any third party library?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Android: how to set custom font in App Widget?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   8
+TITLE:   how to custom font for android.support.design.widget.TabLayout using Calligraphy
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   9
+TITLE:   Setting custom font on widget remote view is not working
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   10
+TITLE:   Android set font for custom TextView widget
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 13 query is ---T---
+:::INFO:::original_query---System overlay §Ú§Ý§Ú §Ü§Ñ§Ü §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð §Þ§í§ê§Ü§å §á§à§Ó§Ö§â§ç §Ó§ã§Ö§Ô§à?
+:::INFO:::translated---system overlay or as §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð mouse on top of everything?
+:::INFO:::translated---system overlay or as §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð mouse on top of everything?
+:::INFO:::input query terms list is as following
+['system', 'overlay', '§à§ä§â§Ú§ã§à§Ó§Ñ§ä§î', '§Ü§Ñ§ã§ä§à§Þ§ß§å§ð', 'mous', 'top', 'everyth', '?']
+:::INFO:::start matching
+:::INFO:::14 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to create a system overlay in Android which allows interaction with the windows below it?
+Rel_VALUE:   4.187887
+------------------------------------------------------
+RANK:   2
+TITLE:   How to make activity overlay over everything and disable BACK, HOME and RECENT APPS BUTTON (Like Pull Down notifications and Incoming Call pop up)?
+Rel_VALUE:   4.018281
+------------------------------------------------------
+RANK:   3
+TITLE:   How to change Screen overlay after system ui mode changed(Fullscreen, hide navigation)?
+Rel_VALUE:   3.993429
+------------------------------------------------------
+RANK:   4
+TITLE:   How to close an Android Service that adds a system overlay view after phone sleep and wake up?
+Rel_VALUE:   3.993429
+------------------------------------------------------
+RANK:   5
+TITLE:   Get the switch disable of Draw Overlay when the window is added with TYPE_SYSTEM_ALERT, how the system hide the window?
+Rel_VALUE:   3.973661
+------------------------------------------------------
+RANK:   6
+TITLE:   How to dismiss system overlay on touching outside?
+Rel_VALUE:   3.972101
+------------------------------------------------------
+RANK:   7
+TITLE:   ANDROID: How to create an virtual area on screen on top of everything which user can press to perform actions?
+Rel_VALUE:   3.961619
+------------------------------------------------------
+RANK:   8
+TITLE:   Android overlay a view ontop of everything?
+Rel_VALUE:   3.910379
+------------------------------------------------------
+RANK:   9
+TITLE:   How do I go about making a top menu/submenu system like this in Android?
+Rel_VALUE:   3.906192
+------------------------------------------------------
+RANK:   10
+TITLE:   In android, how to apply scale animation so that the scaled image appears on top of everything else?
+Rel_VALUE:   3.904598
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 14 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§Ö§â§Ö§Õ§Ñ§ä§î §Ü§Ñ§â§ä§Ú§ß§Ü§å §Ó §á§Ñ§á§Ü§Ö asset §Ó Uri?
+:::INFO:::translated---how to transfer the image to the asset in Uri?
+:::INFO:::translated---how to transfer the image to the asset in Uri?
+:::INFO:::input query terms list is as following
+['transfer', 'imag', 'asset', 'uri', '?']
+:::INFO:::start matching
+:::INFO:::15 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I get a Uri to an image in my Assets that will work for the SearchManager.SUGGEST_COLUMN_ICON_1 column?
+Rel_VALUE:   4.409734
+------------------------------------------------------
+RANK:   2
+TITLE:   How to transfer a Uri image from one activity to another?
+Rel_VALUE:   4.288237
+------------------------------------------------------
+RANK:   3
+TITLE:   How do I transfer an image from its URL to the SD card?
+Rel_VALUE:   4.044617
+------------------------------------------------------
+RANK:   4
+TITLE:   How can i use &quot;uri&quot; to send an image to another class? (android)
+Rel_VALUE:   3.966146
+------------------------------------------------------
+RANK:   5
+TITLE:   Android Sending image from assets folder using Content Provider?
+Rel_VALUE:   3.961034
+------------------------------------------------------
+RANK:   6
+TITLE:   Failed to Read Image file from Assets folder and share it using Intent in Android?
+Rel_VALUE:   3.864004
+------------------------------------------------------
+RANK:   7
+TITLE:   How to pass android image uri to the execute call for the async task?
+Rel_VALUE:   3.826626
+------------------------------------------------------
+RANK:   8
+TITLE:   How do i pass Uri of image clicked in custom gallery to another activity?
+Rel_VALUE:   3.826626
+------------------------------------------------------
+RANK:   9
+TITLE:   How take image uri from my array declared in one fragment and pass it to other fragment?
+Rel_VALUE:   3.826626
+------------------------------------------------------
+RANK:   10
+TITLE:   How to get the Uri of a image stored on the SDCARD?
+Rel_VALUE:   3.825017
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 15 query is ---F---
+:::INFO:::original_query---§´§Ñ§Û§Þ§Ö§â §Ó §Þ§Ö§ä§à§Õ§Ö java
+:::INFO:::translated---in the method of java timer
+:::INFO:::translated---in the method of java timer
+:::INFO:::input query terms list is as following
+['method', 'java', 'timer']
+:::INFO:::start matching
+:::INFO:::16 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I correctly use the Timer and TimerTask Methods in Java to create a constantly oscallating moving object on a canvas?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: Java Timer instantiated in each &quot;onCreate&quot; method
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Java Timers - Functions called not completing!
+Rel_VALUE:   2.683809
+------------------------------------------------------
+RANK:   4
+TITLE:   Is there a Timer functionality in android? (Not the java.util.Timer)
+Rel_VALUE:   2.683809
+------------------------------------------------------
+RANK:   5
+TITLE:   Can I run Activity class methods from a java.util.TimerTask::run()?
+Rel_VALUE:   2.664490
+------------------------------------------------------
+RANK:   6
+TITLE:   How to cancel timer in newOrderFragment from utilmethod.java class when I'm logged out from homeActivity in Android
+Rel_VALUE:   2.559673
+------------------------------------------------------
+RANK:   7
+TITLE:   TimerTask extended class fails on rescheduling of Task using java.util.Timer
+Rel_VALUE:   2.559673
+------------------------------------------------------
+RANK:   8
+TITLE:   How do I delay a method for turn-based game in Java Android
+Rel_VALUE:   2.507997
+------------------------------------------------------
+RANK:   9
+TITLE:   java, calling a method after a modifiable delay
+Rel_VALUE:   2.507997
+------------------------------------------------------
+RANK:   10
+TITLE:   How do I delay a method in a for loop in java?
+Rel_VALUE:   2.507997
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 16 query is ---F---
+:::INFO:::original_query---§¬§à§ß§ä§Ö§Ü§ã§ä§ß§à§Ö §Þ§Ö§ß§ð §Õ§Ý§ñ WebView §Ó Android
+:::INFO:::translated---the context menu for the WebView in android
+:::INFO:::translated---the context menu for the WebView in android
+:::INFO:::input query terms list is as following
+['context', 'menu', 'webview', 'android']
+:::INFO:::start matching
+:::INFO:::17 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Context Menu on Android WebView
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to prevent floating context Menu on text selection in webview in Android 6.0
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to open context menu when long click a link in android webview?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Android WebView Default Context Menu
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Context Menu for Image Saving in an Android webview
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   6
+TITLE:   Android WebView: how to make context menu work for text area?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   7
+TITLE:   Xamarin Andorid Webview text selection is not working with Custom context menu
+Rel_VALUE:   3.717026
+------------------------------------------------------
+RANK:   8
+TITLE:   adding context menu or spinner on OPtion Menu in android
+Rel_VALUE:   3.459603
+------------------------------------------------------
+RANK:   9
+TITLE:   Android spinner short click on item + context menu
+Rel_VALUE:   3.459603
+------------------------------------------------------
+RANK:   10
+TITLE:   Android ListFragment in ViewPager using context menu
+Rel_VALUE:   3.442019
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 17 query is ---F---
+:::INFO:::original_query---Auto fit(scale) TextView
+:::INFO:::translated---auto fit (scale) TextView
+:::INFO:::translated---auto fit (scale) TextView
+:::INFO:::input query terms list is as following
+['auto', 'fit', '(', 'scale', ')', 'textview']
+:::INFO:::start matching
+:::INFO:::18 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Auto Scale TextView Text to Fit within Bounds (problems with Android 4x)
+Rel_VALUE:   6.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Landscape and Vertical images in GridView (how to auto crop/scale)
+Rel_VALUE:   4.935254
+------------------------------------------------------
+RANK:   3
+TITLE:   Scaling images to fit ImageView (Animation Lag)
+Rel_VALUE:   4.908751
+------------------------------------------------------
+RANK:   4
+TITLE:   Android picasso scale photos to be bigger or fit the imageView (no white space)
+Rel_VALUE:   4.867241
+------------------------------------------------------
+RANK:   5
+TITLE:   Android TableLayout Column span/stretch to fit children ( TextView ) length
+Rel_VALUE:   4.827588
+------------------------------------------------------
+RANK:   6
+TITLE:   Resizing TextView to fit text (with a nine patch background image)?
+Rel_VALUE:   4.814075
+------------------------------------------------------
+RANK:   7
+TITLE:   Fit the text to the textview (with height = &quot;fill_parent&quot;) by editting the xml file
+Rel_VALUE:   4.755054
+------------------------------------------------------
+RANK:   8
+TITLE:   Scroll (custom marquee) textview text inside listview when it doesn't fit
+Rel_VALUE:   4.753321
+------------------------------------------------------
+RANK:   9
+TITLE:   Android: How do I know how many text can fit in my textView (my page)?
+Rel_VALUE:   4.725617
+------------------------------------------------------
+RANK:   10
+TITLE:   how to set different actions to dynamiclly created button on android (specifically - auto scroll to a textview using a dynamic button)
+Rel_VALUE:   4.713678
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 18 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§à§Ù§Õ§Ñ§ä§î §ã§à§Ò§ã§ä§Ó§Ö§ß§ß§í§Û status bar?
+:::INFO:::translated---how to create a custom status bar?
+:::INFO:::translated---how to create a custom status bar?
+:::INFO:::input query terms list is as following
+['creat', 'custom', 'status', 'bar', '?']
+:::INFO:::start matching
+:::INFO:::19 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to add my custom layout in top of notifications in status bar?
+Rel_VALUE:   4.689494
+------------------------------------------------------
+RANK:   2
+TITLE:   Android Development: How to make a custom status bar Notification?
+Rel_VALUE:   4.564009
+------------------------------------------------------
+RANK:   3
+TITLE:   How to make customized status bar (having 3G,signals, Battery,time) in android and the status bar will place in bottom of the screen?
+Rel_VALUE:   4.564009
+------------------------------------------------------
+RANK:   4
+TITLE:   Android. How to create custom progress bar dialog? Picture attached
+Rel_VALUE:   4.511542
+------------------------------------------------------
+RANK:   5
+TITLE:   How to create Android Custome progress bar like Sine wave?
+Rel_VALUE:   4.511542
+------------------------------------------------------
+RANK:   6
+TITLE:   Creating a custom layout without the App action/status bar in Android
+Rel_VALUE:   4.468074
+------------------------------------------------------
+RANK:   7
+TITLE:   How to add an icon to the Android status bar without creating a notification?
+Rel_VALUE:   4.259152
+------------------------------------------------------
+RANK:   8
+TITLE:   How can I create a notification in the android status bar?
+Rel_VALUE:   4.239582
+------------------------------------------------------
+RANK:   9
+TITLE:   How to create status bar in android like in the image?
+Rel_VALUE:   4.239582
+------------------------------------------------------
+RANK:   10
+TITLE:   How to create custom title bar with back button and title?
+Rel_VALUE:   4.231419
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 19 query is ---F---
+:::INFO:::original_query---§°§á§ä§Ú§Þ§Ñ§Ý§î§ß§í§Û §ã§á§à§ã§à§Ò §Ó§×§â§ã§ä§Ü§Ú Grid-style bottom sheet with header
+:::INFO:::translated---the best way to §Ó§×§â§ã§ä§Ü§Ú grid style bottom sheet with header
+:::INFO:::translated---the best way to §Ó§×§â§ã§ä§Ü§Ú grid style bottom sheet with header
+:::INFO:::input query terms list is as following
+['best', 'way', '§Ó§×§â§ã§ä§Ü§Ú', 'grid', 'style', 'bottom', 'sheet', 'header']
+:::INFO:::start matching
+:::INFO:::20 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Best way to implement header over a RecyclerView using a grid layout?
+Rel_VALUE:   4.964721
+------------------------------------------------------
+RANK:   2
+TITLE:   Android : Best way to display numbers in a grid and an android plot at the bottom of the grid
+Rel_VALUE:   4.690543
+------------------------------------------------------
+RANK:   3
+TITLE:   What is the best way to design screen 9X9 grid of Clickable cells to on/off like a game screen?
+Rel_VALUE:   4.532037
+------------------------------------------------------
+RANK:   4
+TITLE:   Best way to create a header and footer for webview in Android
+Rel_VALUE:   4.376235
+------------------------------------------------------
+RANK:   5
+TITLE:   Best way to layout a Grid of List items
+Rel_VALUE:   4.256714
+------------------------------------------------------
+RANK:   6
+TITLE:   What is the best way to implement Header support in GridView?
+Rel_VALUE:   4.223897
+------------------------------------------------------
+RANK:   7
+TITLE:   Android Layouts? Whats the best way to do this grids?
+Rel_VALUE:   4.211734
+------------------------------------------------------
+RANK:   8
+TITLE:   What is the best way of building repeating layouts in a grid?
+Rel_VALUE:   4.211734
+------------------------------------------------------
+RANK:   9
+TITLE:   Best way to scale layout styles in Android?
+Rel_VALUE:   4.206354
+------------------------------------------------------
+RANK:   10
+TITLE:   Best way to achieve grid RecyclerView, where items are square images with some text below it
+Rel_VALUE:   4.124619
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 20 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §å§Ò§â§Ñ§ä§î over-scroll §Ó ScrollView?
+:::INFO:::translated---how to remove and use in ScrollView?
+:::INFO:::translated---how to remove and use in ScrollView?
+:::INFO:::input query terms list is as following
+['remov', 'use', 'scrollview', '?']
+:::INFO:::start matching
+:::INFO:::21 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to remove black bars from LinearLayout using Bitmap as background in Android?
+Rel_VALUE:   3.750709
+------------------------------------------------------
+RANK:   2
+TITLE:   How to refresh ListView inside scrollView after delete data of ListView using Realm?
+Rel_VALUE:   3.644781
+------------------------------------------------------
+RANK:   3
+TITLE:   How do I use the swipe gesture to remove cards within a recycleview?
+Rel_VALUE:   3.644671
+------------------------------------------------------
+RANK:   4
+TITLE:   How to remove white border from imageView while using Display Metrics?
+Rel_VALUE:   3.642967
+------------------------------------------------------
+RANK:   5
+TITLE:   How to use RecyclerView.Adapter notifyItemInserted/Removed in a right way?
+Rel_VALUE:   3.616644
+------------------------------------------------------
+RANK:   6
+TITLE:   In Android, how do I remove parts of text in a textview without using int?
+Rel_VALUE:   3.592599
+------------------------------------------------------
+RANK:   7
+TITLE:   how remove &quot;complete action using&quot; window from my app when click on TextView ??
+Rel_VALUE:   3.592599
+------------------------------------------------------
+RANK:   8
+TITLE:   How do I remove an item from a listview using the button inside?
+Rel_VALUE:   3.558633
+------------------------------------------------------
+RANK:   9
+TITLE:   how to remove list item or clearing listview using shared preferences?
+Rel_VALUE:   3.558633
+------------------------------------------------------
+RANK:   10
+TITLE:   How to remove multiple items after checked using checkbox in listview using custom arrayadapter in android?
+Rel_VALUE:   3.558633
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 21 query is ---F---

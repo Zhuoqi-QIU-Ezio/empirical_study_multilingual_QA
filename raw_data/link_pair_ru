@@ -1,0 +1,733 @@
+Visual Studio - Ошибка сегментации как находить, как править?	windows|visual-studio|c++	5847769
+MYSQL: заполнение таблицы с id	php|mysql	1587562
+C# задачки и интересности	c#	271398
+Почему ++i считается lvalue, а i++ rvalue?	c++	371503
+Порядок удаления элементов списка в python.	python	8205102
+Ускорение генерации excel файла на c#	c#|excel	356371
+Как выполнить команду в приложении, запущенном через Apache Commons Exec?	apache|console|gui|java|exec	8785636
+Работа с pdf в Android	pdf|android|java	4665957
+Подсчет метрик кода VC++	c|visual-studio-2010|метрики|c++|visual-c++	1052269
+ComboBox и LiveBindings	delphi	10211668
+Работа с камерой в Android	java|android|android-camera	1893072
+Корректная работа с памятью в Android	getview|android|java	1949066
+Сихронизация потока относительно основного потока приложения	c#|многопоточность|winforms	7834378
+Контекстное меню для WebView в Android	menu|android|java|webview	4882025
+Как передать картинку в папке asset в Uri?	android|java	4615509
+Как закодировать бинарные файлы в base64 с помощью javascript?	base64|activex|файлы|javascript	246801
+Like в Linq .Net	oracle|linq|sql	13527499
+Регистро-зависимость в FormatConditions	vba|excel	14025326
+Как сохранить перевод строк при чтении Edittext to String?	java|android|android-edittext	3537706
+Ошибка: WebForms UnobtrusiveValidationMode requires a ScriptResourceMapping for 'jquery'	asp.net	12452109
+Не происходит перезапись поля в БД	ruby|база-данных|ruby-on-rails	6822440
+Datatables: Ширина фиксированных столбцов в заголовке не совпадает с шириной в теле таблицы	javascript|jquery|jquery-ui|datatable	16054584
+Сложный фон вкладок	svg|html5|css	3889882
+Открыть файл c помощью phonegap	phonegap|файлы|javascript	15206288
+RestKit: за и против	restkit|objective-c|ios|rest	13962109
+Global.asax Application_Error не срабатывает	asp.net|asp.net-mvc|mvc	6508415
+Использование камеры как службы	камера|android	2386025
+Objective-C: как (возможно ли) гарантированно исчерпать main run loop?	objective-c|ios	7356820
+Какие есть ограничения на сериализацию/десериализацию делегатов?	serialize|.net-4.0|.net-4.5|.net	78536
+Golang и &quot;concurrency&quot;	golang	10095751
+Создать пачку записей в MySQL	postgresql|mysql	3766282
+Не вызывается JQuery плагин Noty2	jquery	13712587
+Регистронезависимый in в PostgreSQL	sql|postgresql	16311289
+Установка библиотеки boost в QtCreator	boost|qt	12113679
+Доступ к protected методам родителя	ооп|наследование|c++	4829518
+Каким наиболее удобным способом можно хранить данные обьектов на стороне клиента  ?	c#|unity3d|массивы|xml	17286308
+Название &quot;-&gt;&quot; и &quot;.&quot; в C++	терминология|c++	1580757
+ShareKit Twitter PIN при авторизации	twitter|ios	5731394
+Менее строгий парсер html/xml	xml|html|java|синтаксический-анализ	1706493
+Выход из цикла при нажатии ESC	циклы|c++	14214753
+Связь многие ко многим в Rails	ruby|ruby-on-rails	7040022
+Предпросмотр изображения при загрузке в input type=&quot;file&quot;	jquery|html|css	4459379
+Запись массива в базу данных с использованием FMDatabase	sqlite3|массивы|sqlite|ios|база-данных	7342067
+Как на андроид реализовать работу с Websocket.IO Node.js	node.js|java|android|websocket	16264051
+Как подключить libxml в eclipse под linux	eclipse|c++|linux	7584139
+Большие отсупы в UINavigationBar в IOS7	cocoa|objective-c|iphone|ios7	18861201
+Android: Использование JSON в приложение	google-gson|json|java|android	17830227
+Как обновить окно в WPF?	c#|wpf|xaml	20068788
+Полигон по линии	gis|php|геокодирование|геометрия	5771908
+Побитовые операции - о каких из них полезно знать программистам &quot;более высоких&quot; уровней?	битовые-операции|java|c|оптимизация|алгоритм	3319974
+Как правильно скачивать файлы	android|httpurlconnection	3028306
+Zend_Queue свои таблицы	php|zend-framework	6431620
+Android Studio: в версии 0.4.0 странно создает проект	android|java|android-studio	17614477
+Расстояние между двумя точками на карте, заданными с помощью географических координат?	c|геометрия|objective-c|алгоритм	21241700
+Какая разница между firebug и родной веб-консолью в Firefox	firefox|firebug	19180494
+Реализация strlen() на Си в одну строку	c|strlen|алгоритм	22520413
+Java манипуляции с битаи	java	563544
+Как правильно извлекать данные помеченные тегами?	sqlite|база-данных|sql	8387006
+Вычисление квадранта, в котором находится точка двумерной координатной плоскости.	битовые-операции|c|геометрия	3313847
+Не могу поставить gsl gem	gems|c|ruby|linux	7379729
+Как узнать ip &quot;белый&quot; или нет?	boost|c++	2674314
+Как предотвратить кэширование страницы php?	mamp|osx|php|firefox	13640109
+Как подружить постгрес и денвер	php|denwer	551734
+Android: source code Google Keep app	android|java	3593420
+DataGrid перенос текста по словам	c#|datagrid|wpf|style	1503262
+Прикрепить файл к БД Access на Python	python|access|odbc|sql	23262341
+Ошибка в pypyodbc &quot;Data source name not found and no default driver specified&quot;	python|access|odbc	16280304
+Reconnecting JMS connection in MDB when JMS producer was rebooted	jboss|jms|mdb|java	47683
+Почему не работает унаследованная форма?	python|django	23534615
+Нерекурсивный обход директорий	python	4117588
+Сравнение и комбинирование данных из 2х массивов	php|массивы|рекурсия	3876435
+MySQL: INSERT... VALUES, INSERT... SET и гибридный вариант	mysql|sql|mariadb	861722
+Отправка sms на несколько номеров	android	8998655
+Загрузка файлов на сервер с помощью Synapse	delphi|загрузка|synapse	11471513
+Как установить getsureImage?	android-sdk|android	16894215
+XCode 5 постоянно падает	xcode|osx	18905900
+CoreData Не работает на iOS8	xcode|orm|ios|coredata|база-данных	25967700
+Десериализация объектов из Json	json|java	10926353
+Как составить web.xml для фильтра?	servlet|кодировка|java|tomcat|web.xml	138948
+Получить название монитора через WinApi	c#|winapi	6279076
+Контроль версий + БД	svn|git|контроль-версий|tfs|sql	173
+SurfaceView мелькает черным?	android|java	8772862
+MySQL и tmpfs	tmpfs|mysql	7532307
+Facebook API - добавить друзей в группу	json|javascript|facebook-api	17908688
+Получить название нажатой кнопки из NSEvent	objective-c|osx	9458017
+Как выполнить обращение к TLS протоколу?	ssl|curl|php|https|сервер	3153206
+Редирект в Spring MVC	spring-mvc|spring|java|redirect	5077783
+Осциллограф. JavaFX. Доступ к классу-контроллеру. Потоки взаимодействие потоков.	controller|потоки-данных|javafx	10751271
+Бесячая &quot;беда&quot; с Intillij IDEA	intellij-idea	28010094
+Как получить access token в Instagram?	c#|wpf|.net|instagram	26061311
+Spring + HibernateDaoSupport = не рекомендуются?	spring|dao|java|hibernate	5104765
+Eclipse на MAC OS X видит разные JAVA	eclipse|android|java|jvm	24598465
+Как переслать экземпляр класса по сети?	eclipse|java|сервер	15674599
+Как настроить Spring Сontroller возвращать либо html, либо jsp	spring-mvc|spring|java|java-ee	15479213
+Как отследить что пользователь нажал и отпустил карту Google map API v2?	android|google-maps-api|java	13722869
+Java &quot;store.steampowered.com/login/&quot;	jsoup|html|java|синтаксический-анализ	26719806
+Ковариантность параметров C++	ооп|c++	11821158
+Стоит ли делать составной первичный ключ?	jpa|база-данных|orm	3585034
+Как правильно не дать заснуть Google cloud messaging на android?	android	14064337
+Как проверить видимость элемента на странице с помощью jQuery?	javascript|jquery	178325
+Как написать деструктор для класса, в котором одно из полей -- структура?	c++	22141477
+SpamAssassin считает что у меня не настроен rDNS	email|dkim|spamassasin|spf	12297861
+Использование ActiveX контрола не в форме, а в классе	c#|winforms|activex	7198725
+Как получить логин в ASP.NET MVC?	c#|asp.net|asp.net-mvc	26739778
+ACRA не показывает в logCat IDE логи пойманной ошибки	java|android|eclipse|logcat	13920503
+Как протестировать WeakReference в потоке?	java|многопоточность	29784793
+Какая разница между string и String?	c#|строки	7074
+Как убрать отступ у select на android?	html|android|css	28504026
+Кастомный чекбокс Android	java|android|checkbox|style	12889729
+Можно ли во Flask-е посылать HTTP GET запрос с телом?	python|flask	978061
+lxml, &lt;br/&gt; и пропадающий tail	python|lxml	6469361
+Что означает параметр DESKTOP_HOOKCONTROL в функции CreateDesktop?	c#|winapi	29902715
+Полноэкранный режим для html5 по dblclick	javascript|html5	27768320
+Пустые поля Subject и To в письме, полученном с помощь JavaMail	java|javamail	7771134
+SslStream, как отключить кэширование сеанса?	c#	237807
+Как добавить обработчик нажатия на элемент в RecyclerView?	java|android|recyclerview	24471109
+Как вывести текст тэга html	c++|html|парсер|htmlcxx	11480570
+Группировка новостей по пользователю	postgresql|ruby-on-rails|group-by	30227391
+Process Environment Block в MemorySharp	c#	3992786
+Получить ввод с клавиатуры на самописной OS	c|ассемблер|клавиатура|os|osdev	2263514
+Рекурсивный парсер html с помощью бибилотеки htmlcxx	html|c++|рекурсия	5081181
+Как определить код оператора на второй сим карте android?	java|android-sdk|android|imei	23689989
+Как создать обычную строку из строки в формате html на Objective-c	html|c++|objective-c|парсер|corefoundation	659602
+webview в lollipop	android|webview	27297168
+Странная ошибка в MonthCalendar	.net|winforms	30262731
+Worker-ы убивают IE11	javascript|html5|internet-explorer|webworkers	10343913
+Genymotion - unable to connect to the virtual device	android|ip|virtualbox|genymotion	19922077
+Использование OpenCV в Service на ОС Android	android|service|opencv	18811303
+Разница между NSTableView создаваемым IB и создаваемым в коде	objective-c|swift|osx	4599747
+System.Security.Cryptography.CryptographicException: набор ключей не существует	c#|iis|безопасность	12106011
+Как подключить jar, созданный на clojure к проекту Android studio на Java?	java|android|android-studio|clojure	2181774
+undefined method `configure' for/ Несовместимость версий в railstutorial?	ruby-on-rails	22977051
+Как показать N последних тегов (меток)?	git|git-tag	30805098
+Как добавлять файлы в Git по их номеру в отчете `git status`?	git|git-add|git-status	30411901
+Python дамп базы?	python|postgresql	2893954
+Как создать кастомный роутинг в ASP.NET MVC?	c#|asp.net|asp.net-mvc|mvc|маршрутизация	19611863
+Ввод данных с клавиатуры - Rust	input|rust	13579266
+google analytics и fragment	android|google-analytics	14883613
+Firefox Bookmarks Reference (JSON)	json|парсер|firefox	904522
+SYNONYM в SQL Server	sql|sql-server	3569453
+Извлечение сплайнов из модели класса GAM (`mgcv::gam`)	r	15584541
+Разница java объектов: применение изменений	java|объекты|graph	31249178
+Динамическое создание EditText	java|android|android-studio	10136060
+Как послать файл и JSON в одном POST-запросе используя тестовый клиент Flask-a?	python|flask	24642040
+Не могу добавить представление в mvc 5	c#|asp.net|asp.net-mvc	24429838
+Как запустить Сишный код из Python с правами суперпользователя?	python|c|django	3197509
+Как изменить название foreign key constraint в EF	c#|entity-framework	17926413
+Рекурсивное регулярное выражение: как задать несовпадение со строкой, а не с отдельными символами	php|регулярные-выражения	31604019
+Поставленный на паузу AsyncTask	java|android|asynctask	2474584
+Проблема с запуском Powershell консоли Sharepoint 2013	powershell|sharepoint|active-directory	31679863
+Использование Android Numberpicker внутри ScrollView	android-sdk|activity|android	3359510
+Выбор Layout для компоновки виджетов на экране	android|android-layout	24459352
+ошибка в Android Studio	android-studio	20471311
+FreeBSD gcc install	gcc|freebsd	9450394
+Как с помощью logging писать в логер только DEBUG-сообщения без сообщений более высокого уровня?	python|логирование	17108973
+ActiveRecord в массив	yii2|activerecord	31125334
+Диагностика GUI RichTextBox	c#|winforms|многопоточность|gui	4659283
+Линейное преобразование в ГОСТ Р 34.12-2015	математика|криптография	13239816
+Реализация умножения многочленов в конечном поле	c|математика|криптография	13239816
+Автоматический выбор языковой версии сайта на PHP	php|wordpress	6038236
+Как изменить RT_STRING ресурс .exe файла	winapi|resources	14088057
+Как в IntellijIDEA 14 обновить *-sources.jar?	java|intellij-idea	13144468
+Настройка Apache2 на Astra Linux	apache2|аутентификация	2641646
+Помогите разобраться с angular-translate и ui.router	angularjs|angular-routing	24281652
+Кто нибудь устанавливал YONA CMS, столкнулся с такой проблемой	php|cms|phalcon	26588697
+Альтернатива ADM	android|android-studio	32197299
+Таймер в методе java	java	4817933
+NAudio Воспроизведение mp3 во время его загрузки из сети	c#|потоки-данных|аудио|naudio	184683
+AngularJS + Django REST, как удалить объект из списка?	angularjs|django-rest-framework	26445450
+Response.Redirect в веб-приложении ASP.NET вызывает падение процесса w3wp.exe	c#|asp.net|iis	1087777
+Прогресс бар долгого скрипта на ajax	php|javascript	17186675
+Алгоритм поиска ближайшей свободной позиции	алгоритм|разработка-игр|геометрия	32508204
+Открыть панораму Google во всплывающем окне	jquery|google|iframe	6666423
+Указанный домен не существует или не доступен	c#|active-directory	32600610
+Зачем придумали RFC5261, если существует XSLT?	xml	5351008
+Статистика по входу на сайт	c#|xml|asp.net	7568497
+Как разместить GridRecyclerView внутри ScrollView	android|recyclerview|android-layout|layoutmanager	26649406
+Decision trees (деревья решений) в OpenCV	java|opencv	32948837
+Убрать анимацию в MPVolumeView	ios|xcode|swift	27878272
+Выгрузка метаданных из потока онлайн-радио	java|android	8970548
+Загрузка png через url в имеющийся imageview	java|android	2471935
+Как правильно передать соль с клиента на сервер и обратно при шифровании?	c#|.net|asp.net-web-api	472906
+Ошибка при выполнение теста Codeception	php|ajax|codeception	27742070
+Наглядный пример различия DTO, POCO (POJO) и Value Object	java|c#|.net|архитектура	725348
+Ошибка при компиляции java.lang.SecurityException: sealing violation	scala	10093176
+Статическое внедрение dll в сборку (C#)	dll|сборка	23971418
+Yii: model-&gt;save и непредсказуемый результат, почему?	php|yii	33136342
+Удаление объектов внутри объекта без рекурсии	javascript	9474465
+C# работа с Excel	c#|excel	18993735
+Не работает Eclipse. Скомпилированный EXE работает только на данном компьютере	java	21662588
+Надёжный способ обновить поля в таблице с джойнами	delphi|oracle|ado	33140560
+Разделители для вывода чисел в SPA	javascript|jquery|backbone.js	9743038
+Добавление нескольких переменных POST при отправке формы	javascript|jquery	993834
+Передача изображения из нативной библиотеки в Android	java|android|c++|android-ndk	7677092
+Перегрузка с первым необязательным параметром	перегрузка-операторов|typescript	33813922
+Как убедиться, что object возможно преобразовать к числовому типу (C#)?	c#|типы-данных	894263
+Как инвертировать частотный спектр изображения?	изображения|преобразование|fft|фурье|обработка-сигналов	3520557
+RecyclerView с SearchView и обработка кликов	java|android	30398247
+Пользовательский value type и проблема с роутингом	c#|asp.net-mvc|entity-framework|маршрутизация|asp.net-web-api	8040999
+Как создать собственный status bar?	android	5829309
+Nodejs битый jpeg при скачивании с другого сервера Ubuntu 14.04.3 LTS	javascript|ubuntu|node.js|jpeg|jpg	26734047
+Получение обработанных данных с сервера	javascript|express.js|greasemonkey	15180049
+Запуск подпрограммы в web-приложении Java	java|java-ee|tomcat	791986
+Отображение 'left-pointing angle bracket' в браузере	css|html5|google-chrome	23139696
+Ошибка в связи с отсутствием hmac_ctx в проекте под OpenSSL 1.0.2e	c|openssl	242665
+Реализация перестановки элементов листа C# (аналог next_permutation из STL)	c#|list|коллекции	2390954
+Имитация множественного наследования	наследование|typescript|множественное-наследование|mixins|прототипное-наследование	34232656
+Как настроить datepicker со сторонними зависимостями, используя Require JS?	javascript|jquery|requirejs|datepicker	34244345
+Как получить длительность mp3 файла без скачивания всего файла	c#|mp3	111345
+подключить UnitTest в &quot;проект&quot;	php|composer|phpunit	6065730
+Как получить ответ HTML с методом POST формы с помощью php?	php|curl|dom|парсер|asp	34295757
+GSSContext возвращает null'овый SrcName	java|spring-security|kerberos|spring-security-kerberos	29747565
+Простой jquery-ui dialog с библиотекой knockout	jquery|jquery-ui|knockoutjs	34300783
+Ошибка при создании/удалении ассоциации	ruby-on-rails	13240109
+Как перевести `VB.NET` код c лямбда-выражениями в код с циклами	.net|vb.net|сериализация|json.net	27444616
+Как передать в фрагмент значение из Navigation Drawer	java|android|navigation-drawer	15392261
+Как заставить работать свайп назад в UINavigationController вместе c DrawerController?	ios|objective-c|swift	24710258
+C# библиотеки для генерации Excel	c#|.net|excel|csv	151005
+При открытии активности с фрагментом Google карт, она немедленно закрывается	java|android|google-maps	31342684
+Socket.io и правильный disconnect	javascript|node.js|сокет|socket.io	20260170
+Toolbar лого,которое возвращает на главную активность	java|android|android-toolbar	26642378
+Ошибка при открытии MVC сайта без указания action	asp.net-mvc|iis	29411457
+Запуск liquibase на Openshift	java|postgresql|gradle|openshift	26569302
+Вывод уровня сигнала Wi-Fi	android|gui|wifi	18831442
+Rails 4 HABTM views	ruby-on-rails|activerecord	17435937
+Нотификации каждую минуту	java|android	22234799
+Антиалайзинг на iOS openGL ES 2.0	ios|opengl|opengles	33832734
+Как сменить версию php5.6 на php7 в настройках apache2.4?	php|apache|php7|apache2.4	30987883
+ADO.NET Entities, System.TypeInitializationException	c#|mysql|база-данных|entity-framework	22031269
+Yii 2 форма из нескольких моделей	php|yii2	28567736
+Ваш проект ссылается на последнюю версию Entity Framework. Однако	c#|mysql|база-данных	22031269
+Способы просмотра БД на андроид студио	android|sqlite	19194576
+Запустить задачу в фоне php	php|backgroundworker	13289595
+Дополнительный ajax запрос в parse	javascript|ajax|backbone.js	31674238
+Динамический RecyclerView	java|android	27083091
+jqGrid Form Editing отправлять PostData только измененные данные?	jqgrid|free-jqgrid	35034794
+Swift: почему требуется прописать внешнее имя при передаче параметра?	xcode|swift	24050844
+Можно ли авторизоваться в vk через Intent без использования vk sdk?	java|android|vkontakte-api|вконтакте|facebook-api	8813815
+Как запустить сервис с помощью GitLab CI runner и предотвратить его остановку?	gitlab|spring-boot|gitlab-runner	35088983
+Как подключить внешнюю базу данных SQLite в Android?	android|sql|база-данных|sqlite	2605555
+Не работает wp_ajax_nopriv	javascript|ajax|wordpress	18748819
+Custom fonts in widget	android|android-studio|шрифты|widgets|typeface	4318572
+java.lang.NullPointerException: Attempt to write to field 'int android.support.v4.app.Fragment.mNextAnim' on a null object reference	java|android|android-fragment|fragment-transaction|fragment-manager	22489703
+Конфигурирование log4J 2 без файла конфигураций	java|log4j2	17406485
+TextBox с иконкой	winforms	15868817
+Выбор папки Shiny	r|shiny	35357127
+rpivotTable и nvd3 rcharts в одном приложении	r|shiny	33694588
+Псевдонимы(алиасы) в перечисления - правила использования (c#)	c#|типы-данных	7511102
+Не работают сигналы и слоты QWebSocket в отдельном потоке	c++|qt|многопоточность|websocket	25856216
+Как вынести функцию в отдельный приватный метод	php|symfony2	29998640
+Несколько фреймов в столбец и scrollbar к ним в Python tkinter	python-3.x|tkinter	16188420
+Запуск python скрипта по нажатию кнопки на веб-странице	python|django	15166941
+Ошибка при развертывании: Не удалось запустить Tomcat	java-ee|netbeans|tomcat	26485487
+Генератор ключей на C# и Python	c#|python|crypt	26168544
+Тестирование swing приложений	java|swing	35631295
+Сборка ibase.pro с QT 5.5 win32-msvc2010	qt|firebird|interbase|база-данных	8038649
+Angular2: Typescript и Visual Studio	javascript|angularjs|typescript	35623270
+Скрыть child view в CoordinatorLayout с BottomSheetBehavior	java|android|material-design|android-support-library	32897708
+Разные отступы Floating Action Button(fab) в разных версиях Android	android|material-design	31205720
+Ошибка при исполнении ajax запроса	javascript|c#|ajax|asp.net-mvc	14313283
+Проблема печати на сетевой принтер с сервера Win 2008	delphi|iis|windows-server|rdp	2579946
+nvd3 контроль в две строки	javascript|jquery|css	35796948
+Yii2: как добавить в SearchModel массив значений?	yii2|activerecord	31031644
+Помогите заинжектить EntityManager в OSGi	java|entity	35789048
+premultiplied alpha	java|android|canvas|bitmap	35785060
+Обрезание экрана при повороте	c#|windows-phone-8|xamarin	36156694
+Как убрать over-scroll в ScrollView?	android|android-scrollview	7169567
+Сессиии в php и их виды	php|сессия	10617954
+Появление нового элемента при скроле вниз	android	4139288
+GCM tmpClient.open(url) - &quot;open&quot; подсвечивает красным	java|android	33854040
+write|read mutex	c++|mutex	19915152
+FreeBSD установка shared library	linux|freebsd|phantomjs	8778513
+R: как измерить объем переданных через интернет данных в рамках одной сессии?	сессия|r	35975404
+Генерация HTML-страницы используя с++	html|c++|xml|c++builder	11206604
+Ошибка компиляции java	java|android	35897015
+Symfony2: создание пользовательского типа поля с таким же именем. как у встроенного типа	php|symfony2	22673275
+.htaccess функционирует на удалённом сервере, но не локальном WampServer	.htaccess|apache|wamp-server	19718919
+Как в андроиде задать путь для сохранения файла?	java|android	3028306
+Почему некорректно останавливается BackgroundWorker?	c#|.net|wpf|backgroundworker	36153029
+Не работает роут profile на FOS UserBundle	php|symfony2|symfony|sonata	32475287
+Вскрытие линейного конгруэнтного генератора псевдослучайных чисел	математика|криптография|случайные-числа|взлом|генерация-случайных-данных	8569113
+C# Stream и действия над ним	c#|.net	5002834
+Как лучше всего использовать else-блок при по обработке исключений?	python	855759
+Конструктор по умолчанию для EF	c#|asp.net|asp.net-mvc|entity-framework	25651342
+Как сделать многопользовательскую информационную систему?	база-данных|postgresql	15067770
+Как сфотографировать Here map?	java|android|map	18309625
+mpdf последняя totalNumPages	php|mpdf	10280595
+Auto fit(scale) TextView	java|android|textview	5033012
+UnicodeDecodeError: 'utf-8' codec can't decode byte, Python	python|utf-8|lxml	10226342
+Не получается сохранять по уникальному внешнему ключу	python|django|postgresql	36386114
+Экземпляр вариадик шаблона класса &quot;функтора&quot;	c++|шаблоны-с++	18370396
+Как отправить данные из формы на сервер?	android	9767952
+zoom для SurfaceView сдвигается	android|zoom	16121145
+Что такое stack trace, и как с его помощью находить ошибки при разработке приложений?	java|android|отладка|java-faq|stacktrace	3988788
+Релизация древовидной раскрывающейся вложенности	javascript|html|jquery	8233604
+Что такое Null Pointer Exception и как его исправить?	java|android	218384
+Не работает Wrapping в TextBlock	c#|wpf|mvvm	16743804
+Переместить таблицы в другую бд с использованием EF Code First	c#|asp.net-mvc|entity-framework	21537558
+Каким образом избежать SQL-инъекций в PHP?	php|mysql|sql|sql-injection	60174
+Доступ ссылки &lt;a&gt; по времени	javascript|jquery|asp.net-mvc	17520263
+В чем различия между INNER JOIN и OUTER JOIN?	sql|join	38549
+Как создать HTML-кнопку, которая будет вести себя, как гиперссылка?	javascript|html|css	710089
+window.onbeforeunload кроссбраузерная обработка	javascript|events	9973816
+Как получить выбранное значение в выпадающем списке с помощью JavaScript?	javascript|html	1085801
+Как разрешить С++11 в Android Studio	android|c++|android-studio|c++11|android-ndk	36667374
+Proxy c# selenium	c#|proxy|selenium	12186579
+Странное поведение метода контроллера	java|spring-mvc	4335432
+Исчерпывающее руководство по form-based website authentication	http|безопасность|аутентификация|любой-язык|статьи	549
+Как принудительно перезаписать локальные файлы во время git pull?	git|git-pull	1125968
+Что делают if __name__ == “__main__”?	python	419163
+Python, YouTube API v2. Получения списка видео по имени канала	python|python-2.x|youtube	22613903
+Получение кода ветки на удаленном сервере	git|git-checkout	1783405
+Установка свойства “checked” в флаговой кнопке с помощью jQuery	javascript|jquery|checkbox	426258
+Найти виртуальные COM порты	delphi|порты|serial	16100798
+Как закрыть, перезагрузить и завершить сеанс Windows с помощью bat-файла?	windows|bat	162304
+Как выглядит конструкция IF…THEN в SQL SELECT?	sql-server	63447
+Перенос базы пользователей (LocalDb) на SQL Server	c#|sql-server|asp.net-mvc	29113209
+Программное подключение к WiFi сети	java|android	8818290
+Поиск нескольких ближайших значений в массиве	java	1187352
+Как использовать Git для контроля версий в Unity3D?	git|unity3d	18225126
+При редактировании данные изменяется , но не сохраняется .Как реализовать это в JavaFX?	java|javafx|tableview	7868188
+Как подготовить проект Unity для git?	git|unity3d	21573405
+Как найти i-ый элемент AVL за log()?	алгоритм|поиск|дерево|индексы	2329171
+Celery накапливает периодические задания и выполняет пачкой	python|django|celery	37016685
+Установка старой версии GDB в Cygwin	cygwin|gdb	35826635
+Получение изображения JavaScript	javascript	934012
+Swipebox: страница вместо картинки	javascript|jquery	20368263
+Django. Сортировка queryset'a строк по алфавиту ['АБВ...ABC'] и возрастанию цифр ['1,2,3...10']	python|django|postgresql|сортировка|queryset	2969348
+Сбрасывается значение chronometer при смене ориентации	java|android	21660965
+Как программно создать элемент на странице в Meteor?	reactjs|meteor	37217210
+Как включить миграцию в EF7 в VS2015 ASP.NET5 ответ	c#|asp.net|visual-studio-2015|entity-framework-7	30851344
+не поддерживается формат .aar	android|android-studio|gradle|android-library	28051137
+Можно ли отобразить значки элементам меню со свойством showAsAction=&quot;never&quot;	java|android|android-toolbar|android-menu	18374183
+простой SOAP клиент + SSL &gt; Ошибка подключения	java|ssl|soap	36077302
+Error: Connection lost: The server closed the connection.[node.js]	node.js	17942505
+android 6.0.1 SYSTEM_ALERT_WINDOW	java|android|mobile-development	36016369
+Как изменить отступ в Drawer menu	java|android|navigation-drawer	37058219
+Как скроллить дочерний элемент без скроллинга родительского?	java|android|android-layout	29889468
+Баг с Roboto шрифтом на десктопном хроме	css|google-chrome|шрифты	37512815
+Связать массив мелодий с массивом изображений	java|android|массивы|resources|imageview	7383387
+Контроль порядка выдачи результатов асинхронной операции	javascript|html|jquery|async-programming	19778843
+PowerMock + Java + Groovy	java|junit|groovy|mockito	8179399
+Ошибка spring security на wildfly	java|spring|spring-security|spring-boot|wildfly	31954292
+Где как размещать mp3 файлы для приложения	android|файловая-система	28613751
+Инициализация IFilter из IStream	c++|windows|com	7313828
+BSCMAKE Warning BK4503	c++|visual-studio|visual-studio-2015	27862346
+Незадача с xws-security:3.0	java|gradle	31740919
+Как решить проблему cross language upgrade failed sql server 2016?	sql|sql-server	123052
+Debug asssertion failed, expression: __acrt_first_block == header	c++|opencv|отладка|vector|memory	35310117
+Неправильно работает QSqlQuery	база-данных|qt|postgresql	37723488
+Заголовок отображаемой вкладки в TabHost находиться за экраном андроид устройства	android|android-tabs|fragmenttabhost	7875939
+Как передать данные из активити в фрагменты	activity|android-fragment|intent|android-bundle	15392261
+Fragment PvPMap not attached to Activity	android	37846127
+Асинхронный запуск PowerShell скрипта на C# .Net 3.5	c#|.net|shell|powershell|async	34398023
+PHP добавить параграфы	php|строки	5961217
+Программа нормально отрабатывает под netbeаns, но ехе выдает ошибку	c++	5224381
+Xamarin Studio не распознает код для Android	android|xamarin|xamarin-studio	37726651
+Не подключается Ionic Framework и woocommerce api	angularjs|api|woocommerce|cordova|ionic	35889338
+Дайте, пожалуйста, ссылку на исходник (на C#) иерархической PropertyGrid (без CollectionEditor) для WPF	c#|wpf|propertygrid	37058259
+Как скачать приложение из Google Play программно?	android	16931590
+Почему может не работать метод collapse?	java|android|notifications|android-notification	16966540
+ActivityIndicator во время перехода между View	ios|swift|activity	28785715
+Отправить файл, имеющийся в base64, на сервер в &quot;натуральном&quot; виде	javascript|fileupload	16245767
+Как правильно пересоздать закэшированный Observable используемый вместе с Retrofit?	java|android|retrofit|rxjava|rxandroid	38173653
+Ошибка при регистрации приложения в Telegram	telegram-api	38104560
+The association \Entity\Specialists#images refers to the owning side field Application\Sonata\MediaBundle\Entity\Media#spec which does not exist	php|symfony2|doctrine|sonata	28921077
+Почему конкатенация строк - это точка, а не плюс?	php	377768
+Вставка select в заголовок Angular Ui Grid	angularjs|grid	28097758
+.NET Core 1.0 -- насколько готов к использованию?	asp.net-core|.net-core	36422152
+React Native: SDK directory does not exist	android|android-sdk|reactjs|sdk	32634352
+libvirt и virtualbox	linux|virtualbox|virtual	2778638
+angularjs Вывод структуры рекурсивной диррективой	javascript|angularjs|angular-directive	14430655
+Как сгенерировать Sign keyHash для Google LogIn	java|android|google	33821136
+DCPCrypt - Lazarus	delphi|lazarus|crypt	9188045
+Retrofit 2 : Как получить response.body из UI-потока?	java|android|json|многопоточность|retrofit	38390686
+Отправка широковещательных сообщений, используя netty	java|netty	26527208
+SOAP: looks like we got no XML document	php|soap	4313952
+IllegalStateException при парсинге json в RealmDatabase	java|android|json|realm-database	28733024
+Как задать suffix для TimedRotatingFileHandler в конфиге?	python|логирование	338450
+Расширение String.prototype показывает производительно ниже вызова функции в 10 раз	javascript|производительность	38407760
+Почему &quot;use strict&quot; повышает производительность в 10 раз в этом примере?	javascript|производительность	38411552
+Meta tag не обновляется при переходе по ссылкам на страницы одного контроллера	ruby-on-rails	19463978
+HttpURLConnection.getResponseCode() = java.io.EOFException	java|android|httpurlconnection	19258518
+Почему не обновляется ListView?	android	30711517
+Как сделать выравнивание текста по наклонной линии?	html|css|css3	38857192
+Notification в Windows 8.1	python|python-3.x	15921203
+Django приложение для хранения изображений к товару	django|django-orm	537593
+java.net.Socket и объединение серверов, как клиентов	java|сервер|сокет|client	38724782
+ElasticSearch и спецсимволы	python|elasticsearch	13178550
+Проблема с загрузкой тайлов в libGDX	java|разработка-игр|libgdx	29398237
+Получение тэга &lt;img&gt; и последующее его удаление из текста	android	25545370
+Less. Конвертация px в rem	javascript|less	19510224
+Как получить доступ к текстовой строке поиска в ActionBar	android|android-search-view	28161499
+Авторизация SOAP клиента на C# по протоколу https	c#|авторизация|1с|soap	3495903
+Максимальный размер QImage	qt|qimage	7080052
+Модуль shelve генерирует на разных платформах разные файлы	python|linux|windows|python-3.x|osx	16171833
+Конвертация цикла foreach в lambda выражение, используя Java 8	map|коллекции|lambda|java-stream|java-8	39021672
+Как задать внутреннюю тень для геометрической фигуры с текстом внутри?	html|css|css3	27730055
+Верстка - отзывчивая: проблемы с браузерами iPhone и Samsung	html|вёрстка|iphone|браузер|browser	39078778
+Не могу прикрепить Android Studio debugger к Android процессу	java|android|android-studio	24285999
+Python: Произвольное количество аргументов в конструкторе класса	python|классы|конструктор	8187082
+Naming Conventions в Java - почему не рекомендуется использовать знак нижнего подчеркивания в именовании пакетов?	java	3179216
+Basic authentication Android, JSON parsing, Вход в персональный кабинет сайта	java|android|json	22698770
+Дублирование записей Entity Framework 6 (generic update)	c#|entity-framework|repository	32830764
+IE убирает границы ячеек при печати нескольких страниц	php|html|css|вёрстка|phpexcel	13750134
+Как перевести Bimap в таблицу или вектор?	c#|wpf|bitmap|datagrid	22324359
+В мобильном приложении на React Native не сохраняется форматирование текста	javascript|парсер|react-native	32469570
+Почему нет исключения TypeError?	python	1952464
+Не авторизирует Symfony	php|symfony3	32516079
+Android: Задать цветной радиус границ TextView, если ещё неизвестен цвет	android|textview|background|border|border-radius	18781902
+Воспроизведение большого видео с деформацией - DirectX	mediaplayer|directx|gpu|directshow	40913196
+Git. Удалить родителя из коммита или отменить слияние	git|github|git-merge|git-rebase	35688097
+Получить прямую ссылку на YouTube-видео	php|javascript|video|youtube|youtube-api	547722
+Android: getSupportActionBar().setTitle(&quot;...&quot;) требует runOnUiThread	java|android|actionbar	12883732
+Две активные вкладки TabControl или как отменить смену вкладки?	c#|wpf|xaml|mvvm	7929646
+rxjs, Как реализовать: родитель слушает состояние checked дочерних элементов	javascript|typescript|angular2|observer	39566930
+Xcode: После удаления Cocoa Pods возникает ошибка Missing file	ios|xcode|swift|cocoa	16427421
+Как получить privatekey из keystore на mac osx через java?	java|osx|mac	6854487
+Как сделать DateTimeFieldWithLabel неактивным reactjs bootstrap?	bootstrap|reactjs	37253606
+Сравнение скорости загрузки серверного шрифта и google-шрифта	html|css|вёрстка|шрифты|google-fonts	39625198
+Как написать сообщение на вотсап с сайта?	javascript|share|ya-share2	21500570
+Не запускается Tomcat из Idea	intellij-idea|tomcat	20163910
+Множественные переменные в SQlite	android|sqlite	8343946
+Ошибка при комите	android|git|android-studio	27330446
+Подскажите как вытащить куки из файла	c#	22532870
+java | android - Как использовать методы интерфейса `IccCard`?	java|android|reflection	11211420
+Не работает опция SOAP_SINGLE_ELEMENT_ARRAYS для SOAP сервера в php?	php|soap|zend-framework-2|wsdl	19050621
+Как собрать плагин для Eclipse?	java|eclipse|компиляция	17734967
+Требуется отключить стандартный размер буферизации в 4096 байт	android	31296374
+Работа с элементами gridView	java|android|gridview	13451069
+Как правильно реализовать подсветку кода?	.net|регулярные-выражения|алгоритм|wpf|компилятор	1732348
+Custom Notification	android|android-notification	16168553
+Failed to connect to bitbucket.org port 443 Сеть недоступна	git	18356502
+Статическая линковка Qt 5.7 с Visual Studio 2015	qt|visual-studio-2015	14932315
+Как разрешить выполнение скриптов в WebBrowser, как в IE?	javascript|c#|.net|internet-explorer|webbrowser	25142594
+Обновление Label из цикла в tkinter	python|python-3.x|tkinter	2603169
+Преобразовать массив пикселей в изображение в ios	массивы|ios|objective-c|обработка-изображений	7650144
+Зависит ли keycode от раскладки клавиатуры?	javascript	995183
+Установка Qt 4.8.5 для VS2015	qt|visual-studio|visual-c++	32848962
+Магические свойства __get и __set и оператор [] = , хранение массивов	php|массивы	10454779
+Не удается изменить элемент List	c#|list	4175555
+Как убрать ограничение на загрузку больших файлов на сервер ASP.NET MVC?	c#|asp.net-mvc	16287706
+вызов итератора в методе @Produces приводит к рекурсивному вызову этого метода-poducer`а	java|java-ee|websphere	18992641
+Ошибка сборки VS2013 (Microsoft.VisualStudio.TextTemplating.14.0)	c#|.net|visual-studio-2015	31847855
+Нестабильно работает отправка запросов в Volley	android|android-volley	25868608
+Время жизни временной переменной	c++	4214153
+Маршаллинг FILE* в C#	c#|c	1212713
+Определение частоты звука wave-файла Python: почему один канал обрабатывается корректно, а второй - практически дублирует на выходе данные первого?	python-3.x|аудио|numpy|фурье|wav	2648151
+SMS-шлюз Kannel. Throttling error	sms|queue|шлюз|smpp	37461349
+Фрагменты и кнопка назад	android|android-fragment	40549060
+Как обновить данные в RecyclerView после редактирования его айтема	android|recyclerview	35243560
+System overlay или как отрисовать кастомную мышку поверх всего?	android|gui	4481226
+Получение нескольких ответов от сервера, php+ajax js	php|javascript|jquery|ajax|async	333664
+PHPstorm, PHPdoc - можно ли задать описание переменной массива?	phpstorm|phpdoc	2713710
+Сообщение &quot;No input file specified.&quot; при попытке запуска php скриптов из под phpStorm	php|phpstorm|localhost	24947405
+cl.exe is not able to compile a simple test program	visual-studio-2015|cmake	14590947
+Как динамически добавлять строки в GridPane?	javafx	28977080
+Виджет Accordion не корректно отображается в виджете Tabs	javascript|jquery|asp.net-mvc|jquery-ui	1542161
+Какой потомок вызвал статический метод родителя? или миссия невыполнима?	c#|ооп	4669166
+Как я могу использовать videojs плагин вместе с RequireJS	javascript|requirejs	34163777
+Спрятать командную строку chromedriver selenium	python|python-3.x|google-chrome|selenium|selenium-webdriver	35818436
+Не подсвечивается следующий(2017) год в календаре	javascript|html|css|datepicker	20213408
+задать порядок сортировки в postgresql-функции	postgresql	8139618
+Изменение цвета текста в NSTableCellView при выделении ячейки	swift|osx|cocoa	9463871
+Не работает добавление ADO.NET EDM	c#|mysql|winforms|entity-framework|ado.net	22031269
+Проверка работоспособности Net Framework	.net	4394607
+Как зафиксировать событие входа (авторизации) пользователя в Laravel?	php|laravel	28970105
+Проверка на наличие элемента в методе next	java	20444586
+Серийный порт в C# - получение данных, предотвращение потери данных - лучшие практики?	c#|serial|rs232|uart	11590945
+Spring @AspectJ не вызывает совет (pointcut работает)	java|spring|intellij-idea|aop	5780757
+Как правильно обновлять jwt?	php|laravel|api|symfony2	26739167
+Как выполнить JavaScript на c#?	javascript|c#	7197506
+Как использовать ключи из /etc/ssh_known_hosts в скриптах git	git|ssh|ansible	7772190
+Задать сменить имя input кнопки выбора файла в форме	html|css|html5|input|html-form	5138719
+Jenkins перестал возвращать ошибки при запуске тестов	python|selenium-webdriver|jenkins	13972636
+Как вызвать метод хаба (SignalR) через api?	c#|asp.net-web-api|чат	17395201
+Swipeable card view: как реализовать разметку?	android|xml	27081787
+Снести node.js в Win	node.js|windows-10	38602808
+Как добавить libpng в проект на Golang?	c|golang	20954719
+1 class implements 2 listeners - ошибка	java|android|listener|extension	18048513
+DrawerLayout cannot be cast to LinearLayout при вызове диалогового окна	java|android|android-sdk	17939798
+Синхронизация папки с удалённой через ftp cmd	windows|cmd|ftp	34755559
+SurfaceHolder.Callback. при блокировке экрана surfaceDestroyed не вызывается	java|android|многопоточность|activity-life-cycle	11495842
+PHP+ZipArchive+РусскийЯзык=Кракозябры	php|linux|ziparchive	6163173
+Перестал работать метод после переписывания на ES6	javascript|ecmascript-6	610406
+Вызов контроллера angular из чистого javascript	javascript|angularjs|cordova|scope	30728967
+Стоит ли стремиться убрать имя скрипта отправки данных формы из HTML-кода для повышения безопасности?	php|html|ajax	12328354
+нужно перенести алгоритм dtw в R с помощью Rccp	c++|r	36675738
+Проблемы с gradle	android|android-studio|gradle|espresso|test	28999124
+Не включается модуль HTTP/2 в Apache 2.4.18 Ubuntu 16.04?	ubuntu|apache2|apache-modules|http2	37103927
+Расположить блоки плитками - WPF, XAML	wpf|xaml	24158561
+Диалог выбора камеры при capDriverConnect (WinAPI)	c++|winapi|web-camera	10721085
+Получить уникальный идентификатор основанный на цепочке функций из стека. Быстро	windows|stack	41415497
+Как создать выпадающий список из enum'а в ASP.NET MVC?	c#|asp.net-mvc	388483
+нужен dtw алгоритм аналогичен алгоритму из (dtw package)	c++|r	41525089
+маленькое окно с кнопками поверх канвы	java|android|разработка-игр	10268422
+как получить getFragmentManager() в классе наследуемом от SurfaceView	android|dialogfragment|android-canvas|glsurfaceview	10268422
+Итерации кодировки utf8 и â символы в тексте. Как определить исходную и перекодировать?	php|кодировка|utf-8|encoding|iconv	2477452
+Как избежать удаления функции _start при межмодульной оптимизации?	c|оптимизация|gcc	39556307
+INSERT, ON DUPLICATE KEY UPDATE и LAST_INSERT_ID()	mysql|innodb	778534
+Command &quot;python setup.py egg_info&quot; failed with error code 1	python|pip|psycopg2|install	35991403
+XAML Object reference not set to an instance of an object	c#|xaml|visual-studio-2015	3533539
+Как закрыть коннект в okhttp?	java|okhttp	24071774
+Почему не происходит подключения к MySql с помощью JDBC?	java|mysql|база-данных|jdbc|timeout	1683949
+Не рабоает wrap_content в GridLayoutManager	android|recyclerview|gridlayoutmanager	31681394
+Ошибка при вызове функции .replace Android &quot; wrong second argument type&quot;	android|android-studio|mobile-development	33878779
+Получение и изменение раскладки клавиатуры	python|windows|python-3.x|winapi	12379713
+Настройка отношения one to zero-or-one совместно с one-to-many	c#|asp.net-mvc|entity-framework	41640913
+Как исправить несовместимость библиотек Spring?? Spring не может инициализировать бин репозитория	java|spring|jpa|spring-boot|spring-data	41767991
+Неккоректное сохранение Grid в изображение из-за DPI	c#|image|uwp|dpi	29574481
+docker получить ip от dhcp и присвоить его контейнеру для использования в локальной сети	сеть|docker|docker-compose	26539727
+как нарисовать SVG Elliptical Arcs	java|android|svg	1805101
+Использование std::less&lt;double&gt;	c++|сравнение|double	18074799
+Изменение значения ProgressBar на C# WPF	c#|wpf|progress-bar|backgroundworker|delegate	5774473
+WPF, MVVM, доступ к свойствам элемента пользовательского контрола, тиражированного в вкладках UI?	c#|wpf|mvvm	42107182
+Как создать кликабельную сетку треугольников с использованием HTML, SVG?	css|svg|css-animation	34001691
+POST запросы в Android. Как?	java|android	4015324
+Как создать повторяющийся border для масштабируемого элемента	css|svg|gradients	36869325
+Управление длиной path в SVG с помощью jQuery	javascript|css|svg|path	24779990
+Как я могу реализовать визуализацию разграничения объекта SVG с закругленными уголками	css|вёрстка|svg|gradients	42127554
+Почему отсортированный массив обрабатывается быстрее, чем не отсортированный?	java|c++|оптимизация|производительность	11227809
+SVG - анимация из средней точки на всю ширину	css|html5|анимация|svg|css-animation	37622422
+Мое первое изображение SVG	html|svg	42139990
+Popup menu в action bar	android|activity|xamarin	38680567
+Эффект zoom внутри colorbox	javascript|zoom	15553791
+npm install не работает, ошибка ecconnrefused	node.js|gulp|npm	24244684
+Использование @hide в javadoc	java|android|android-library|javadoc|android-interface	24798933
+Facebook 360 Photo sphere sharing	php|facebook|sharing	42248017
+Круговой прогресс бар	html5|css3|svg|css-animation	41586078
+Загрузка произвольных полей Wordpress по клику пользователя (ajax, js)	jquery|ajax|wordpress	27600231
+Кросс-компиляция Qt5 для Windows из под Linux	linux|qt|кросс-компиляция	14170590
+CSS радиальное меню	html|css|css3|анимация|svg	29104809
+Разделить фоновое изображение с 3D эффектом толщины	jquery|css|html5|css3	39873279
+Как чистить оперативную память сервера после выполнения php скрипта?	php|linux|сервер|веб-сервер|memory	3853845
+Прозрачное зачеркивание текста	css|html5|css3|svg|шрифты	24082524
+Вставить текст в border CSS HTML	css|html5|text|background|border	30164342
+Вращение текста вокруг оси Y	css|html5|css3|svg|3d	39878213
+Работает визуальный редактор на JS?	javascript	275761
+android viewpager вылет при скролле	java|android|viewpager	32068907
+Создание самоподписанного wildcard сертификата SSL для разработки	google-chrome|https|ssl	7580508
+Рестарт приложения	java|android|activity|kotlin|espresso	37597080
+3D зеркальное отображение карт	css|html5|css3|анимация|css-animation	41461101
+Как восстановить bluetooth LE-соединение после выключения bluetooth на телефоне, имея адрес устройства	java|android|android-bluetooth	27280402
+Как обновить NodeJS?	node.js	8191459
+sqlalchemy_utils.types.choice.ChoiceType проблемы при db upgrade	python|sqlite|sqlite3|sqlalchemy	29330578
+Как преобразовать строковое булево значение в тип?	javascript	263965
+Скачивание файлов с сервера AJAX-ом	ajax|файлы|servlet	4545311
+Где хранить документацию и вспомогательные файлы проекта?	git|github|документация	10189356
+WPF. Как эффективно нарисовать большое количество фигур?	c#|.net|wpf	9997891
+REST API: Существует ли стандарт для разделителя в названии ресурса?	api|rest	778203
+Как отключить сброс высоты скроллинга ScrollViewer в TreeView при удалении TreeViewItem?	c#|wpf	30762007
+Изменить имя пакета android	android|android-studio|package	16804093
+JQuery поиск обработчика события объекта	jquery|dom|events	2518421
+Применение фильтра blur к определенной области изображения SVG	html|css|css3|svg	19348734
+Как анимировать заливку в полосе прогресса SVG	javascript|html|css|svg	42672537
+амазон anguar2 cli + nginx deploy	nginx|angular2|настройка	39612339
+Можно узнать только что отработавший JavaScript-код с помощью инструментов Chrome?	google-chrome	42668761
+Круг с тремя разными цветами границ	html|css|html5|css3|svg	37206635
+Расширить нижнюю границу при наведении	html|css|html5|css3|css-animation	28623446
+Как открыть страницу другого сайта в приложении,построенном на ReactJS?	javascript|reactjs	36022308
+Как сделать вывод смайликов в текстовом поле RichEdit	c#	28784655
+Android Studio не создает signed apk после обновления до 2.3	android|android-studio	42765341
+Создание волновой анимации	html|css|css3|svg|css-animation	33304159
+Кириллица в Unicode	javascript|jquery	3685859
+Вращение или поворот изображения при наведении	html|css|css3|анимация|hover	23695090
+Как заставить работать вместе Redux-Form и формы React-Semantic-Ui?	reactjs|semantic-ui|redux-form	42117726
+Нарисовать круг, используя только CSS	html|css|html5|css3	6936972
+Окружность в виде воздушного шарика	html|css|html5|css3	30523176
+SVG треугольник - сепаратор с фоновым изображением	html|css|html5|css3|svg	38127198
+Делегирование событий — обработка дочерних элементов	javascript	24117369
+Как повернуть SVG иконку гамбургера вокруг оси X?	html|css|html5|css3|svg	30941833
+Из MainActivity не вызывается getView метод адаптер	java|android|android-studio|android-layout	15022727
+Распарсить университеты с ВК	c#|json|vkontakte-api|xamarin	42881688
+Несколько цветов для заполнения stroke по окружности	javascript|html|css|svg|gradients	18206361
+Как настроить циклическую перезапись логов средствами NLOG	логирование|replace|configuration|nlog	13610051
+Sympy не видит IronPython 2.7.5	c#|ironpython|sympy	6721736
+Как нарисовать половину окружности с помощью CSS или SVG	html|css|html5|css3|svg	27682973
+как получить несколько кук	android|cookie	16150089
+Скрытие/показ LinearLayout во время прокрутки RecyclerView	android|recyclerview|android-linearlayout	37566163
+Разбираюсь с usb4java	java|usb	28712814
+Leaflet.Draw сползли иконки после обновления	javascript|update|leafletjs	40337606
+&quot;Схлопнуть&quot; миграции EF?	entity-framework	18499536
+Python скриншот неактивного окна OSX	python|osx|screenshots	19695214
+Лямбды, потоки и статические переменные	c++|lambda|concurrency	43156892
+Почему выбирается именно это правило?	bison	8526887
+Не получается импортировать класс	python|python-2.x|import	29452054
+Как сбросить значения сразу нескольких селектфилдов в плагине select2?	javascript|jquery|select2	17957040
+Закрыта возможность выполнения .php файлов для phantomjs	apache|freebsd|phantomjs	11216839
+Как показать данные с бд?	opencart	43332348
+TabLayout скролится в неверную позицию после вызова notifyDataSetChanged	java|android	43056039
+Simple HTML DOM Parser найти элемент с двумя классами одновременно	php|html|парсер|dom	7387958
+Динамическое обновление мобильного приложения	phonegap|cordova|мобильная-разработка	15213211
+Django ORM. OperationalError: no such table	python|sql|django|orm|migration	39963899
+Не понимаю как правильно определить &lt;configSection&gt; в App.config (C# WinForms)	c#|.net|xml|configuration	1316058
+Синхронизация с FTP сервером	eclipse|ftp|export	3947444
+PreferenceFragmentCompat - Must specify preferenceTheme in theme	java|android|android-fragment|android-shared-preferences	32070670
+Как отобразить контейнер при наведении курсора на элемент?	jquery|css	5210033
+yii2 валидация формы	php|yii2	34305964
+Функция поиска наибольшего угла между соседними треугольниками выдаёт странную ошибку на тесте	python|алгоритм|python-3.x	2827393
+как преобразовать HANDLE файла int дескриптор файла, при условии что файл в пространстве девайсов	windows|winapi|драйвер	7369445
+Как избавиться от уведомления &quot;товар удален. отменить?&quot;	php|wordpress|функции|woocommerce|уведомления	38189428
+Вставить перевод строки в ячейке Excel	php|phpexcel	5960242
+Медленная обработка PHPExcel	php|phpexcel	30862462
+WebView + фоновый audio сервис для уведомлений о событиях	android|webview	36717293
+std::fstream буферизация или буферизация напрямую	c++|потоки-данных|fstream	12997131
+Зачем нужна серверная часть AngularJS?	angularjs	17947084
+Как найти ссылки на все страницы сайта ASP MVC	c#|asp.net-mvc	1820991
+Сортировка в переменном порядке	c#|sorting	32592788
+Для чего нужен флаг -s в gcc?	c++|c|компоновщик	69112
+Распаковка архива в node.js	node.js|gzip|распаковка	24830995
+Google spreadsheet, как получить email пользователя запускающего скрипт	javascript|google-spreadsheet|google-apps-script	40322476
+Не могу никак подписать Андроид Студио приложение с помощью pepk.jar?	java|alias|keystore	44103024
+C# использование функции kernel32 CreateProcess	c#|winapi|процесс	12586957
+Lipe RMI libgdx android не подключается к серверу	java|libgdx	13788738
+WPF MVVM: поиск и scroll в listview	c#|wpf|binding	20341113
+facebook get Friend List (swift)	ios|xcode|swift	41758342
+Оптимальный способ вёрстки Grid-style bottom sheet with header	android|xml|android-sdk	6647177
+Bower выдаёт ошибку git is not installed or not in the PATH, как настроить?	windows|git|gulp|bower	20666989
+spring как изменить order security filter	spring|spring-security|csrf	25957879
+Как извлечь код с приватного проекта на GitLab?	git|api|gitlab	24207644
+Получить данные из Notification для обновления	android|android-notification	17926236
+Линия с круговым отступом	css|html5|css3|анимация|svg	30506134
+Ошибка &quot;'overlay' not found as a supported filesystem on this host&quot;	linux|debian|docker	30132706
+Поиск по richtextbox	c#|winforms|textbox|richtextbox	11851908
+Очищать массив static после выполнения функции-рекурсии	php|массивы|рекурсия|static	5812953
+Как импортировать npm-модули при помощи require.js?	javascript|npm|babel	19059580
+AngularJS $http get request неверно кодирует объект, в котором содержится дата	javascript|angularjs	44713104
+Добавить элемент в последнюю позицию в ArrayList&lt;Image&gt;	android|arraylist|gridview	20373431
+Расширить google translate запрос для получения примеров?	javascript|java|google|google-api	26714426
+Хорошее размытие изображения в GD	php|image|gd	7245710
+SourceDataLine сохранить в wav-файл	java|wav	43569304
+Открыть консоль из WPF приложения	c#|wpf|console	11600355
+Полоса прокрутки в datalist	html|css	23042745
+Не работает Dialog для проверки лицензии, в андроид приложении	java|android	18324963
+Как очистить индивидуальный параметр сохранения настроек?	c#|.net|winforms	11781494
+почему по нажатии кнопки Directory.Delete(directoryName, true); не удаляет директорию?	c#	2222718
+Как собрать произвольное приложение под Android без использовани gradle/ant/Android Studio	java|android|gradle|javac|андроид	41132753
+XML документация кода с generics	c#|документация	33418668
+Pentaho - раскраска столбиков диаграммы (CCC BAR)	pentaho	33528309
+Как зафиксировать иконку в Toolbar?	android|android-toolbar|android-search-view	36976163
+Прочтение тела http-запроса в golang	http|golang	38673673
+Как получить тип результата boost::bind	c++11|boost	6412065
+Стилизация формы в DLL [Delphi, VCLStyles]	delphi|dll|style|forms|vcl	7335976
+Функция запускается только через onclick	javascript|jquery	4842590
+Расположить внутренний div (кнопка) внизу внешнего div (столбец Bootstrap)	css|bootstrap	5135974
+Akka http. Как включить ресурсы в страницу(css, js, картинки)?	css|scala|akka-http	41179581
+Failed to load ad: 3 - Почему ссылки которые прогружаются на iOS не работают на Android?	android|google-dfp|ads	33566485
+Invoke method with parameters	java|intellij-idea|tomcat|отладка|рефлексия	45278807
+Есть ли способ быстро получать ссылку в текущей вкладке в Chrome?	c#|winapi	18897070
+Как сделать, чтобы Jenkins отправлял по фтп только последний коммит?	git|ftp|jenkins	30287741
+Undefined reference to AndroidStudio JNI	c++|android-studio|jni	21096819
+Из географических координат в локальные	c#|google-maps-api|математика|геолокация|gps	27928
+Различные имена типа в объявлении и определении шаблонной функции	c++|классы|шаблоны-с++	4660123
+Как делать вставку JSON данных в Postgres?	java|json|postgresql|hibernate	35844138
+Как случайным образом поставить Button-ы по всему экрану?	android	22144690
+Объясните, пожалуйста, код перемещения view	android|анимация|android-animation	10276251
+WPF. ListView внутри ListView не байндится	wpf|listview|mvvm|binding	11089104
+QTreeWidget выделение двух строк разными цветами разными кнопками мыши	c++|qt|qt5	14255224
+Автоматическое тестирование Calabash-Cucumber	android|android-testing|cucumber	43936206
+apache httpclient 4.5 открытие/закрытие	java|httpclient	21574478
+Обработка нескольких doBody в jsp	java|веб-программирование|jsp|servlet|jstl	1296235
+Как запускать с консоли сразу несколько команд, сгененрированых в package.json?	javascript|node.js	36433461
+Jwt и retrofit - авторизация и обновление токена	retrofit|jwt	22450036
+Не работает canvas.toDataUrl() для холстов слишком большого размера	javascript|ios|html5|canvas	26152652
+Как использовать общий SharedPreference между Unity и Android?	java|android|unity3d|plugin	27682977
+Dbf таблица, выборка через Sql: TDBF или ADO	база-данных|delphi	3795953
+Как подписать компонент на извменения в store?	reactjs|flux	36308899
+Создание анимации загрузки WPF	c#|wpf	6359848
+Установка pip3 на Ubuntu 12.04 LTS	python|ubuntu|pip	26517872
+Symfony3 проблема с enum (Postgresql types)	php|postgresql|symfony3|doctrine2	8750724
+Tomcat - отображение загруженных файлов на странице	java|tomcat|servlet|spring-boot|restapi	1812244
+Можно ли с помощью java скрипта визуально перемещать мышь на вебсайте, где будет установлен этот веб скрипт? Или это не реально?	javascript	7772222
+Как правильно подписывать JAR-файлы	java|jar|сертификат	19449738
+Docker останавливается сразу после запуска демон-процесса	python|docker	30209776
+Как добавить собственное расширение в шаблон PHPixie?	php|phpixie	46051236
+Не работает jstl в простом веб-приложение	java|intellij-idea|jsp|servlet|jstl	31043869
+Javascript: return функции из промиса	javascript|функции|promise	33316765
+Как компилировать less файлы из консоли PHPixie?	php|phpixie	46093056
+Visual Studio 2017 Libcurl unresolved external symbol __imp_ префикс	c++|visual-studio|lib	20171165
+Автоматический разогрев сервера IIS ASP.NET MVC?	c#|asp.net|asp.net-mvc|iis	32362150
+numpy. Как инициализировать состояние в random	python|случайные-числа|numpy|jupyter-notebook	22994423
+Как правильно расположить вью на экране	java|android	20763322
+Мерцание при Shared Transition	android	26600263
+Проблема рендеринга в многомодульном приложении с Moxy, Fragment и несколькими Toolbar	android-studio|android-fragment|toolbar|render	26984183
+О юзабельности var при разработке	c#|linq	10572693
+ExceptionInInitializerError при запуске JavaFX приложения из другого класса	java|javafx	14025718
+Как закрыть или выйти из терминального режима plink	cmd|terminal	21456402
+при шаринге в whatsapp переход на следующую строку не работает &quot;\n&quot;	ios|swift	34695055
+Почему не поднимается Docker?	linux|docker|iptables|docker-compose|vagrant	33600154
+Qt Virtual Keyboard по-русски	qt|клавиатура|virtual	40507390
+Как загрузить данные порциями через HttpWebRequest	c#|.net	46190444
+как запустить скрипт на pypy	python|python-3.x|pypy	9893317
+OpenSL ES воспроизведение звука через передний динамик	android|android-ndk	21576739
+warning: GDB: Failed to set controlling terminal: Inappropriate ioctl for device	qt|ubuntu|qt5|отладка|qtcreator	44621447
+Yii CDbCommand запрос большого количества данных и memory	mysql|база-данных|yii|memory	6895098
+Как экранировать спецсимволы, например &quot; \?&quot;, в строке URL из Java	java|регулярные-выражения|строки|url	4554749
+Какой параметр отвечает за блокировку фонового окна при появление диалогового? JavaFX	java|javafx|gui	15041760
+MySQL удалить все записи, ссылающиеся на несуществующий в этой таблице ID	mysql|pdo|alias	46585932
+Что такое ngx-bootstrap?	bootstrap|angularjs|angular2|angular-cli	37649164
+Как подсчитать количество записей в выбранной базе MySQL?	mysql|sql|phpmyadmin	286039
+Есть точка внутри круга, как найти ближайшую к ней точку на круге	javascript|алгоритм|математика|typescript|геометрия	46644693
+Исключения из перебора бит по шаблону	c++	8281951
+Регулярное выражение для одиночных кавычек	java|регулярные-выражения	37739465
+C#: Перезапуск потока по его завершению	c#	46677638
+Как конвертировать .cer в .bks keystore?	android	21284466
+Dagger 2 - java.lang.NullPointerException	android|dagger2	46788772
+java stream реализовать метод map и filter используя только reduce	java|java-stream|map-reduce	24308146
+Как получить код страницы после её полной загрузки в Powershell	powershell	22510779
+Адаптивный сайт по фэн-шую	html|css|drupal|адаптивная-верстка|drupal8	279749
+Как сделать UPDATE в БД через PyQt5 itemChanged()?	python|pyqt5	20359834
+Как создать webm видео файл из нескольких буферов изображений RGB?	c++|video|.webm|libvpx	46911857
+Не работает экшн delete с хелпером link_to	ruby-on-rails	6934196
+Cannot load library: load_library[1098]: Library '/system/lib/libhoudini.so' not found	android|android-studio|genymotion	47037631
+Как можно получить имя файла из uri, где данными является octet-stream, а не ссылка на файл в памяти	java|android|path|uri|whatsapp	44465601
+Gulp: нарушение последовательности пайпинга	gulp	47069770
+itunes connect language error	ios	38929345
+Как получить актуальный список всех аудио-файлов через Cursor? (Android)	java|android|база-данных|файловая-система|contentprovider	19480778
+cmake debug сборка в QtCreator для Qt4.8.7	linux|qtcreator|cmake	7724569
+Удалить mutex из процесса запущенного моей программой	c#|winapi|mutex	6808831
+Как получить файл через ACTION_GET_CONTENT?	android|android-intent	36109946
+Как из Python управлять PowerPoint?	python|windows-10|subprocess	45918290
+2 оператора присваивания или один?	c++|c++11|оператор-присваивания	3279543
+Фильтрация данных в GetFiles по нескольким расширениям	c++|файловая-система|фильтрация	12726756
+Специфическая анимация ProgressBar'а для элемента списка	android|анимация|загрузка|progress-bar	21333866
+awk - вывести все совпадения в строке	html|bash|awk	25358698
+Reverse proxy from nginx to squid	nginx|proxy|squid	28331813
+xamp sendmail сообщение отправляется, но не приходит на почту	php|sendmail|xampp	11646230
+Как отправить int массив используя ajax в контроллер C#	c#|ajax	9109544
+Нет выбора шаблона страницы в свойствах страницы Wordpress	wordpress	3987773
+Ошибка “Fixed Width Constraints May Cause Clipping”	ios|xcode|swift|autolayout	45122691
+Https запросы через Volley Android	java|android|https	32673568
+Angular 2, ASP.Net Core и базовый CRUD через angular-сервис	c#|angular2|typescript|asp.net-core	37221062
+Custom Chrome Tabs без выбора браузера	java|android|google-chrome	38429630

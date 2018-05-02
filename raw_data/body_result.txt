@@ -1,0 +1,3817 @@
+:::INFO:::loaded word2vec model successfully
+:::INFO:::load target titles data successfully
+:::INFO:::original_query---§²§Ñ§Ò§à§ä§Ñ §ã §Ü§Ñ§Þ§Ö§â§à§Û §Ó Android
+:::INFO:::translated---work with the camera in the android
+:::INFO:::translated---work with the camera in the android
+:::INFO:::input query terms list is as following
+['work', 'camera', 'android']
+:::INFO:::start matching
+:::INFO:::1 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Independent android camera app works but does not work when said camera app code is called by another activity
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   how to get android camera to work in multiple orientations
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Making android camera app using Camera API that will work on all devices
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   grails file upload from android camera don't work
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Triggering camera on android tablet (with hTML5) doesn't work but it does on iOS
+Rel_VALUE:   3.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 1 query is ---F---
+:::INFO:::original_query---§¬§à§â§â§Ö§Ü§ä§ß§Ñ§ñ §â§Ñ§Ò§à§ä§Ñ §ã §á§Ñ§Þ§ñ§ä§î§ð §Ó Android
+:::INFO:::translated---correct work with memory in android
+:::INFO:::translated---correct work with memory in android
+:::INFO:::input query terms list is as following
+['correct', 'work', 'memory', 'android']
+:::INFO:::start matching
+:::INFO:::2 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   thread start/stop does not work correct on android
+Rel_VALUE:   3.404316
+------------------------------------------------------
+RANK:   2
+TITLE:   I want to hide and unhide text using a button in android ; The code is correct but it still doesn't work
+Rel_VALUE:   3.253978
+------------------------------------------------------
+RANK:   3
+TITLE:   How to work without memory limit in android jni?
+Rel_VALUE:   3.085395
+------------------------------------------------------
+RANK:   4
+TITLE:   android &quot;force close&quot; what exactly happen with memory
+Rel_VALUE:   2.921148
+------------------------------------------------------
+RANK:   5
+TITLE:   splitActionBarWhenNarrow doesn't work right in large screen - android
+Rel_VALUE:   2.867103
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 2 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö §Ü§Ñ§Þ§Ö§â§í §Ü§Ñ§Ü §ã§Ý§å§Ø§Ò§í
+:::INFO:::translated---the use of the camera as a service
+:::INFO:::translated---the use of the camera as a service
+:::INFO:::input query terms list is as following
+['use', 'camera', 'service']
+:::INFO:::start matching
+:::INFO:::3 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android - use camera from within background service
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to use the camera calibration service in my app that uses artoolkit libs?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to fix use TextureView camera preview fail to connect to camera service on android?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Open android camera application and use it as is
+Rel_VALUE:   2.658779
+------------------------------------------------------
+RANK:   5
+TITLE:   Simple android application to prevent the use of camera
+Rel_VALUE:   2.658779
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 3 query is ---F---
+:::INFO:::original_query---§©§Ñ§Ô§â§å§Ù§Ü§Ñ png §é§Ö§â§Ö§Ù url §Ó §Ú§Þ§Ö§ð§ë§Ú§Û§ã§ñ imageview
+:::INFO:::translated---download png through the url in the imageview
+:::INFO:::translated---download png through the url in the imageview
+:::INFO:::input query terms list is as following
+['download', 'png', 'url', 'imageview']
+:::INFO:::start matching
+:::INFO:::4 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to handle imageview to download image from url when on screen view
+Rel_VALUE:   3.623056
+------------------------------------------------------
+RANK:   2
+TITLE:   android download the image from url store in internal memory then display that image in imageview
+Rel_VALUE:   3.623056
+------------------------------------------------------
+RANK:   3
+TITLE:   How to avoid Picasso download from url when the image was just uploaded by the app and I can associate the URL with a bitmap loaded in memory
+Rel_VALUE:   3.392368
+------------------------------------------------------
+RANK:   4
+TITLE:   upload image to server and url to database and back to imageview
+Rel_VALUE:   3.375480
+------------------------------------------------------
+RANK:   5
+TITLE:   android - download the image from url not displaying correctly
+Rel_VALUE:   3.358921
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 4 query is ---F---
+:::INFO:::original_query---§±§à§ã§ä§Ñ§Ó§Ý§Ö§ß§ß§í§Û §ß§Ñ §á§Ñ§å§Ù§å AsyncTask
+:::INFO:::translated---the pause AsyncTask
+:::INFO:::translated---the pause AsyncTask
+:::INFO:::input query terms list is as following
+['pause', 'asynctask']
+:::INFO:::start matching
+:::INFO:::5 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can i pause download process via asynctask
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to resume the downloading where it left in asynctask android
+Rel_VALUE:   1.719721
+------------------------------------------------------
+RANK:   3
+TITLE:   Android - Execute asynctask intervally even if app is paused
+Rel_VALUE:   1.666671
+------------------------------------------------------
+RANK:   4
+TITLE:   pause main background music on different activity Android
+Rel_VALUE:   1.656848
+------------------------------------------------------
+RANK:   5
+TITLE:   pop up message from service provider(telecom network) causing activity to pause
+Rel_VALUE:   1.656848
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 5 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§à§Õ§Ü§Ý§ð§é§Ú§ä§î §Ó§ß§Ö§ê§ß§ð§ð §Ò§Ñ§Ù§å §Õ§Ñ§ß§ß§í§ç SQLite §Ó Android?
+:::INFO:::translated---how to connect an external database sqlite in android?
+:::INFO:::translated---how to connect an external database sqlite in android?
+:::INFO:::input query terms list is as following
+['connect', 'external', 'database', 'sqlite', 'android', '?']
+:::INFO:::start matching
+:::INFO:::6 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Trying to connect an external database (postgreSQL)with my android application
+Rel_VALUE:   4.543168
+------------------------------------------------------
+RANK:   2
+TITLE:   I can't get my android app to connect to an external database on my xampp server
+Rel_VALUE:   4.543168
+------------------------------------------------------
+RANK:   3
+TITLE:   How to connect external app SQLite database in my android app?
+Rel_VALUE:   4.543168
+------------------------------------------------------
+RANK:   4
+TITLE:   How to import external sqlite database in android application for login?
+Rel_VALUE:   4.427791
+------------------------------------------------------
+RANK:   5
+TITLE:   How i can import a external database sqlite in android app
+Rel_VALUE:   4.427791
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 6 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§â§Ñ§Ó§Ú§Ý§î§ß§à §ã§Ü§Ñ§é§Ú§Ó§Ñ§ä§î §æ§Ñ§Û§Ý§í
+:::INFO:::translated---how to download files
+:::INFO:::translated---how to download files
+:::INFO:::input query terms list is as following
+['download', 'files']
+:::INFO:::start matching
+:::INFO:::7 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   I want build+launch new app builds without plugging in my phone. Is there a way to download and launch APK files from within an Android app?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Android download large files
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How do I permit the android browser to download files of a particular extension?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   android activity download files
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Where can I download the built in Unlock.ogg and Lock.ogg sound files for Android?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 7 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ó §Ñ§ß§Õ§â§à§Ú§Õ§Ö §Ù§Ñ§Õ§Ñ§ä§î §á§å§ä§î §Õ§Ý§ñ §ã§à§ç§â§Ñ§ß§Ö§ß§Ú§ñ §æ§Ñ§Û§Ý§Ñ?
+:::INFO:::translated---as in the android define the path to save the file?
+:::INFO:::translated---as in the android define the path to save the file?
+:::INFO:::input query terms list is as following
+['android', 'define', 'path', 'save', 'file', '?']
+:::INFO:::start matching
+:::INFO:::8 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   save image in gallary and get file path android
+Rel_VALUE:   4.353362
+------------------------------------------------------
+RANK:   2
+TITLE:   How to save url inside android string.xml file and then use it in java class
+Rel_VALUE:   4.242728
+------------------------------------------------------
+RANK:   3
+TITLE:   How to pass xml file path to C++ wrapper from android in SWIG.?
+Rel_VALUE:   4.207353
+------------------------------------------------------
+RANK:   4
+TITLE:   java android pass resource file path to a method parameter
+Rel_VALUE:   4.207353
+------------------------------------------------------
+RANK:   5
+TITLE:   Where is the file that store the path to the android sdk?
+Rel_VALUE:   4.192300
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 8 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö Android Numberpicker §Ó§ß§å§ä§â§Ú ScrollView
+:::INFO:::translated---the use of android Numberpicker inside ScrollView
+:::INFO:::translated---the use of android Numberpicker inside ScrollView
+:::INFO:::input query terms list is as following
+['use', 'android', 'numberpicker', 'inside', 'scrollview']
+:::INFO:::start matching
+:::INFO:::9 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to use listview which is inside a fragment with AsyncTask in android
+Rel_VALUE:   4.271120
+------------------------------------------------------
+RANK:   2
+TITLE:   How to apply gesture inside scrollview in android
+Rel_VALUE:   4.100899
+------------------------------------------------------
+RANK:   3
+TITLE:   android - how to use recycleview's OnScrollListener in scrollview
+Rel_VALUE:   4.091195
+------------------------------------------------------
+RANK:   4
+TITLE:   In android studio how do I use mipmap folder assets inside xml layout file
+Rel_VALUE:   4.064870
+------------------------------------------------------
+RANK:   5
+TITLE:   How can I use startActivity() inside a fragment in button.onClick() in android
+Rel_VALUE:   4.063189
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 9 query is ---F---
+:::INFO:::original_query---Android: source code Google Keep app
+:::INFO:::translated---android: google keep app source code
+:::INFO:::translated---android: google keep app source code
+:::INFO:::input query terms list is as following
+['android:', 'google', 'keep', 'app', 'source', 'code']
+:::INFO:::start matching
+:::INFO:::10 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   I want to download google camera app source code on my PC using Git
+Rel_VALUE:   4.119075
+------------------------------------------------------
+RANK:   2
+TITLE:   Best practice to keep source code of phonegap project for android and ios
+Rel_VALUE:   4.072748
+------------------------------------------------------
+RANK:   3
+TITLE:   source code error in mobile backend starter of google app engine---android client
+Rel_VALUE:   4.027072
+------------------------------------------------------
+RANK:   4
+TITLE:   Security: google client secret in app source code safe?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How do i download google source code java project
+Rel_VALUE:   3.818185
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 10 query is ---F---
+:::INFO:::original_query---§³§Ý§à§Ø§ß§í§Û §æ§à§ß §Ó§Ü§Ý§Ñ§Õ§à§Ü
+:::INFO:::translated---complex background tabs
+:::INFO:::translated---complex background tabs
+:::INFO:::input query terms list is as following
+['complex', 'background', 'tabs']
+:::INFO:::start matching
+:::INFO:::11 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Change background color of a specific tab in android tabs swipe
+Rel_VALUE:   2.356471
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: Setting View background using itemSelector with complex Views
+Rel_VALUE:   2.307143
+------------------------------------------------------
+RANK:   3
+TITLE:   Launching chrome custom tabs killing closes in background
+Rel_VALUE:   2.229823
+------------------------------------------------------
+RANK:   4
+TITLE:   Custom scheme redirect while app in background result in ERR_UNKNOWN_URL_SCHEME with chrome custom tabs
+Rel_VALUE:   2.229823
+------------------------------------------------------
+RANK:   5
+TITLE:   How can I format the Android ActionBar, including its background colors and fonts, as well as the tabs it contains?
+Rel_VALUE:   2.211702
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 11 query is ---F---
+:::INFO:::original_query---§±§à§ñ§Ó§Ý§Ö§ß§Ú§Ö §ß§à§Ó§à§Ô§à §ï§Ý§Ö§Þ§Ö§ß§ä§Ñ §á§â§Ú §ã§Ü§â§à§Ý§Ö §Ó§ß§Ú§Ù
+:::INFO:::translated---a new element in the §ã§Ü§â§à§Ý§Ö down
+:::INFO:::translated---a new element in the §ã§Ü§â§à§Ý§Ö down
+:::INFO:::input query terms list is as following
+['new', 'element', '§ã§Ü§â§à§Ý§Ö']
+:::INFO:::start matching
+:::INFO:::12 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to change UI element in a new thread task.onDone()?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Adding new element at top position of list-view android with cursor adapter.
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to set the new element to a specific column in TableLayout dynamically?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Error : The markup in the document following the root element must be well-formed Please help I am new at android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Android app crashes when inflating new view element
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 12 query is ---F---
+:::INFO:::original_query---Custom fonts in widget
+:::INFO:::translated---custom fonts in widget
+:::INFO:::translated---custom fonts in widget
+:::INFO:::input query terms list is as following
+['custom', 'fonts', 'widget']
+:::INFO:::start matching
+:::INFO:::13 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android widget with custom font
+Rel_VALUE:   2.802042
+------------------------------------------------------
+RANK:   2
+TITLE:   Loading probem - custom font in widget
+Rel_VALUE:   2.802042
+------------------------------------------------------
+RANK:   3
+TITLE:   Setting custom font on widget remote view is not working
+Rel_VALUE:   2.802042
+------------------------------------------------------
+RANK:   4
+TITLE:   Android set font for custom TextView widget
+Rel_VALUE:   2.802042
+------------------------------------------------------
+RANK:   5
+TITLE:   How to create a gallery widget with my custom application images for Android
+Rel_VALUE:   2.625416
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 13 query is ---F---
+:::INFO:::original_query---System overlay §Ú§Ý§Ú §Ü§Ñ§Ü §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð §Þ§í§ê§Ü§å §á§à§Ó§Ö§â§ç §Ó§ã§Ö§Ô§à?
+:::INFO:::translated---system overlay or as §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð mouse on top of everything?
+:::INFO:::translated---system overlay or as §à§ä§â§Ú§ã§à§Ó§Ñ§ä§î §Ü§Ñ§ã§ä§à§Þ§ß§å§ð mouse on top of everything?
+:::INFO:::input query terms list is as following
+['system', 'overlay', '§à§ä§â§Ú§ã§à§Ó§Ñ§ä§î', '§Ü§Ñ§ã§ä§à§Þ§ß§å§ð', 'mouse', 'top', 'everything', '?']
+:::INFO:::start matching
+:::INFO:::14 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   ANDROID: How to create an virtual area on screen on top of everything which user can press to perform actions?
+Rel_VALUE:   3.372507
+------------------------------------------------------
+RANK:   2
+TITLE:   Android overlay layout on top of all windows that receives touches
+Rel_VALUE:   3.315501
+------------------------------------------------------
+RANK:   3
+TITLE:   GLSurfaceView: transparent background and overlay view on top of it
+Rel_VALUE:   3.306703
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Camera SurfaceView disappears when placing an ImageView overlay on top of it
+Rel_VALUE:   3.306703
+------------------------------------------------------
+RANK:   5
+TITLE:   Android: Is it possible to draw a view on top of the mapview as an overlay
+Rel_VALUE:   3.306703
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 14 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§Ö§â§Ö§Õ§Ñ§ä§î §Ü§Ñ§â§ä§Ú§ß§Ü§å §Ó §á§Ñ§á§Ü§Ö asset §Ó Uri?
+:::INFO:::translated---how to transfer the image to the asset in Uri?
+:::INFO:::translated---how to transfer the image to the asset in Uri?
+:::INFO:::input query terms list is as following
+['transfer', 'image', 'asset', 'uri', '?']
+:::INFO:::start matching
+:::INFO:::15 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   crop image save in internal storage and get bitmap from uri
+Rel_VALUE:   2.983444
+------------------------------------------------------
+RANK:   2
+TITLE:   How to save cropped image uri in shared Preference
+Rel_VALUE:   2.983444
+------------------------------------------------------
+RANK:   3
+TITLE:   How can I convert image uri to file path in android kitkat while maintaining compatibility lower than api 19?
+Rel_VALUE:   2.975986
+------------------------------------------------------
+RANK:   4
+TITLE:   how to convert uri image into canvas ondraw method
+Rel_VALUE:   2.975986
+------------------------------------------------------
+RANK:   5
+TITLE:   How convert uri into url for google reverse image search?
+Rel_VALUE:   2.975986
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 15 query is ---F---
+:::INFO:::original_query---§´§Ñ§Û§Þ§Ö§â §Ó §Þ§Ö§ä§à§Õ§Ö java
+:::INFO:::translated---in the method of java timer
+:::INFO:::translated---in the method of java timer
+:::INFO:::input query terms list is as following
+['method', 'java', 'timer']
+:::INFO:::start matching
+:::INFO:::16 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can a single java thread execute more than one native method at a time?
+Rel_VALUE:   2.603291
+------------------------------------------------------
+RANK:   2
+TITLE:   java method return type with thread
+Rel_VALUE:   2.603291
+------------------------------------------------------
+RANK:   3
+TITLE:   How to call a thread's method from main thread in java
+Rel_VALUE:   2.603291
+------------------------------------------------------
+RANK:   4
+TITLE:   jni: calling a java method in its appartment thread
+Rel_VALUE:   2.603291
+------------------------------------------------------
+RANK:   5
+TITLE:   How to know that java method is blocking a current thread
+Rel_VALUE:   2.603291
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 16 query is ---F---
+:::INFO:::original_query---§¬§à§ß§ä§Ö§Ü§ã§ä§ß§à§Ö §Þ§Ö§ß§ð §Õ§Ý§ñ WebView §Ó Android
+:::INFO:::translated---the context menu for the WebView in android
+:::INFO:::translated---the context menu for the WebView in android
+:::INFO:::input query terms list is as following
+['context', 'menu', 'webview', 'android']
+:::INFO:::start matching
+:::INFO:::17 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android listview's in viewpager register for context menu
+Rel_VALUE:   3.662428
+------------------------------------------------------
+RANK:   2
+TITLE:   create context menu for fragment in android
+Rel_VALUE:   3.613634
+------------------------------------------------------
+RANK:   3
+TITLE:   android listview context menu
+Rel_VALUE:   3.576095
+------------------------------------------------------
+RANK:   4
+TITLE:   How to use context menu in listview for android when creating sqlite database and make operation for sqlite?
+Rel_VALUE:   3.576095
+------------------------------------------------------
+RANK:   5
+TITLE:   adding context menu or spinner on OPtion Menu in android
+Rel_VALUE:   3.555807
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 17 query is ---F---
+:::INFO:::original_query---Auto fit(scale) TextView
+:::INFO:::translated---auto fit (scale) TextView
+:::INFO:::translated---auto fit (scale) TextView
+:::INFO:::input query terms list is as following
+['auto', 'fit', '(', 'scale', ')', 'textview']
+:::INFO:::start matching
+:::INFO:::18 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android - Making textview auto resizable text to fit layout
+Rel_VALUE:   3.517999
+------------------------------------------------------
+RANK:   2
+TITLE:   android textview auto fit in linearlayout
+Rel_VALUE:   3.517999
+------------------------------------------------------
+RANK:   3
+TITLE:   How can I scale or auto fit the image of a Drawable Top in a Button in Android programatically?
+Rel_VALUE:   3.513404
+------------------------------------------------------
+RANK:   4
+TITLE:   ImageView to fit height, auto scale width, keep aspect ratio
+Rel_VALUE:   3.217927
+------------------------------------------------------
+RANK:   5
+TITLE:   TextView text height fit to screen size and auto resize width as fit to screen width
+Rel_VALUE:   3.101709
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 18 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§à§Ù§Õ§Ñ§ä§î §ã§à§Ò§ã§ä§Ó§Ö§ß§ß§í§Û status bar?
+:::INFO:::translated---how to create a custom status bar?
+:::INFO:::translated---how to create a custom status bar?
+:::INFO:::input query terms list is as following
+['create', 'custom', 'status', 'bar', '?']
+:::INFO:::start matching
+:::INFO:::19 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   FireMonkey Android How do I add a custom icon to the status bar
+Rel_VALUE:   3.703739
+------------------------------------------------------
+RANK:   2
+TITLE:   Android. How to create custom progress bar dialog? Picture attached
+Rel_VALUE:   3.537245
+------------------------------------------------------
+RANK:   3
+TITLE:   How to create a custom progress bar with attached button on it with scrolling functionality in android
+Rel_VALUE:   3.537245
+------------------------------------------------------
+RANK:   4
+TITLE:   How I can create a custom progress bar with a moving image while the bar is progressing in Android
+Rel_VALUE:   3.537245
+------------------------------------------------------
+RANK:   5
+TITLE:   How to develop custom status bar in android JellyBean 4.2.2
+Rel_VALUE:   3.513008
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 19 query is ---F---
+:::INFO:::original_query---§°§á§ä§Ú§Þ§Ñ§Ý§î§ß§í§Û §ã§á§à§ã§à§Ò §Ó§×§â§ã§ä§Ü§Ú Grid-style bottom sheet with header
+:::INFO:::translated---the best way to §Ó§×§â§ã§ä§Ü§Ú grid style bottom sheet with header
+:::INFO:::translated---the best way to §Ó§×§â§ã§ä§Ü§Ú grid style bottom sheet with header
+:::INFO:::input query terms list is as following
+['best', 'way', '§Ó§×§â§ã§ä§Ü§Ú', 'grid', 'style', 'bottom', 'sheet', 'header']
+:::INFO:::start matching
+:::INFO:::20 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   What is the best way to design screen 9X9 grid of Clickable cells to on/off like a game screen?
+Rel_VALUE:   4.629951
+------------------------------------------------------
+RANK:   2
+TITLE:   What is the best way to apply color filter on hair style with some specified hair style image pattern?
+Rel_VALUE:   4.510522
+------------------------------------------------------
+RANK:   3
+TITLE:   What is the best way to add footer to all fragments in Android
+Rel_VALUE:   4.457308
+------------------------------------------------------
+RANK:   4
+TITLE:   which is the best way to create circular image view with border and shadow in android? (through xml or java code)?
+Rel_VALUE:   4.356123
+------------------------------------------------------
+RANK:   5
+TITLE:   Any way to change a listview header on top over scroll?
+Rel_VALUE:   4.264686
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 20 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §å§Ò§â§Ñ§ä§î over-scroll §Ó ScrollView?
+:::INFO:::translated---how to remove and use in ScrollView?
+:::INFO:::translated---how to remove and use in ScrollView?
+:::INFO:::input query terms list is as following
+['remove', 'use', 'scrollview', '?']
+:::INFO:::start matching
+:::INFO:::21 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I use the swipe gesture to remove cards within a recycleview?
+Rel_VALUE:   2.630443
+------------------------------------------------------
+RANK:   2
+TITLE:   how to completely remove a view and use its space in android
+Rel_VALUE:   2.604349
+------------------------------------------------------
+RANK:   3
+TITLE:   Which data type of fragment to use if I want to remove it dynamically
+Rel_VALUE:   2.590599
+------------------------------------------------------
+RANK:   4
+TITLE:   How can i remove small notification when use Media Projection for screen recording?
+Rel_VALUE:   2.519266
+------------------------------------------------------
+RANK:   5
+TITLE:   How to remove error:-hardcoded string button should use @string resource in eclipse?
+Rel_VALUE:   2.489334
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 21 query is ---F---
+:::INFO:::original_query---§³§Ó§ñ§Ù§Ñ§ä§î §Þ§Ñ§ã§ã§Ú§Ó §Þ§Ö§Ý§à§Õ§Ú§Û §ã §Þ§Ñ§ã§ã§Ú§Ó§à§Þ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§Û
+:::INFO:::translated---connect the array tunes with array imaging
+:::INFO:::translated---connect the array tunes with array imaging
+:::INFO:::input query terms list is as following
+['connect', 'array', 'tunes', 'array', 'imaging']
+:::INFO:::start matching
+:::INFO:::22 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I record an audio in android studio and generate an array or String? I Need to send it to a server
+Rel_VALUE:   3.302897
+------------------------------------------------------
+RANK:   2
+TITLE:   How to get an array or any collection of pixels from video in real time using opencv (Android)
+Rel_VALUE:   3.221573
+------------------------------------------------------
+RANK:   3
+TITLE:   send array of images from android to rest web service(using java) and vice versa
+Rel_VALUE:   3.161210
+------------------------------------------------------
+RANK:   4
+TITLE:   Is Bluetooth fast enough to transfer a stream of audio data in the form of a raw byte array between two android phones?
+Rel_VALUE:   3.160500
+------------------------------------------------------
+RANK:   5
+TITLE:   How to access JSON data with multiple array objects : android
+Rel_VALUE:   3.158496
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 22 query is ---F---
+:::INFO:::original_query---§±§Ö§â§Ö§Õ§Ñ§é§Ñ §Ú§Ù§à§Ò§â§Ñ§Ø§Ö§ß§Ú§ñ §Ú§Ù §ß§Ñ§ä§Ú§Ó§ß§à§Û §Ò§Ú§Ò§Ý§Ú§à§ä§Ö§Ü§Ú §Ó Android
+:::INFO:::translated---transmission of the image of the §ß§Ñ§ä§Ú§Ó§ß§à§Û libraries in android
+:::INFO:::translated---transmission of the image of the §ß§Ñ§ä§Ú§Ó§ß§à§Û libraries in android
+:::INFO:::input query terms list is as following
+['transmission', 'image', '§ß§Ñ§ä§Ú§Ó§ß§à§Û', 'libraries', 'android']
+:::INFO:::start matching
+:::INFO:::23 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Slice an image into segments, is there any android libraries to do this?
+Rel_VALUE:   3.119753
+------------------------------------------------------
+RANK:   2
+TITLE:   Filter infrared sources from an android camera image
+Rel_VALUE:   3.054158
+------------------------------------------------------
+RANK:   3
+TITLE:   React-Native library for image upload and cropping ?(supporting both android and ios)
+Rel_VALUE:   3.012146
+------------------------------------------------------
+RANK:   4
+TITLE:   Gif image uploading from android using aws transfer utility causes crash
+Rel_VALUE:   3.010308
+------------------------------------------------------
+RANK:   5
+TITLE:   Performance of image processing algorithms over android smartphones
+Rel_VALUE:   3.008902
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 23 query is ---F---
+:::INFO:::original_query---§©§Ñ§Ô§à§Ý§à§Ó§à§Ü §à§ä§à§Ò§â§Ñ§Ø§Ñ§Ö§Þ§à§Û §Ó§Ü§Ý§Ñ§Õ§Ü§Ú §Ó TabHost §ß§Ñ§ç§à§Õ§Ú§ä§î§ã§ñ §Ù§Ñ §ï§Ü§â§Ñ§ß§à§Þ §Ñ§ß§Õ§â§à§Ú§Õ §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ
+:::INFO:::translated---the displayed tabs in TabHost located behind the screen android devices
+:::INFO:::translated---the displayed tabs in TabHost located behind the screen android devices
+:::INFO:::input query terms list is as following
+['displayed', 'tabs', 'tabhost', 'located', 'behind', 'screen', 'android', 'devices']
+:::INFO:::start matching
+:::INFO:::24 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   why does html img not get displayed in large screen devices of android webview?
+Rel_VALUE:   5.385932
+------------------------------------------------------
+RANK:   2
+TITLE:   android gridview layout shrinks in the bottom of the screen when displayed on CRT TV
+Rel_VALUE:   5.085672
+------------------------------------------------------
+RANK:   3
+TITLE:   Individual screen is showing instead of a tabhost in android eclipse
+Rel_VALUE:   5.071587
+------------------------------------------------------
+RANK:   4
+TITLE:   text not getting displayed in a inflated layout android for some devices
+Rel_VALUE:   5.050662
+------------------------------------------------------
+RANK:   5
+TITLE:   android - views with same width placed horizontaly without filling all screen
+Rel_VALUE:   5.025855
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 24 query is ---F---
+:::INFO:::original_query---§®§ß§à§Ø§Ö§ã§ä§Ó§Ö§ß§ß§í§Ö §á§Ö§â§Ö§Þ§Ö§ß§ß§í§Ö §Ó SQlite
+:::INFO:::translated---multiple variables in SQlite
+:::INFO:::translated---multiple variables in SQlite
+:::INFO:::input query terms list is as following
+['multiple', 'variables', 'sqlite']
+:::INFO:::start matching
+:::INFO:::25 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android sqlite distinct with multiple where parameters
+Rel_VALUE:   2.652852
+------------------------------------------------------
+RANK:   2
+TITLE:   Insert multiple rows in sqlite using content values
+Rel_VALUE:   2.580068
+------------------------------------------------------
+RANK:   3
+TITLE:   Android - sqlite in clause using values from array which contains same values multiple times
+Rel_VALUE:   2.580068
+------------------------------------------------------
+RANK:   4
+TITLE:   How to pass the values from multiple strings for insert into a sqlite table using a dbadapter?
+Rel_VALUE:   2.580068
+------------------------------------------------------
+RANK:   5
+TITLE:   retrieve multiple values from sqlite database and populate it in listview in android
+Rel_VALUE:   2.580068
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 25 query is ---F---
+:::INFO:::original_query---SurfaceView §Þ§Ö§Ý§î§Ü§Ñ§Ö§ä §é§Ö§â§ß§í§Þ?
+:::INFO:::translated---a SurfaceView black?
+:::INFO:::translated---a SurfaceView black?
+:::INFO:::input query terms list is as following
+['surfaceview', 'black', '?']
+:::INFO:::start matching
+:::INFO:::26 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android Capturing Screenshot from surfaceview returns black image
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   surfaceview flashes black when load in android programmatically
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   surfaceview flashes black when load in android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Android xml:onclick from a layout with a glsurfaceview causes image drawables on previous activity to render as black
+Rel_VALUE:   1.914276
+------------------------------------------------------
+RANK:   5
+TITLE:   android videoview black background
+Rel_VALUE:   1.833882
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 26 query is ---F---
+:::INFO:::original_query---§®§à§Ø§ß§à §Ý§Ú §Ñ§Ó§ä§à§â§Ú§Ù§à§Ó§Ñ§ä§î§ã§ñ §Ó vk §é§Ö§â§Ö§Ù Intent §Ò§Ö§Ù §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§ñ vk sdk?
+:::INFO:::translated---if you can log in through the intent of where are you taking me? where are you taking me? sdk?
+:::INFO:::translated---if you can log in through the intent of where are you taking me? where are you taking me? sdk?
+:::INFO:::input query terms list is as following
+['log', 'intent', 'taking', '?', 'taking', '?', 'sdk', '?']
+:::INFO:::start matching
+:::INFO:::27 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android - app goes to launcher after calling CAPTURE_IMAGE intent and taking picture (doesn't return to the fragment)
+Rel_VALUE:   3.748192
+------------------------------------------------------
+RANK:   2
+TITLE:   Samsung Galaxy Tab 2 10.1 kills process after taking a picture in camera intent
+Rel_VALUE:   3.662954
+------------------------------------------------------
+RANK:   3
+TITLE:   Using emulator to test taking photos using intent
+Rel_VALUE:   3.657456
+------------------------------------------------------
+RANK:   4
+TITLE:   Missing Image after taking photo with android camera intent
+Rel_VALUE:   3.582250
+------------------------------------------------------
+RANK:   5
+TITLE:   Can we bypass save and delete option in intent camera for taking image in android?
+Rel_VALUE:   3.513055
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 27 query is ---F---
+:::INFO:::original_query---§±§â§à§Ô§â§Ñ§Þ§Þ§ß§à§Ö §á§à§Õ§Ü§Ý§ð§é§Ö§ß§Ú§Ö §Ü WiFi §ã§Ö§ä§Ú
+:::INFO:::translated---software connect to wifi network
+:::INFO:::translated---software connect to wifi network
+:::INFO:::input query terms list is as following
+['software', 'connect', 'wifi', 'network']
+:::INFO:::start matching
+:::INFO:::28 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Use NFC to connect android device to wifi without any 3rd party software
+Rel_VALUE:   3.689524
+------------------------------------------------------
+RANK:   2
+TITLE:   I implemented code for connect to particular network from wifi scan list but I am not able to open the app
+Rel_VALUE:   3.459220
+------------------------------------------------------
+RANK:   3
+TITLE:   How to get scanned wifi networks security type? And what is the network configuration required to connect to particular network using WiFi in android?
+Rel_VALUE:   3.430775
+------------------------------------------------------
+RANK:   4
+TITLE:   How to connect to a wifi network if SSID is known using phonegap &amp; HTML5?
+Rel_VALUE:   3.429399
+------------------------------------------------------
+RANK:   5
+TITLE:   how to connect with a wifi network from a generated list of wifi networks?
+Rel_VALUE:   3.429399
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 28 query is ---F---
+:::INFO:::original_query---§£§í§Ô§â§å§Ù§Ü§Ñ §Þ§Ö§ä§Ñ§Õ§Ñ§ß§ß§í§ç §Ú§Ù §á§à§ä§à§Ü§Ñ §à§ß§Ý§Ñ§Û§ß-§â§Ñ§Õ§Ú§à
+:::INFO:::translated---metadata extraction from online radio stream
+:::INFO:::translated---metadata extraction from online radio stream
+:::INFO:::input query terms list is as following
+['metadata', 'extraction', 'online', 'radio', 'stream']
+:::INFO:::start matching
+:::INFO:::29 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to get metadata of a streaming online radio
+Rel_VALUE:   3.899528
+------------------------------------------------------
+RANK:   2
+TITLE:   Xamarin Android App not streaming online radio stream
+Rel_VALUE:   3.636008
+------------------------------------------------------
+RANK:   3
+TITLE:   how to stream a online radio without any stuck over streaming?
+Rel_VALUE:   3.527681
+------------------------------------------------------
+RANK:   4
+TITLE:   How can use start service for android online radio stream background music
+Rel_VALUE:   3.527681
+------------------------------------------------------
+RANK:   5
+TITLE:   Android radio stream metadata notification
+Rel_VALUE:   3.339836
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 29 query is ---F---
+:::INFO:::original_query---§°§ä§á§â§Ñ§Ó§Ü§Ñ sms §ß§Ñ §ß§Ö§ã§Ü§à§Ý§î§Ü§à §ß§à§Þ§Ö§â§à§Ó
+:::INFO:::translated---sending sms to several rooms
+:::INFO:::translated---sending sms to several rooms
+:::INFO:::input query terms list is as following
+['sending', 'sms', 'several', 'rooms']
+:::INFO:::start matching
+:::INFO:::30 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   sending sms to multiple contacts using loop
+Rel_VALUE:   3.350694
+------------------------------------------------------
+RANK:   2
+TITLE:   Notification for sending sms to multiple recipients - not working
+Rel_VALUE:   3.338437
+------------------------------------------------------
+RANK:   3
+TITLE:   sending sms intent with multiple types of extras
+Rel_VALUE:   3.107245
+------------------------------------------------------
+RANK:   4
+TITLE:   App sending multiple sms in receipt of call/sms
+Rel_VALUE:   3.083758
+------------------------------------------------------
+RANK:   5
+TITLE:   Progress Dialog for AsyncTask Implementation in sending multiple sms
+Rel_VALUE:   3.083758
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 30 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §à§ä§á§â§Ñ§Ó§Ú§ä§î §Õ§Ñ§ß§ß§í§Ö §Ú§Ù §æ§à§â§Þ§í §ß§Ñ §ã§Ö§â§Ó§Ö§â?
+:::INFO:::translated---how to send the data from the form to the server.
+:::INFO:::translated---how to send the data from the form to the server.
+:::INFO:::input query terms list is as following
+['send', 'data', 'form', 'server', '.']
+:::INFO:::start matching
+:::INFO:::31 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how can i send and receive data from server with Volley for login form
+Rel_VALUE:   4.415103
+------------------------------------------------------
+RANK:   2
+TITLE:   How to send data as a form via HttpPost to server in Android?
+Rel_VALUE:   4.239129
+------------------------------------------------------
+RANK:   3
+TITLE:   How to send multi parameter in form data while uploading a file to server on Android?
+Rel_VALUE:   4.239129
+------------------------------------------------------
+RANK:   4
+TITLE:   How to send data form php server to android
+Rel_VALUE:   4.170495
+------------------------------------------------------
+RANK:   5
+TITLE:   How to fetch data from server in the form of array list in desc order in android
+Rel_VALUE:   4.004153
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 31 query is ---F---
+:::INFO:::original_query---§¥§Ú§ß§Ñ§Þ§Ú§é§Ö§ã§Ü§à§Ö §ã§à§Ù§Õ§Ñ§ß§Ú§Ö EditText
+:::INFO:::translated---dynamic creation of EditText
+:::INFO:::translated---dynamic creation of EditText
+:::INFO:::input query terms list is as following
+['dynamic', 'creation', 'edittext']
+:::INFO:::start matching
+:::INFO:::32 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Static Vs dynamic imageview creation
+Rel_VALUE:   2.690296
+------------------------------------------------------
+RANK:   2
+TITLE:   Custom ListView adapters with dynamic textView creation within the listview adapter
+Rel_VALUE:   2.672607
+------------------------------------------------------
+RANK:   3
+TITLE:   Multiple radiobutton selecion issue- dynamic radiobutton creation
+Rel_VALUE:   2.572693
+------------------------------------------------------
+RANK:   4
+TITLE:   dynamic checkbox creation
+Rel_VALUE:   2.544912
+------------------------------------------------------
+RANK:   5
+TITLE:   Crash of android application on dynamic tablelayout creation
+Rel_VALUE:   2.543494
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 32 query is ---F---
+:::INFO:::original_query---§Þ§Ñ§Ý§Ö§ß§î§Ü§à§Ö §à§Ü§ß§à §ã §Ü§ß§à§á§Ü§Ñ§Þ§Ú §á§à§Ó§Ö§â§ç §Ü§Ñ§ß§Ó§í
+:::INFO:::translated---a small window with the buttons on top of §Ü§Ñ§ß§Ó§í
+:::INFO:::translated---a small window with the buttons on top of §Ü§Ñ§ß§Ó§í
+:::INFO:::input query terms list is as following
+['small', 'window', 'buttons', 'top', '§Ü§Ñ§ß§Ó§í']
+:::INFO:::start matching
+:::INFO:::33 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android emulator appearing as a small box in the top left corner of the window
+Rel_VALUE:   3.435524
+------------------------------------------------------
+RANK:   2
+TITLE:   How to make a grid of responsive images that will not stack on top of each other with small screen resolution
+Rel_VALUE:   3.215189
+------------------------------------------------------
+RANK:   3
+TITLE:   Map marker info window without small triangle at bottom
+Rel_VALUE:   3.202273
+------------------------------------------------------
+RANK:   4
+TITLE:   android how to remove the notification small icon from top left screen
+Rel_VALUE:   3.136575
+------------------------------------------------------
+RANK:   5
+TITLE:   try to display seven buttons with scrollview in a small screen
+Rel_VALUE:   3.110729
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 33 query is ---F---
+:::INFO:::original_query---§Ü§Ñ§Ü §á§à§Ý§å§é§Ú§ä§î getFragmentManager() §Ó §Ü§Ý§Ñ§ã§ã§Ö §ß§Ñ§ã§Ý§Ö§Õ§å§Ö§Þ§à§Þ §à§ä SurfaceView
+:::INFO:::translated---how to get getFragmentManager () the class of SurfaceView
+:::INFO:::translated---how to get getFragmentManager () the class of SurfaceView
+:::INFO:::input query terms list is as following
+['get', 'getfragmentmanager', '(', ')', 'class', 'surfaceview']
+:::INFO:::start matching
+:::INFO:::34 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I pass extra data to  fragment class and how to get that data in fragment?
+Rel_VALUE:   3.202352
+------------------------------------------------------
+RANK:   2
+TITLE:   How to get application object into fragment class
+Rel_VALUE:   3.202352
+------------------------------------------------------
+RANK:   3
+TITLE:   Can't get Action Bar in fragment class
+Rel_VALUE:   3.202352
+------------------------------------------------------
+RANK:   4
+TITLE:   android - Can't get Map to show properly - Error inflating class fragment
+Rel_VALUE:   3.202352
+------------------------------------------------------
+RANK:   5
+TITLE:   Android - Error inflating class fragment (trying to get google maps api v2 to work)
+Rel_VALUE:   3.202352
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 34 query is ---F---
+:::INFO:::original_query---§°§Ò§ì§ñ§ã§ß§Ú§ä§Ö, §á§à§Ø§Ñ§Ý§å§Û§ã§ä§Ñ, §Ü§à§Õ §á§Ö§â§Ö§Þ§Ö§ë§Ö§ß§Ú§ñ view
+:::INFO:::translated---please explain the code movement view
+:::INFO:::translated---please explain the code movement view
+:::INFO:::input query terms list is as following
+['please', 'explain', 'code', 'movement', 'view']
+:::INFO:::start matching
+:::INFO:::35 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Can someone please tell me how to code a Continue button to return a games activty from where it was stopped?
+Rel_VALUE:   3.487714
+------------------------------------------------------
+RANK:   2
+TITLE:   Try to understand code for dragging a view in a FrameLayout
+Rel_VALUE:   3.455760
+------------------------------------------------------
+RANK:   3
+TITLE:   please explain this block of code
+Rel_VALUE:   3.427542
+------------------------------------------------------
+RANK:   4
+TITLE:   May someone please explain a short piece of java code regarding Android development?
+Rel_VALUE:   3.375975
+------------------------------------------------------
+RANK:   5
+TITLE:   Can someone please explain how the following onBindViewHolder code actually works in an Android RecyclervView?
+Rel_VALUE:   3.358569
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 35 query is ---F---
+:::INFO:::original_query---java | android - §¬§Ñ§Ü §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §Þ§Ö§ä§à§Õ§í §Ú§ß§ä§Ö§â§æ§Ö§Û§ã§Ñ `IccCard`?
+:::INFO:::translated---java | android - how to use the methods of the interface IccCard ` `?
+:::INFO:::translated---java | android - how to use the methods of the interface IccCard ` `?
+:::INFO:::input query terms list is as following
+['java', '|', 'android', 'use', 'methods', 'interface', 'icccard', '`', '`', '?']
+:::INFO:::start matching
+:::INFO:::36 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   LibGDX - Conditionally use java or android classes
+Rel_VALUE:   4.597930
+------------------------------------------------------
+RANK:   2
+TITLE:   How to use java classes in phonegap with javascript in android application?
+Rel_VALUE:   4.491099
+------------------------------------------------------
+RANK:   3
+TITLE:   When to use interface and abstact classes in java and android?
+Rel_VALUE:   4.477874
+------------------------------------------------------
+RANK:   4
+TITLE:   How to properly create/use .aar or .jar file from multple java classes ( single package) to use it in different projects in android studio
+Rel_VALUE:   4.471397
+------------------------------------------------------
+RANK:   5
+TITLE:   How to save url inside android string.xml file and then use it in java class
+Rel_VALUE:   4.435209
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 36 query is ---F---
+:::INFO:::original_query---SurfaceHolder.Callback. §á§â§Ú §Ò§Ý§à§Ü§Ú§â§à§Ó§Ü§Ö §ï§Ü§â§Ñ§ß§Ñ surfaceDestroyed §ß§Ö §Ó§í§Ù§í§Ó§Ñ§Ö§ä§ã§ñ
+:::INFO:::translated---SurfaceHolder.Callback. the blocking of the screen surfaceDestroyed was not caused by
+:::INFO:::translated---SurfaceHolder.Callback. the blocking of the screen surfaceDestroyed was not caused by
+:::INFO:::input query terms list is as following
+['surfaceholder', '.', 'callback', '.', 'blocking', 'screen', 'surfacedestroyed', 'caused']
+:::INFO:::start matching
+:::INFO:::37 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   I am try to call BluetoothAdapter.LeScanCallback but it callback is not called . it is not work
+Rel_VALUE:   4.579800
+------------------------------------------------------
+RANK:   2
+TITLE:   I want to embed sound in the splash screen . And it must be stopped when Activity change
+Rel_VALUE:   4.322325
+------------------------------------------------------
+RANK:   3
+TITLE:   Google Sign-in - getting the callback from AndroidLauncher to libgdx screen
+Rel_VALUE:   4.296346
+------------------------------------------------------
+RANK:   4
+TITLE:   Android - Launching activity from notification while screen is locked causes crash
+Rel_VALUE:   4.194983
+------------------------------------------------------
+RANK:   5
+TITLE:   getting image from callback method without blocking in OpenCV
+Rel_VALUE:   4.187360
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 37 query is ---F---
+:::INFO:::original_query---Android: getSupportActionBar().setTitle(&quot;...&quot;) §ä§â§Ö§Ò§å§Ö§ä runOnUiThread
+:::INFO:::translated---android: getSupportActionBar ().setTitle (& quot; & quot;) requires runOnUiThread
+:::INFO:::translated---android: getSupportActionBar ().setTitle (& quot; & quot;) requires runOnUiThread
+:::INFO:::input query terms list is as following
+['android:', 'getsupportactionbar', '(', ')', '.', 'settitle', '(', '&', 'quot', '&', 'quot', ')', 'requires', 'runonuithread']
+:::INFO:::start matching
+:::INFO:::38 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   &lt;item&gt; tag requires a 'drawable' attribute or child tag defining a drawable
+Rel_VALUE:   3.280261
+------------------------------------------------------
+RANK:   2
+TITLE:   LayerList error API 19: tag requires a 'drawable' attribute or child tag defining a drawable
+Rel_VALUE:   3.280261
+------------------------------------------------------
+RANK:   3
+TITLE:   Error : &lt;item&gt; tag requires a 'drawable' attribute or child tag defining a drawable
+Rel_VALUE:   3.280261
+------------------------------------------------------
+RANK:   4
+TITLE:   Menu : &lt;item&gt;tag requires a drawable attribute or child tag defining drawable
+Rel_VALUE:   3.280261
+------------------------------------------------------
+RANK:   5
+TITLE:   Android Studio - cannot resolve method and simbol
+Rel_VALUE:   3.202725
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 38 query is ---F---
+:::INFO:::original_query---§¬§Ñ§ã§ä§à§Þ§ß§í§Û §é§Ö§Ü§Ò§à§Ü§ã Android
+:::INFO:::translated---§Ü§Ñ§ã§ä§à§Þ§ß§í§Û checkbox android
+:::INFO:::translated---§Ü§Ñ§ã§ä§à§Þ§ß§í§Û checkbox android
+:::INFO:::input query terms list is as following
+['§Ü§Ñ§ã§ä§à§Þ§ß§í§Û', 'checkbox', 'android']
+:::INFO:::start matching
+:::INFO:::39 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Changing the appearance of a custom android checkbox without the image scaling?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   ListView With checkbox and images in android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to receive a event on android checkbox check change?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to show android checkbox at right side?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Custom checkbox image android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 39 query is ---T---
+:::INFO:::original_query---§²§Ñ§Ò§à§ä§Ñ §ã §ï§Ý§Ö§Þ§Ö§ß§ä§Ñ§Þ§Ú gridView
+:::INFO:::translated---work with the elements of gridView
+:::INFO:::translated---work with the elements of gridView
+:::INFO:::input query terms list is as following
+['work', 'elements', 'gridview']
+:::INFO:::start matching
+:::INFO:::40 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do you select multiple items from a listview and work upon them on android
+Rel_VALUE:   2.664610
+------------------------------------------------------
+RANK:   2
+TITLE:   Two items inside one row in listview that work with cursors
+Rel_VALUE:   2.664610
+------------------------------------------------------
+RANK:   3
+TITLE:   How can i work with viewpager as listview row items in android?
+Rel_VALUE:   2.664610
+------------------------------------------------------
+RANK:   4
+TITLE:   SearchView doesn't work when searching rows in a custom listview
+Rel_VALUE:   2.540061
+------------------------------------------------------
+RANK:   5
+TITLE:   Set absolute position of a view without altering position of other elements ? Should work irrespective of the layout it is contained in
+Rel_VALUE:   2.527339
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 40 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §à§ä§ã§Ý§Ö§Õ§Ú§ä§î §é§ä§à §á§à§Ý§î§Ù§à§Ó§Ñ§ä§Ö§Ý§î §ß§Ñ§Ø§Ñ§Ý §Ú §à§ä§á§å§ã§ä§Ú§Ý §Ü§Ñ§â§ä§å Google map API v2?
+:::INFO:::translated---how to track the user pressed and released the map google map api v2.
+:::INFO:::translated---how to track the user pressed and released the map google map api v2.
+:::INFO:::input query terms list is as following
+['track', 'user', 'pressed', 'released', 'map', 'google', 'map', 'api', 'v2', '.']
+:::INFO:::start matching
+:::INFO:::41 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   with android maps api v2 ,how to track user location ( similar to how google maps api track ) . The user location marker always remain in center
+Rel_VALUE:   8.057033
+------------------------------------------------------
+RANK:   2
+TITLE:   how to get lat and lon from google map api v2 by user select
+Rel_VALUE:   7.267974
+------------------------------------------------------
+RANK:   3
+TITLE:   blank screen after back press google map api v2
+Rel_VALUE:   6.682825
+------------------------------------------------------
+RANK:   4
+TITLE:   How to appear google map api v2 in a dialog, when i click a button
+Rel_VALUE:   6.653547
+------------------------------------------------------
+RANK:   5
+TITLE:   Google map v2 api not tracking user location
+Rel_VALUE:   6.596684
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 41 query is ---F---
+:::INFO:::original_query---Lipe RMI libgdx android §ß§Ö §á§à§Õ§Ü§Ý§ð§é§Ñ§Ö§ä§ã§ñ §Ü §ã§Ö§â§Ó§Ö§â§å
+:::INFO:::translated---Lipe RMI libgdx android does not connect to the server
+:::INFO:::translated---Lipe RMI libgdx android does not connect to the server
+:::INFO:::input query terms list is as following
+['lipe', 'rmi', 'libgdx', 'android', 'connect', 'server']
+:::INFO:::start matching
+:::INFO:::42 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android client cant connect to pc server using kryonet
+Rel_VALUE:   4.131870
+------------------------------------------------------
+RANK:   2
+TITLE:   How can I connect to my websocket server running on my android emulator?
+Rel_VALUE:   4.124697
+------------------------------------------------------
+RANK:   3
+TITLE:   How connect android device to Spring websocket server
+Rel_VALUE:   4.124697
+------------------------------------------------------
+RANK:   4
+TITLE:   how to connect to a C# socket server from android
+Rel_VALUE:   4.108305
+------------------------------------------------------
+RANK:   5
+TITLE:   android socket can't connect with java server
+Rel_VALUE:   4.108305
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 42 query is ---F---
+:::INFO:::original_query---ACRA §ß§Ö §á§à§Ü§Ñ§Ù§í§Ó§Ñ§Ö§ä §Ó logCat IDE §Ý§à§Ô§Ú §á§à§Û§Þ§Ñ§ß§ß§à§Û §à§ê§Ú§Ò§Ü§Ú
+:::INFO:::translated---ACRA shows in logCat ide caught the error logs
+:::INFO:::translated---ACRA shows in logCat ide caught the error logs
+:::INFO:::input query terms list is as following
+['acra', 'shows', 'logcat', 'ide', 'caught', 'error', 'logs']
+:::INFO:::start matching
+:::INFO:::43 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Why eclipse couldn't be launched? It shows error log in configuration
+Rel_VALUE:   4.803361
+------------------------------------------------------
+RANK:   2
+TITLE:   logcat shows a blank window for anything related to my app, but spams an irrelevant error messages for android studio
+Rel_VALUE:   4.787452
+------------------------------------------------------
+RANK:   3
+TITLE:   How do I find the line of my code causing an error when the stacktrace only shows native methods in eclipse
+Rel_VALUE:   4.727007
+------------------------------------------------------
+RANK:   4
+TITLE:   The logcat shows error java.lang.IllegalStateException: Could not execute method of the activity
+Rel_VALUE:   4.591696
+------------------------------------------------------
+RANK:   5
+TITLE:   Android logcat shows error
+Rel_VALUE:   4.591696
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 43 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§â§Ñ§Ó§Ú§Ý§î§ß§à §ß§Ö §Õ§Ñ§ä§î §Ù§Ñ§ã§ß§å§ä§î Google cloud messaging §ß§Ñ android?
+:::INFO:::translated---how not to give up google cloud messaging on android?
+:::INFO:::translated---how not to give up google cloud messaging on android?
+:::INFO:::input query terms list is as following
+['give', 'google', 'cloud', 'messaging', 'android', '?']
+:::INFO:::start matching
+:::INFO:::44 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android google cloud messaging app not able to send messages and giving error in php
+Rel_VALUE:   4.575510
+------------------------------------------------------
+RANK:   2
+TITLE:   Implement google cloud messaging to send and receive push notification for android application in android studio
+Rel_VALUE:   4.498492
+------------------------------------------------------
+RANK:   3
+TITLE:   android app send message from webservice to android app without using google cloud messaging
+Rel_VALUE:   4.436083
+------------------------------------------------------
+RANK:   4
+TITLE:   android google cloud messaging protocol not found while trying to register device
+Rel_VALUE:   4.247731
+------------------------------------------------------
+RANK:   5
+TITLE:   android push notifications library with google cloud messaging
+Rel_VALUE:   4.238132
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 44 query is ---F---
+:::INFO:::original_query---google analytics §Ú fragment
+:::INFO:::translated---google analytics and fragment
+:::INFO:::translated---google analytics and fragment
+:::INFO:::input query terms list is as following
+['google', 'analytics', 'fragment']
+:::INFO:::start matching
+:::INFO:::45 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Add google analytics tracker to fragment
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Android google analytics easytracker - track event call in onCreate method of launcher activity crashes
+Rel_VALUE:   2.741418
+------------------------------------------------------
+RANK:   3
+TITLE:   How does automatic activity tracking work for google analytics android
+Rel_VALUE:   2.741418
+------------------------------------------------------
+RANK:   4
+TITLE:   when setting a google analytics tacker in an activity, method getActivity() is undefined for the type activity
+Rel_VALUE:   2.741418
+------------------------------------------------------
+RANK:   5
+TITLE:   If i implement google analytics the activity crashes ( com.google.android.gms:play-services-analytics:10.0.1)
+Rel_VALUE:   2.741418
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 45 query is ---F---
+:::INFO:::original_query---§ª§Ù MainActivity §ß§Ö §Ó§í§Ù§í§Ó§Ñ§Ö§ä§ã§ñ getView §Þ§Ö§ä§à§Õ §Ñ§Õ§Ñ§á§ä§Ö§â
+:::INFO:::translated---from the MainActivity was not caused by getView method adapter
+:::INFO:::translated---from the MainActivity was not caused by getView method adapter
+:::INFO:::input query terms list is as following
+['mainactivity', 'caused', 'getview', 'method', 'adapter']
+:::INFO:::start matching
+:::INFO:::46 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   trying to transform the adapter.setViewBinder to a getview method in the overriden method of the adapter
+Rel_VALUE:   3.816008
+------------------------------------------------------
+RANK:   2
+TITLE:   Java Android : Subclass, Call method from main activity class caused NullPointerException
+Rel_VALUE:   3.697084
+------------------------------------------------------
+RANK:   3
+TITLE:   java.lang.IllegalStateException: Could not execute method of the activity caused by Invocation and NPE error
+Rel_VALUE:   3.697084
+------------------------------------------------------
+RANK:   4
+TITLE:   How to get all item names in getview method in side base adapter before scorlling in Android
+Rel_VALUE:   3.619097
+------------------------------------------------------
+RANK:   5
+TITLE:   after override getview method for custom adapter for a listview,see nothing in listview
+Rel_VALUE:   3.608065
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 46 query is ---F---
+:::INFO:::original_query---§°§ä§Ü§â§í§ä§î §æ§Ñ§Û§Ý c §á§à§Þ§à§ë§î§ð phonegap
+:::INFO:::translated---open the file through phonegap
+:::INFO:::translated---open the file through phonegap
+:::INFO:::input query terms list is as following
+['open', 'file', 'phonegap']
+:::INFO:::start matching
+:::INFO:::47 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to open a pdf file using jquery and phonegap in android?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How can i open system file explorer in phonegap
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   write &amp; open pdf file using jspdf library in phonegap
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   phonegap sqlite returned: error code = 14, msg = cannot open file at line 27206 of [42537b6056]
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Can`t open local file with cordova fileopener plugin
+Rel_VALUE:   2.894710
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 47 query is ---F---
+:::INFO:::original_query---§¥§Ú§ß§Ñ§Þ§Ú§é§Ö§ã§Ü§à§Ö §à§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö §Þ§à§Ò§Ú§Ý§î§ß§à§Ô§à §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ
+:::INFO:::translated---dynamic updating of mobile application
+:::INFO:::translated---dynamic updating of mobile application
+:::INFO:::input query terms list is as following
+['dynamic', 'updating', 'mobile', 'application']
+:::INFO:::start matching
+:::INFO:::48 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   unhandled exit from jquery mobile app while navigating back from an plain html a dynamic page created in jquery mobile
+Rel_VALUE:   3.306617
+------------------------------------------------------
+RANK:   2
+TITLE:   Communicating GCM service and updating application data in realtime with meteor in mobile app
+Rel_VALUE:   3.192308
+------------------------------------------------------
+RANK:   3
+TITLE:   Facebook Open Graph Debug not updating scrape mobile - no app caching
+Rel_VALUE:   3.146495
+------------------------------------------------------
+RANK:   4
+TITLE:   Testing local online application on actual mobile device with dynamic IP address
+Rel_VALUE:   3.124135
+------------------------------------------------------
+RANK:   5
+TITLE:   jQuery value not updating in result for cordova mobile app
+Rel_VALUE:   3.111462
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 48 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§Ö§â§Ö§Õ§Ñ§ä§î §Ó §æ§â§Ñ§Ô§Þ§Ö§ß§ä §Ù§ß§Ñ§é§Ö§ß§Ú§Ö §Ú§Ù Navigation Drawer
+:::INFO:::translated---as to the importance of the navigation Drawer
+:::INFO:::translated---as to the importance of the navigation Drawer
+:::INFO:::input query terms list is as following
+['importance', 'navigation', 'drawer']
+:::INFO:::start matching
+:::INFO:::49 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Unable to the presence of navigation drawer in ActionBar
+Rel_VALUE:   2.442921
+------------------------------------------------------
+RANK:   2
+TITLE:   What is the purpose of ArrayAdapter in building navigation drawer
+Rel_VALUE:   2.418573
+------------------------------------------------------
+RANK:   3
+TITLE:   Android navigation drawer max number of items
+Rel_VALUE:   2.377725
+------------------------------------------------------
+RANK:   4
+TITLE:   How to go to the fragment from different activity and that fragment which is the part of navigation drawer
+Rel_VALUE:   2.360766
+------------------------------------------------------
+RANK:   5
+TITLE:   Correct and Complete way to add Map in a Fragment which is a part of navigation drawer
+Rel_VALUE:   2.360766
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 49 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§Ö§â§Ö§Õ§Ñ§ä§î §Õ§Ñ§ß§ß§í§Ö §Ú§Ù §Ñ§Ü§ä§Ú§Ó§Ú§ä§Ú §Ó §æ§â§Ñ§Ô§Þ§Ö§ß§ä§í
+:::INFO:::translated---how to transfer data from the §Ñ§Ü§ä§Ú§Ó§Ú§ä§Ú in fragments
+:::INFO:::translated---how to transfer data from the §Ñ§Ü§ä§Ú§Ó§Ú§ä§Ú in fragments
+:::INFO:::input query terms list is as following
+['transfer', 'data', '§Ñ§Ü§ä§Ú§Ó§Ú§ä§Ú', 'fragments']
+:::INFO:::start matching
+:::INFO:::50 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   transfer data between 2 fragments of a TabLayout Android Studio
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to transfer data from different fragments in tabLayout?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to transfer data from tabs view fragments to a parent fragment
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   NullPointerException with Bluetooth data transfer in fragments
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How to transfer bundle data over multiple activities
+Rel_VALUE:   2.768933
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 50 query is ---F---
+:::INFO:::original_query---zoom §Õ§Ý§ñ SurfaceView §ã§Õ§Ó§Ú§Ô§Ñ§Ö§ä§ã§ñ
+:::INFO:::translated---zoom to SurfaceView moves
+:::INFO:::translated---zoom to SurfaceView moves
+:::INFO:::input query terms list is as following
+['zoom', 'surfaceview', 'moves']
+:::INFO:::start matching
+:::INFO:::51 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android pinch zoom scale view scrollbar moves
+Rel_VALUE:   2.505893
+------------------------------------------------------
+RANK:   2
+TITLE:   Pinch to zoom google map with out moving marker in framelayout
+Rel_VALUE:   2.442721
+------------------------------------------------------
+RANK:   3
+TITLE:   I couldn't move zoom control button on mapview
+Rel_VALUE:   2.411952
+------------------------------------------------------
+RANK:   4
+TITLE:   Pinch zoom and drag of a imageview goes away from screen?
+Rel_VALUE:   2.399760
+------------------------------------------------------
+RANK:   5
+TITLE:   zoom in and out an imageview without moving it
+Rel_VALUE:   2.387423
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 51 query is ---F---
+:::INFO:::original_query---§Ü§Ñ§Ü §á§à§Ý§å§é§Ú§ä§î §ß§Ö§ã§Ü§à§Ý§î§Ü§à §Ü§å§Ü
+:::INFO:::translated---how to get a few cook
+:::INFO:::translated---how to get a few cook
+:::INFO:::input query terms list is as following
+['get', 'cook']
+:::INFO:::start matching
+:::INFO:::52 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android jack and jill get stuck
+Rel_VALUE:   1.449787
+------------------------------------------------------
+RANK:   2
+TITLE:   How can I get around Android's jack compiler giving Java heap space exceptions?
+Rel_VALUE:   1.449787
+------------------------------------------------------
+RANK:   3
+TITLE:   Is it possible to get the device's name that is plugged into audio jack Android
+Rel_VALUE:   1.449787
+------------------------------------------------------
+RANK:   4
+TITLE:   How to get the previous bill number using the current bill number for a particular user in select query
+Rel_VALUE:   1.429562
+------------------------------------------------------
+RANK:   5
+TITLE:   How to scan bill receipt from android phone and get data from it?
+Rel_VALUE:   1.429562
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 52 query is ---F---
+:::INFO:::original_query---Custom Notification
+:::INFO:::translated---custom notification
+:::INFO:::translated---custom notification
+:::INFO:::input query terms list is as following
+['custom', 'notification']
+:::INFO:::start matching
+:::INFO:::53 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android's custom status bar notification bug?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Event OnClick for a button in a custom notification
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   android custom view for notification
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Hide time in Android notification without using custom layout
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Android custom status notification view height
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 53 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ß§Ñ §Ñ§ß§Õ§â§à§Ú§Õ §â§Ö§Ñ§Ý§Ú§Ù§à§Ó§Ñ§ä§î §â§Ñ§Ò§à§ä§å §ã Websocket.IO Node.js
+:::INFO:::translated---as for android to work with Websocket.IO Node.js
+:::INFO:::translated---as for android to work with Websocket.IO Node.js
+:::INFO:::input query terms list is as following
+['android', 'work', 'websocket', '.', 'io', 'node', '.', 'js']
+:::INFO:::start matching
+:::INFO:::54 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to connect with an node js server with android client using sockets
+Rel_VALUE:   5.063025
+------------------------------------------------------
+RANK:   2
+TITLE:   I had got the android source for 4.0.3, since then I've updated with repo to 4.0.4 . How can I work with 4.0.3 code instead?
+Rel_VALUE:   5.036341
+------------------------------------------------------
+RANK:   3
+TITLE:   android phonegap - implement back button when navigating through functions or events in a single html page .
+Rel_VALUE:   4.929256
+------------------------------------------------------
+RANK:   4
+TITLE:   android socket connection, inputStream freezing on readline with socket.io or node websocket server
+Rel_VALUE:   4.889676
+------------------------------------------------------
+RANK:   5
+TITLE:   Connection error node.js server . Http request in android showing host not reachable
+Rel_VALUE:   4.803191
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 54 query is ---F---
+:::INFO:::original_query---§ª§Ù§Þ§Ö§ß§Ú§ä§î §Ú§Þ§ñ §á§Ñ§Ü§Ö§ä§Ñ android
+:::INFO:::translated---to change the package name android
+:::INFO:::translated---to change the package name android
+:::INFO:::input query terms list is as following
+['change', 'package', 'name', 'android']
+:::INFO:::start matching
+:::INFO:::55 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I change my package name in android studio ? When I ever do the rename the file is duplicated with a new name
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Is it possible to change package name on android project in eclipse?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   android in app billing package name change
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   how can i change complete package name of an android app?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   how change package name in intellij android project?
+Rel_VALUE:   4.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 55 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §å§ã§ä§Ñ§ß§à§Ó§Ú§ä§î getsureImage?
+:::INFO:::translated---how to install getsureImage?
+:::INFO:::translated---how to install getsureImage?
+:::INFO:::input query terms list is as following
+['install', 'getsureimage', '?']
+:::INFO:::start matching
+:::INFO:::56 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to install a free market application on an android simulator
+Rel_VALUE:   1.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   how to install my app on Motorola Android
+Rel_VALUE:   1.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   android: install fails on hacked phones
+Rel_VALUE:   1.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to install Android Market App on the emulator?
+Rel_VALUE:   1.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How to install an Android application on a real device without publishing and Eclipse?
+Rel_VALUE:   1.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 56 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§Ü§Ñ§é§Ñ§ä§î §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö §Ú§Ù Google Play §á§â§à§Ô§â§Ñ§Þ§Þ§ß§à?
+:::INFO:::translated---how to download from the google play application software?
+:::INFO:::translated---how to download from the google play application software?
+:::INFO:::input query terms list is as following
+['download', 'google', 'play', 'application', 'software', '?']
+:::INFO:::start matching
+:::INFO:::57 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Why google map is not displaying when I download my application from play store?
+Rel_VALUE:   4.523842
+------------------------------------------------------
+RANK:   2
+TITLE:   Restricting device to download apps other than my app from google play store
+Rel_VALUE:   4.454890
+------------------------------------------------------
+RANK:   3
+TITLE:   Is it possible to download app from google play from my app - Android
+Rel_VALUE:   4.378374
+------------------------------------------------------
+RANK:   4
+TITLE:   When people download my app from the google play i get this error: java.lang.RuntimeException: Unable to instantiate activity
+Rel_VALUE:   4.378374
+------------------------------------------------------
+RANK:   5
+TITLE:   restrict a user to download the app from google play if android version is older
+Rel_VALUE:   4.378374
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 57 query is ---F---
+:::INFO:::original_query---§±§à§é§Ö§Þ§å §Þ§à§Ø§Ö§ä §ß§Ö §â§Ñ§Ò§à§ä§Ñ§ä§î §Þ§Ö§ä§à§Õ collapse?
+:::INFO:::translated---why can not work method of writing?
+:::INFO:::translated---why can not work method of writing?
+:::INFO:::input query terms list is as following
+['work', 'method', 'writing', '?']
+:::INFO:::start matching
+:::INFO:::58 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How does the getView() method work when creating your own custom adapter?
+Rel_VALUE:   2.652413
+------------------------------------------------------
+RANK:   2
+TITLE:   Update table using rawQuery() method does not work
+Rel_VALUE:   2.519290
+------------------------------------------------------
+RANK:   3
+TITLE:   NotifiyDataSetChanged does not work after using ListView setSelection() method Android
+Rel_VALUE:   2.519290
+------------------------------------------------------
+RANK:   4
+TITLE:   Unable to get onClick method in Fragment to work using existing solutions
+Rel_VALUE:   2.519290
+------------------------------------------------------
+RANK:   5
+TITLE:   Can't get my delete method to work for SQLite database using android
+Rel_VALUE:   2.519290
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 58 query is ---F---
+:::INFO:::original_query---Android Studio: §Ó §Ó§Ö§â§ã§Ú§Ú 0.4.0 §ã§ä§â§Ñ§ß§ß§à §ã§à§Ù§Õ§Ñ§Ö§ä §á§â§à§Ö§Ü§ä
+:::INFO:::translated---android studio: in version 0.4.0 strange creates a draft
+:::INFO:::translated---android studio: in version 0.4.0 strange creates a draft
+:::INFO:::input query terms list is as following
+['android', 'studio:', 'version', '0', '.', '4', '.', '0', 'strange', 'creates', 'draft']
+:::INFO:::start matching
+:::INFO:::59 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Can an android version code start with 0 if it is greater than 1?
+Rel_VALUE:   5.757191
+------------------------------------------------------
+RANK:   2
+TITLE:   Generating random number between 0 and 3 and adding to an arraylist in android
+Rel_VALUE:   5.675019
+------------------------------------------------------
+RANK:   3
+TITLE:   webview showing white screen on android before version 5 kitkat and icecream and stuck on it
+Rel_VALUE:   5.664989
+------------------------------------------------------
+RANK:   4
+TITLE:   Camera script with 5 layers has strange behaviour on Unity play and on android device
+Rel_VALUE:   5.639808
+------------------------------------------------------
+RANK:   5
+TITLE:   cant downgrade database from version 2 to 1 in android
+Rel_VALUE:   5.631831
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 59 query is ---F---
+:::INFO:::original_query---Android: §ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö JSON §Ó §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ö
+:::INFO:::translated---android: using json in the annex
+:::INFO:::translated---android: using json in the annex
+:::INFO:::input query terms list is as following
+['android:', 'using', 'json', 'annex']
+:::INFO:::start matching
+:::INFO:::60 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to set title and its content in section listview using json
+Rel_VALUE:   2.372799
+------------------------------------------------------
+RANK:   2
+TITLE:   How to fetch data from server (PHP) using RPC in json format in Android
+Rel_VALUE:   2.284478
+------------------------------------------------------
+RANK:   3
+TITLE:   using json format to communicate between android and servlet
+Rel_VALUE:   2.284478
+------------------------------------------------------
+RANK:   4
+TITLE:   posting location data in json format to server using intent service
+Rel_VALUE:   2.284478
+------------------------------------------------------
+RANK:   5
+TITLE:   How can i decompress my json data using gzip format in android?
+Rel_VALUE:   2.284478
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 60 query is ---F---
+:::INFO:::original_query---§±§à§Ý§å§é§Ú§ä§î §Õ§Ñ§ß§ß§í§Ö §Ú§Ù Notification §Õ§Ý§ñ §à§Ò§ß§à§Ó§Ý§Ö§ß§Ú§ñ
+:::INFO:::translated---to retrieve data from the notification for updating
+:::INFO:::translated---to retrieve data from the notification for updating
+:::INFO:::input query terms list is as following
+['retrieve', 'data', 'notification', 'updating']
+:::INFO:::start matching
+:::INFO:::61 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Bundle data is not updating in the activity passed from a notification in service, always populating the first bundle
+Rel_VALUE:   3.398875
+------------------------------------------------------
+RANK:   2
+TITLE:   how to save notification to my android application and How retrieve data
+Rel_VALUE:   3.311652
+------------------------------------------------------
+RANK:   3
+TITLE:   Is there any way to retrieve data in Firebase without updating the values in database?
+Rel_VALUE:   3.293724
+------------------------------------------------------
+RANK:   4
+TITLE:   Unable to fetch data from notification using fcm in onMessageReceived method
+Rel_VALUE:   3.246827
+------------------------------------------------------
+RANK:   5
+TITLE:   fetching data from facebook and push notification from it
+Rel_VALUE:   3.238157
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 61 query is ---F---
+:::INFO:::original_query---DrawerLayout cannot be cast to LinearLayout §á§â§Ú §Ó§í§Ù§à§Ó§Ö §Õ§Ú§Ñ§Ý§à§Ô§à§Ó§à§Ô§à §à§Ü§ß§Ñ
+:::INFO:::translated---DrawerLayout cannot be cast to LinearLayout when calling the dialog box
+:::INFO:::translated---DrawerLayout cannot be cast to LinearLayout when calling the dialog box
+:::INFO:::input query terms list is as following
+['drawerlayout', 'cannot', 'cast', 'linearlayout', 'calling', 'dialog', 'box']
+:::INFO:::start matching
+:::INFO:::62 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android widget relativelayout cannot be cast to android widget textview
+Rel_VALUE:   4.914701
+------------------------------------------------------
+RANK:   2
+TITLE:   how to call a fragment from dialog box in android?
+Rel_VALUE:   4.686922
+------------------------------------------------------
+RANK:   3
+TITLE:   view cannot cast to linearlayout Drag Drop images from 1 linearlayout to another
+Rel_VALUE:   4.662837
+------------------------------------------------------
+RANK:   4
+TITLE:   LinearLayout widget cannot be cast to Textview Widget, Listview in popupwindow
+Rel_VALUE:   4.559475
+------------------------------------------------------
+RANK:   5
+TITLE:   View cannot be cast to ViewGroup in fragment with sliding menu
+Rel_VALUE:   4.558129
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 62 query is ---F---
+:::INFO:::original_query---1 class implements 2 listeners - §à§ê§Ú§Ò§Ü§Ñ
+:::INFO:::translated---1 class implements two listeners attached is a mistake
+:::INFO:::translated---1 class implements two listeners attached is a mistake
+:::INFO:::input query terms list is as following
+['1', 'class', 'implements', 'two', 'listeners', 'attached', 'mistake']
+:::INFO:::start matching
+:::INFO:::63 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Trying to get HttpPost to send two JSON objects to server. Passing 1 object works. 2 does not
+Rel_VALUE:   3.812443
+------------------------------------------------------
+RANK:   2
+TITLE:   How can the listener attached to one View (generated by Adapter) call a method of the Fragment it belongs to?
+Rel_VALUE:   3.805288
+------------------------------------------------------
+RANK:   3
+TITLE:   How to pass a BLE characteristic to another class or use 2 layout files for 1 java class
+Rel_VALUE:   3.765464
+------------------------------------------------------
+RANK:   4
+TITLE:   When a Class implements a listener interface to listen for changes recorded in a class extending BroadcastReceiver, nothing happens
+Rel_VALUE:   3.762226
+------------------------------------------------------
+RANK:   5
+TITLE:   Dagger 2 issue overriding single provides annotated method from a module in a library which app uses
+Rel_VALUE:   3.755261
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 63 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§æ§à§ä§à§Ô§â§Ñ§æ§Ú§â§à§Ó§Ñ§ä§î Here map?
+:::INFO:::translated---how to photograph here map?
+:::INFO:::translated---how to photograph here map?
+:::INFO:::input query terms list is as following
+['photograph', 'map', '?']
+:::INFO:::start matching
+:::INFO:::64 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   displaying photo thumbnails on map
+Rel_VALUE:   1.676514
+------------------------------------------------------
+RANK:   2
+TITLE:   Get location from photo then use it to place a marker on map
+Rel_VALUE:   1.676514
+------------------------------------------------------
+RANK:   3
+TITLE:   map contact photo with sms database android
+Rel_VALUE:   1.676514
+------------------------------------------------------
+RANK:   4
+TITLE:   Send a picture of a map through email in Android
+Rel_VALUE:   1.630309
+------------------------------------------------------
+RANK:   5
+TITLE:   How to rotate picture on google map in android ,
+Rel_VALUE:   1.630309
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 64 query is ---T---
+:::INFO:::original_query---§¯§Ö §â§Ñ§Ò§à§ä§Ñ§Ö§ä Dialog §Õ§Ý§ñ §á§â§à§Ó§Ö§â§Ü§Ú §Ý§Ú§è§Ö§ß§Ù§Ú§Ú, §Ó §Ñ§ß§Õ§â§à§Ú§Õ §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ú
+:::INFO:::translated---not working dialog for a business license, in an android application
+:::INFO:::translated---not working dialog for a business license, in an android application
+:::INFO:::input query terms list is as following
+['working', 'dialog', 'business', 'license', 'android', 'application']
+:::INFO:::start matching
+:::INFO:::65 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to create a popup window for confirmation while exiting an app in android when working wth multiple activities
+Rel_VALUE:   4.340916
+------------------------------------------------------
+RANK:   2
+TITLE:   As a business requirement, i have to keep my background service running at all times in my android application
+Rel_VALUE:   4.206769
+------------------------------------------------------
+RANK:   3
+TITLE:   facebook like button on android application is not working properly
+Rel_VALUE:   4.193880
+------------------------------------------------------
+RANK:   4
+TITLE:   android studio app, press home button while application is working
+Rel_VALUE:   4.193880
+------------------------------------------------------
+RANK:   5
+TITLE:   javascript alert message not working in android application
+Rel_VALUE:   4.161901
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 65 query is ---F---
+:::INFO:::original_query---§®§à§Ø§ß§à §Ý§Ú §à§ä§à§Ò§â§Ñ§Ù§Ú§ä§î §Ù§ß§Ñ§é§Ü§Ú §ï§Ý§Ö§Þ§Ö§ß§ä§Ñ§Þ §Þ§Ö§ß§ð §ã§à §ã§Ó§à§Û§ã§ä§Ó§à§Þ showAsAction=&quot;never&quot;
+:::INFO:::translated---whether to display the menu buttons elements with characteristic showAsAction = & quot; never & quot;
+:::INFO:::translated---whether to display the menu buttons elements with characteristic showAsAction = & quot; never & quot;
+:::INFO:::input query terms list is as following
+['whether', 'display', 'menu', 'buttons', 'elements', 'characteristic', 'showasaction', '=', '&', 'quot', 'never', '&', 'quot']
+:::INFO:::start matching
+:::INFO:::66 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How do I add buttons to recyclerView if attribute layout_below is taken?
+Rel_VALUE:   5.091579
+------------------------------------------------------
+RANK:   2
+TITLE:   ActionBar buttons always forced to overflow if iRoom attribute is set
+Rel_VALUE:   5.073750
+------------------------------------------------------
+RANK:   3
+TITLE:   android - How to display the previous status if you click on the cancel button of alert dialog multi choice items
+Rel_VALUE:   4.988794
+------------------------------------------------------
+RANK:   4
+TITLE:   How to display 3 buttons in a grid layout with the same width while also leaving a specific amount of whitespace between buttons 2 and 3
+Rel_VALUE:   4.986341
+------------------------------------------------------
+RANK:   5
+TITLE:   How to show the title name completely (not truncated) and how to place the menu elements in the action bar at the bottom?
+Rel_VALUE:   4.910232
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 66 query is ---F---
+:::INFO:::original_query---Android: §©§Ñ§Õ§Ñ§ä§î §è§Ó§Ö§ä§ß§à§Û §â§Ñ§Õ§Ú§å§ã §Ô§â§Ñ§ß§Ú§è TextView, §Ö§ã§Ý§Ú §Ö§ë§× §ß§Ö§Ú§Ù§Ó§Ö§ã§ä§Ö§ß §è§Ó§Ö§ä
+:::INFO:::translated---android: a colored border radius TextView, if still unknown color
+:::INFO:::translated---android: a colored border radius TextView, if still unknown color
+:::INFO:::input query terms list is as following
+['android:', 'colored', 'border', 'radius', 'textview', 'still', 'unknown', 'color']
+:::INFO:::start matching
+:::INFO:::67 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Change color of drawable (.png) in code, result still has a tint to it
+Rel_VALUE:   4.608426
+------------------------------------------------------
+RANK:   2
+TITLE:   How to apply color to an irregular polygon with unknown indices?
+Rel_VALUE:   4.553077
+------------------------------------------------------
+RANK:   3
+TITLE:   Android ImageButton without border but still with click indication
+Rel_VALUE:   4.532554
+------------------------------------------------------
+RANK:   4
+TITLE:   how to change the color of an image but can still recognize the object?
+Rel_VALUE:   4.515102
+------------------------------------------------------
+RANK:   5
+TITLE:   generate next color randomly if the color is still available
+Rel_VALUE:   4.499970
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 67 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö OpenCV §Ó Service §ß§Ñ §°§³ Android
+:::INFO:::translated---the use of OpenCV in service based on android os
+:::INFO:::translated---the use of OpenCV in service based on android os
+:::INFO:::input query terms list is as following
+['use', 'opencv', 'service', 'based', 'android', 'os']
+:::INFO:::start matching
+:::INFO:::68 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   patterns to use in location based android client/server application
+Rel_VALUE:   4.471054
+------------------------------------------------------
+RANK:   2
+TITLE:   Can a TitaniumSDK based mobile application for android use the native widgets of android 4
+Rel_VALUE:   4.471054
+------------------------------------------------------
+RANK:   3
+TITLE:   Can I use Facer android app with MTK based Smartwatches?
+Rel_VALUE:   4.386476
+------------------------------------------------------
+RANK:   4
+TITLE:   How to use different resources in android app based on user settings?
+Rel_VALUE:   4.386476
+------------------------------------------------------
+RANK:   5
+TITLE:   Making use of Youtube DATA API to retrieve video details in android app based on keyword
+Rel_VALUE:   4.386476
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 68 query is ---F---
+:::INFO:::original_query---§£§í§Ó§à§Õ §å§â§à§Ó§ß§ñ §ã§Ú§Ô§ß§Ñ§Ý§Ñ Wi-Fi
+:::INFO:::translated---conclusion the level of signal wi fi
+:::INFO:::translated---conclusion the level of signal wi fi
+:::INFO:::input query terms list is as following
+['conclusion', 'level', 'signal', 'wi', 'fi']
+:::INFO:::start matching
+:::INFO:::69 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   LTE signal ASU level always 97
+Rel_VALUE:   2.722122
+------------------------------------------------------
+RANK:   2
+TITLE:   Connect Printer to android device via wi - fi router
+Rel_VALUE:   2.687624
+------------------------------------------------------
+RANK:   3
+TITLE:   Android network info (Cell ID, signal level etc.) via command line
+Rel_VALUE:   2.610942
+------------------------------------------------------
+RANK:   4
+TITLE:   In WebView when i am using wi fi the page is not loading but when i do turn on my data connection then it's work?
+Rel_VALUE:   2.583015
+------------------------------------------------------
+RANK:   5
+TITLE:   Can wi fi direct work permanently?
+Rel_VALUE:   2.307325
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 69 query is ---F---
+:::INFO:::original_query---§³§á§à§ã§à§Ò§í §á§â§à§ã§Þ§à§ä§â§Ñ §¢§¥ §ß§Ñ §Ñ§ß§Õ§â§à§Ú§Õ §ã§ä§å§Õ§Ú§à
+:::INFO:::translated---ways of viewing the database on android studio
+:::INFO:::translated---ways of viewing the database on android studio
+:::INFO:::input query terms list is as following
+['ways', 'viewing', 'database', 'android', 'studio']
+:::INFO:::start matching
+:::INFO:::70 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to open sqlite db inside package file in java class in android studio
+Rel_VALUE:   3.807206
+------------------------------------------------------
+RANK:   2
+TITLE:   listview showing database entries in eclipse but not in android studio
+Rel_VALUE:   3.790150
+------------------------------------------------------
+RANK:   3
+TITLE:   I am having problems inserting data in my database tables , and passing information from android studio to database
+Rel_VALUE:   3.702006
+------------------------------------------------------
+RANK:   4
+TITLE:   how to edit the values in Mysql database using php in android studio
+Rel_VALUE:   3.672288
+------------------------------------------------------
+RANK:   5
+TITLE:   how to insert a data into database using android studio and phpmyadmin(wampserver)?
+Rel_VALUE:   3.672288
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 70 query is ---F---
+:::INFO:::original_query---HttpURLConnection.getResponseCode() = java.io.EOFException
+:::INFO:::translated---HttpURLConnection.getResponseCode () = java.io.EOFException
+:::INFO:::translated---HttpURLConnection.getResponseCode () = java.io.EOFException
+:::INFO:::input query terms list is as following
+['httpurlconnection', '.', 'getresponsecode', '(', ')', '=', 'java', '.', 'io', '.', 'eofexception']
+:::INFO:::start matching
+:::INFO:::71 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android Development . error facing in java program in Android Studio
+Rel_VALUE:   5.253080
+------------------------------------------------------
+RANK:   2
+TITLE:   Connection error node.js server . Http request in android showing host not reachable
+Rel_VALUE:   5.112355
+------------------------------------------------------
+RANK:   3
+TITLE:   RSA between php server side &amp; java (Android) client .
+Rel_VALUE:   5.049453
+------------------------------------------------------
+RANK:   4
+TITLE:   seeing a web server over a socket . . .
+Rel_VALUE:   4.878982
+------------------------------------------------------
+RANK:   5
+TITLE:   Android i get touch location an try to send by socket . The program sends it but it crashes
+Rel_VALUE:   4.837071
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 71 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§à§Ý§å§é§Ú§ä§î §Ñ§Ü§ä§å§Ñ§Ý§î§ß§í§Û §ã§á§Ú§ã§à§Ü §Ó§ã§Ö§ç §Ñ§å§Õ§Ú§à-§æ§Ñ§Û§Ý§à§Ó §é§Ö§â§Ö§Ù Cursor? (Android)
+:::INFO:::translated---how to get the current list of all the audio files through the cursor? (android)
+:::INFO:::translated---how to get the current list of all the audio files through the cursor? (android)
+:::INFO:::input query terms list is as following
+['get', 'current', 'list', 'audio', 'files', 'cursor', '?', '(', 'android', ')']
+:::INFO:::start matching
+:::INFO:::72 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to get list of all music files from android phone
+Rel_VALUE:   5.135680
+------------------------------------------------------
+RANK:   2
+TITLE:   How to get the mp3 file of default / current ringtone in android
+Rel_VALUE:   5.024933
+------------------------------------------------------
+RANK:   3
+TITLE:   Can't get the list of files from Dropbox in android
+Rel_VALUE:   5.017406
+------------------------------------------------------
+RANK:   4
+TITLE:   How to get particular line to line from text file and display array list in android
+Rel_VALUE:   4.900464
+------------------------------------------------------
+RANK:   5
+TITLE:   need help for display sdcard's mp3 files into list view using android
+Rel_VALUE:   4.862532
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 72 query is ---F---
+:::INFO:::original_query---Genymotion - unable to connect to the virtual device
+:::INFO:::translated---Genymotion is unable to connect to the virtual device
+:::INFO:::translated---Genymotion is unable to connect to the virtual device
+:::INFO:::input query terms list is as following
+['genymotion', 'unable', 'connect', 'virtual', 'device']
+:::INFO:::start matching
+:::INFO:::73 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Genymotion on Windows 7 is unable to connect to my virtual device
+Rel_VALUE:   4.584874
+------------------------------------------------------
+RANK:   2
+TITLE:   2.2 emulator - app shuts down, unable to resolve virtual methods?
+Rel_VALUE:   3.993436
+------------------------------------------------------
+RANK:   3
+TITLE:   Android emulator unable to connect to local server (No input file specified)
+Rel_VALUE:   3.966353
+------------------------------------------------------
+RANK:   4
+TITLE:   Genymotion unable to start the virtual device
+Rel_VALUE:   3.940528
+------------------------------------------------------
+RANK:   5
+TITLE:   Genymotion unable to start the virtual device
+Rel_VALUE:   3.940528
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 73 query is ---F---
+:::INFO:::original_query---§¥§à§Ò§Ñ§Ó§Ú§ä§î §ï§Ý§Ö§Þ§Ö§ß§ä §Ó §á§à§ã§Ý§Ö§Õ§ß§ð§ð §á§à§Ù§Ú§è§Ú§ð §Ó ArrayList&lt;Image&gt;
+:::INFO:::translated---add element to the last position in the ArrayList & lt; image & gt;
+:::INFO:::translated---add element to the last position in the ArrayList & lt; image & gt;
+:::INFO:::input query terms list is as following
+['add', 'element', 'last', 'position', 'arraylist', '&', 'lt', 'image', '&', 'gt']
+:::INFO:::start matching
+:::INFO:::74 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   element overwriting while using list.add(0,arrayObj) to add last item at top in arraylist android
+Rel_VALUE:   5.648818
+------------------------------------------------------
+RANK:   2
+TITLE:   When i add a bitmap to an array list the last element is duplicated in previous indexes
+Rel_VALUE:   5.621491
+------------------------------------------------------
+RANK:   3
+TITLE:   add first element a default item to arraylist
+Rel_VALUE:   5.505670
+------------------------------------------------------
+RANK:   4
+TITLE:   Arraylist hashmap add only last element
+Rel_VALUE:   5.431342
+------------------------------------------------------
+RANK:   5
+TITLE:   ArrayList&lt;string&gt; add item in pre last position
+Rel_VALUE:   5.255269
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 74 query is ---F---
+:::INFO:::original_query---§à§ê§Ú§Ò§Ü§Ñ §Ó Android Studio
+:::INFO:::translated---a mistake in the android studio
+:::INFO:::translated---a mistake in the android studio
+:::INFO:::input query terms list is as following
+['mistake', 'android', 'studio']
+:::INFO:::start matching
+:::INFO:::75 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Remove .com.example in android studio company domain by mistake
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   difference between eclipse or android studio signed apk for play store
+Rel_VALUE:   2.504391
+------------------------------------------------------
+RANK:   3
+TITLE:   what is exact difference between activity_main.xml and content_main.xml in android studio
+Rel_VALUE:   2.504391
+------------------------------------------------------
+RANK:   4
+TITLE:   What difference between gitignore in android studio and GTLab?
+Rel_VALUE:   2.504391
+------------------------------------------------------
+RANK:   5
+TITLE:   android studio proguard confusion
+Rel_VALUE:   2.496690
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 75 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§â§Ñ§Ó§Ú§Ý§î§ß§à §â§Ñ§ã§á§à§Ý§à§Ø§Ú§ä§î §Ó§î§ð §ß§Ñ §ï§Ü§â§Ñ§ß§Ö
+:::INFO:::translated---how to correctly view on the screen
+:::INFO:::translated---how to correctly view on the screen
+:::INFO:::input query terms list is as following
+['correctly', 'view', 'screen']
+:::INFO:::start matching
+:::INFO:::76 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Scrolling the listview to the top toolbar so that the user can view screen containing list properly
+Rel_VALUE:   2.907100
+------------------------------------------------------
+RANK:   2
+TITLE:   options menu not inflating correctly in page change in view pager
+Rel_VALUE:   2.592078
+------------------------------------------------------
+RANK:   3
+TITLE:   How to correctly implement view content behind statusbar when using fragments
+Rel_VALUE:   2.546886
+------------------------------------------------------
+RANK:   4
+TITLE:   Android - make a button display a value on screen and playing sound correctly
+Rel_VALUE:   2.538600
+------------------------------------------------------
+RANK:   5
+TITLE:   Updating an image view through the use of a handler - how to correctly use a conditional statement?
+Rel_VALUE:   2.529896
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 76 query is ---F---
+:::INFO:::original_query---Undefined reference to AndroidStudio JNI
+:::INFO:::translated---Undefined reference to AndroidStudio JNI
+:::INFO:::translated---Undefined reference to AndroidStudio JNI
+:::INFO:::input query terms list is as following
+['undefined', 'reference', 'androidstudio', 'jni']
+:::INFO:::start matching
+:::INFO:::77 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android jni ndk-build----------&gt; undefined reference to `std::allocator&lt;char&gt;::allocator()'
+Rel_VALUE:   3.515758
+------------------------------------------------------
+RANK:   2
+TITLE:   undefined reference to uncompress zlib android jni
+Rel_VALUE:   3.515758
+------------------------------------------------------
+RANK:   3
+TITLE:   undefined reference error in ndk android project using static library
+Rel_VALUE:   3.301805
+------------------------------------------------------
+RANK:   4
+TITLE:   android ndk undefined reference to `Add(int, int)'
+Rel_VALUE:   3.301805
+------------------------------------------------------
+RANK:   5
+TITLE:   Android ndk undefined reference error
+Rel_VALUE:   3.301805
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 77 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ü§à§ß§Ó§Ö§â§ä§Ú§â§à§Ó§Ñ§ä§î .cer §Ó .bks keystore?
+:::INFO:::translated---how to convert.cer in.bks keystore?
+:::INFO:::translated---how to convert.cer in.bks keystore?
+:::INFO:::input query terms list is as following
+['convert', '.', 'cer', '.', 'bks', 'keystore', '?']
+:::INFO:::start matching
+:::INFO:::78 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android - converting pkcs12 certificate string to x509 certificate object for bks keystore
+Rel_VALUE:   4.399864
+------------------------------------------------------
+RANK:   2
+TITLE:   Portecle software converting from pem to bks - install error NoClassFoundException
+Rel_VALUE:   4.122351
+------------------------------------------------------
+RANK:   3
+TITLE:   How to convert between PGP keyrings and Java keystore files?
+Rel_VALUE:   4.082901
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Studio - get keystore file .jks
+Rel_VALUE:   4.024666
+------------------------------------------------------
+RANK:   5
+TITLE:   How to export .key and .crt from keystore
+Rel_VALUE:   3.877663
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 78 query is ---F---
+:::INFO:::original_query---§³§á§Ö§è§Ú§æ§Ú§é§Ö§ã§Ü§Ñ§ñ §Ñ§ß§Ú§Þ§Ñ§è§Ú§ñ ProgressBar'§Ñ §Õ§Ý§ñ §ï§Ý§Ö§Þ§Ö§ß§ä§Ñ §ã§á§Ú§ã§Ü§Ñ
+:::INFO:::translated---the animation ProgressBar 'and to the element list
+:::INFO:::translated---the animation ProgressBar 'and to the element list
+:::INFO:::input query terms list is as following
+['animation', 'progressbar', "'", 'element', 'list']
+:::INFO:::start matching
+:::INFO:::79 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Remove list item with animation on list item button click event in android
+Rel_VALUE:   3.319309
+------------------------------------------------------
+RANK:   2
+TITLE:   how to access a particular item in the animation list
+Rel_VALUE:   3.319309
+------------------------------------------------------
+RANK:   3
+TITLE:   Android RecyclerView list item doesn't show click animation
+Rel_VALUE:   3.319309
+------------------------------------------------------
+RANK:   4
+TITLE:   Element item is not recognized with animation list
+Rel_VALUE:   3.319309
+------------------------------------------------------
+RANK:   5
+TITLE:   animation with swipe to remove item of list view
+Rel_VALUE:   3.319309
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 79 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ß§Ñ§á§Ú§ã§Ñ§ä§î §ã§à§à§Ò§ë§Ö§ß§Ú§Ö §ß§Ñ §Ó§à§ä§ã§Ñ§á §ã §ã§Ñ§Û§ä§Ñ?
+:::INFO:::translated---how to write a message on the §Ó§à§ä§ã§Ñ§á site?
+:::INFO:::translated---how to write a message on the §Ó§à§ä§ã§Ñ§á site?
+:::INFO:::input query terms list is as following
+['write', 'message', '§Ó§à§ä§ã§Ñ§á', 'site', '?']
+:::INFO:::start matching
+:::INFO:::80 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Is it possible to creat some chat in a website to send message in an app?
+Rel_VALUE:   2.482134
+------------------------------------------------------
+RANK:   2
+TITLE:   How can EditText returns users name in via Toast message when they write it in?
+Rel_VALUE:   2.350104
+------------------------------------------------------
+RANK:   3
+TITLE:   how can I write a code when i click a button it have to go particular web site ...?
+Rel_VALUE:   2.340968
+------------------------------------------------------
+RANK:   4
+TITLE:   How to send a text of text area to the process of back ground running thread to write that message to output stream of socket?
+Rel_VALUE:   2.314596
+------------------------------------------------------
+RANK:   5
+TITLE:   I need to toast message like the user is existing in db. where to write the code.?
+Rel_VALUE:   2.286129
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 80 query is ---F---
+:::INFO:::original_query---OpenSL ES §Ó§à§ã§á§â§à§Ú§Ù§Ó§Ö§Õ§Ö§ß§Ú§Ö §Ù§Ó§å§Ü§Ñ §é§Ö§â§Ö§Ù §á§Ö§â§Ö§Õ§ß§Ú§Û §Õ§Ú§ß§Ñ§Þ§Ú§Ü
+:::INFO:::translated---OpenSL es play audio front speaker
+:::INFO:::translated---OpenSL es play audio front speaker
+:::INFO:::input query terms list is as following
+['opensl', 'es', 'play', 'audio', 'front', 'speaker']
+:::INFO:::start matching
+:::INFO:::81 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   play audio in real-time using opensl es and the android ndk
+Rel_VALUE:   4.623270
+------------------------------------------------------
+RANK:   2
+TITLE:   opensl es : audio callback patterns
+Rel_VALUE:   3.939451
+------------------------------------------------------
+RANK:   3
+TITLE:   Programmatically connect to paired Bluetooth speaker and play audio
+Rel_VALUE:   3.782385
+------------------------------------------------------
+RANK:   4
+TITLE:   how to switching from speaker and earpiace during audio play
+Rel_VALUE:   3.782385
+------------------------------------------------------
+RANK:   5
+TITLE:   How to mute audio in headset but let it play on speaker programmatically?
+Rel_VALUE:   3.758723
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 81 query is ---F---
+:::INFO:::original_query---§³§Ò§â§Ñ§ã§í§Ó§Ñ§Ö§ä§ã§ñ §Ù§ß§Ñ§é§Ö§ß§Ú§Ö chronometer §á§â§Ú §ã§Þ§Ö§ß§Ö §à§â§Ú§Ö§ß§ä§Ñ§è§Ú§Ú
+:::INFO:::translated---significance of change of orientation chronometer resets.
+:::INFO:::translated---significance of change of orientation chronometer resets.
+:::INFO:::input query terms list is as following
+['significance', 'change', 'orientation', 'chronometer', 'resets', '.']
+:::INFO:::start matching
+:::INFO:::82 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to contain value of android chronometer with change in orientation
+Rel_VALUE:   4.001756
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: Get the number of lines from textview after orientation change
+Rel_VALUE:   3.630786
+------------------------------------------------------
+RANK:   3
+TITLE:   How to change the text size and orientation of a spinner
+Rel_VALUE:   3.618996
+------------------------------------------------------
+RANK:   4
+TITLE:   How to prevent activity restart on device orientation change only for some duration and not all the time
+Rel_VALUE:   3.615953
+------------------------------------------------------
+RANK:   5
+TITLE:   How to destroy an activity which handles screen orientation change and keyboard availability change?
+Rel_VALUE:   3.592002
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 82 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§Ý§å§é§Ñ§Û§ß§í§Þ §à§Ò§â§Ñ§Ù§à§Þ §á§à§ã§ä§Ñ§Ó§Ú§ä§î Button-§í §á§à §Ó§ã§Ö§Þ§å §ï§Ü§â§Ñ§ß§å?
+:::INFO:::translated---how randomly put button - s on the screen?
+:::INFO:::translated---how randomly put button - s on the screen?
+:::INFO:::input query terms list is as following
+['randomly', 'put', 'button', 'screen', '?']
+:::INFO:::start matching
+:::INFO:::83 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to move button randomly on the screen on click?
+Rel_VALUE:   3.644629
+------------------------------------------------------
+RANK:   2
+TITLE:   Android change position of button randomly in relative layout without going outside of screen
+Rel_VALUE:   3.524543
+------------------------------------------------------
+RANK:   3
+TITLE:   Move the button randomly on the screen without click
+Rel_VALUE:   3.283969
+------------------------------------------------------
+RANK:   4
+TITLE:   How to display a button in random screen position
+Rel_VALUE:   3.177821
+------------------------------------------------------
+RANK:   5
+TITLE:   how to move randomly generated object to the center of the screen in android Using LIBgdx
+Rel_VALUE:   3.165878
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 83 query is ---F---
+:::INFO:::original_query---§¯§à§ä§Ú§æ§Ú§Ü§Ñ§è§Ú§Ú §Ü§Ñ§Ø§Õ§å§ð §Þ§Ú§ß§å§ä§å
+:::INFO:::translated---a notification every minute
+:::INFO:::translated---a notification every minute
+:::INFO:::input query terms list is as following
+['notification', 'every', 'minute']
+:::INFO:::start matching
+:::INFO:::84 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Phonegap display notification on specific time every minute even the app is not running
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Update notification every minute in the BroadcastReceiver
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to send a notification to android wear every minute
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Get notification using AlarmManager setRepeating after every minute
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Update text every minute cordova plugin local notifications
+Rel_VALUE:   2.845099
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 84 query is ---F---
+:::INFO:::original_query---Jwt §Ú retrofit - §Ñ§Ó§ä§à§â§Ú§Ù§Ñ§è§Ú§ñ §Ú §à§Ò§ß§à§Ó§Ý§Ö§ß§Ú§Ö §ä§à§Ü§Ö§ß§Ñ
+:::INFO:::translated---Jwt and retrofit authentication and update token
+:::INFO:::translated---Jwt and retrofit authentication and update token
+:::INFO:::input query terms list is as following
+['jwt', 'retrofit', 'authentication', 'update', 'token']
+:::INFO:::start matching
+:::INFO:::85 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to implement authentication with access and refresh token using retrofit in android?
+Rel_VALUE:   4.133477
+------------------------------------------------------
+RANK:   2
+TITLE:   Refreshing auth token when call retrofit api with rxandroid
+Rel_VALUE:   3.741392
+------------------------------------------------------
+RANK:   3
+TITLE:   How to handle oauth invalid refresh token when using okhttp authenticator &amp; dagger?
+Rel_VALUE:   3.723487
+------------------------------------------------------
+RANK:   4
+TITLE:   picasso update token for singleton instance
+Rel_VALUE:   3.597544
+------------------------------------------------------
+RANK:   5
+TITLE:   Unable to exchange authorization code for access token and refresh token in Cross Client google oauth2.0
+Rel_VALUE:   3.551918
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 85 query is ---F---
+:::INFO:::original_query---java.lang.NullPointerException: Attempt to write to field 'int android.support.v4.app.Fragment.mNextAnim' on a null object reference
+:::INFO:::translated---java.lang.NullPointerException: Attempt to write to field 'int android.support.v4.app.Fragment.mNextAnim' on a null object reference
+:::INFO:::translated---java.lang.NullPointerException: Attempt to write to field 'int android.support.v4.app.Fragment.mNextAnim' on a null object reference
+:::INFO:::input query terms list is as following
+['java', '.', 'lang', '.', 'nullpointerexception:', 'attempt', 'write', 'field', "'", 'int', 'android', '.', 'support', '.', 'v4', '.', 'app', '.', 'fragment', '.', 'mnextanim', "'", 'null', 'object', 'reference']
+:::INFO:::start matching
+:::INFO:::86 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   User does not have permission to access this object . Firebase storage android
+Rel_VALUE:   13.408419
+------------------------------------------------------
+RANK:   2
+TITLE:   addMarker doesn't work . to show address in android maps fragment
+Rel_VALUE:   12.913463
+------------------------------------------------------
+RANK:   3
+TITLE:   un reachable statement error . i need to read only my website in android studio web view . how to load others externally
+Rel_VALUE:   12.796214
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Image decoding from base64 to bitmap returns null . while its is working fine in my other test app .
+Rel_VALUE:   12.719206
+------------------------------------------------------
+RANK:   5
+TITLE:   with android maps api v2 ,how to track user location ( similar to how google maps api track ) . The user location marker always remain in center
+Rel_VALUE:   12.708629
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 86 query is ---F---
+:::INFO:::original_query---Basic authentication Android, JSON parsing, §£§ç§à§Õ §Ó §á§Ö§â§ã§à§ß§Ñ§Ý§î§ß§í§Û §Ü§Ñ§Ò§Ú§ß§Ö§ä §ã§Ñ§Û§ä§Ñ
+:::INFO:::translated---basic authentication android json parsing entry in the personal office site
+:::INFO:::translated---basic authentication android json parsing entry in the personal office site
+:::INFO:::input query terms list is as following
+['basic', 'authentication', 'android', 'json', 'parsing', 'entry', 'personal', 'office', 'site']
+:::INFO:::start matching
+:::INFO:::87 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Download xml file on android from server with basic authentication
+Rel_VALUE:   5.535592
+------------------------------------------------------
+RANK:   2
+TITLE:   send data form hybrid android app to simple website in google app engine using json
+Rel_VALUE:   5.324637
+------------------------------------------------------
+RANK:   3
+TITLE:   How to parse json data comming from drupal site to android app?
+Rel_VALUE:   5.083029
+------------------------------------------------------
+RANK:   4
+TITLE:   getting a null pointer exception in android when trying to retrieve data from online server using json parsing
+Rel_VALUE:   5.028078
+------------------------------------------------------
+RANK:   5
+TITLE:   Unable to implement json parsing in the login page of my app (first page) in Android
+Rel_VALUE:   5.011387
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 87 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §à§á§â§Ö§Õ§Ö§Ý§Ú§ä§î §Ü§à§Õ §à§á§Ö§â§Ñ§ä§à§â§Ñ §ß§Ñ §Ó§ä§à§â§à§Û §ã§Ú§Þ §Ü§Ñ§â§ä§Ö android?
+:::INFO:::translated---how to define a code operator at the second sim card android?
+:::INFO:::translated---how to define a code operator at the second sim card android?
+:::INFO:::input query terms list is as following
+['define', 'code', 'operator', 'second', 'sim', 'card', 'android', '?']
+:::INFO:::start matching
+:::INFO:::88 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to change the terminal profile a android phone send to the sim card , how the android phone and sim card interact and where is the code
+Rel_VALUE:   5.126734
+------------------------------------------------------
+RANK:   2
+TITLE:   How to send sms from second sim card in android for all version
+Rel_VALUE:   4.810634
+------------------------------------------------------
+RANK:   3
+TITLE:   android code to keep recording a video and should save only last 10minutes of the video in the sd card
+Rel_VALUE:   4.783003
+------------------------------------------------------
+RANK:   4
+TITLE:   send sms with second sim card by android on samsung duos
+Rel_VALUE:   4.709388
+------------------------------------------------------
+RANK:   5
+TITLE:   How to get the name of operator which is connected to internet in dual sim android phone?
+Rel_VALUE:   4.435475
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 88 query is ---F---
+:::INFO:::original_query---§¯§Ö §Þ§à§Ô§å §á§â§Ú§Ü§â§Ö§á§Ú§ä§î Android Studio debugger §Ü Android §á§â§à§è§Ö§ã§ã§å
+:::INFO:::translated---i can't put the android to android debugger process studio
+:::INFO:::translated---i can't put the android to android debugger process studio
+:::INFO:::input query terms list is as following
+["'", 'put', 'android', 'android', 'debugger', 'process', 'studio']
+:::INFO:::start matching
+:::INFO:::89 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   create process error 2 android studio
+Rel_VALUE:   4.806245
+------------------------------------------------------
+RANK:   2
+TITLE:   How to disable the authentication process in android studio AVD?
+Rel_VALUE:   4.714389
+------------------------------------------------------
+RANK:   3
+TITLE:   How to add a github function to an existing android studio program
+Rel_VALUE:   4.709700
+------------------------------------------------------
+RANK:   4
+TITLE:   how to put True type font file in assets folder in android studio
+Rel_VALUE:   4.678216
+------------------------------------------------------
+RANK:   5
+TITLE:   Can't print log or hit a breakpoint after fork in subprocess using android studio
+Rel_VALUE:   4.669815
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 89 query is ---F---
+:::INFO:::original_query---§£§í§Ò§à§â Layout §Õ§Ý§ñ §Ü§à§Þ§á§à§ß§à§Ó§Ü§Ú §Ó§Ú§Õ§Ø§Ö§ä§à§Ó §ß§Ñ §ï§Ü§â§Ñ§ß§Ö
+:::INFO:::translated---the choice of layout to the layout of widgets on the screen
+:::INFO:::translated---the choice of layout to the layout of widgets on the screen
+:::INFO:::input query terms list is as following
+['choice', 'layout', 'layout', 'widgets', 'screen']
+:::INFO:::start matching
+:::INFO:::90 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can support multi screen layout and widgets in Android
+Rel_VALUE:   4.166386
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: dynamically loading different layouts of choice into another layout
+Rel_VALUE:   4.079355
+------------------------------------------------------
+RANK:   3
+TITLE:   How to set the FAB in a frame layout to bottom of the screen without using the set gravity option
+Rel_VALUE:   4.049931
+------------------------------------------------------
+RANK:   4
+TITLE:   Not able to inflate a layout from preference screen layout
+Rel_VALUE:   3.998002
+------------------------------------------------------
+RANK:   5
+TITLE:   preference screen within layout
+Rel_VALUE:   3.998002
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 90 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Õ§à§Ò§Ñ§Ó§Ú§ä§î §à§Ò§â§Ñ§Ò§à§ä§é§Ú§Ü §ß§Ñ§Ø§Ñ§ä§Ú§ñ §ß§Ñ §ï§Ý§Ö§Þ§Ö§ß§ä §Ó RecyclerView?
+:::INFO:::translated---how to add a handler for the element in the RecyclerView?
+:::INFO:::translated---how to add a handler for the element in the RecyclerView?
+:::INFO:::input query terms list is as following
+['add', 'handler', 'element', 'recyclerview', '?']
+:::INFO:::start matching
+:::INFO:::91 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How can I add touch listener for each element of an recyclerview item.
+Rel_VALUE:   3.807659
+------------------------------------------------------
+RANK:   2
+TITLE:   How to add onClick event for individual cardview elements NOT in recyclerview in android?
+Rel_VALUE:   3.399748
+------------------------------------------------------
+RANK:   3
+TITLE:   Android add spacing below last element in recyclerview with gridlayoutmanager
+Rel_VALUE:   3.397740
+------------------------------------------------------
+RANK:   4
+TITLE:   how to add some listener on particular item in listview in android?
+Rel_VALUE:   3.360287
+------------------------------------------------------
+RANK:   5
+TITLE:   How to add counter timer for each list item in recyclerview
+Rel_VALUE:   3.275611
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 91 query is ---F---
+:::INFO:::original_query---§ª§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ß§Ú§Ö @hide §Ó javadoc
+:::INFO:::translated---the use of @ hide in javadoc
+:::INFO:::translated---the use of @ hide in javadoc
+:::INFO:::input query terms list is as following
+['use', '@', 'hide', 'javadoc']
+:::INFO:::start matching
+:::INFO:::92 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Get Android Studio to use local javadoc instead of remote
+Rel_VALUE:   2.337800
+------------------------------------------------------
+RANK:   2
+TITLE:   Gradle javadoc hide specified method
+Rel_VALUE:   2.337800
+------------------------------------------------------
+RANK:   3
+TITLE:   Is it good idea to use a Utility class with static methods to show and hide Android Dialogs?
+Rel_VALUE:   2.278893
+------------------------------------------------------
+RANK:   4
+TITLE:   how to use react-navigation hide one page header ,not the method &quot;headerMode:none&quot;,i try this way but error
+Rel_VALUE:   2.262474
+------------------------------------------------------
+RANK:   5
+TITLE:   How to use USSD code to hide application/Show?
+Rel_VALUE:   2.261367
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 92 query is ---F---
+:::INFO:::original_query---§±§à§Ý§å§é§Ö§ß§Ú§Ö §ä§ï§Ô§Ñ &lt;img&gt; §Ú §á§à§ã§Ý§Ö§Õ§å§ð§ë§Ö§Ö §Ö§Ô§à §å§Õ§Ñ§Ý§Ö§ß§Ú§Ö §Ú§Ù §ä§Ö§Ü§ã§ä§Ñ
+:::INFO:::translated---the img tag & lt; & gt; and the subsequent removal of the text
+:::INFO:::translated---the img tag & lt; & gt; and the subsequent removal of the text
+:::INFO:::input query terms list is as following
+['img', 'tag', '&', 'lt', '&', 'gt', 'subsequent', 'removal', 'text']
+:::INFO:::start matching
+:::INFO:::93 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Unable to detect the removal of nfc tag in android
+Rel_VALUE:   4.031376
+------------------------------------------------------
+RANK:   2
+TITLE:   Edit text will not post KEYCODE_ENTER to keylistener after setting the digits tag
+Rel_VALUE:   3.841797
+------------------------------------------------------
+RANK:   3
+TITLE:   How to set text link as the actual URL and not the text tag from HTML
+Rel_VALUE:   3.832225
+------------------------------------------------------
+RANK:   4
+TITLE:   How can I get the text out of a &lt;textarea&gt; tag in Android WebView?
+Rel_VALUE:   3.832225
+------------------------------------------------------
+RANK:   5
+TITLE:   the use of b tag in android button's text attribute
+Rel_VALUE:   3.832225
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 93 query is ---F---
+:::INFO:::original_query---§¯§Ö§ã§ä§Ñ§Ò§Ú§Ý§î§ß§à §â§Ñ§Ò§à§ä§Ñ§Ö§ä §à§ä§á§â§Ñ§Ó§Ü§Ñ §Ù§Ñ§á§â§à§ã§à§Ó §Ó Volley
+:::INFO:::translated---unstable work sending requests in the volley
+:::INFO:::translated---unstable work sending requests in the volley
+:::INFO:::input query terms list is as following
+['unstable', 'work', 'sending', 'requests', 'volley']
+:::INFO:::start matching
+:::INFO:::94 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Session variables not working in php while sending request from volley in android device
+Rel_VALUE:   3.464237
+------------------------------------------------------
+RANK:   2
+TITLE:   Unable to resolve host name exception during sending http request using android volley through my app to AWS
+Rel_VALUE:   3.355493
+------------------------------------------------------
+RANK:   3
+TITLE:   Set View.GONE to View.VISIBLE doesn't work until get response from service , even though View.Gone is before sending the request
+Rel_VALUE:   3.303274
+------------------------------------------------------
+RANK:   4
+TITLE:   HTTP string request works in browser but not work with android volley request?
+Rel_VALUE:   3.222328
+------------------------------------------------------
+RANK:   5
+TITLE:   Android volley get request does not work on first time
+Rel_VALUE:   3.203308
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 94 query is ---F---
+:::INFO:::original_query---§®§Ö§â§è§Ñ§ß§Ú§Ö §á§â§Ú Shared Transition
+:::INFO:::translated---flicker in the shared transition
+:::INFO:::translated---flicker in the shared transition
+:::INFO:::input query terms list is as following
+['flicker', 'shared', 'transition']
+:::INFO:::start matching
+:::INFO:::95 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android shared element transition produces image flicker with imageswitcher
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Android short flicker at shared transition
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Android shared element transition whole screen flickers on reenter
+Rel_VALUE:   2.730883
+------------------------------------------------------
+RANK:   4
+TITLE:   Android lollipop shared elements transition blink / flash
+Rel_VALUE:   2.682617
+------------------------------------------------------
+RANK:   5
+TITLE:   Webview glitches in shared element transition on lollipop
+Rel_VALUE:   2.650076
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 95 query is ---F---
+:::INFO:::original_query---Toolbar §Ý§à§Ô§à,§Ü§à§ä§à§â§à§Ö §Ó§à§Ù§Ó§â§Ñ§ë§Ñ§Ö§ä §ß§Ñ §Ô§Ý§Ñ§Ó§ß§å§ð §Ñ§Ü§ä§Ú§Ó§ß§à§ã§ä§î
+:::INFO:::translated---toolbar logo, which returns to the main activity
+:::INFO:::translated---toolbar logo, which returns to the main activity
+:::INFO:::input query terms list is as following
+['toolbar', 'logo', 'returns', 'main', 'activity']
+:::INFO:::start matching
+:::INFO:::96 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Using app icon to return to main activity in Fragments
+Rel_VALUE:   4.005310
+------------------------------------------------------
+RANK:   2
+TITLE:   Default Action Bar displays action menu items only on the main activity
+Rel_VALUE:   3.911935
+------------------------------------------------------
+RANK:   3
+TITLE:   Action bar functionality lost after returning back from second activity to the main activity's fragment
+Rel_VALUE:   3.856288
+------------------------------------------------------
+RANK:   4
+TITLE:   Fragments app creates two icons - one for main activity and one for on of the fragment activities
+Rel_VALUE:   3.844299
+------------------------------------------------------
+RANK:   5
+TITLE:   Android Camera not returning photo to main activity when I rotate the screen in the camera application and my main activity fails
+Rel_VALUE:   3.768983
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 96 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §â§Ñ§Ù§Þ§Ö§ã§ä§Ú§ä§î GridRecyclerView §Ó§ß§å§ä§â§Ú ScrollView
+:::INFO:::translated---how to GridRecyclerView inside ScrollView
+:::INFO:::translated---how to GridRecyclerView inside ScrollView
+:::INFO:::input query terms list is as following
+['gridrecyclerview', 'inside', 'scrollview']
+:::INFO:::start matching
+:::INFO:::97 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android UI: Align button at bottom of scrollview inside tabs
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   How to apply gesture inside scrollview in android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Unable to set the weight of buttons inside scrollview
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Layout problem: scrollview inside a table, inside a custom dialog
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   list inside scrollview
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 97 query is ---F---
+:::INFO:::original_query---§±§â§à§Ò§Ý§Ö§Þ§Ñ §â§Ö§ß§Õ§Ö§â§Ú§ß§Ô§Ñ §Ó §Þ§ß§à§Ô§à§Þ§à§Õ§å§Ý§î§ß§à§Þ §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§Ú §ã Moxy, Fragment §Ú §ß§Ö§ã§Ü§à§Ý§î§Ü§Ú§Þ§Ú Toolbar
+:::INFO:::translated---the problem of rendering in §Þ§ß§à§Ô§à§Þ§à§Õ§å§Ý§î§ß§à§Þ annex with moxy, fragment and a toolbar
+:::INFO:::translated---the problem of rendering in §Þ§ß§à§Ô§à§Þ§à§Õ§å§Ý§î§ß§à§Þ annex with moxy, fragment and a toolbar
+:::INFO:::input query terms list is as following
+['problem', 'rendering', '§Þ§ß§à§Ô§à§Þ§à§Õ§å§Ý§î§ß§à§Þ', 'annex', 'moxy', 'fragment', 'toolbar']
+:::INFO:::start matching
+:::INFO:::98 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Xamarin C# Android 7.0 on Moto G5 Plus phone, dialog fragment window transparent background rendering error issue
+Rel_VALUE:   3.864675
+------------------------------------------------------
+RANK:   2
+TITLE:   layout issue while adding searchView in toolbar ( fragment )
+Rel_VALUE:   3.624552
+------------------------------------------------------
+RANK:   3
+TITLE:   Android full screen dialog fragment and collapsing toolbar issue
+Rel_VALUE:   3.549663
+------------------------------------------------------
+RANK:   4
+TITLE:   webkit rendering issue on Android 2.3 - some listview elements have blurry borders
+Rel_VALUE:   3.391244
+------------------------------------------------------
+RANK:   5
+TITLE:   How do I fix android's recycler view rendering issue which only displays single rows
+Rel_VALUE:   3.379461
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 98 query is ---F---
+:::INFO:::original_query---Swipeable card view: §Ü§Ñ§Ü §â§Ö§Ñ§Ý§Ú§Ù§à§Ó§Ñ§ä§î §â§Ñ§Ù§Þ§Ö§ä§Ü§å?
+:::INFO:::translated---Swipeable card view: how to realize the layout?
+:::INFO:::translated---Swipeable card view: how to realize the layout?
+:::INFO:::input query terms list is as following
+['swipeable', 'card', 'view:', 'realize', 'layout', '?']
+:::INFO:::start matching
+:::INFO:::99 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to implement card layout in android
+Rel_VALUE:   2.743096
+------------------------------------------------------
+RANK:   2
+TITLE:   How to implement card layout as in new Google Play
+Rel_VALUE:   2.743096
+------------------------------------------------------
+RANK:   3
+TITLE:   how to create recycler view using card view with grid layout in android
+Rel_VALUE:   2.704474
+------------------------------------------------------
+RANK:   4
+TITLE:   How to realize the layout in android
+Rel_VALUE:   2.639142
+------------------------------------------------------
+RANK:   5
+TITLE:   I would like to know how to implement a layout that has static labels and dynamic data underneath them on my android phone
+Rel_VALUE:   2.638722
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 99 query is ---F---
+:::INFO:::original_query---§¥§Ú§ß§Ñ§Þ§Ú§é§Ö§ã§Ü§Ú§Û RecyclerView
+:::INFO:::translated---dynamic RecyclerView
+:::INFO:::translated---dynamic RecyclerView
+:::INFO:::input query terms list is as following
+['dynamic', 'recyclerview']
+:::INFO:::start matching
+:::INFO:::100 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   The no of Items per row is dynamic based on text length in recyclerview
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Set dynamic width and height of item in recyclerview
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Is it possible to give recyclerview a dynamic template?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   How to set dynamic components in recyclerview item in android?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   How to select and create a dynamic event click listfragment in android
+Rel_VALUE:   1.825401
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 100 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ó§à§ã§ã§ä§Ñ§ß§à§Ó§Ú§ä§î bluetooth LE-§ã§à§Ö§Õ§Ú§ß§Ö§ß§Ú§Ö §á§à§ã§Ý§Ö §Ó§í§Ü§Ý§ð§é§Ö§ß§Ú§ñ bluetooth §ß§Ñ §ä§Ö§Ý§Ö§æ§à§ß§Ö, §Ú§Þ§Ö§ñ §Ñ§Õ§â§Ö§ã §å§ã§ä§â§à§Û§ã§ä§Ó§Ñ
+:::INFO:::translated---how to restore the bluetooth connection after the bluetooth on your phone, and with the device
+:::INFO:::translated---how to restore the bluetooth connection after the bluetooth on your phone, and with the device
+:::INFO:::input query terms list is as following
+['restore', 'bluetooth', 'connection', 'bluetooth', 'phone', 'device']
+:::INFO:::start matching
+:::INFO:::101 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android reconnect to bluetooth device if connection lost
+Rel_VALUE:   5.119101
+------------------------------------------------------
+RANK:   2
+TITLE:   connect function gets blocked while connection to bluetooth device
+Rel_VALUE:   5.117592
+------------------------------------------------------
+RANK:   3
+TITLE:   get bluetooth device leave the connection
+Rel_VALUE:   5.104373
+------------------------------------------------------
+RANK:   4
+TITLE:   How to get connection states for a bluetooth low energy device in android
+Rel_VALUE:   5.104373
+------------------------------------------------------
+RANK:   5
+TITLE:   How to detect active connection from bluetooth device using Android SDK
+Rel_VALUE:   5.059615
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 101 query is ---F---
+:::INFO:::original_query---webview §Ó lollipop
+:::INFO:::translated---webview in lollipop
+:::INFO:::translated---webview in lollipop
+:::INFO:::input query terms list is as following
+['webview', 'lollipop']
+:::INFO:::start matching
+:::INFO:::102 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Html5 video on webview missing fullscreen button on lollipop
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   webview not generating completely as bitmap in lollipop android
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   Displaying html file in webview on android lollipop device giving unformatted text
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   My webview messes up in jelly bean and kitkat version ,but works fine in lollipop and above. How do I fix it for jelly bean and kitkat?
+Rel_VALUE:   2.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   mhtml file not loading/displaying properly in webview for lollipop and marshmallow but on pre-lollipop devices
+Rel_VALUE:   2.000000
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 102 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ú§ã§á§à§Ý§î§Ù§à§Ó§Ñ§ä§î §à§Ò§ë§Ú§Û SharedPreference §Þ§Ö§Ø§Õ§å Unity §Ú Android?
+:::INFO:::translated---how to use the common SharedPreference between unity and android?
+:::INFO:::translated---how to use the common SharedPreference between unity and android?
+:::INFO:::input query terms list is as following
+['use', 'common', 'sharedpreference', 'unity', 'android', '?']
+:::INFO:::start matching
+:::INFO:::103 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   When to use static variable and sharedpreference in android
+Rel_VALUE:   3.748108
+------------------------------------------------------
+RANK:   2
+TITLE:   Can i add apache common libraries jar file directly to android studio lib folder and use it?
+Rel_VALUE:   3.689361
+------------------------------------------------------
+RANK:   3
+TITLE:   How to use common file for android and web application made in codeigniter
+Rel_VALUE:   3.689361
+------------------------------------------------------
+RANK:   4
+TITLE:   Is there any way to use a common folder in both ios and android Application?
+Rel_VALUE:   3.678649
+------------------------------------------------------
+RANK:   5
+TITLE:   How to use common src folder for two different modules in android studio?
+Rel_VALUE:   3.629455
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 103 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§à§Ý§å§é§Ú§ä§î §Õ§à§ã§ä§å§á §Ü §ä§Ö§Ü§ã§ä§à§Ó§à§Û §ã§ä§â§à§Ü§Ö §á§à§Ú§ã§Ü§Ñ §Ó ActionBar
+:::INFO:::translated---how to access the text search bar in ActionBar
+:::INFO:::translated---how to access the text search bar in ActionBar
+:::INFO:::input query terms list is as following
+['access', 'text', 'search', 'bar', 'actionbar']
+:::INFO:::start matching
+:::INFO:::104 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   access to search edit text in action bar using appcompat
+Rel_VALUE:   4.675792
+------------------------------------------------------
+RANK:   2
+TITLE:   How to create a search bar in android with a suggestion drop down appearing upon typing text in search bar?
+Rel_VALUE:   4.034009
+------------------------------------------------------
+RANK:   3
+TITLE:   Search icon action button not displaying in action bar - no way to access search function
+Rel_VALUE:   4.020339
+------------------------------------------------------
+RANK:   4
+TITLE:   How to change the hint text of search box in action bar using xml menu in android?
+Rel_VALUE:   4.001325
+------------------------------------------------------
+RANK:   5
+TITLE:   How can i get the text entered in search in action bar to a string?
+Rel_VALUE:   3.972074
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 104 query is ---F---
+:::INFO:::original_query---§¤§Õ§Ö §Ü§Ñ§Ü §â§Ñ§Ù§Þ§Ö§ë§Ñ§ä§î mp3 §æ§Ñ§Û§Ý§í §Õ§Ý§ñ §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ
+:::INFO:::translated---where to post the mp3 files for the application
+:::INFO:::translated---where to post the mp3 files for the application
+:::INFO:::input query terms list is as following
+['post', 'mp3', 'files', 'application']
+:::INFO:::start matching
+:::INFO:::105 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   post multiple files in one request in angular cordova app
+Rel_VALUE:   3.245754
+------------------------------------------------------
+RANK:   2
+TITLE:   Playing mp3 files in android application
+Rel_VALUE:   3.166589
+------------------------------------------------------
+RANK:   3
+TITLE:   Unknown android app using my mp3 files without my permission
+Rel_VALUE:   3.111287
+------------------------------------------------------
+RANK:   4
+TITLE:   android playlist, storing mp3 file in the app or calling url
+Rel_VALUE:   3.108224
+------------------------------------------------------
+RANK:   5
+TITLE:   Easy share action for sharing mp4 files on Facebook with Android app
+Rel_VALUE:   3.094488
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 105 query is ---F---
+:::INFO:::original_query---IllegalStateException §á§â§Ú §á§Ñ§â§ã§Ú§ß§Ô§Ö json §Ó RealmDatabase
+:::INFO:::translated---IllegalStateException in §á§Ñ§â§ã§Ú§ß§Ô§Ö json in RealmDatabase
+:::INFO:::translated---IllegalStateException in §á§Ñ§â§ã§Ú§ß§Ô§Ö json in RealmDatabase
+:::INFO:::input query terms list is as following
+['illegalstateexception', '§á§Ñ§â§ã§Ú§ß§Ô§Ö', 'json', 'realmdatabase']
+:::INFO:::start matching
+:::INFO:::106 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android outofmemoryerror while fetching json
+Rel_VALUE:   1.789623
+------------------------------------------------------
+RANK:   2
+TITLE:   getting a null pointer exception in android when trying to retrieve data from online server using json parsing
+Rel_VALUE:   1.729448
+------------------------------------------------------
+RANK:   3
+TITLE:   Getting NULL pointer exception when trying to add data from server to listView using json parsingin android
+Rel_VALUE:   1.729448
+------------------------------------------------------
+RANK:   4
+TITLE:   Nullpoint exception even after getting data from json response
+Rel_VALUE:   1.729448
+------------------------------------------------------
+RANK:   5
+TITLE:   Jackson json parser exception
+Rel_VALUE:   1.729448
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 106 query is ---F---
+:::INFO:::original_query---§±§â§à§Ò§Ý§Ö§Þ§í §ã gradle
+:::INFO:::translated---problem to gradle
+:::INFO:::translated---problem to gradle
+:::INFO:::input query terms list is as following
+['problem', 'gradle']
+:::INFO:::start matching
+:::INFO:::107 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   issue using gradle in an android project
+Rel_VALUE:   1.890485
+------------------------------------------------------
+RANK:   2
+TITLE:   issue with actionbarpull's gradle file
+Rel_VALUE:   1.890485
+------------------------------------------------------
+RANK:   3
+TITLE:   Android studio importing in gradle issue
+Rel_VALUE:   1.890485
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Studio 1.0.2 m2respository gradle issue
+Rel_VALUE:   1.890485
+------------------------------------------------------
+RANK:   5
+TITLE:   Android studio gradle issue
+Rel_VALUE:   1.890485
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 107 query is ---F---
+:::INFO:::original_query---§±§â§à§Ò§Ý§Ö§Þ§Ñ §ã §Ù§Ñ§Ô§â§å§Ù§Ü§à§Û §ä§Ñ§Û§Ý§à§Ó §Ó libGDX
+:::INFO:::translated---the problem with loading §ä§Ñ§Û§Ý§à§Ó in libGDX
+:::INFO:::translated---the problem with loading §ä§Ñ§Û§Ý§à§Ó in libGDX
+:::INFO:::input query terms list is as following
+['problem', 'loading', '§ä§Ñ§Û§Ý§à§Ó', 'libgdx']
+:::INFO:::start matching
+:::INFO:::108 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   I am having problem with loading pictures from my twitter app on android
+Rel_VALUE:   2.541460
+------------------------------------------------------
+RANK:   2
+TITLE:   problem in loading android sdk with eclipse ADT
+Rel_VALUE:   2.541460
+------------------------------------------------------
+RANK:   3
+TITLE:   problem with lazy loading in android
+Rel_VALUE:   2.541460
+------------------------------------------------------
+RANK:   4
+TITLE:   Mesh rendering issue libgdx
+Rel_VALUE:   2.514328
+------------------------------------------------------
+RANK:   5
+TITLE:   While loading .obj file using libgdx got the error
+Rel_VALUE:   2.442917
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 108 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§Ü§â§à§Ý§Ý§Ú§ä§î §Õ§à§é§Ö§â§ß§Ú§Û §ï§Ý§Ö§Þ§Ö§ß§ä §Ò§Ö§Ù §ã§Ü§â§à§Ý§Ý§Ú§ß§Ô§Ñ §â§à§Õ§Ú§ä§Ö§Ý§î§ã§Ü§à§Ô§à?
+:::INFO:::translated---as §ã§Ü§â§à§Ý§Ý§Ú§ä§î child element without scrolling parent?
+:::INFO:::translated---as §ã§Ü§â§à§Ý§Ý§Ú§ä§î child element without scrolling parent?
+:::INFO:::input query terms list is as following
+['§ã§Ü§â§à§Ý§Ý§Ú§ä§î', 'child', 'element', 'without', 'scrolling', 'parent', '?']
+:::INFO:::start matching
+:::INFO:::109 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android: resize a child without resizing a parent
+Rel_VALUE:   4.263554
+------------------------------------------------------
+RANK:   2
+TITLE:   Touch devices - prevent parent from scrolling when element reaches its end
+Rel_VALUE:   4.244044
+------------------------------------------------------
+RANK:   3
+TITLE:   How to apply alpha for parent layout without effecting it's child elements
+Rel_VALUE:   4.146975
+------------------------------------------------------
+RANK:   4
+TITLE:   Image in background without resizing the parent layout
+Rel_VALUE:   4.127798
+------------------------------------------------------
+RANK:   5
+TITLE:   android layout resizing parent without resizing the childs
+Rel_VALUE:   4.127798
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 109 query is ---F---
+:::INFO:::original_query---RecyclerView §ã SearchView §Ú §à§Ò§â§Ñ§Ò§à§ä§Ü§Ñ §Ü§Ý§Ú§Ü§à§Ó
+:::INFO:::translated---RecyclerView with SearchView clicks and processing
+:::INFO:::translated---RecyclerView with SearchView clicks and processing
+:::INFO:::input query terms list is as following
+['recyclerview', 'searchview', 'clicks', 'processing']
+:::INFO:::start matching
+:::INFO:::110 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android recyclerview filter showing no items until searchview icon is clicked
+Rel_VALUE:   2.833337
+------------------------------------------------------
+RANK:   2
+TITLE:   recyclerview footer click to load images
+Rel_VALUE:   2.803562
+------------------------------------------------------
+RANK:   3
+TITLE:   android recyclerview item clicks
+Rel_VALUE:   2.792938
+------------------------------------------------------
+RANK:   4
+TITLE:   how do I manage multiple clicks in cardview with recyclerview
+Rel_VALUE:   2.792938
+------------------------------------------------------
+RANK:   5
+TITLE:   How do I unit test (with JUnit or mockito) recyclerview item clicks
+Rel_VALUE:   2.792938
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 110 query is ---F---
+:::INFO:::original_query---§±§à§é§Ö§Þ§å §ß§Ö §à§Ò§ß§à§Ó§Ý§ñ§Ö§ä§ã§ñ ListView?
+:::INFO:::translated---why isn't updated ListView?
+:::INFO:::translated---why isn't updated ListView?
+:::INFO:::input query terms list is as following
+['isn', "'", 'updated', 'listview', '?']
+:::INFO:::start matching
+:::INFO:::111 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Let listview know that contentprovider is updated
+Rel_VALUE:   2.633993
+------------------------------------------------------
+RANK:   2
+TITLE:   Textview within listview with custom adapter is not getting updated
+Rel_VALUE:   2.633993
+------------------------------------------------------
+RANK:   3
+TITLE:   Adapter not getting updated when a value of a view is updated in listview
+Rel_VALUE:   2.633993
+------------------------------------------------------
+RANK:   4
+TITLE:   My listview is not being updated even after calling notifydatasetchanged()
+Rel_VALUE:   2.633993
+------------------------------------------------------
+RANK:   5
+TITLE:   Grey space in listview when adapter is updated
+Rel_VALUE:   2.633993
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 111 query is ---F---
+:::INFO:::original_query---§²§Ñ§Ù§ß§í§Ö §à§ä§ã§ä§å§á§í Floating Action Button(fab) §Ó §â§Ñ§Ù§ß§í§ç §Ó§Ö§â§ã§Ú§ñ§ç Android
+:::INFO:::translated---different margins floating action button (great) in different versions of android
+:::INFO:::translated---different margins floating action button (great) in different versions of android
+:::INFO:::input query terms list is as following
+['different', 'margins', 'floating', 'action', 'button', '(', 'great', ')', 'different', 'versions', 'android']
+:::INFO:::start matching
+:::INFO:::112 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   android - Holo button looks different between versions
+Rel_VALUE:   6.073874
+------------------------------------------------------
+RANK:   2
+TITLE:   button looks different on different android devices or versions
+Rel_VALUE:   6.073874
+------------------------------------------------------
+RANK:   3
+TITLE:   how to apply different onclick action to each button in array of buttons in android
+Rel_VALUE:   6.049836
+------------------------------------------------------
+RANK:   4
+TITLE:   The same floating action button on different fragments
+Rel_VALUE:   5.952781
+------------------------------------------------------
+RANK:   5
+TITLE:   Dialog box positive / negative buttons in different position depending on android version
+Rel_VALUE:   5.945200
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 112 query is ---F---
+:::INFO:::original_query---§´§â§Ö§Ò§å§Ö§ä§ã§ñ §à§ä§Ü§Ý§ð§é§Ú§ä§î §ã§ä§Ñ§ß§Õ§Ñ§â§ä§ß§í§Û §â§Ñ§Ù§Þ§Ö§â §Ò§å§æ§Ö§â§Ú§Ù§Ñ§è§Ú§Ú §Ó 4096 §Ò§Ñ§Û§ä
+:::INFO:::translated---required to disable the standard size buffering in 4096 bytes
+:::INFO:::translated---required to disable the standard size buffering in 4096 bytes
+:::INFO:::input query terms list is as following
+['required', 'disable', 'standard', 'size', 'buffering', '4096', 'bytes']
+:::INFO:::start matching
+:::INFO:::113 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   LogCat:Default buffer size used in BufferedOutputStream constructor. It would be better to be explicit if an 8k buffer is required
+Rel_VALUE:   4.263266
+------------------------------------------------------
+RANK:   2
+TITLE:   How to detect the android screen size programmatically ( the 4 standard sizes)?
+Rel_VALUE:   3.945146
+------------------------------------------------------
+RANK:   3
+TITLE:   How to change size of standard alert dialog and make it bigger?
+Rel_VALUE:   3.928998
+------------------------------------------------------
+RANK:   4
+TITLE:   how to change the default video buffer size in Android
+Rel_VALUE:   3.857145
+------------------------------------------------------
+RANK:   5
+TITLE:   What is the best way to select optimal picture size given required length and width on android
+Rel_VALUE:   3.798811
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 113 query is ---F---
+:::INFO:::original_query---§±§â§Ú §à§ä§Ü§â§í§ä§Ú§Ú §Ñ§Ü§ä§Ú§Ó§ß§à§ã§ä§Ú §ã §æ§â§Ñ§Ô§Þ§Ö§ß§ä§à§Þ Google §Ü§Ñ§â§ä, §à§ß§Ñ §ß§Ö§Þ§Ö§Õ§Ý§Ö§ß§ß§à §Ù§Ñ§Ü§â§í§Ó§Ñ§Ö§ä§ã§ñ
+:::INFO:::translated---the activity with a fragment of google maps, it immediately closes
+:::INFO:::translated---the activity with a fragment of google maps, it immediately closes
+:::INFO:::input query terms list is as following
+['activity', 'fragment', 'google', 'maps', 'immediately', 'closes']
+:::INFO:::start matching
+:::INFO:::114 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android google maps crashes after fragment navigation
+Rel_VALUE:   4.768303
+------------------------------------------------------
+RANK:   2
+TITLE:   App crashes when moved to activity with google maps android
+Rel_VALUE:   4.721407
+------------------------------------------------------
+RANK:   3
+TITLE:   Open google maps activity from my application and if user reaches the destination redirect the user to my app
+Rel_VALUE:   4.648725
+------------------------------------------------------
+RANK:   4
+TITLE:   Avoid google maps requests until fragment is visible with ViewPager
+Rel_VALUE:   4.621935
+------------------------------------------------------
+RANK:   5
+TITLE:   tap on icon starts google maps activity but route is not displayed
+Rel_VALUE:   4.571717
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 114 query is ---F---
+:::INFO:::original_query---§¯§Ö §â§Ñ§Ò§à§Ñ§Ö§ä wrap_content §Ó GridLayoutManager
+:::INFO:::translated---not works wrap _ content in GridLayoutManager
+:::INFO:::translated---not works wrap _ content in GridLayoutManager
+:::INFO:::input query terms list is as following
+['works', 'wrap', '_', 'content', 'gridlayoutmanager']
+:::INFO:::start matching
+:::INFO:::115 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Wrap_content displays text when layout_weight=&quot;0&quot; but replacing wrap with dp values is causing content to disappear. Why?
+Rel_VALUE:   3.118708
+------------------------------------------------------
+RANK:   2
+TITLE:   Horizontal RecyclerView height wrap content not working
+Rel_VALUE:   3.077084
+------------------------------------------------------
+RANK:   3
+TITLE:   in gridview adapter class imageview set wrap content the images are blink while running in android?
+Rel_VALUE:   3.058493
+------------------------------------------------------
+RANK:   4
+TITLE:   get height of layout that is set to wrap content
+Rel_VALUE:   3.055346
+------------------------------------------------------
+RANK:   5
+TITLE:   Child of Constraint layout in scrollview - fill available space or wrap content
+Rel_VALUE:   3.051827
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 115 query is ---F---
+:::INFO:::original_query---android viewpager §Ó§í§Ý§Ö§ä §á§â§Ú §ã§Ü§â§à§Ý§Ý§Ö
+:::INFO:::translated---android viewpager flight in §ã§Ü§â§à§Ý§Ý§Ö
+:::INFO:::translated---android viewpager flight in §ã§Ü§â§à§Ý§Ý§Ö
+:::INFO:::input query terms list is as following
+['android', 'viewpager', 'flight', '§ã§Ü§â§à§Ý§Ý§Ö']
+:::INFO:::start matching
+:::INFO:::116 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Multiple video players in viewpager in android
+Rel_VALUE:   2.414460
+------------------------------------------------------
+RANK:   2
+TITLE:   How to find Google map flight mode android
+Rel_VALUE:   2.317154
+------------------------------------------------------
+RANK:   3
+TITLE:   Change the truck color of a listview in android
+Rel_VALUE:   2.293765
+------------------------------------------------------
+RANK:   4
+TITLE:   card flight phonegap plugin android
+Rel_VALUE:   2.287851
+------------------------------------------------------
+RANK:   5
+TITLE:   android - activity with viewpager and fragments does not resume the potrait layout when rotating the device. Only on Huawei smartphones
+Rel_VALUE:   2.287267
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 116 query is ---F---
+:::INFO:::original_query---PreferenceFragmentCompat - Must specify preferenceTheme in theme
+:::INFO:::translated---PreferenceFragmentCompat - must specify preferenceTheme in theme
+:::INFO:::translated---PreferenceFragmentCompat - must specify preferenceTheme in theme
+:::INFO:::input query terms list is as following
+['preferencefragmentcompat', 'must', 'specify', 'preferencetheme', 'theme']
+:::INFO:::start matching
+:::INFO:::117 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   custom theme You must use Theme.Sherlock, Theme.Sherlock.Light, Theme.Sherlock.Light.DarkActionBar, or a derivative
+Rel_VALUE:   2.620290
+------------------------------------------------------
+RANK:   2
+TITLE:   _HoloActivity$HoloThemeException: You must apply Holo.Theme, Holo.Theme.Light or Holo.Theme.Light.DarkActionBar theme
+Rel_VALUE:   2.581947
+------------------------------------------------------
+RANK:   3
+TITLE:   If I set theme of activity so the popup of that activity should not change ,Is this possible?
+Rel_VALUE:   2.546332
+------------------------------------------------------
+RANK:   4
+TITLE:   Android Studio: You must specify a path to Genymotion folder to use this feature
+Rel_VALUE:   2.418238
+------------------------------------------------------
+RANK:   5
+TITLE:   Do I need to specify the theme for each activity in the AndroidManifest.xml
+Rel_VALUE:   2.399572
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 117 query is ---F---
+:::INFO:::original_query---§¡§Ý§î§ä§Ö§â§ß§Ñ§ä§Ú§Ó§Ñ ADM
+:::INFO:::translated---alternative adm
+:::INFO:::translated---alternative adm
+:::INFO:::input query terms list is as following
+['alternative', 'adm']
+:::INFO:::start matching
+:::INFO:::118 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android Data Binding for alternative layouts declares differing root layout as View
+Rel_VALUE:   1.352894
+------------------------------------------------------
+RANK:   2
+TITLE:   How do you specify an alternative folder to the asset folder at build time
+Rel_VALUE:   1.349713
+------------------------------------------------------
+RANK:   3
+TITLE:   Android copy image from gallery folder onto SD Card alternative folder
+Rel_VALUE:   1.349713
+------------------------------------------------------
+RANK:   4
+TITLE:   Android multi language support - alternative to adding multiple values folder
+Rel_VALUE:   1.349713
+------------------------------------------------------
+RANK:   5
+TITLE:   android WebView alternative for webapps
+Rel_VALUE:   1.337332
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 118 query is ---F---
+:::INFO:::original_query---React Native: SDK directory does not exist
+:::INFO:::translated---React native: sdk directory does not exist
+:::INFO:::translated---React native: sdk directory does not exist
+:::INFO:::input query terms list is as following
+['react', 'native:', 'sdk', 'directory', 'exist']
+:::INFO:::start matching
+:::INFO:::119 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Checking dir exist and dir contain won't work on dropbox api
+Rel_VALUE:   2.925076
+------------------------------------------------------
+RANK:   2
+TITLE:   Error:(25, 23) error: package org.apache.http does not exist after updating sdk tools to 23.0.0
+Rel_VALUE:   2.853150
+------------------------------------------------------
+RANK:   3
+TITLE:   export fails to properly expose android sdk directory
+Rel_VALUE:   2.818050
+------------------------------------------------------
+RANK:   4
+TITLE:   Getting cannot resolve symbol error for snich sdk,sinch-android-rtc-VIDEO-SNAPSHOT is exist in libs folder
+Rel_VALUE:   2.797547
+------------------------------------------------------
+RANK:   5
+TITLE:   Error:An error occurred configuring project ':app'. &gt; The SDK directory does not exist
+Rel_VALUE:   2.779407
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 119 query is ---F---
+:::INFO:::original_query---Https §Ù§Ñ§á§â§à§ã§í §é§Ö§â§Ö§Ù Volley Android
+:::INFO:::translated---Https requests through a volley of android
+:::INFO:::translated---Https requests through a volley of android
+:::INFO:::input query terms list is as following
+['https', 'requests', 'volley', 'android']
+:::INFO:::start matching
+:::INFO:::120 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   best approach to make periodically http requests from android (using volley library)
+Rel_VALUE:   3.737253
+------------------------------------------------------
+RANK:   2
+TITLE:   android volley caching asynchronous requests - How te get url of the request in ResponseListener
+Rel_VALUE:   3.575596
+------------------------------------------------------
+RANK:   3
+TITLE:   Getting &quot;javax.net.ssl.SSLHandshakeException: Connection closed by peer&quot; when tried with https request from android app using loopj
+Rel_VALUE:   3.569876
+------------------------------------------------------
+RANK:   4
+TITLE:   Unable to resolve host name exception during sending http request using android volley through my app to AWS
+Rel_VALUE:   3.492345
+------------------------------------------------------
+RANK:   5
+TITLE:   android volley simple http request
+Rel_VALUE:   3.492345
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 120 query is ---F---
+:::INFO:::original_query---§³§Ü§â§í§ä§î child view §Ó CoordinatorLayout §ã BottomSheetBehavior
+:::INFO:::translated---to hide the child view in CoordinatorLayout with BottomSheetBehavior
+:::INFO:::translated---to hide the child view in CoordinatorLayout with BottomSheetBehavior
+:::INFO:::input query terms list is as following
+['hide', 'child', 'view', 'coordinatorlayout', 'bottomsheetbehavior']
+:::INFO:::start matching
+:::INFO:::121 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   hide devider between child and parent view of expandable list
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Android relative layout and hide a child that other view defines to be above it
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   hide single child view item based on click in expandable list
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   Adding child view at runtime causes it to hide the toolbar
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Add gesture listener to child view without hiding parent's touch event
+Rel_VALUE:   2.686549
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 121 query is ---F---
+:::INFO:::original_query---Failed to load ad: 3 - §±§à§é§Ö§Þ§å §ã§ã§í§Ý§Ü§Ú §Ü§à§ä§à§â§í§Ö §á§â§à§Ô§â§å§Ø§Ñ§ð§ä§ã§ñ §ß§Ñ iOS §ß§Ö §â§Ñ§Ò§à§ä§Ñ§ð§ä §ß§Ñ Android?
+:::INFO:::translated---failed to load ad: 3 why references which §á§â§à§Ô§â§å§Ø§Ñ§ð§ä§ã§ñ on iOS don't work on android?
+:::INFO:::translated---failed to load ad: 3 why references which §á§â§à§Ô§â§å§Ø§Ñ§ð§ä§ã§ñ on iOS don't work on android?
+:::INFO:::input query terms list is as following
+['failed', 'load', 'ad:', '3', 'references', '§á§â§à§Ô§â§å§Ø§Ñ§ð§ä§ã§ñ', 'ios', "'", 'work', 'android', '?']
+:::INFO:::start matching
+:::INFO:::122 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Wrapper properties fail to load while building android apk, ionic 2 project
+Rel_VALUE:   5.203245
+------------------------------------------------------
+RANK:   2
+TITLE:   Ionic 2 App fails to load on production build for android version 4.4.2 and below
+Rel_VALUE:   4.758277
+------------------------------------------------------
+RANK:   3
+TITLE:   Ionic 3 loading local json files fails on android
+Rel_VALUE:   4.600045
+------------------------------------------------------
+RANK:   4
+TITLE:   eclipse android - adding references does not work anymore
+Rel_VALUE:   4.475009
+------------------------------------------------------
+RANK:   5
+TITLE:   ActivityInstrumentationTestCase2 and android library project: resources fail to load
+Rel_VALUE:   4.466208
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 122 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §ã§Ô§Ö§ß§Ö§â§Ú§â§à§Ó§Ñ§ä§î Sign keyHash §Õ§Ý§ñ Google LogIn
+:::INFO:::translated---how to generate sign keyHash for google LogIn
+:::INFO:::translated---how to generate sign keyHash for google LogIn
+:::INFO:::input query terms list is as following
+['generate', 'sign', 'keyhash', 'google', 'login']
+:::INFO:::start matching
+:::INFO:::123 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How properly generate fb keyhash to make login works on .apk file
+Rel_VALUE:   3.919887
+------------------------------------------------------
+RANK:   2
+TITLE:   Remove Google project with OAuth client ID in google and add keystore SHA-1 in Firebase project - does it conflict with google sign in?
+Rel_VALUE:   3.560292
+------------------------------------------------------
+RANK:   3
+TITLE:   can't generate keyhash facebook
+Rel_VALUE:   3.510384
+------------------------------------------------------
+RANK:   4
+TITLE:   how to get keystore file from google play to sign my app to publish
+Rel_VALUE:   3.491685
+------------------------------------------------------
+RANK:   5
+TITLE:   Is it possible to generate session token from server while login using facebook from android app
+Rel_VALUE:   3.442768
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 123 query is ---F---
+:::INFO:::original_query---GCM tmpClient.open(url) - &quot;open&quot; §á§à§Õ§ã§Ó§Ö§é§Ú§Ó§Ñ§Ö§ä §Ü§â§Ñ§ã§ß§í§Þ
+:::INFO:::translated---GCM tmpClient.open (url) - & quot; open & quot; highlights the red
+:::INFO:::translated---GCM tmpClient.open (url) - & quot; open & quot; highlights the red
+:::INFO:::input query terms list is as following
+['gcm', 'tmpclient', '.', 'open', '(', 'url', ')', '&', 'quot', 'open', '&', 'quot', 'highlights', 'red']
+:::INFO:::start matching
+:::INFO:::124 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android 7.0 shows blank screen when trying to open url in webview
+Rel_VALUE:   4.941508
+------------------------------------------------------
+RANK:   2
+TITLE:   Deep linking opens the app but does not open the exact url
+Rel_VALUE:   4.903500
+------------------------------------------------------
+RANK:   3
+TITLE:   Android - Cannot open browser Intent from the url string
+Rel_VALUE:   4.885916
+------------------------------------------------------
+RANK:   4
+TITLE:   Calling url to open by text string
+Rel_VALUE:   4.883245
+------------------------------------------------------
+RANK:   5
+TITLE:   i want to play a video from url but i couldn't play it log cat errors says MediaPlayer: Couldn't open file on client side, trying server side
+Rel_VALUE:   4.875368
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 124 query is ---F---
+:::INFO:::original_query---§°§ê§Ú§Ò§Ü§Ñ §á§â§Ú §Ó§í§Ù§à§Ó§Ö §æ§å§ß§Ü§è§Ú§Ú .replace Android &quot; wrong second argument type&quot;
+:::INFO:::translated---error when calling the function.replace android & quot; wrong second argument type & quot;
+:::INFO:::translated---error when calling the function.replace android & quot; wrong second argument type & quot;
+:::INFO:::input query terms list is as following
+['error', 'calling', 'function', '.', 'replace', 'android', '&', 'quot', 'wrong', 'second', 'argument', 'type', '&', 'quot']
+:::INFO:::start matching
+:::INFO:::125 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to show error when I put wrong value in string to array android
+Rel_VALUE:   6.425366
+------------------------------------------------------
+RANK:   2
+TITLE:   The method get(String) is undefined for the type String error in adding the codes to the filter class of adapter in android
+Rel_VALUE:   6.389364
+------------------------------------------------------
+RANK:   3
+TITLE:   android notification pendinintent issue wrong 3rd argument type
+Rel_VALUE:   6.314179
+------------------------------------------------------
+RANK:   4
+TITLE:   How to call a function with a View type parameter in another class in android
+Rel_VALUE:   6.174977
+------------------------------------------------------
+RANK:   5
+TITLE:   android - error onListItemClick , The method onListItemClick(ListView, View, int, long) is undefined for the type Fragment
+Rel_VALUE:   6.111422
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 125 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §à§Ò§ß§à§Ó§Ú§ä§î §Õ§Ñ§ß§ß§í§Ö §Ó RecyclerView §á§à§ã§Ý§Ö §â§Ö§Õ§Ñ§Ü§ä§Ú§â§à§Ó§Ñ§ß§Ú§ñ §Ö§Ô§à §Ñ§Û§ä§Ö§Þ§Ñ
+:::INFO:::translated---how to update the data in the RecyclerView after editing it §Ñ§Û§ä§Ö§Þ§Ñ
+:::INFO:::translated---how to update the data in the RecyclerView after editing it §Ñ§Û§ä§Ö§Þ§Ñ
+:::INFO:::input query terms list is as following
+['update', 'data', 'recyclerview', 'editing', '§Ñ§Û§ä§Ö§Þ§Ñ']
+:::INFO:::start matching
+:::INFO:::126 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   how to update recyclerview after pulling data from server?
+Rel_VALUE:   3.343771
+------------------------------------------------------
+RANK:   2
+TITLE:   Android: Recyclerview adapter inside recyclerview adapter. How to update data of inside recylcerview?
+Rel_VALUE:   3.343771
+------------------------------------------------------
+RANK:   3
+TITLE:   How to update a recyclerview when new data sa been added in Sqlite database
+Rel_VALUE:   3.343771
+------------------------------------------------------
+RANK:   4
+TITLE:   How to update listview after changing data in JSON?
+Rel_VALUE:   3.286318
+------------------------------------------------------
+RANK:   5
+TITLE:   loading data from service and update listview
+Rel_VALUE:   3.272218
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 126 query is ---F---
+:::INFO:::original_query---§°§ê§Ú§Ò§Ü§Ñ §Ü§à§Þ§á§Ú§Ý§ñ§è§Ú§Ú java
+:::INFO:::translated---java compilation error
+:::INFO:::translated---java compilation error
+:::INFO:::input query terms list is as following
+['java', 'compilation', 'error']
+:::INFO:::start matching
+:::INFO:::127 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android Studio Gradle 3.0 error when compiling java project
+Rel_VALUE:   2.657314
+------------------------------------------------------
+RANK:   2
+TITLE:   Cocos2dx c++ compilation error for Android - 'rapidjson' does not name a type
+Rel_VALUE:   2.631587
+------------------------------------------------------
+RANK:   3
+TITLE:   toast message compile error inside android java method
+Rel_VALUE:   2.623848
+------------------------------------------------------
+RANK:   4
+TITLE:   compile android app in eclipse ignoring java error
+Rel_VALUE:   2.623848
+------------------------------------------------------
+RANK:   5
+TITLE:   Converting objective-c code to java gives compile error
+Rel_VALUE:   2.623848
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 127 query is ---F---
+:::INFO:::original_query---android 6.0.1 SYSTEM_ALERT_WINDOW
+:::INFO:::translated---android 6.0.1 system _ ALERT _ window
+:::INFO:::translated---android 6.0.1 system _ ALERT _ window
+:::INFO:::input query terms list is as following
+['android', '6', '.', '0', '.', '1', 'system', '_', 'alert', '_', 'window']
+:::INFO:::start matching
+:::INFO:::128 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   tried to import VLC android source code . gives this error Error:CreateProcess error=2, The system cannot find the file specified
+Rel_VALUE:   6.795762
+------------------------------------------------------
+RANK:   2
+TITLE:   implementing alert dialog in android api 11 or +
+Rel_VALUE:   6.793046
+------------------------------------------------------
+RANK:   3
+TITLE:   While using network service discovery Registration Fails with error code 0 .
+Rel_VALUE:   6.701645
+------------------------------------------------------
+RANK:   4
+TITLE:   How to add a &quot;Loading . . .&quot;  dialog to an android app
+Rel_VALUE:   6.540393
+------------------------------------------------------
+RANK:   5
+TITLE:   android SetSwapInterval() interval: 1 not set - when try to open new window
+Rel_VALUE:   6.512664
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 128 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§à§Ý§å§é§Ú§ä§î §æ§Ñ§Û§Ý §é§Ö§â§Ö§Ù ACTION_GET_CONTENT?
+:::INFO:::translated---how to get the file through the action _ get _ CONTENT?
+:::INFO:::translated---how to get the file through the action _ get _ CONTENT?
+:::INFO:::input query terms list is as following
+['get', 'file', 'action', '_', 'get', '_', 'content', '?']
+:::INFO:::start matching
+:::INFO:::129 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   getting content uri on activity result not able to get the file path
+Rel_VALUE:   5.032893
+------------------------------------------------------
+RANK:   2
+TITLE:   how to add and get the mutipart form data and some string data from android to servlet file
+Rel_VALUE:   4.989173
+------------------------------------------------------
+RANK:   3
+TITLE:   How can I get my app to read external text file correctly? Only showing weird characters and diamonds
+Rel_VALUE:   4.943655
+------------------------------------------------------
+RANK:   4
+TITLE:   Android _ How to get the position of marker on google map v2 and match it to the array of Latlng
+Rel_VALUE:   4.940582
+------------------------------------------------------
+RANK:   5
+TITLE:   how to get image file name using view pager in android
+Rel_VALUE:   4.889774
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 129 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §â§Ñ§Ù§â§Ö§ê§Ú§ä§î §³++11 §Ó Android Studio
+:::INFO:::translated---how to c + + 11 in android studio
+:::INFO:::translated---how to c + + 11 in android studio
+:::INFO:::input query terms list is as following
+['c', '+', '+', '11', 'android', 'studio']
+:::INFO:::start matching
+:::INFO:::130 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to connect emulator to visual studio 2012 + android app development
+Rel_VALUE:   4.671903
+------------------------------------------------------
+RANK:   2
+TITLE:   gradle + ndkbuild + android studio 2.2 how to set supported ABIs?
+Rel_VALUE:   4.606410
+------------------------------------------------------
+RANK:   3
+TITLE:   several import errors in android studio + unable to compile
+Rel_VALUE:   4.569353
+------------------------------------------------------
+RANK:   4
+TITLE:   android studio 0.4.2 + gradle + Android Source code
+Rel_VALUE:   4.564929
+------------------------------------------------------
+RANK:   5
+TITLE:   android studio - R not resolved + Clean project won't work
+Rel_VALUE:   4.564929
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 130 query is ---F---
+:::INFO:::original_query---WebView + §æ§à§ß§à§Ó§í§Û audio §ã§Ö§â§Ó§Ú§ã §Õ§Ý§ñ §å§Ó§Ö§Õ§à§Þ§Ý§Ö§ß§Ú§Û §à §ã§à§Ò§í§ä§Ú§ñ§ç
+:::INFO:::translated---WebView + background audio service for notifications of events
+:::INFO:::translated---WebView + background audio service for notifications of events
+:::INFO:::input query terms list is as following
+['webview', '+', 'background', 'audio', 'service', 'notifications', 'events']
+:::INFO:::start matching
+:::INFO:::131 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Delphi XE7 + FireMonkey + Android. The application is not in the background to display notifications to the user
+Rel_VALUE:   5.067205
+------------------------------------------------------
+RANK:   2
+TITLE:   Scheduling local notifications from the background (Ionic + ngCordova)
+Rel_VALUE:   4.773844
+------------------------------------------------------
+RANK:   3
+TITLE:   how to make a service that runs in background and send notifications in Android
+Rel_VALUE:   4.753273
+------------------------------------------------------
+RANK:   4
+TITLE:   Handle notifications in background service or use GCM(or other push notification service)
+Rel_VALUE:   4.656845
+------------------------------------------------------
+RANK:   5
+TITLE:   android background service catch events from gps navigation application
+Rel_VALUE:   4.653865
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 131 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ù§Ñ§æ§Ú§Ü§ã§Ú§â§à§Ó§Ñ§ä§î §Ú§Ü§à§ß§Ü§å §Ó Toolbar?
+:::INFO:::translated---as the lock icon in the toolbar?
+:::INFO:::translated---as the lock icon in the toolbar?
+:::INFO:::input query terms list is as following
+['lock', 'icon', 'toolbar', '?']
+:::INFO:::start matching
+:::INFO:::132 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Android studio lock icon on files
+Rel_VALUE:   2.652656
+------------------------------------------------------
+RANK:   2
+TITLE:   Center lock icon indicator for ViewPager
+Rel_VALUE:   2.652656
+------------------------------------------------------
+RANK:   3
+TITLE:   Android screen lock when just click on app icon
+Rel_VALUE:   2.652656
+------------------------------------------------------
+RANK:   4
+TITLE:   Android L lock screen notification icon doesn't have gray circle background
+Rel_VALUE:   2.652656
+------------------------------------------------------
+RANK:   5
+TITLE:   Android: How to get my application's icon on lock screen
+Rel_VALUE:   2.652656
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 132 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §Ú§Ù§Þ§Ö§ß§Ú§ä§î §à§ä§ã§ä§å§á §Ó Drawer menu
+:::INFO:::translated---how to change the indentation in the Drawer menu
+:::INFO:::translated---how to change the indentation in the Drawer menu
+:::INFO:::input query terms list is as following
+['change', 'indentation', 'drawer', 'menu']
+:::INFO:::start matching
+:::INFO:::133 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to change the indentation of sub menu items in a NavigationView?
+Rel_VALUE:   3.644152
+------------------------------------------------------
+RANK:   2
+TITLE:   navigation drawer menu items should not change colour when clicked
+Rel_VALUE:   3.341287
+------------------------------------------------------
+RANK:   3
+TITLE:   How to change text color of a custom view list item for menu drawer when selected - DrawerLayout
+Rel_VALUE:   3.323934
+------------------------------------------------------
+RANK:   4
+TITLE:   How to change color in Android side menu drawer
+Rel_VALUE:   3.323934
+------------------------------------------------------
+RANK:   5
+TITLE:   How to change the black color in Android dialogs or drawer menu
+Rel_VALUE:   3.323934
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 133 query is ---F---
+:::INFO:::original_query---§³§Ü§â§í§ä§Ú§Ö/§á§à§Ü§Ñ§Ù LinearLayout §Ó§à §Ó§â§Ö§Þ§ñ §á§â§à§Ü§â§å§ä§Ü§Ú RecyclerView
+:::INFO:::translated---hide / show LinearLayout during scrolling RecyclerView
+:::INFO:::translated---hide / show LinearLayout during scrolling RecyclerView
+:::INFO:::input query terms list is as following
+['hide', '/', 'show', 'linearlayout', 'scrolling', 'recyclerview']
+:::INFO:::start matching
+:::INFO:::134 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to hide and show a layout on scrolling down a scroll view in Android?
+Rel_VALUE:   4.257194
+------------------------------------------------------
+RANK:   2
+TITLE:   Need to show one CardView at centre while scrolling horizontally in recyclerview android
+Rel_VALUE:   4.245410
+------------------------------------------------------
+RANK:   3
+TITLE:   How to hide action bar on recyclerview scrolling
+Rel_VALUE:   4.245410
+------------------------------------------------------
+RANK:   4
+TITLE:   hide toolbar when scrolling recyclerview
+Rel_VALUE:   4.245410
+------------------------------------------------------
+RANK:   5
+TITLE:   How to hide toolbar fully under status bar when scrolling recyclerview
+Rel_VALUE:   4.245410
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 134 query is ---F---
+:::INFO:::original_query---Fragment PvPMap not attached to Activity
+:::INFO:::translated---fragment PvPMap not attached to activity
+:::INFO:::translated---fragment PvPMap not attached to activity
+:::INFO:::input query terms list is as following
+['fragment', 'pvpmap', 'attached', 'activity']
+:::INFO:::start matching
+:::INFO:::135 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   How to resolve fragment not attached to activity in android?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   2
+TITLE:   Verify in which activity is a fragment attached
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   3
+TITLE:   How to handle back pressed when activity is attached to different fragment based on SharedPrefrence?
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   4
+TITLE:   IllegalStateException fragment not attached to activity in onPostExecute after rotation but onDetach not called
+Rel_VALUE:   3.000000
+------------------------------------------------------
+RANK:   5
+TITLE:   Android - Fragment not attached to activity
+Rel_VALUE:   2.741418
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 135 query is ---F---
+:::INFO:::original_query---§°§ê§Ú§Ò§Ü§Ñ §á§â§Ú §â§Ö§Ô§Ú§ã§ä§â§Ñ§è§Ú§Ú §á§â§Ú§Ý§à§Ø§Ö§ß§Ú§ñ §Ó Telegram
+:::INFO:::translated---an error in the registration application Telegram
+:::INFO:::translated---an error in the registration application Telegram
+:::INFO:::input query terms list is as following
+['error', 'registration', 'application', 'telegram']
+:::INFO:::start matching
+:::INFO:::136 query have been checked $$$$$$$$$$$$$$$$$$$$$
+RANK:   1
+TITLE:   Google cloud messaging registration giving null error message in android app
+Rel_VALUE:   3.449926
+------------------------------------------------------
+RANK:   2
+TITLE:   client registration error while running app
+Rel_VALUE:   3.341914
+------------------------------------------------------
+RANK:   3
+TITLE:   Android application login and registration error
+Rel_VALUE:   3.242294
+------------------------------------------------------
+RANK:   4
+TITLE:   Android registration and login app error
+Rel_VALUE:   3.220667
+------------------------------------------------------
+RANK:   5
+TITLE:   Why BROADCAST receiver registration causing error. My app just crashing because of this &quot;android:exported=&quot;true&quot;
+Rel_VALUE:   3.171658
+------------------------------------------------------
+:::RESULT OUUUUUUUUUUUUUUUT::: 136 query is ---F---
+:::INFO:::original_query---§¬§Ñ§Ü §á§â§Ñ§Ó§Ú§Ý§î§ß§à §á§Ö§â§Ö§ã§à§Ù§Õ§Ñ§ä§î §Ù§Ñ§Ü§ï§ê§Ú§â§à§Ó§Ñ§ß§ß§í§Û Observable §Ú§ã§á§à§Ý§î§Ù§å§Ö§Þ§í§Û §Ó§Þ§Ö§ã§ä§Ö §ã Retrofit?
+:::INFO:::translated---how to re §Ù§Ñ§Ü§ï§ê§Ú§â§à§Ó§Ñ§ß§ß§í§Û Observable used together with Retrofit?
+:::INFO:::translated---how to re §Ù§Ñ§Ü§ï§ê§Ú§â§à§Ó§Ñ§ß§ß§í§Û Observable used together with Retrofit?
+:::INFO:::input query terms list is as following
+['re', '§Ù§Ñ§Ü§ï§ê§Ú§â§à§Ó§Ñ§ß§ß§í§Û', 'observable', 'used', 'together', 'retrofit', '?']
+:::INFO:::start matching
+
